@@ -11,6 +11,8 @@ title: Emma's Balcony Flower Garden
 
 Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower garden. What started with a handful of seeds, some bulbs, and a couple of railing planters is growing into a full balcony oasis — more pots, more flowers, more color all summer long.
 
+![Emma's seed and bulb collection — the building blocks of a beautiful balcony](pictures/02-seeds-and-bulbs-lineup.jpg)
+
 ## What's Growing
 
 | Plant | Type | Bloom Period | Status |
@@ -26,12 +28,15 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
 | Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
+![Brodiaea bulbs placed in the planter, ready to become summer blooms](pictures/05-brodiaea-bulbs-placed.jpg)
+
 ## Project Pages
 
 - [Garden Plan](GARDEN-PLAN) — Full planting schedule, dates, to-do lists, and shopping needs
 - [Progress Report](PROGRESS-REPORT) — What's been done so far — session logs and milestones
 - [Future Ideas](FUTURE-IDEAS) — Fun future expansions and things to try
 - [Gardening Research](GARDENING-RESEARCH) — In-depth growing guides, tips, videos, and tool recommendations
+- [Photo Gallery](GALLERY) — The visual journey from supplies to soil to planted bulbs
 
 ## Quick Facts
 

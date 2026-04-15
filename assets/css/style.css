@@ -484,9 +484,48 @@ body {
 /* ---- Images ---- */
 .page-content img {
   max-width: 100%;
-  border-radius: 12px;
-  box-shadow: 0 2px 12px var(--shadow);
-  margin: 1rem 0;
+  border-radius: 16px;
+  box-shadow:
+    0 4px 20px var(--shadow-strong),
+    0 0 0 3px var(--petal-blush),
+    0 0 0 5px rgba(242, 167, 179, 0.2);
+  margin: 1.5rem auto;
+  display: block;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.page-content img:hover {
+  transform: scale(1.02) rotate(-0.5deg);
+  box-shadow:
+    0 8px 30px var(--shadow-strong),
+    0 0 0 3px var(--petal-pink),
+    0 0 0 6px rgba(231, 111, 138, 0.25);
+}
+
+/* Photo captions — the alt text rendered as a paragraph after an image */
+.page-content p > img {
+  margin-bottom: 0.5rem;
+}
+
+.page-content p > img + br,
+.page-content p > img:only-child {
+  margin-bottom: 0.25rem;
+}
+
+/* Table thumbnails — smaller images inside tables */
+.page-content td img {
+  max-width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px var(--shadow);
+  margin: 0.25rem 0;
+  transition: transform 0.2s ease;
+}
+
+.page-content td img:hover {
+  transform: scale(1.5);
+  box-shadow: 0 8px 24px var(--shadow-strong);
+  position: relative;
+  z-index: 20;
 }
 
 /* ---- Footer ---- */

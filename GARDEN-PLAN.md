@@ -27,6 +27,8 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 ### Week of April 14–20
 
 - [x] **Plant Brodiaea bulbs** in both gray railing planters (8–10 bulbs each, 8–10 cm deep)
+
+![Brodiaea bulbs nestled into the soil — these little guys will be violet-blue stars by June!](pictures/05-brodiaea-bulbs-placed.jpg)
 - [ ] **Buy seed trays** at OBI or Bauhaus
 - [ ] **Start cosmos seeds indoors** — plant 1/4 inch deep in Compo Bio soil, keep moist, sunny windowsill
 - [ ] **Start zinnia seeds indoors** — plant 1/4 inch deep, same method as cosmos
@@ -113,6 +115,8 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [ ] Collect cosmos and zinnia seeds in late August/September for next year!
 
 ---
+
+![The full soil lineup — know your bags! Brown bag = good for flowers, white bag = orchids only!](pictures/01-the-supply-haul.jpg)
 
 ## Soil Guide — What to Use Where
 

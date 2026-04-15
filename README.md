@@ -35,6 +35,7 @@ This is Emma's very first gardening project. The goal is simple: **a colorful, b
 | [Progress Report](PROGRESS-REPORT.md) | What's been done so far — session logs and milestones |
 | [Future Ideas](FUTURE-IDEAS.md) | Fun future expansions and things to try |
 | [Gardening Research](GARDENING-RESEARCH.md) | In-depth growing guides, tips, videos, and tool recommendations |
+| [Photo Gallery](GALLERY.md) | The visual journey from supplies to soil to planted bulbs |
 
 ## Quick Facts
 

@@ -49,6 +49,10 @@ Session ended with Emma ready to get started. The adventure begins!
 
 Emma shared photos of all her supplies. The following were identified and catalogued:
 
+![The full supply haul — three kinds of soil, ready to figure out which ones to actually use](pictures/01-the-supply-haul.jpg)
+
+![Every seed packet and the brodiaea bulbs, spread out on the table like a gardener's game plan](pictures/02-seeds-and-bulbs-lineup.jpg)
+
 **Seeds:**
 - Cosmos (Schmuckkörbchen) — full sun, start indoors, transplant after May 15
 - Zinnia Field Mix — full sun, start indoors, transplant after May 15
@@ -58,6 +62,9 @@ Emma shared photos of all her supplies. The following were identified and catalo
 - Brodiaea Queen Fabiola — 25-pack, plant 8–10 cm deep, blooms June–August
 
 **Supplies identified:**
+
+![The gray railing planters — wavy, sturdy, and about to become the brodiaea's new home](pictures/03-railing-planters-ready.jpg)
+
 - 2 gray railing planters (double hook style)
 - Compo Bio Anzucht- und Krautererde (brown bag) — main seed starting soil
 - Neudorff Kokohumus (coco coir brick) — mix in for better drainage
@@ -70,6 +77,12 @@ Emma shared photos of all her supplies. The following were identified and catalo
 - Emma wants to expand the whole balcony with more pots and flowers over time
 
 **Achievement unlocked: Brodiaea Bulbs Planted!**
+
+![Both planters on the balcony, filled with soil and the pink trowel ready for action](pictures/04-planters-filled-with-soil.jpg)
+
+![Holes dug and waiting — each one a future flower's front door](pictures/06-holes-ready-for-bulbs.jpg)
+
+![The brodiaea bulbs placed on the soil — little golden-brown promises of violet-blue summer blooms](pictures/05-brodiaea-bulbs-placed.jpg)
 
 Both gray railing planters were filled with brodiaea bulbs during this session — approximately 8–10 bulbs per planter, placed 8–10 cm deep. These will bloom June through August.
 
@@ -113,12 +126,16 @@ Each plant to be separated into its own pot with Compo Bio soil.
 
 | Date | Description | Photo |
 |------|-------------|-------|
-| April 15, 2026 | All supplies laid out | *(add photo)* |
-| April 15, 2026 | Brodiaea bulbs planted in railing planters | *(add photo)* |
-| | First sprouts! | *(add photo when it happens!)* |
-| | First bloom! | *(add photo when it happens!)* |
+| April 15, 2026 | The supply haul — soils on the table | ![supplies](pictures/01-the-supply-haul.jpg) |
+| April 15, 2026 | Seeds and bulbs lineup | ![seeds](pictures/02-seeds-and-bulbs-lineup.jpg) |
+| April 15, 2026 | Railing planters unboxed | ![planters](pictures/03-railing-planters-ready.jpg) |
+| April 15, 2026 | Planters filled with soil on the balcony | ![soil](pictures/04-planters-filled-with-soil.jpg) |
+| April 15, 2026 | Brodiaea bulbs placed in planter | ![bulbs](pictures/05-brodiaea-bulbs-placed.jpg) |
+| April 15, 2026 | Planting holes dug and ready | ![holes](pictures/06-holes-ready-for-bulbs.jpg) |
+| | First sprouts! | *(coming soon!)* |
+| | First bloom! | *(coming soon!)* |
 
-> Tip: Take photos regularly! This is a first garden — documenting the journey makes it even more special.
+> See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
