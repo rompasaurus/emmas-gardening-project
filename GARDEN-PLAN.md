@@ -1,3 +1,9 @@
+---
+layout: default
+title: Garden Plan
+permalink: /GARDEN-PLAN
+---
+
 # Garden Plan — Emma's Balcony Flower Garden
 
 **Stuttgart, Germany | Sunny Balcony | Started April 2026**

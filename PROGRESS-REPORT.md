@@ -1,3 +1,9 @@
+---
+layout: default
+title: Progress Report
+permalink: /PROGRESS-REPORT
+---
+
 # Progress Report — Emma's Balcony Flower Garden
 
 **Stuttgart, Germany | Started April 2026**

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Gardening Research
+permalink: /GARDENING-RESEARCH
+---
+
 # Gardening Research — Emma's Balcony Flower Garden
 
 **In-depth growing guides for everything in Emma's garden, plus tools, resources, and inspiration.**

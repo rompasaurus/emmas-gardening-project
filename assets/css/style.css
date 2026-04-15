@@ -1,0 +1,609 @@
+/* ============================================
+   Emma's Garden — Flower-Themed Stylesheet
+   ============================================ */
+
+:root {
+  /* Flower palette */
+  --petal-pink: #f2a7b3;
+  --petal-rose: #e76f8a;
+  --petal-blush: #fce4ec;
+  --lavender: #c9a7eb;
+  --lavender-light: #f3e5f5;
+  --sunflower: #fdd835;
+  --sunflower-light: #fff9c4;
+  --leaf-green: #66bb6a;
+  --leaf-dark: #388e3c;
+  --leaf-light: #e8f5e9;
+  --sky: #e3f2fd;
+  --soil: #5d4037;
+  --soil-light: #efebe9;
+  --cream: #fffdf7;
+  --warm-white: #fefcf6;
+  --text: #3e2723;
+  --text-light: #6d4c41;
+  --text-muted: #8d6e63;
+  --border: #f0e0d6;
+  --shadow: rgba(62, 39, 35, 0.08);
+  --shadow-strong: rgba(62, 39, 35, 0.15);
+}
+
+/* ---- Reset & Base ---- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Lora', 'Georgia', serif;
+  color: var(--text);
+  background: var(--cream);
+  line-height: 1.75;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* ---- Floating Petals Background ---- */
+.flower-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.petal {
+  position: absolute;
+  border-radius: 50% 0 50% 0;
+  opacity: 0.12;
+  animation: float-down linear infinite;
+}
+
+.petal-1 {
+  width: 20px; height: 20px;
+  background: var(--petal-pink);
+  left: 10%; animation-duration: 18s; animation-delay: 0s;
+}
+.petal-2 {
+  width: 15px; height: 15px;
+  background: var(--lavender);
+  left: 25%; animation-duration: 22s; animation-delay: 3s;
+}
+.petal-3 {
+  width: 25px; height: 25px;
+  background: var(--petal-rose);
+  left: 45%; animation-duration: 20s; animation-delay: 6s;
+}
+.petal-4 {
+  width: 12px; height: 12px;
+  background: var(--sunflower);
+  left: 65%; animation-duration: 24s; animation-delay: 2s;
+}
+.petal-5 {
+  width: 18px; height: 18px;
+  background: var(--petal-pink);
+  left: 80%; animation-duration: 19s; animation-delay: 8s;
+}
+.petal-6 {
+  width: 22px; height: 22px;
+  background: var(--lavender);
+  left: 35%; animation-duration: 26s; animation-delay: 4s;
+}
+.petal-7 {
+  width: 14px; height: 14px;
+  background: var(--petal-rose);
+  left: 55%; animation-duration: 21s; animation-delay: 10s;
+}
+.petal-8 {
+  width: 16px; height: 16px;
+  background: var(--sunflower);
+  left: 90%; animation-duration: 23s; animation-delay: 1s;
+}
+
+@keyframes float-down {
+  0% {
+    transform: translateY(-60px) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.12;
+  }
+  90% {
+    opacity: 0.12;
+  }
+  100% {
+    transform: translateY(105vh) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+/* ---- Header ---- */
+.site-header {
+  position: relative;
+  z-index: 10;
+  background: linear-gradient(135deg, var(--petal-blush) 0%, var(--lavender-light) 50%, var(--sunflower-light) 100%);
+  border-bottom: 3px solid var(--petal-pink);
+  text-align: center;
+  padding: 2rem 1rem 0;
+}
+
+.header-inner {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 1rem;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.header-flower {
+  font-size: 2rem;
+  animation: sway 3s ease-in-out infinite;
+}
+
+.header-flower:nth-child(3) {
+  animation-delay: 1.5s;
+}
+
+@keyframes sway {
+  0%, 100% { transform: rotate(-8deg); }
+  50% { transform: rotate(8deg); }
+}
+
+.site-title {
+  font-family: 'Playfair Display', 'Georgia', serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--soil);
+  text-decoration: none;
+  letter-spacing: -0.5px;
+}
+
+.site-title:hover {
+  color: var(--petal-rose);
+}
+
+.site-tagline {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  color: var(--text-light);
+  font-size: 1.1rem;
+  margin-top: 0.25rem;
+}
+
+/* ---- Navigation ---- */
+.site-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin-top: 1rem;
+  padding: 0 1rem;
+}
+
+.nav-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: 20px 20px 0 0;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--text-light);
+  background: rgba(255,255,255,0.5);
+  transition: all 0.25s ease;
+  border: 1px solid transparent;
+  border-bottom: none;
+}
+
+.nav-link:hover {
+  background: rgba(255,255,255,0.85);
+  color: var(--petal-rose);
+  transform: translateY(-2px);
+}
+
+.nav-link.active {
+  background: var(--cream);
+  color: var(--petal-rose);
+  font-weight: 600;
+  border-color: var(--petal-pink);
+  border-bottom-color: var(--cream);
+  position: relative;
+  bottom: -3px;
+  padding-bottom: calc(0.6rem + 3px);
+}
+
+.nav-icon {
+  font-size: 1rem;
+}
+
+/* ---- Main Content ---- */
+.content {
+  position: relative;
+  z-index: 5;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem 4rem;
+}
+
+.page-content {
+  background: var(--warm-white);
+  border-radius: 16px;
+  padding: 3rem 3rem 3.5rem;
+  box-shadow:
+    0 2px 12px var(--shadow),
+    0 0 0 1px var(--border);
+  border: 1px solid var(--border);
+}
+
+/* ---- Typography ---- */
+.page-content h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: var(--soil);
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--petal-blush);
+  position: relative;
+}
+
+.page-content h1::after {
+  content: '\1F33C';
+  position: absolute;
+  right: 0;
+  bottom: -0.6rem;
+  font-size: 1.2rem;
+  background: var(--warm-white);
+  padding: 0 0.5rem;
+}
+
+.page-content h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--leaf-dark);
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--leaf-light);
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.page-content h2::before {
+  content: '\1F33F';
+  position: absolute;
+  left: 0;
+  font-size: 1rem;
+}
+
+.page-content h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--petal-rose);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+.page-content h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-content p {
+  margin-bottom: 1rem;
+  color: var(--text);
+}
+
+.page-content strong {
+  color: var(--soil);
+  font-weight: 600;
+}
+
+.page-content em {
+  color: var(--text-muted);
+}
+
+.page-content a {
+  color: var(--petal-rose);
+  text-decoration: underline;
+  text-decoration-color: var(--petal-pink);
+  text-underline-offset: 2px;
+  transition: all 0.2s ease;
+}
+
+.page-content a:hover {
+  color: var(--leaf-dark);
+  text-decoration-color: var(--leaf-green);
+}
+
+/* ---- Horizontal Rules ---- */
+.page-content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg,
+    transparent,
+    var(--petal-pink) 20%,
+    var(--lavender) 50%,
+    var(--sunflower) 80%,
+    transparent
+  );
+  margin: 2.5rem 0;
+  position: relative;
+}
+
+.page-content hr::after {
+  content: '\1F33A';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--warm-white);
+  padding: 0 0.75rem;
+  font-size: 1.2rem;
+}
+
+/* ---- Lists ---- */
+.page-content ul, .page-content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.page-content li {
+  margin-bottom: 0.4rem;
+  padding-left: 0.25rem;
+}
+
+.page-content ul li::marker {
+  color: var(--petal-rose);
+}
+
+.page-content ol li::marker {
+  color: var(--leaf-dark);
+  font-weight: 600;
+}
+
+/* Checkbox-style task lists */
+.page-content li input[type="checkbox"] {
+  margin-right: 0.5rem;
+  accent-color: var(--leaf-green);
+  width: 1.1em;
+  height: 1.1em;
+}
+
+/* ---- Tables ---- */
+.page-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.5rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 6px var(--shadow);
+  font-size: 0.92rem;
+}
+
+.page-content thead th {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, var(--leaf-dark) 0%, var(--leaf-green) 100%);
+  color: white;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.page-content tbody tr {
+  transition: background 0.2s ease;
+}
+
+.page-content tbody tr:nth-child(even) {
+  background: var(--leaf-light);
+}
+
+.page-content tbody tr:hover {
+  background: var(--sunflower-light);
+}
+
+.page-content td {
+  padding: 0.65rem 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.page-content tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ---- Code Blocks ---- */
+.page-content code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-size: 0.88em;
+  background: var(--soil-light);
+  color: var(--soil);
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+.page-content pre {
+  background: var(--soil);
+  color: var(--sunflower-light);
+  border-radius: 12px;
+  padding: 1.5rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px var(--shadow-strong);
+  border-left: 4px solid var(--leaf-green);
+}
+
+.page-content pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+/* ---- Blockquotes ---- */
+.page-content blockquote {
+  border-left: 4px solid var(--lavender);
+  background: var(--lavender-light);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  border-radius: 0 12px 12px 0;
+  font-style: italic;
+  color: var(--text-light);
+}
+
+.page-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* ---- Images ---- */
+.page-content img {
+  max-width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px var(--shadow);
+  margin: 1rem 0;
+}
+
+/* ---- Footer ---- */
+.site-footer {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding: 2rem 1rem 2.5rem;
+  background: linear-gradient(0deg, var(--leaf-light) 0%, var(--cream) 100%);
+  border-top: 2px solid var(--leaf-light);
+  margin-top: 2rem;
+}
+
+.footer-flowers {
+  font-size: 1.5rem;
+  letter-spacing: 0.5rem;
+  margin-bottom: 1rem;
+  animation: sway 4s ease-in-out infinite;
+}
+
+.footer-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.05rem;
+  color: var(--soil);
+  font-weight: 600;
+}
+
+.footer-sub {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 1.8rem;
+  }
+
+  .site-nav {
+    gap: 0.15rem;
+  }
+
+  .nav-link {
+    font-size: 0.78rem;
+    padding: 0.5rem 0.7rem;
+    border-radius: 12px 12px 0 0;
+  }
+
+  .nav-icon {
+    display: none;
+  }
+
+  .content {
+    padding: 1.5rem 1rem 3rem;
+  }
+
+  .page-content {
+    padding: 1.75rem 1.25rem 2rem;
+    border-radius: 12px;
+  }
+
+  .page-content h1 {
+    font-size: 1.6rem;
+  }
+
+  .page-content h2 {
+    font-size: 1.3rem;
+  }
+
+  .page-content table {
+    font-size: 0.82rem;
+  }
+
+  .page-content td, .page-content thead th {
+    padding: 0.5rem 0.6rem;
+  }
+
+  .footer-flowers {
+    letter-spacing: 0.25rem;
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-flower {
+    font-size: 1.5rem;
+  }
+
+  .site-title {
+    font-size: 1.4rem;
+  }
+
+  .site-tagline {
+    font-size: 0.9rem;
+  }
+
+  .site-nav {
+    gap: 0.1rem;
+  }
+
+  .nav-link {
+    font-size: 0.72rem;
+    padding: 0.4rem 0.55rem;
+  }
+
+  .page-content {
+    padding: 1.25rem 1rem 1.5rem;
+  }
+}
+
+/* ---- Print Styles ---- */
+@media print {
+  .flower-bg, .site-nav, .footer-flowers { display: none; }
+  .site-header { background: none; border-bottom: 2px solid #333; }
+  .page-content { box-shadow: none; border: none; padding: 0; }
+  body { background: white; }
+}

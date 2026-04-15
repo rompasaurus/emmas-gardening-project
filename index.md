@@ -28,10 +28,10 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ## Project Pages
 
-- [Garden Plan](GARDEN-PLAN.md) — Full planting schedule, dates, to-do lists, and shopping needs
-- [Progress Report](PROGRESS-REPORT.md) — What's been done so far — session logs and milestones
-- [Future Ideas](FUTURE-IDEAS.md) — Fun future expansions and things to try
-- [Gardening Research](GARDENING-RESEARCH.md) — In-depth growing guides, tips, videos, and tool recommendations
+- [Garden Plan](GARDEN-PLAN) — Full planting schedule, dates, to-do lists, and shopping needs
+- [Progress Report](PROGRESS-REPORT) — What's been done so far — session logs and milestones
+- [Future Ideas](FUTURE-IDEAS) — Fun future expansions and things to try
+- [Gardening Research](GARDENING-RESEARCH) — In-depth growing guides, tips, videos, and tool recommendations
 
 ## Quick Facts
 

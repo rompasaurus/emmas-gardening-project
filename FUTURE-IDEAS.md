@@ -1,3 +1,9 @@
+---
+layout: default
+title: Future Ideas
+permalink: /FUTURE-IDEAS
+---
+
 # Future Ideas — Emma's Balcony Flower Garden
 
 **Fun things to try as the garden grows!**
