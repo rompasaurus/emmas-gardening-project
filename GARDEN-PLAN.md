@@ -29,10 +29,10 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Plant Brodiaea bulbs** in both gray railing planters (8–10 bulbs each, 8–10 cm deep)
 
 ![Brodiaea bulbs nestled into the soil — these little guys will be violet-blue stars by June!](pictures/05-brodiaea-bulbs-placed.jpg)
-- [ ] **Buy seed trays** at OBI or Bauhaus
-- [ ] **Start cosmos seeds indoors** — plant 1/4 inch deep in Compo Bio soil, keep moist, sunny windowsill
-- [ ] **Start zinnia seeds indoors** — plant 1/4 inch deep, same method as cosmos
-- [ ] **Start lavender seeds indoors** — surface sow (barely cover), mist gently, be very patient (2–4 weeks to germinate)
+- [x] **Buy seed trays** at OBI or Bauhaus — got an 18-cell tray with humidity lid!
+- [x] **Start cosmos seeds indoors** (9 cells) — sown ~1cm deep in Compo Bio soil, misted, lid on, windowsill
+- [x] **Start zinnia seeds indoors** (9 cells) — sown ~1cm deep, same method as cosmos
+- [ ] ~~**Start lavender seeds indoors**~~ — **Postponed to next season.** Needs cold stratification and timing is too tight before May 15. Seeds saved for future use. Consider buying a starter plant instead.
 - [ ] **Repot gift arrangement** — separate each plant into its own pot:
   - [ ] Daffodils
   - [ ] Ranunculus
@@ -43,10 +43,12 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 ### Week of April 21–27
 
-- [ ] Check seed germination — cosmos and zinnias should sprout in 7–10 days
-- [ ] Keep lavender moist — no sprouts yet is normal!
+- [ ] Check seed germination — cosmos and zinnias should sprout in 5–10 days (sown April 16)
+- [ ] Keep seed tray moist — spray bottle daily, keep humidity lid on until sprouts appear
+- [ ] Remove humidity lid once first sprouts emerge — they need air circulation
 - [ ] Water brodiaea only when top 2 cm of soil is dry
-- [ ] Water repotted gift plants regularly
+- [ ] Receive new brown Compo soil order
+- [ ] Repot gift arrangement once new soil arrives
 
 ### Shopping List — April
 

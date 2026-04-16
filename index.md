@@ -18,9 +18,9 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Plant | Type | Bloom Period | Status |
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted |
-| Cosmos (Schmuckkörbchen) | Seeds | Summer - Fall | Starting indoors |
-| Zinnia (Field Mix) | Seeds | Summer - Fall | Starting indoors |
-| Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Starting indoors |
+| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16! |
+| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16! |
+| Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 | Daffodils | Gift arrangement | Spring | Needs repotting |
 | Ranunculus | Gift arrangement | Spring | Needs repotting |
 | Pansies | Gift arrangement | Spring - Summer | Needs repotting |
@@ -28,7 +28,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
 | Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
-![Brodiaea bulbs placed in the planter, ready to become summer blooms](pictures/05-brodiaea-bulbs-placed.jpg)
+![The seed tray on the windowsill — 9 cosmos and 9 zinnias sown and waiting to sprout!](pictures/09-tray-on-windowsill.jpg)
+
+## Latest Update — April 16, 2026
+
+> Cosmos and zinnia seeds are officially in the ground! An 18-cell seed tray is sitting on the windowsill with a humidity lid, soaking up the light. First sprouts expected around April 21–26. Lavender has been wisely postponed to next season — it needs cold stratification and the timing was too tight. More soil is on order for repotting the gift arrangement. The garden is growing!
 
 ## Project Pages
 

@@ -17,8 +17,9 @@ permalink: /PROGRESS-REPORT
 | April 14, 2026 | First-ever gardening session — learned the basics | Done |
 | April 15, 2026 | Full project planned — all supplies inventoried | Done |
 | April 15, 2026 | Brodiaea bulbs planted in both railing planters | Done |
-| April 2026 | Buy seed trays and start seeds indoors | Pending |
-| April 2026 | Repot gift flower arrangement | Pending |
+| April 16, 2026 | Seed tray purchased, cosmos & zinnias sown indoors | Done |
+| April 16, 2026 | Lavender postponed to next season | Done (decision) |
+| April 2026 | Receive new Compo soil + repot gift arrangement | Pending |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -100,6 +101,36 @@ Each plant to be separated into its own pot with Compo Bio soil.
 
 ---
 
+### Session 3 — April 16, 2026 — "Seeds In the Ground!"
+
+**The first seeds are officially planted — this garden is really happening!**
+
+Michael helped Emma set up the seed starting station today. A brand new **18-cell seed tray** was unboxed — it comes in three sections of six cells each, with a clear plastic humidity lid to keep things warm and moist while the seeds germinate.
+
+![The full sowing station — 18-cell tray filled with soil, seed packets open, scissors and trowels at the ready. This is what Day 2 looks like!](pictures/07-seed-tray-sowing-station.jpg)
+
+**The plan:** 9 cells for cosmos, 9 cells for zinnias. A clean 50/50 split.
+
+**Sowing process:**
+1. Filled all 18 cells with brown Compo Bio soil — first fill was too shallow, so they topped up to about 1 cm from the rim
+2. Light press to settle the soil (not packed hard — roots need room to breathe!)
+3. Made a small ~1 cm indent in each cell
+4. Dropped 1–2 seeds per cell
+5. Covered lightly with soil — no hard pressing on top
+6. Sprayed everything down with the spray bottle until evenly moist
+
+![The tray and spray bottle sitting on the table before filling — 18 cells of potential and a humidity lid ready to create a little greenhouse](pictures/08-tray-and-spray-bottle-ready.jpg)
+
+**Placement:** The tray went straight to a bright indoor windowsill with the humidity lid on top. The lid stays on until the first sprouts peek through, then it comes off to let air circulate. Expected germination: **5–10 days** — could see the first tiny green shoots by April 21–26!
+
+![The seed tray on the windowsill with the humidity lid ready — a mini greenhouse with a view. Now we wait!](pictures/09-tray-on-windowsill.jpg)
+
+**The lavender decision:** After some consideration, the lavender seeds were set aside for a future season. The reasons make sense — lavender needs cold stratification (2–4 weeks in the fridge before sowing), has slow germination (another 2–4 weeks), and the timing was just too tight to get viable seedlings before the May 15 transplant date. The seeds will keep! If Emma wants lavender on the balcony this summer, a starter plant from the garden center is the way to go.
+
+**Soil status:** About 2–2.5 liters of the brown Compo soil remain — not enough for repotting the gifted flower arrangement. More brown Compo has been ordered and is on the way!
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -109,13 +140,19 @@ Each plant to be separated into its own pot with Compo Bio soil.
 - Full season plan created with timeline and to-do lists
 - Gift arrangement plants identified and repotting plan made
 - Watering schedule established
+- 18-cell seed tray purchased and set up
+- Cosmos seeds sown indoors (9 cells, 1–2 seeds each)
+- Zinnia seeds sown indoors (9 cells, 1–2 seeds each)
+- Tray placed on bright windowsill with humidity lid
+- Lavender postponed to next season (needs stratification, timing too tight)
 
 ### In Progress
-- Waiting on seed tray purchase to begin indoor seed starting
-- Gift arrangement still in original container — needs repotting
+- Waiting for seed germination (expected 5–10 days from April 16)
+- New brown Compo soil ordered — waiting for delivery
+- Gift arrangement still in original container — needs repotting once soil arrives
 
 ### Not Yet Started
-- Seed starting (cosmos, zinnias, lavender)
+- Repotting gift arrangement (waiting on soil delivery)
 - Shopping for additional pots
 - Transplanting outdoors (scheduled for May 15+)
 - Fertilizing routine (starts mid-May)
@@ -132,6 +169,9 @@ Each plant to be separated into its own pot with Compo Bio soil.
 | April 15, 2026 | Planters filled with soil on the balcony | ![soil](pictures/04-planters-filled-with-soil.jpg) |
 | April 15, 2026 | Brodiaea bulbs placed in planter | ![bulbs](pictures/05-brodiaea-bulbs-placed.jpg) |
 | April 15, 2026 | Planting holes dug and ready | ![holes](pictures/06-holes-ready-for-bulbs.jpg) |
+| April 16, 2026 | Seed tray sowing station in action | ![sowing](pictures/07-seed-tray-sowing-station.jpg) |
+| April 16, 2026 | Tray and spray bottle before filling | ![tray](pictures/08-tray-and-spray-bottle-ready.jpg) |
+| April 16, 2026 | Seed tray on the windowsill — the waiting begins | ![windowsill](pictures/09-tray-on-windowsill.jpg) |
 | | First sprouts! | *(coming soon!)* |
 | | First bloom! | *(coming soon!)* |
 
@@ -139,4 +179,4 @@ Each plant to be separated into its own pot with Compo Bio soil.
 
 ---
 
-*Last updated: April 15, 2026*
+*Last updated: April 16, 2026*

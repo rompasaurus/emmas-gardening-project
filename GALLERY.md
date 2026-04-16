@@ -70,31 +70,57 @@ This planter is now officially planted. These holes are basically tiny apartment
 
 ---
 
-## The Story So Far
+---
 
-These six photos capture the very beginning — from supplies on the table to bulbs in the ground. The first chapter of Emma's garden is written in soil and sunshine.
-
-**Coming soon:**
-- First green shoots poking through!
-- Indoor seed starting (cosmos, zinnias, lavender)
-- The gift arrangement getting repotted
-- BLOOMS! (June and beyond)
-
-> Keep taking photos, Emma — this is going to be an amazing transformation to look back on!
+# Day 2 — April 16, 2026: Seeds Go In!
 
 ---
 
-*Photos from April 14-15, 2026 — Day 1 of Emma's Garden*
+## The Sowing Station — "We're Really Doing This!"
 
-## April 16, 2026 — Seed Starting Day 🌱
+The table has been transformed into a proper seed-starting command center! An **18-cell seed tray** sits front and center, all cells filled with rich brown Compo Bio soil. The cosmos and zinnia seed packets are open and scattered on the table alongside a pair of scissors (for opening packets), and both the **pink and blue trowels** have reported for duty.
 
-Today we started cosmos and zinnia seeds indoors!
+You can see a few stray seeds on the table surface — the tiny dark specks that are about to become a whole summer's worth of flowers. Nine cells for cosmos, nine for zinnias. Each cell got a little 1 cm indent, 1–2 seeds dropped in, and a light cover of soil on top. Assembly line gardening at its finest!
 
-- Filled an 18-cell seed tray with brown Compo soil
-- Sowed 9 cells of cosmos and 9 cells of zinnia
-- Watered in with a spray bottle
-- Placed on the windowsill with the clear lid on to create a mini greenhouse
-- Expecting sprouts in 5–10 days
-- Transplanting to the balcony planned after May 15
+![The seed sowing workstation — tray filled, packets open, trowels ready, and tiny seeds about to become big beautiful flowers](pictures/07-seed-tray-sowing-station.jpg)
 
-Photos from today's session added to the pictures folder.
+---
+
+## The Gear — "A Mini Greenhouse!"
+
+Before any soil went in, here's what the setup looked like: the **18-cell seed tray** sitting on the table next to a **gray spray bottle** that's about to become Emma's best friend for the next week. That clear lid in front? That's the **humidity dome** — it turns the whole tray into a mini greenhouse, trapping warmth and moisture to give the seeds the best possible start.
+
+The tray comes in three snap-together sections of six cells each — clever design that makes it easy to separate varieties later if needed.
+
+![The empty seed tray and spray bottle on the table — every garden journey needs the right tools, and this duo is about to make magic happen](pictures/08-tray-and-spray-bottle-ready.jpg)
+
+---
+
+## On the Windowsill — "Now We Wait!"
+
+And there it is — the **seed tray in its new home** on a bright indoor windowsill, with the clear humidity lid sitting right in front, ready to go on top. Through the window you can see the balcony where the brodiaea bulbs are already planted and waiting for summer.
+
+This windowsill is about to become the most watched spot in the apartment. Every morning for the next 5–10 days, someone's going to peek at those cells looking for the tiniest hint of green. When the first sprouts appear, the lid comes off and the real growing begins!
+
+**The countdown is on:** Cosmos and zinnias typically germinate in 5–10 days, so expect first signs of life around **April 21–26.**
+
+![The seed tray sitting on the windowsill with the humidity lid ready — 18 cells of possibility soaking up the light. The sprout watch begins!](pictures/09-tray-on-windowsill.jpg)
+
+---
+
+## The Story So Far
+
+These nine photos capture the first two days — from the initial supply haul and bulb planting on Day 1 to the first seeds going into soil on Day 2. Emma's garden is officially growing in two places now: bulbs on the balcony and seeds on the windowsill.
+
+**Coming soon:**
+- First green sprouts poking through the soil! (any day now...)
+- The gift arrangement getting repotted into individual pots
+- New soil delivery arriving
+- Hardening off and the big move outdoors (May 15!)
+- BLOOMS! (June and beyond)
+
+> Keep taking photos, Emma — future you is going to love looking back at how it all started!
+
+---
+
+*Photos from April 14-16, 2026 — Days 1 & 2 of Emma's Garden*
