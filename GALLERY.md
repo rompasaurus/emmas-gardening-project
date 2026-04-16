@@ -85,3 +85,16 @@ These six photos capture the very beginning — from supplies on the table to bu
 ---
 
 *Photos from April 14-15, 2026 — Day 1 of Emma's Garden*
+
+## April 16, 2026 — Seed Starting Day 🌱
+
+Today we started cosmos and zinnia seeds indoors!
+
+- Filled an 18-cell seed tray with brown Compo soil
+- Sowed 9 cells of cosmos and 9 cells of zinnia
+- Watered in with a spray bottle
+- Placed on the windowsill with the clear lid on to create a mini greenhouse
+- Expecting sprouts in 5–10 days
+- Transplanting to the balcony planned after May 15
+
+Photos from today's session added to the pictures folder.
