@@ -19,7 +19,11 @@ permalink: /PROGRESS-REPORT
 | April 15, 2026 | Brodiaea bulbs planted in both railing planters | Done |
 | April 16, 2026 | Seed tray purchased, cosmos & zinnias sown indoors | Done |
 | April 16, 2026 | Lavender postponed to next season | Done (decision) |
-| April 2026 | Receive new Compo soil + repot gift arrangement | Pending |
+| April 17, 2026 | Babiana bulbs planted in hanging planter | Done |
+| April 17, 2026 | OBI run — basil, mint, dianthus, pots, 17L soil | Done |
+| April 17, 2026 | Basil and chocolate mint potted in TEDI pots | Done |
+| April 18, 2026 | Buy smaller hanging planter for dianthus | Pending |
+| April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -131,10 +135,52 @@ Michael helped Emma set up the seed starting station today. A brand new **18-cel
 
 ---
 
+### Session 4 — April 17, 2026 — "OBI Run & The Garden Expands!"
+
+**The balcony garden just leveled up — new plants, new bulbs, new pots, and a big bag of soil!**
+
+Today was a big day. Michael and Emma hit OBI with a plan to grab some long pots for greenery, and came home with way more than expected — in the best possible way.
+
+**The OBI haul:**
+- 3x **27cm TEDI pots** (black, practical, perfect for herbs)
+- **Basil** (Basilikum) — a kitchen garden classic
+- **Chocolate mint** — sounds delicious, looks gorgeous, and smells amazing
+- 2x **Pink dianthus** — cheerful, low-maintenance summer bloomers
+- **17L bag of brown Compo** (Qualitats-Blumenerde) — the good stuff, and plenty of it this time!
+
+![The gift flower arrangement in full spring glory — daffodils reaching for the sky, red ranunculus popping, pansies and primrose filling in the gaps, forget-me-nots adding that perfect blue touch — with the pink dianthus sitting pretty next to it](pictures/10-gift-arrangement-and-dianthus.jpg)
+
+**What got planted:**
+
+The **Babiana bulbs** (15-pack!) went into the **53cm hanging planter** — one of the gray railing-style planters. Holes were dug, bulbs were dropped in, and everything got a good watering. These will bloom in late spring to summer with stunning purple-blue and white flowers.
+
+![The Babiana bulb packet held over the railing planter — 15 bulbs of "Mischung" (mixed colors) ready to be tucked into their new home, planting holes already dug and waiting](pictures/12-babiana-bulbs-planting.jpg)
+
+**Basil** got its own 27cm TEDI pot and is already looking lush and bushy on the balcony. Key care tip: pinch the top leaves regularly to keep it bushy and delay flowering — once basil flowers, the leaves turn bitter.
+
+![Fresh basil in its new black TEDI pot on the balcony — those big green leaves are just begging to be turned into pesto or tossed on a caprese salad](pictures/13-basil-potted.jpg)
+
+**Chocolate mint** also got its own solo pot — and this is important, because mint is the plant world's most aggressive roommate. It sends out runners and will absolutely strangle anything sharing its pot within a month. Solo living only!
+
+![Chocolate mint in its own black pot, right where it belongs — alone. Those dark-tinged leaves smell incredible and this one's going to fill out fast](pictures/11-chocolate-mint-potted.jpg)
+
+**The dianthus** are waiting for a smaller hanging planter — shopping trip planned for tomorrow (April 18). They'll want full sun, well-draining soil, and regular deadheading to keep the pink blooms coming all summer.
+
+**What they almost bought (and wisely didn't):**
+- Indoor houseplants from the *Zimmerpflanzen* section — would die on a Stuttgart balcony with near-freezing nights
+- Petunias — frost-tender, need to wait until after May 15 (Eisheiligen)
+
+**German garden shopping tip learned today:** Look for labels saying *winterhart* (winter-hardy), *Kubelpflanzen* (container plants), *Stauden* (perennials), *Krauter* (herbs), or *Balkonpflanzen* (balcony plants) — NOT *Zimmerpflanzen* (houseplants)!
+
+**Soil status:** With the new 17L bag of brown Compo, there's now plenty on hand for potting up the dianthus, repotting the gift arrangement, and having soil left over. The orchid bag remains banished to the corner.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
 - Brodiaea Queen Fabiola bulbs planted in both gray railing planters
+- Babiana bulbs planted in 53cm hanging planter
 - All seeds and supplies inventoried and catalogued
 - Soil types identified — correct usage determined (orchid soil set aside)
 - Full season plan created with timeline and to-do lists
@@ -145,16 +191,19 @@ Michael helped Emma set up the seed starting station today. A brand new **18-cel
 - Zinnia seeds sown indoors (9 cells, 1–2 seeds each)
 - Tray placed on bright windowsill with humidity lid
 - Lavender postponed to next season (needs stratification, timing too tight)
+- OBI run: basil, chocolate mint, 2x pink dianthus, 3x TEDI pots, 17L Compo soil
+- Basil potted solo in 27cm TEDI pot
+- Chocolate mint potted solo in 27cm TEDI pot (never share — mint is a bully!)
 
 ### In Progress
 - Waiting for seed germination (expected 5–10 days from April 16)
-- New brown Compo soil ordered — waiting for delivery
-- Gift arrangement still in original container — needs repotting once soil arrives
+- Dianthus need a hanging planter — shopping trip April 18
+- Gift arrangement still in original container — needs repotting (soil now available!)
 
 ### Not Yet Started
-- Repotting gift arrangement (waiting on soil delivery)
-- Shopping for additional pots
-- Transplanting outdoors (scheduled for May 15+)
+- Buy smaller hanging planter for dianthus (April 18)
+- Repotting gift arrangement into individual pots
+- Transplanting cosmos/zinnias outdoors (scheduled for May 15+)
 - Fertilizing routine (starts mid-May)
 
 ---
@@ -172,6 +221,10 @@ Michael helped Emma set up the seed starting station today. A brand new **18-cel
 | April 16, 2026 | Seed tray sowing station in action | ![sowing](pictures/07-seed-tray-sowing-station.jpg) |
 | April 16, 2026 | Tray and spray bottle before filling | ![tray](pictures/08-tray-and-spray-bottle-ready.jpg) |
 | April 16, 2026 | Seed tray on the windowsill — the waiting begins | ![windowsill](pictures/09-tray-on-windowsill.jpg) |
+| April 17, 2026 | Gift arrangement & dianthus on the balcony | ![gifts](pictures/10-gift-arrangement-and-dianthus.jpg) |
+| April 17, 2026 | Chocolate mint potted solo | ![mint](pictures/11-chocolate-mint-potted.jpg) |
+| April 17, 2026 | Babiana bulbs going into the hanging planter | ![babiana](pictures/12-babiana-bulbs-planting.jpg) |
+| April 17, 2026 | Basil potted and soaking up the sun | ![basil](pictures/13-basil-potted.jpg) |
 | | First sprouts! | *(coming soon!)* |
 | | First bloom! | *(coming soon!)* |
 
@@ -179,4 +232,4 @@ Michael helped Emma set up the seed starting station today. A brand new **18-cel
 
 ---
 
-*Last updated: April 16, 2026*
+*Last updated: April 17, 2026*

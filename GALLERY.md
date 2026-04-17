@@ -108,19 +108,77 @@ This windowsill is about to become the most watched spot in the apartment. Every
 
 ---
 
-## The Story So Far
+---
 
-These nine photos capture the first two days — from the initial supply haul and bulb planting on Day 1 to the first seeds going into soil on Day 2. Emma's garden is officially growing in two places now: bulbs on the balcony and seeds on the windowsill.
-
-**Coming soon:**
-- First green sprouts poking through the soil! (any day now...)
-- The gift arrangement getting repotted into individual pots
-- New soil delivery arriving
-- Hardening off and the big move outdoors (May 15!)
-- BLOOMS! (June and beyond)
-
-> Keep taking photos, Emma — future you is going to love looking back at how it all started!
+# Day 3 — April 17, 2026: The OBI Haul!
 
 ---
 
-*Photos from April 14-16, 2026 — Days 1 & 2 of Emma's Garden*
+## The Gift Arrangement & New Friends — "Look at All That Color!"
+
+This photo is pure spring energy. The **gift flower arrangement** is sitting on the balcony in all its crowded, colorful glory — bright yellow **daffodils** stretching tall, red and pink **ranunculus** bursting open like little roses, deep purple **pansies** filling in the gaps, sunny **primrose** peeking through, delicate blue **forget-me-nots** adding that dreamy touch, and spindly **pussy willow** branches reaching up from the back.
+
+Next to it sits the newcomer — a potted **pink dianthus**, looking prim and ready for its own hanging planter. There's a second dianthus just out of frame. These are the kind of flowers that'll bloom all summer with regular deadheading.
+
+The spray bottle stands guard on the left — always within reach!
+
+![The gift arrangement bursting with spring colors — daffodils, ranunculus, pansies, primrose, forget-me-nots, and pussy willow — with a pink dianthus waiting patiently for its own planter](pictures/10-gift-arrangement-and-dianthus.jpg)
+
+---
+
+## Babiana Bulbs — "More Bulbs, More Blooms!"
+
+Michael's holding up the **Babiana "Mischung"** (mixed colors) bulb packet — 15 bulbs! — over the gray railing planter where holes have already been dug and are ready for planting. The pink trowel is peeking in from the left, fresh from digging duty.
+
+Babiana are related to freesias and gladiolus, and produce gorgeous clusters of purple, blue, and white star-shaped flowers. These will add another wave of color to the balcony alongside the brodiaea that are already planted next door.
+
+This is what happens when you go to the store "just for pots" — you come home with bulbs too. Classic gardener behavior!
+
+![The Babiana bulb packet — 15 mixed-color bulbs — held over the railing planter with holes already dug. Another round of bulb planting begins!](pictures/12-babiana-bulbs-planting.jpg)
+
+---
+
+## Basil — "Fresh Herbs on the Balcony!"
+
+A lush, leafy **basil plant** (Basilikum) sitting in its new **black 27cm TEDI pot** on the balcony floor. Those big, bright green leaves are practically glowing in the sunlight. This is a plant that's clearly happy to be in a sunny spot.
+
+The key to keeping basil like this: **pinch the tops regularly**. Every time you snip from the top, the plant branches out and gets bushier. Once it flowers, the leaves turn bitter — so keep pinching, keep using, and enjoy fresh basil all summer. Caprese salads, pesto, pasta toppings — this plant is going to earn its spot on the balcony!
+
+![Fresh basil in its new black TEDI pot, basking in the sun on the balcony — those lush green leaves are ready for the kitchen](pictures/13-basil-potted.jpg)
+
+---
+
+## Chocolate Mint — "The Solo Artist"
+
+**Chocolate mint** in its own black TEDI pot, sitting solo on the balcony — exactly where it should be. Those dark-tinged green leaves give off an incredible chocolatey-mint scent when you brush past them.
+
+Why is it alone? Because mint is the most aggressive plant in the garden world. It sends out underground runners in every direction and will absolutely colonize any pot it shares within weeks. Chocolate mint gets its own pot, its own space, and its own watering schedule (slightly more moisture than the flowers). Think of it as the talented but difficult roommate who needs to live alone.
+
+Bonus: mint makes amazing tea, mojitos, and dessert garnishes. And it'll grow back no matter how much you harvest!
+
+![Chocolate mint in its own pot, living its best solo life on the balcony — those dark-tinged leaves smell like an after-dinner mint](pictures/11-chocolate-mint-potted.jpg)
+
+---
+
+## The Story So Far
+
+Thirteen photos across three days — from a bare table of supplies to a balcony filling up with life. Emma's garden now has:
+- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
+- **Seeds** germinating on the windowsill (cosmos and zinnias)
+- **Herbs** in their own pots (basil and chocolate mint)
+- **Flowers** waiting for their moment (dianthus, gift arrangement)
+
+This balcony is transforming fast!
+
+**Coming soon:**
+- First green sprouts from the seed tray!
+- Dianthus getting their own hanging planter
+- The gift arrangement finally getting repotted into individual pots
+- Hardening off and the big move outdoors (May 15!)
+- BLOOMS everywhere! (June and beyond)
+
+> Keep the photos coming, Emma — this garden diary is growing as fast as the plants!
+
+---
+
+*Photos from April 14-17, 2026 — Days 1, 2 & 3 of Emma's Garden*

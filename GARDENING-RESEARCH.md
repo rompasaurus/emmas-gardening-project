@@ -16,13 +16,17 @@ permalink: /GARDENING-RESEARCH
 2. [Zinnias (Field Mix)](#2-zinnias-field-mix)
 3. [Lavender (Duft-Lavendel, Munstead)](#3-lavender-duft-lavendel-munstead)
 4. [Brodiaea Queen Fabiola](#4-brodiaea-queen-fabiola)
-5. [Gift Arrangement Plants](#5-gift-arrangement-plants)
-6. [Soil & Growing Media](#6-soil--growing-media)
-7. [Balcony Container Gardening Essentials](#7-balcony-container-gardening-essentials)
-8. [Stuttgart Climate & Growing Conditions](#8-stuttgart-climate--growing-conditions)
-9. [Recommended Tools](#9-recommended-tools)
-10. [Video Resources](#10-video-resources)
-11. [Helpful Websites & Communities](#11-helpful-websites--communities)
+5. [Babiana (Mixed)](#5-babiana-mixed)
+6. [Basil (Basilikum)](#6-basil-basilikum)
+7. [Chocolate Mint](#7-chocolate-mint)
+8. [Dianthus (Pink)](#8-dianthus-pink)
+9. [Gift Arrangement Plants](#9-gift-arrangement-plants)
+10. [Soil & Growing Media](#10-soil--growing-media)
+11. [Balcony Container Gardening Essentials](#11-balcony-container-gardening-essentials)
+12. [Stuttgart Climate & Growing Conditions](#12-stuttgart-climate--growing-conditions)
+13. [Recommended Tools](#13-recommended-tools)
+14. [Video Resources](#14-video-resources)
+15. [Helpful Websites & Communities](#15-helpful-websites--communities)
 
 ---
 
@@ -259,7 +263,188 @@ Lavender is the slowest of Emma's seeds — and that's completely normal. Here's
 
 ---
 
-## 5. Gift Arrangement Plants
+## 5. Babiana (Mixed)
+
+**Botanical name:** *Babiana stricta*
+**Type:** Bulb (corm) — related to freesias and gladiolus
+**Height:** 15–25 cm
+**Bloom time:** Late spring to early summer
+**Color:** Mixed — purple, blue, violet, white
+
+### What Emma Has
+
+- 15-pack mixed color bulbs ("Mischung"), planted in the 53cm hanging planter
+- Planted April 17, 2026
+
+### Care Guide
+
+| Detail | Info |
+|--------|------|
+| Planting depth | 8–10 cm deep |
+| Sun | Full sun to partial shade |
+| Watering | When top 2 cm of soil is dry — avoid overwatering |
+| Soil | Well-draining, standard potting mix works |
+| Bloom period | Late spring to early summer |
+| After blooming | Let foliage die back naturally — feeds the bulb for next year |
+| Hardiness | Zone 8–10 — may need winter protection in Stuttgart |
+
+### Pro Tips
+
+- **Related to freesias** — expect similarly fragrant, colorful blooms
+- **Don't cut foliage** after flowering — let it yellow naturally
+- **Good drainage** is essential — they hate soggy roots
+- **In Stuttgart's climate** (Zone 7b/8a), wrap the pot or move to a sheltered spot for winter, or lift bulbs and store dry
+
+### Research Links
+
+- Pacific Bulb Society — Babiana: https://www.pacificbulbsociety.org/pbswiki/index.php/Babiana
+- Gardenia — Babiana stricta: https://www.gardenia.net/plant/babiana-stricta
+
+---
+
+## 6. Basil (Basilikum)
+
+**Botanical name:** *Ocimum basilicum*
+**German name:** Basilikum
+**Type:** Annual herb
+**Height:** 30–60 cm
+**Harvest:** Continuous from spring through fall
+
+### Growing on the Balcony
+
+| Detail | Info |
+|--------|------|
+| Sun | Full sun (6+ hours) — the more sun, the more flavor |
+| Soil | Rich, well-draining potting mix (brown Compo is perfect) |
+| Watering | Keep consistently moist — doesn't like drying out |
+| Feeding | Light liquid fertilizer every 2–3 weeks |
+| Temperature | Loves heat — struggles below 10°C |
+| Frost hardy | No! Bring inside if nights dip below 5°C |
+
+### How to Keep It Bushy
+
+This is the single most important basil tip: **pinch from the top, always.**
+
+1. Once basil has 3 sets of leaves, pinch off the top set
+2. This forces two new branches to grow from below
+3. Repeat every time a stem gets 3 new sets of leaves
+4. **Never let it flower** — flowering makes leaves bitter and signals the plant to stop growing
+5. If you see flower buds forming, pinch them off immediately
+
+### Harvesting
+
+- **Always pick from the top** — this encourages branching
+- **Never strip more than 1/3** of the plant at once
+- **Morning harvest** has the strongest flavor (oils are most concentrated before the heat of the day)
+- **Use fresh** or make pesto and freeze — dried basil is a sad shadow of the fresh version
+
+### Common Problems
+
+| Problem | Cause | Solution |
+|---------|-------|----------|
+| Wilting in the afternoon | Hot sun, needs water | Water in the morning, check again midday |
+| Yellow lower leaves | Overwatering or natural aging | Let soil dry slightly, remove yellow leaves |
+| Flowers appearing | Plant is maturing | Pinch off immediately! |
+| Leggy/tall growth | Not enough pinching | Pinch tops regularly |
+
+### Research Links
+
+- Gardeners' World — How to Grow Basil: https://www.gardenersworld.com/how-to/grow-plants/how-to-grow-basil/
+- Mein schoner Garten — Basilikum: https://www.mein-schoener-garten.de/pflanzen/basilikum
+- Epic Gardening — Basil Growing Guide: https://www.epicgardening.com/growing-basil/
+
+---
+
+## 7. Chocolate Mint
+
+**Botanical name:** *Mentha x piperita* 'Chocolate'
+**Type:** Perennial herb
+**Height:** 30–60 cm
+**Harvest:** Continuous spring through fall
+**Special feature:** Dark stems and leaves with a chocolate-mint scent!
+
+### The Golden Rule: Mint Lives Alone
+
+**NEVER plant mint with other plants.** Mint spreads via underground runners (stolons) and will completely take over any shared container within a month. Emma's chocolate mint is correctly planted in its own 27cm TEDI pot. This is not optional — it's survival for everything else on the balcony.
+
+### Growing on the Balcony
+
+| Detail | Info |
+|--------|------|
+| Sun | Full sun to partial shade — versatile |
+| Soil | Any decent potting mix — mint is not picky |
+| Watering | Keep consistently moist — mint likes more water than most plants |
+| Feeding | Light fertilizer once a month at most — mint grows aggressively on its own |
+| Frost hardy | Yes! Mint is a tough perennial that comes back every year |
+| Winter | Can stay outdoors — wrap pot in burlap for extra protection |
+
+### Harvesting & Uses
+
+- **Tea:** Fresh mint leaves + hot water = instant herbal tea
+- **Mojitos:** Muddle leaves, add rum, lime, soda, ice. Summer on the balcony!
+- **Desserts:** Garnish for chocolate cake, ice cream, brownies — chocolate mint is made for this
+- **Cooking:** Add to salads, spring rolls, lamb dishes
+- **Harvest often** — the more you cut, the bushier it grows
+- **Cut stems back to 1/3** in early summer to keep it compact and fresh
+
+### Pro Tips
+
+- **Trim regularly** to prevent it from getting leggy and woody
+- **It's nearly unkillable** — if it looks dead, water it and wait. It almost always comes back
+- **Propagation:** Stick a stem cutting in water — roots will appear in days. Infinite mint!
+- **The chocolate scent** is strongest on warm sunny days and when you brush the leaves
+
+### Research Links
+
+- RHS — Growing Mint: https://www.rhs.org.uk/herbs/mint/grow-your-own
+- Gardeners' World — How to Grow Mint: https://www.gardenersworld.com/how-to/grow-plants/how-to-grow-mint/
+
+---
+
+## 8. Dianthus (Pink)
+
+**Botanical name:** *Dianthus* spp.
+**Common names:** Pinks, Carnations, Sweet William (depending on variety)
+**Type:** Perennial/Annual (varies by variety)
+**Height:** 15–45 cm
+**Bloom time:** Spring through fall with deadheading
+**Color:** Pink (Emma's variety)
+
+### Growing on the Balcony
+
+| Detail | Info |
+|--------|------|
+| Sun | Full sun (6+ hours) — they love it |
+| Soil | Well-draining — mix extra coir into Compo. They HATE soggy roots |
+| Watering | On the dry side — let top inch dry between waterings |
+| Feeding | Light fertilizer every 2–3 weeks during blooming |
+| Deadheading | Essential — pinch spent flowers for continuous blooms all summer |
+| Fragrance | Many varieties are sweetly scented — lean in and sniff! |
+
+### Pro Tips
+
+- **Drainage is everything** — dianthus will rot if sitting in waterlogged soil. Make sure the hanging planter has drainage holes
+- **Deadhead religiously** — this is the #1 thing that keeps dianthus blooming for months
+- **Don't overhead water** — water at soil level to prevent fungal issues on leaves
+- **They're tough** — many dianthus varieties are frost-hardy and can survive Stuttgart winters
+- **Pair with lavender** aesthetically — similar low-water, sun-loving personality
+
+### Planting Plan
+
+Emma has 2 pink dianthus waiting for a smaller hanging planter (shopping trip April 18). Plant with:
+- Brown Compo soil + extra coco coir for drainage
+- Full sun position on the balcony railing
+- Space them so air can circulate between plants
+
+### Research Links
+
+- RHS — Dianthus Growing Guide: https://www.rhs.org.uk/plants/dianthus/growing-guide
+- Gardeners' World — How to Grow Dianthus: https://www.gardenersworld.com/how-to/grow-plants/how-to-grow-dianthus/
+- Mein schoner Garten — Nelken (Dianthus): https://www.mein-schoener-garten.de/pflanzen/nelke
+
+---
+
+## 9. Gift Arrangement Plants
 
 Emma received a mixed gift arrangement that needs to be separated and repotted. Here's care info for each:
 
@@ -318,7 +503,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 6. Soil & Growing Media
+## 10. Soil & Growing Media
 
 ### What Emma Has
 
@@ -356,7 +541,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 7. Balcony Container Gardening Essentials
+## 11. Balcony Container Gardening Essentials
 
 ### Pot Selection Guide
 
@@ -393,7 +578,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 8. Stuttgart Climate & Growing Conditions
+## 12. Stuttgart Climate & Growing Conditions
 
 ### Key Climate Data
 
@@ -434,7 +619,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 9. Recommended Tools
+## 13. Recommended Tools
 
 ### Starter Tools (Must-Haves)
 
@@ -468,7 +653,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 10. Video Resources
+## 14. Video Resources
 
 ### Getting Started / Beginner Guides
 
@@ -507,7 +692,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 11. Helpful Websites & Communities
+## 15. Helpful Websites & Communities
 
 ### English Resources
 
@@ -544,13 +729,17 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 **Emma's Plants at a Glance:**
 
 ```
-COSMOS          Sun: Full | Water: Regular | Start: Indoors April | Outside: May 15+
-ZINNIA          Sun: Full | Water: Regular | Start: Indoors April | Outside: May 15+
-LAVENDER        Sun: Full | Water: Light   | Start: Indoors now   | Outside: May 15+
-BRODIAEA        Sun: Full | Water: When dry | Planted: April 15   | Blooms: June-Aug
-GIFT PLANTS     Sun: Varies | Water: Moist | Repot: ASAP into individual pots
+COSMOS          Sun: Full | Water: Regular    | Sown indoors Apr 16 | Outside: May 15+
+ZINNIA          Sun: Full | Water: Regular    | Sown indoors Apr 16 | Outside: May 15+
+LAVENDER        Sun: Full | Water: Light      | Saved for next season
+BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15   | Blooms: June-Aug
+BABIANA         Sun: Full | Water: When dry   | Planted: April 17   | Blooms: Late spring
+BASIL           Sun: Full | Water: Consistent | Potted: April 17    | Harvest: All summer
+CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17    | SOLO POT ONLY!
+DIANTHUS (x2)   Sun: Full | Water: Light      | Awaiting planter     | Blooms: All summer
+GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 ```
 
 ---
 
-*Research compiled April 15, 2026 — Updated as the garden grows!*
+*Research compiled April 15, 2026 — Last updated April 17, 2026*

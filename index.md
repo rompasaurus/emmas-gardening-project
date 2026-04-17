@@ -17,9 +17,13 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 | Plant | Type | Bloom Period | Status |
 |-------|------|-------------|--------|
-| Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted |
-| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16! |
-| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16! |
+| Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
+| Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
+| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16 |
+| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16 |
+| Basil (Basilikum) | Herb - potted | Summer | Potted in 27cm TEDI pot |
+| Chocolate Mint | Herb - potted | Summer | Potted solo in 27cm TEDI pot |
+| Dianthus (Pink) | 2x potted plants | Spring - Summer | Awaiting hanging planter |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 | Daffodils | Gift arrangement | Spring | Needs repotting |
 | Ranunculus | Gift arrangement | Spring | Needs repotting |
@@ -28,11 +32,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
 | Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
-![The seed tray on the windowsill — 9 cosmos and 9 zinnias sown and waiting to sprout!](pictures/09-tray-on-windowsill.jpg)
+![The gift arrangement in all its colorful glory, with the pink dianthus keeping it company](pictures/10-gift-arrangement-and-dianthus.jpg)
 
-## Latest Update — April 16, 2026
+## Latest Update — April 17, 2026
 
-> Cosmos and zinnia seeds are officially in the ground! An 18-cell seed tray is sitting on the windowsill with a humidity lid, soaking up the light. First sprouts expected around April 21–26. Lavender has been wisely postponed to next season — it needs cold stratification and the timing was too tight. More soil is on order for repotting the gift arrangement. The garden is growing!
+> OBI run day! Came home with basil, chocolate mint, two pink dianthus, three 27cm TEDI pots, and a fresh 17L bag of brown Compo soil. Babiana bulbs got planted in the 53cm hanging planter. The balcony is filling up fast! Seed tray still on the windowsill — sprout watch continues. Shopping tomorrow for a smaller hanging planter for the dianthus.
 
 ## Project Pages
 
