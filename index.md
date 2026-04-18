@@ -23,7 +23,7 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16 |
 | Basil (Basilikum) | Herb - potted | Summer | Potted in 27cm TEDI pot |
 | Chocolate Mint | Herb - potted | Summer | Potted solo in 27cm TEDI pot |
-| Dianthus (Pink) | 2x potted plants | Spring - Summer | Awaiting hanging planter |
+| Dianthus (Pink) | 2x potted plants | Spring - Summer | Planted in 37×28cm TEDI saddle planter on the sunny railing |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 | Daffodils | Gift arrangement | Spring | Needs repotting |
 | Ranunculus | Gift arrangement | Spring | Needs repotting |
@@ -34,9 +34,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The gift arrangement in all its colorful glory, with the pink dianthus keeping it company](pictures/10-gift-arrangement-and-dianthus.jpg)
 
-## Latest Update — April 17, 2026
+## Latest Update — April 18, 2026
 
-> OBI run day! Came home with basil, chocolate mint, two pink dianthus, three 27cm TEDI pots, and a fresh 17L bag of brown Compo soil. Babiana bulbs got planted in the 53cm hanging planter. The balcony is filling up fast! Seed tray still on the windowsill — sprout watch continues. Shopping tomorrow for a smaller hanging planter for the dianthus.
+> Dianthus Day! A quick TEDI run turned up the perfect **€4 gray saddle planter (37×28cm)** for the two pink dianthus — same finish as the brodiaea planters, proper depth, side-by-side room for both plants. They got potted up in the evening (cooler = less stress), spaced 15–20cm apart with crowns at soil level, watered in thoroughly, and mounted on the sunny railing. Bonus: Emma's new **expandable garden hose** arrived and got installed on the wall — no more watering-can marathons. First job for the hose? Washing down the whole workstation. The balcony now looks official.
+
+![The pink dianthus settled into their new gray saddle planter on the sunny railing](pictures/14-dianthus-planted-on-railing.jpg)
 
 ## Project Pages
 

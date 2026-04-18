@@ -160,19 +160,58 @@ Bonus: mint makes amazing tea, mojitos, and dessert garnishes. And it'll grow ba
 
 ---
 
+---
+
+# Day 4 — April 18, 2026: Dianthus Day (and a Hose!)
+
+---
+
+## Pink Dianthus on the Railing — "They Found Their Home!"
+
+After an afternoon shopping run to TEDI, the two **pink dianthus** finally got their own place: a **€4 gray saddle planter (37 × 28cm)** — same gray finish as the brodiaea planters, properly deep, and wide enough for the pair to sit comfortably side-by-side. Drainage hole confirmed on the spot.
+
+They went in in the evening (cooler temperatures = less transplant stress), crowns level with the soil (never bury the crown — that's how dianthus rot), spaced 15–20cm apart, backfilled with brown Compo, and given a slow thorough drink until water ran out the bottom. Then straight up onto the sunny railing alongside the rest of the gray planters.
+
+The view from the balcony is something else — Stuttgart rooftops stretching out behind them, and now there's a perfect little pop of pink in the middle of that gray railing lineup. This is exactly what **curb appeal from 4 stories up** looks like.
+
+![The pink dianthus settled into their new gray TEDI saddle planter on the sunny railing, pink blooms glowing against the Stuttgart rooftops behind](pictures/14-dianthus-planted-on-railing.jpg)
+
+---
+
+## The New Hose — "No More Watering Can Marathons!"
+
+Peak gardener energy: Emma ordered an **expandable garden hose** and got it installed on the balcony wall today. Green hose with a black protective outer sleeve (the expandable kind that stretches 3x when the water's on, then retracts back to storage size), a multi-pattern spray nozzle in green, and brass quick-connect fittings to the wall tap.
+
+Mounted to the wall hanger so it stays tidy between uses — no hose-snake situation on the floor. This is going to transform the watering routine: no more trooping back and forth between the kitchen sink and the balcony with a full can, no more spills, and the spray nozzle means gentle shower mode for seedlings and full blast for cleanup.
+
+![The new expandable garden hose installed on the balcony wall — green hose coiled on the wall hanger, multi-pattern spray nozzle attached, brass fittings connected to the wall tap](pictures/15-hose-installed.jpg)
+
+---
+
+## Workstation Cleaned — "A Tidy Garden is a Happy Garden"
+
+First job for the new hose: a proper wash-down of the balcony workstation area. The tiled floor got hosed off, the crate of supplies sits neat on its stand in the corner, and all the soil dust and potting debris from the past few days is gone.
+
+This is the corner where all the real work happens — pots get filled, bulbs get sorted, seedlings get fussed over. Having it clean and ready to go makes the next planting session feel effortless. That's a lesson most gardeners learn eventually: **the workstation matters almost as much as the plants.**
+
+![The freshly hosed-down workstation — clean wet tiles, supply crate perched on its stand in the corner, decorative glass block walls behind it. Ready for whatever comes next](pictures/16-workstation-cleaned.jpg)
+
+---
+
 ## The Story So Far
 
-Thirteen photos across three days — from a bare table of supplies to a balcony filling up with life. Emma's garden now has:
+Sixteen photos across four days — from a bare table of supplies to a balcony filling up with life (and a pink dianthus glow-up on the railing!). Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
 - **Seeds** germinating on the windowsill (cosmos and zinnias)
 - **Herbs** in their own pots (basil and chocolate mint)
-- **Flowers** waiting for their moment (dianthus, gift arrangement)
+- **Flowers** on the sunny railing (the pink dianthus, finally in their forever planter!)
+- **Gift arrangement** still waiting for its repotting session
+- **A proper hose setup** on the wall and a clean workstation to match
 
 This balcony is transforming fast!
 
 **Coming soon:**
 - First green sprouts from the seed tray!
-- Dianthus getting their own hanging planter
 - The gift arrangement finally getting repotted into individual pots
 - Hardening off and the big move outdoors (May 15!)
 - BLOOMS everywhere! (June and beyond)
@@ -181,4 +220,4 @@ This balcony is transforming fast!
 
 ---
 
-*Photos from April 14-17, 2026 — Days 1, 2 & 3 of Emma's Garden*
+*Photos from April 14-18, 2026 — Days 1, 2, 3 & 4 of Emma's Garden*

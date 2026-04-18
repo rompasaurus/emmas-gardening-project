@@ -1068,8 +1068,21 @@ def main():
         action = actions.get(choice)
         if action:
             action()
+            # Pause so the user actually sees the output before the menu
+            # redraws and scrolls it off-screen (menu is ~30 lines tall).
+            if choice != "0":
+                print()
+                try:
+                    input(f"  {DIM}Press Enter to return to menu...{RESET}")
+                except EOFError:
+                    break
         else:
             warn("Invalid option — pick a number from the menu")
+            print()
+            try:
+                input(f"  {DIM}Press Enter to continue...{RESET}")
+            except EOFError:
+                break
 
 
 def live_log_stream():
