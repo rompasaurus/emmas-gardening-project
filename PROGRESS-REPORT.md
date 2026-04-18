@@ -176,6 +176,9 @@ The **Babiana bulbs** (15-pack!) went into the **53cm hanging planter** — one 
 
 ---
 
+
+**Discord Update — April 18, 2026:** take the latest change in the gardening project and push it to the site
+
 ## What's Done So Far (Summary)
 
 ### Completed
