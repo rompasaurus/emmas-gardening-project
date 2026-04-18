@@ -228,6 +228,7 @@ The **Babiana bulbs** (15-pack!) went into the **53cm hanging planter** — one 
 | April 17, 2026 | Chocolate mint potted solo | ![mint](pictures/11-chocolate-mint-potted.jpg) |
 | April 17, 2026 | Babiana bulbs going into the hanging planter | ![babiana](pictures/12-babiana-bulbs-planting.jpg) |
 | April 17, 2026 | Basil potted and soaking up the sun | ![basil](pictures/13-basil-potted.jpg) |
+| April 18, 2026 | "Emma in the wild" | ![photo](https://cdn.discordapp.com/attachments/1494963406292258897/1495004712028733501/rn_image_picker_lib_temp_aed7ca74-cf7e-490b-9f35-8aa5e88466a0.jpg?ex=69e4ab23&is=69e359a3&hm=9107939a736aad7f0c330fb6e1dc8d4e1241f4053cd8e7717bbeec4b1fbff591&) |
 | | First sprouts! | *(coming soon!)* |
 | | First bloom! | *(coming soon!)* |
 

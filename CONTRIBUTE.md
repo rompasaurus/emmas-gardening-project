@@ -4,158 +4,92 @@ title: Contribute
 permalink: /CONTRIBUTE
 ---
 
-# Contribute to Emma's Garden
+# Join Emma's Garden Community
 
-**Want to help Emma's balcony bloom? Here's how to get involved!**
-
----
-
-## Join the Discord
-
-The garden has its own Discord server where you can chat, share ideas, and even push updates directly to the site using bot commands.
-
-### How to Join
-
-1. **Get an invite link** — ask Emma or Michael for the Discord server invite
-2. **Join the server** and say hi!
-3. **Head to `#garden-updates`** — this is where the magic happens
-
-Once you're in, a server admin will assign you a role based on how you'd like to help.
+**Got gardening tips, plant ideas, or just want to follow along? Come hang out!**
 
 ---
 
-## User Roles
+## Join Us on Discord
 
-Not everyone should be able to change everything — so we use roles to keep things tidy and prevent accidental chaos.
+We have a Discord server where you can chat about the garden, share ideas, drop photos, and even update the garden website using simple commands.
 
-| Role | What You Can Do | Who Gets It |
-|------|----------------|-------------|
-| **Head Gardener** | Full access — all bot commands, can update any part of the site | Emma |
-| **Garden Helper** | Can add log entries, report blooms, add photos, and check status | Trusted friends and family |
-| **Idea Planter** | Can submit ideas and check status — great for visitors with suggestions | Anyone who joins |
-| **Spectator** | Can read `#garden-updates` but not use bot commands | Lurkers welcome! |
+**[Join the Discord Server](https://discord.gg/your-invite-link)**
 
-### Role Permissions Breakdown
-
-| Command | Head Gardener | Garden Helper | Idea Planter | Spectator |
-|---------|:---:|:---:|:---:|:---:|
-| `!garden log` | Yes | Yes | - | - |
-| `!garden bloom` | Yes | Yes | - | - |
-| `!garden photo` | Yes | Yes | - | - |
-| `!garden idea` | Yes | Yes | Yes | - |
-| `!garden milestone` | Yes | - | - | - |
-| `!garden status` | Yes | Yes | Yes | - |
-| `!garden help` | Yes | Yes | Yes | Yes |
-
-**Head Gardener** is the only role that can add milestones — those are big-deal achievements and should be intentional.
-
-**Garden Helper** can do most day-to-day updates — logging progress, snapping photos, recording blooms.
-
-**Idea Planter** is the low-barrier entry role — perfect for friends who want to suggest "you should grow sunflowers!" without accidentally editing the site.
+*(Ask Emma or Michael for the invite link if the one above has expired!)*
 
 ---
 
-## Bot Commands Quick Reference
+## What's Happening in the Discord
 
-Type these in the `#garden-updates` channel:
+### #garden-updates
 
-### Adding Updates
+This is where the bot lives. Type simple commands and they update the garden website in real time:
 
-```
-!garden log Sprouts appeared in cells 3 and 7 today!
-```
-Adds a timestamped entry to the Progress Report.
+- **Share a garden update** — `!garden log Today I noticed tiny sprouts in the seed tray!`
+- **Celebrate a bloom** — `!garden bloom First cosmos flower opened!`
+- **Add a photo** — `!garden photo https://link-to-image.jpg My balcony this morning`
+- **Suggest an idea** — `!garden idea We should try growing strawberries next year`
+- **Check what's happening** — `!garden status`
 
-### Recording Blooms
+The bot confirms every update, and the website refreshes within about 30 seconds.
 
-```
-!garden bloom First cosmos flower opened — bright pink!
-```
-Adds to both the session log AND the milestones table. This is for celebrations!
+### #garden-uploads
 
-### Adding Photos
+A casual drop zone — share photos, links, inspiration, whatever! The bot logs everything that gets posted here so nothing gets lost. Just post and it gets recorded automatically.
 
-```
-!garden photo https://i.imgur.com/example.jpg The first zinnia bloom
-```
-Adds a row to the Photo Log with the image and your caption.
+### Ask the Garden AI
 
-### Submitting Ideas
+The bot has a built-in gardening brain (powered by Claude) that knows everything about Emma's specific garden:
 
-```
-!garden idea Try growing strawberries in a hanging basket next year
-```
-Adds your idea to the Future Ideas page.
+- **Ask anything** — `!garden ask When should I move my seedlings outside?`
+- **Diagnose a problem** — `!garden diagnose My basil leaves are turning yellow`
+- **Get a weekly plan** — `!garden plan`
 
-### Adding Milestones
-
-```
-!garden milestone All seedlings transplanted to the balcony
-```
-Adds a completed milestone to the tracker. **Head Gardener only.**
-
-### Checking Status
-
-```
-!garden status
-```
-Shows what's pending, in-progress, and upcoming.
+It knows what's planted, what's coming up, and what the weather's like in Stuttgart. Great for beginners!
 
 ---
 
-## What Happens When You Send a Command
+## Your Role
 
-1. You type a command in `#garden-updates`
-2. The bot edits the right markdown file in the project
-3. Changes get committed and pushed to GitHub
-4. GitHub Pages rebuilds the site (takes ~30 seconds)
-5. The bot confirms with a success message
+When you join, you'll be assigned a role that determines what you can do:
 
-**On success**, you'll see something like:
-> Logged! Your garden story grows...
-> *Changes pushed — site will update shortly!*
+**Head Gardener** ��� That's Emma. Full access to everything.
 
-**On failure**, you'll see:
-> Something wilted... (error details)
+**Garden Helper** — Trusted friends and family. You can log updates, record blooms, add photos, ask the AI, and diagnose plant problems.
 
-If something goes wrong, let Emma or Michael know — it's usually a config or permissions issue, not your fault!
+**Idea Planter** — For anyone who wants to chip in ideas and ask questions. You can submit ideas, check the garden status, and chat with the AI.
+
+**Spectator** — Just here to watch? That's cool too. You can read everything and see the help menu.
+
+Don't worry about which role you have — just join and we'll sort it out!
 
 ---
 
-## Other Ways to Contribute
+## Other Ways to Help
 
-Not into Discord? You can still help!
+Not on Discord? No problem:
 
-- **Send Emma a text** with your garden idea — she'll add it via Discord
-- **Open a GitHub issue** on the [project repo](https://github.com/rompasaurus/emmas-gardening-project) if you're code-savvy
-- **Send a photo** of your own garden for inspiration — we might add a "Friends' Gardens" page someday!
-- **Gift a plant** — Emma's balcony has room for more pots (there's always room for more pots)
+- **Text Emma** your garden idea and she'll post it for you
+- **Send a photo** of your own garden or a cool plant you found
+- **Gift a plant** — Emma's balcony always has room for one more pot
 
 ---
 
-## Setting Up the Bot (For Admins)
+## All Bot Commands at a Glance
 
-If you're helping run the server, the bot setup lives in the `discord-hook/` folder of the project.
-
-```bash
-cd discord-hook
-python setup.py
-```
-
-The setup wizard walks you through everything: installing dependencies, configuring the bot token, and getting it running. See the [discord-hook/](https://github.com/rompasaurus/emmas-gardening-project/tree/main/discord-hook) folder for details.
-
-### Creating Discord Roles
-
-In your Discord server:
-
-1. Go to **Server Settings > Roles**
-2. Create these roles (names must match exactly):
-   - `Head Gardener`
-   - `Garden Helper`
-   - `Idea Planter`
-   - `Spectator`
-3. Assign roles to members as they join
-4. The bot checks roles automatically — no extra config needed
+| Command | What it does |
+|---------|-------------|
+| `!garden log <text>` | Add an update to the garden log |
+| `!garden bloom <text>` | Record a new bloom (big deal!) |
+| `!garden photo <url> <caption>` | Add a photo to the site |
+| `!garden idea <text>` | Suggest an idea for the future |
+| `!garden milestone <text>` | Mark a milestone as done |
+| `!garden status` | See what's pending |
+| `!garden ask <question>` | Ask the garden AI anything |
+| `!garden diagnose <symptoms>` | Get help with a plant problem |
+| `!garden plan` | Get this week's to-do list |
+| `!garden help` | See commands inside Discord |
 
 ---
 
