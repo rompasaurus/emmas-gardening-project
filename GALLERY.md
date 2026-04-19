@@ -198,9 +198,39 @@ This is the corner where all the real work happens — pots get filled, bulbs ge
 
 ---
 
+---
+
+# Day 5 — April 19, 2026: WE HAVE SPROUTS!
+
+---
+
+## First Sprouts — "The Tray is ALIVE!"
+
+Three days. That's all it took. Sown on **April 16**, peeking through the soil on **April 19** — ahead of schedule and absolutely right on the money for a humidity-dome-plus-bright-windowsill setup.
+
+Look at them! Tiny curled yellow-green **cotyledons** (that's the technical name for the first pair of seed leaves) pushing through the soil in several cells. These aren't the "real" leaves yet — those come next — but they're the proof that germination worked. Every one of these little green specks is a seed that cracked, pushed a root down, and then reversed direction and shoved a shoot UP through the soil toward the light. It's the most ordinary miracle in all of gardening.
+
+The speedy ones are almost certainly the **zinnias** — they're famous for germinating in 3–7 days. The cosmos usually take a touch longer, so expect more cells to wake up over the next 3–5 days. Some cells may never sprout, and that's fine — Emma sowed 1–2 seeds per cell specifically to account for that.
+
+**Big change today:** the humidity lid comes OFF (or gets propped open). Once there's green showing, the dome starts working against you — too much moisture around sprouts invites **damping off**, the fungal disease that collapses seedlings overnight. From here on, the tray wants bright light, gentle air circulation, and water from below (pour into the outer green tray — the cells wick it up without flattening the sprouts).
+
+**Pro tip already in play:** rotate the tray 180° every day. Sprouts lean HARD toward the brightest light, and a half-turn daily keeps them growing straight instead of permanently tilted.
+
+![The 18-cell seed tray on the windowsill with the first sprouts visible — tiny yellow-green cotyledons breaking through the soil in several cells just 3 days after sowing](pictures/17-first-sprouts.jpg)
+
+**What's next on the seedling watch:**
+- More cells waking up over the next week
+- **First true leaves** (1–2 weeks from now) — the signal to start a gentle feeding routine
+- **Hardening off** starts early May — a week of gradual outdoor exposure before the full move
+- **May 15+** — the big transplant outdoors after Stuttgart's Eisheiligen frost risk passes
+
+This is the moment every seed-starting gardener lives for. The balcony just became a nursery.
+
+---
+
 ## The Story So Far
 
-Sixteen photos across four days — from a bare table of supplies to a balcony filling up with life (and a pink dianthus glow-up on the railing!). Emma's garden now has:
+Seventeen photos across five days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of newborn sprouts. Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
 - **Seeds** germinating on the windowsill (cosmos and zinnias)
 - **Herbs** in their own pots (basil and chocolate mint)
@@ -211,7 +241,7 @@ Sixteen photos across four days — from a bare table of supplies to a balcony f
 This balcony is transforming fast!
 
 **Coming soon:**
-- First green sprouts from the seed tray!
+- More sprouts waking up + first true leaves on the seedlings!
 - The gift arrangement finally getting repotted into individual pots
 - Hardening off and the big move outdoors (May 15!)
 - BLOOMS everywhere! (June and beyond)
@@ -220,4 +250,4 @@ This balcony is transforming fast!
 
 ---
 
-*Photos from April 14-18, 2026 — Days 1, 2, 3 & 4 of Emma's Garden*
+*Photos from April 14-19, 2026 — Days 1 through 5 of Emma's Garden*

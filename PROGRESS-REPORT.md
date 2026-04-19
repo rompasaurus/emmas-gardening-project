@@ -26,6 +26,7 @@ permalink: /PROGRESS-REPORT
 | April 18, 2026 | 2 pink dianthus planted in 37×28cm saddle planter | Done |
 | April 18, 2026 | Expandable hose installed on balcony wall | Done |
 | April 18, 2026 | Balcony workstation cleaned and hosed down | Done |
+| April 19, 2026 | First sprouts! Cosmos/zinnia seedlings up on Day 3 | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
@@ -232,6 +233,28 @@ First job for the new hose: cleaning down the balcony workstation. The tiled flo
 
 ---
 
+### Session 6 — April 19, 2026 — "WE HAVE SPROUTS!"
+
+**Day 3 after sowing and the first green is already up!**
+
+Emma peeked at the windowsill tray this morning and there they were — **tiny yellow-green seedlings** pushing through the soil in several cells, curled cotyledons breaking free. Sown on April 16, so today is **Day 3 post-sow** — ahead of the 5–10 day window and a sign that the humidity dome + bright windowsill combo is working exactly as intended.
+
+![First sprouts! Several cells of the 18-cell tray showing tiny yellow-green cotyledons pushing up through the soil — Day 3 after sowing cosmos and zinnias](pictures/17-first-sprouts.jpg)
+
+**What we're looking at:** the first cotyledons (seed leaves) — not the "true" leaves yet, but the sign that germination is complete. Zinnias are known for quick germination (3–7 days) so these early risers are almost certainly zinnias. Cosmos usually take a few more days.
+
+**Immediate care changes now that things are sprouting:**
+
+1. **Lid off (or propped open).** Once sprouts are visible, the humidity dome starts working against you — too much moisture = damping off, the fungal disease that collapses seedlings overnight. Better to let air circulate.
+2. **Light, light, light.** Sprouts stretch toward the brightest source. Keep the tray on the brightest spot available and **rotate the tray 180° each day** to prevent leaning.
+3. **Water from below if possible.** Seedlings are fragile — misting from above can flatten them. Pour water into the outer green tray and let the cells wick it up.
+4. **No fertilizer yet.** The cotyledons carry the seed's own food reserves. First feeding comes when the first pair of true leaves appears.
+5. **Watch for the rest.** More cells will wake up over the next 5–7 days. Empty cells aren't failures — patience first.
+
+**Next milestone:** First true leaves — typically 1–2 weeks after germination. That's the green light to start thinking about transplanting up to bigger pots (if they outgrow the cells) before the **May 15 outdoor transplant date**.
+
+---
+
 
 **Discord Update — April 18, 2026:** take the latest change in the gardening project and push it to the site
 
@@ -257,9 +280,10 @@ First job for the new hose: cleaning down the balcony workstation. The tiled flo
 - 2 pink dianthus planted together in their new saddle planter and mounted on the sunny railing
 - Expandable garden hose installed on the balcony wall
 - Balcony workstation hosed down and cleaned up
+- **First sprouts up on April 19 — Day 3 after sowing!**
 
 ### In Progress
-- Waiting for seed germination (expected 5–10 days from April 16)
+- Seedlings growing — waiting for more cells to wake up and for first true leaves
 - Gift arrangement still in original container — needs repotting (soil now available!)
 
 ### Not Yet Started
@@ -290,11 +314,11 @@ First job for the new hose: cleaning down the balcony workstation. The tiled flo
 | April 18, 2026 | Pink dianthus planted and mounted on the sunny railing | ![dianthus](pictures/14-dianthus-planted-on-railing.jpg) |
 | April 18, 2026 | New expandable hose installed on the balcony wall | ![hose](pictures/15-hose-installed.jpg) |
 | April 18, 2026 | Workstation hosed down and cleaned up | ![workstation](pictures/16-workstation-cleaned.jpg) |
-| | First sprouts! | *(coming soon!)* |
+| April 19, 2026 | First sprouts! Cosmos/zinnia seedlings on Day 3 | ![sprouts](pictures/17-first-sprouts.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 18, 2026*
+*Last updated: April 19, 2026*

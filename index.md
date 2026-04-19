@@ -19,8 +19,8 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16 |
-| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown indoors April 16 |
+| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown April 16 — sprouting April 19! |
+| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown April 16 — first sprouts up April 19! |
 | Basil (Basilikum) | Herb - potted | Summer | Potted in 27cm TEDI pot |
 | Chocolate Mint | Herb - potted | Summer | Potted solo in 27cm TEDI pot |
 | Dianthus (Pink) | 2x potted plants | Spring - Summer | Planted in 37×28cm TEDI saddle planter on the sunny railing |
@@ -34,11 +34,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The gift arrangement in all its colorful glory, with the pink dianthus keeping it company](pictures/10-gift-arrangement-and-dianthus.jpg)
 
-## Latest Update — April 18, 2026
+## Latest Update — April 19, 2026
 
-> Dianthus Day! A quick TEDI run turned up the perfect **€4 gray saddle planter (37×28cm)** for the two pink dianthus — same finish as the brodiaea planters, proper depth, side-by-side room for both plants. They got potted up in the evening (cooler = less stress), spaced 15–20cm apart with crowns at soil level, watered in thoroughly, and mounted on the sunny railing. Bonus: Emma's new **expandable garden hose** arrived and got installed on the wall — no more watering-can marathons. First job for the hose? Washing down the whole workstation. The balcony now looks official.
+> **WE HAVE SPROUTS!** Just 3 days after sowing (April 16 → April 19), the first tiny yellow-green cotyledons are pushing through the soil in the 18-cell tray. Ahead of the 5–10 day schedule — the bright windowsill + humidity dome combo worked exactly as planned. Lid comes off now (damping-off risk), and the tray gets a 180° turn every day to keep the sprouts growing straight. More cells will wake up over the next week. The zinnias are almost certainly the speedy ones — cosmos usually take a beat longer. First true leaves expected in 1–2 weeks, then hardening off starts in early May for the big **May 15** move outdoors.
 
-![The pink dianthus settled into their new gray saddle planter on the sunny railing](pictures/14-dianthus-planted-on-railing.jpg)
+![First sprouts up on Day 3 — tiny yellow-green cotyledons in the seed tray](pictures/17-first-sprouts.jpg)
 
 ## Project Pages
 
