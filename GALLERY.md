@@ -228,14 +228,37 @@ This is the moment every seed-starting gardener lives for. The balcony just beca
 
 ---
 
+## Basil After Replanting — "Look at Those Leaves!"
+
+The **basil** got replanted and is absolutely thriving. Those big, lush green leaves are filling out the pot beautifully — clearly loving the fresh soil and the morning sun. This is a basil plant that's ready to start earning its keep in the kitchen. The replanting gave it room to spread out, and it's responding with the kind of vigorous growth that says "I'm happy here."
+
+Freshly watered and glistening on the patio tiles — this is what a well-settled herb looks like.
+
+![Basil after replanting — lush green leaves filling out the black pot, freshly watered and soaking up the morning sun](pictures/18-basil-after-replanting.jpg)
+
+---
+
+## Mint After Replanting — "The Comeback Kid"
+
+The **chocolate mint** is bouncing back after its replanting with fresh bright green shoots pushing up through the dark soil. You can see several new growth points — each one of those little leaf clusters is going to become a full stem within a week or two. Mint is famously resilient, and this one is proving the point.
+
+Sitting by the window ledge with plenty of light, the mint is wasting no time establishing itself in its refreshed pot. Give it a couple of weeks and this pot will be overflowing with fragrant leaves.
+
+![Mint after replanting — fresh bright green shoots emerging from the soil, multiple growth points already visible and reaching for the light](pictures/19-mint-after-replanting.jpg)
+
+---
+
+---
+
 ## The Story So Far
 
-Seventeen photos across five days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of newborn sprouts. Emma's garden now has:
+Nineteen photos across five days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of newborn sprouts. Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
 - **Seeds** germinating on the windowsill (cosmos and zinnias)
 - **Herbs** in their own pots (basil and chocolate mint)
 - **Flowers** on the sunny railing (the pink dianthus, finally in their forever planter!)
 - **Gift arrangement** still waiting for its repotting session
+- **Replanted herbs** looking healthier than ever (basil lush, mint sprouting fresh)
 - **A proper hose setup** on the wall and a clean workstation to match
 
 This balcony is transforming fast!
@@ -250,4 +273,4 @@ This balcony is transforming fast!
 
 ---
 
-*Photos from April 14-19, 2026 — Days 1 through 5 of Emma's Garden*
+*Photos from April 14–19, 2026 — Days 1 through 5 of Emma's Garden*

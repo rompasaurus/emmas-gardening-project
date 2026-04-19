@@ -27,6 +27,7 @@ permalink: /PROGRESS-REPORT
 | April 18, 2026 | Expandable hose installed on balcony wall | Done |
 | April 18, 2026 | Balcony workstation cleaned and hosed down | Done |
 | April 19, 2026 | First sprouts! Cosmos/zinnia seedlings up on Day 3 | Done |
+| April 19, 2026 | Basil & mint improving after replanting | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
@@ -241,6 +242,14 @@ Emma peeked at the windowsill tray this morning and there they were — **tiny y
 
 ![First sprouts! Several cells of the 18-cell tray showing tiny yellow-green cotyledons pushing up through the soil — Day 3 after sowing cosmos and zinnias](pictures/17-first-sprouts.jpg)
 
+**Basil & mint update — replanted and improving!**
+
+Emma also checked in on the basil and mint today. Both were replanted and are looking noticeably healthier — the basil is pushing out lush, full leaves and the mint is sending up fresh bright green shoots. The replanting clearly agreed with them.
+
+![Basil after replanting — lush green leaves filling out the pot, soaking up the morning sun on the patio](pictures/18-basil-after-replanting.jpg)
+
+![Mint after replanting — fresh bright green shoots pushing up through the soil, already reaching for the light](pictures/19-mint-after-replanting.jpg)
+
 **What we're looking at:** the first cotyledons (seed leaves) — not the "true" leaves yet, but the sign that germination is complete. Zinnias are known for quick germination (3–7 days) so these early risers are almost certainly zinnias. Cosmos usually take a few more days.
 
 **Immediate care changes now that things are sprouting:**
@@ -281,6 +290,7 @@ Emma peeked at the windowsill tray this morning and there they were — **tiny y
 - Expandable garden hose installed on the balcony wall
 - Balcony workstation hosed down and cleaned up
 - **First sprouts up on April 19 — Day 3 after sowing!**
+- Basil and mint replanted and improving — looking healthier than ever
 
 ### In Progress
 - Seedlings growing — waiting for more cells to wake up and for first true leaves
@@ -315,6 +325,8 @@ Emma peeked at the windowsill tray this morning and there they were — **tiny y
 | April 18, 2026 | New expandable hose installed on the balcony wall | ![hose](pictures/15-hose-installed.jpg) |
 | April 18, 2026 | Workstation hosed down and cleaned up | ![workstation](pictures/16-workstation-cleaned.jpg) |
 | April 19, 2026 | First sprouts! Cosmos/zinnia seedlings on Day 3 | ![sprouts](pictures/17-first-sprouts.jpg) |
+| April 19, 2026 | Basil looking lush after replanting | ![basil](pictures/18-basil-after-replanting.jpg) |
+| April 19, 2026 | Mint pushing fresh shoots after replanting | ![mint](pictures/19-mint-after-replanting.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
