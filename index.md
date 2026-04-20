@@ -19,8 +19,8 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sown April 16 — sprouting April 19! |
-| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sown April 16 — first sprouts up April 19! |
+| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sprouting! ~70% up |
+| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sprouting! ~70% up |
 | Basil (Basilikum) | Herb - potted | Summer | Potted in 27cm TEDI pot |
 | Chocolate Mint | Herb - potted | Summer | Potted solo in 27cm TEDI pot |
 | Dianthus (Pink) | 2x potted plants | Spring - Summer | Planted in 37×28cm TEDI saddle planter on the sunny railing |
@@ -34,11 +34,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The gift arrangement in all its colorful glory, with the pink dianthus keeping it company](pictures/10-gift-arrangement-and-dianthus.jpg)
 
-## Latest Update — April 19, 2026
+## Latest Update — April 20, 2026
 
-> **WE HAVE SPROUTS!** Just 3 days after sowing (April 16 → April 19), the first tiny yellow-green cotyledons are pushing through the soil in the 18-cell tray. Ahead of the 5–10 day schedule — the bright windowsill + humidity dome combo worked exactly as planned. Lid comes off now (damping-off risk), and the tray gets a 180° turn every day to keep the sprouts growing straight. More cells will wake up over the next week. The zinnias are almost certainly the speedy ones — cosmos usually take a beat longer. First true leaves expected in 1–2 weeks, then hardening off starts in early May for the big **May 15** move outdoors.
+> First sprouts are here! The cosmos and zinnia seeds sown April 16 broke through on April 19 — just 3 days! By this morning, ~70% of cells have visible sprouts. Dome management has begun: lid off during sunny daytime hours, back on at night for warmth. No watering today — soil is still very wet. Rotation starts: 180° daily turn so sprouts grow straight. The babies are doing great!
 
-![First sprouts up on Day 3 — tiny yellow-green cotyledons in the seed tray](pictures/17-first-sprouts.jpg)
+![~70% of cells sprouted — dome off, sprouts standing tall, the windowsill greenhouse is working!](pictures/20-sproutlings-progress.jpg)
 
 ## Project Pages
 

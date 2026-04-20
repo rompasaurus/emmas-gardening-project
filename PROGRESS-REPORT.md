@@ -28,6 +28,7 @@ permalink: /PROGRESS-REPORT
 | April 18, 2026 | Balcony workstation cleaned and hosed down | Done |
 | April 19, 2026 | First sprouts! Cosmos/zinnia seedlings up on Day 3 | Done |
 | April 19, 2026 | Basil & mint improving after replanting | Done |
+| April 20, 2026 | ~70% sprouted, dome management shifted | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
@@ -264,9 +265,34 @@ Emma also checked in on the basil and mint today. Both were replanted and are lo
 
 ---
 
+### Session 7 — April 20, 2026 — "The Babies Are Here!"
 
-**Discord Update — April 18, 2026:** take the latest change in the gardening project and push it to the site
+**Day 2 of sprout life — and Emma is officially a plant parent!**
 
+The cosmos and zinnia seeds sown on April 16 defied expectations. First sprouts appeared on April 19 — just 3 days after sowing, well ahead of the 5–10 day estimate. By this morning (April 20), approximately **70% of cells have visible sprouts**. They're green, standing upright, and showing no signs of legginess. Ahead of schedule!
+
+![~70% of cells sprouted — dome off, sprouts standing tall on the windowsill. The zinnia seed packet sits nearby as a proud reminder of where it all started](pictures/20-sproutlings-progress.jpg)
+
+Emma headed straight to the sprouts first thing in the morning — full plant-parent mode activated. The soil was quite wet with heavy condensation on the dome, so the session focused on managing airflow and moisture.
+
+**Key decisions made:**
+
+- **Dome off during the day:** The humidity dome comes off during sunny daytime hours to let air circulate and prevent damping off. Dome goes back on at night when Stuttgart temperatures drop, with the built-in vent slider left open.
+- **Skip watering today:** Soil is saturated — dark and wet with heavy condensation. Next watering will be **bottom-watering** (add water to the tray underneath, not from above) once the soil dries back.
+- **Daily rotation:** Turn the tray 180° every day so sprouts grow straight instead of leaning toward the window light.
+- **Grow light not needed:** The sunny windowsill + late-April Stuttgart daylight (14+ hours) is more than enough. Only reconsider if sprouts become leggy (tall, thin, pale, flopping).
+- **Vent tool sorted:** The dome has a built-in slider vent — no need for pencils or chopsticks. A wine cork laid on its side works as a stable prop if more airflow is needed.
+
+**Watch list for the coming week:**
+
+- **Legginess** in stems → would signal need for more light
+- **True leaves** (second set, different shape from the round first pair) → readiness milestone for full sun and transplant prep
+- **Damping off** (fungal collapse at stem base) → risk from soggy soil + warm dome; prevented by venting and letting soil dry back
+- **Soil moisture** → water only when drying back; always bottom-water from now on
+
+**Emma's emotional state:** Nervous, anxious, utterly devoted. Had to be told three times to go make coffee and stop hovering over the sprouts. Classic first-time plant parent energy!
+
+---
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -281,6 +307,9 @@ Emma also checked in on the basil and mint today. Both were replanted and are lo
 - Cosmos seeds sown indoors (9 cells, 1–2 seeds each)
 - Zinnia seeds sown indoors (9 cells, 1–2 seeds each)
 - Tray placed on bright windowsill with humidity lid
+- First sprouts emerged April 19 — just 3 days after sowing!
+- ~70% of cells sprouted by April 20
+- Dome management started: off during day, on at night with vent open
 - Lavender postponed to next season (needs stratification, timing too tight)
 - OBI run: basil, chocolate mint, 2x pink dianthus, 3x TEDI pots, 17L Compo soil
 - Basil potted solo in 27cm TEDI pot
@@ -293,11 +322,13 @@ Emma also checked in on the basil and mint today. Both were replanted and are lo
 - Basil and mint replanted and improving — looking healthier than ever
 
 ### In Progress
-- Seedlings growing — waiting for more cells to wake up and for first true leaves
+- Sprout care: managing dome, airflow, moisture, and daily rotation
+- Watching for true leaves (readiness milestone for transplant prep)
 - Gift arrangement still in original container — needs repotting (soil now available!)
 
 ### Not Yet Started
 - Repotting gift arrangement into individual pots
+- Hardening off seedlings (starts ~May 1)
 - Transplanting cosmos/zinnias outdoors (scheduled for May 15+)
 - Fertilizing routine (starts mid-May)
 
@@ -327,10 +358,11 @@ Emma also checked in on the basil and mint today. Both were replanted and are lo
 | April 19, 2026 | First sprouts! Cosmos/zinnia seedlings on Day 3 | ![sprouts](pictures/17-first-sprouts.jpg) |
 | April 19, 2026 | Basil looking lush after replanting | ![basil](pictures/18-basil-after-replanting.jpg) |
 | April 19, 2026 | Mint pushing fresh shoots after replanting | ![mint](pictures/19-mint-after-replanting.jpg) |
+| April 20, 2026 | Sproutlings progress — ~70% sprouted, dome off! | ![sprouts](pictures/20-sproutlings-progress.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 19, 2026*
+*Last updated: April 20, 2026*

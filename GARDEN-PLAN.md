@@ -49,9 +49,13 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 ### Week of April 21–27
 
-- [ ] Check seed germination — cosmos and zinnias should sprout in 5–10 days (sown April 16)
-- [ ] Keep seed tray moist — spray bottle daily, keep humidity lid on until sprouts appear
-- [ ] Remove humidity lid once first sprouts emerge — they need air circulation
+- [x] ~~Check seed germination~~ — **Sprouted early!** First sprouts April 19, ~70% up by April 20
+- [x] ~~Remove humidity lid once first sprouts emerge~~ — Dome off during day, on at night with vent open (April 20)
+- [ ] **Bottom-water only** — no top watering from now on; water when soil dries back
+- [ ] **Rotate tray 180° daily** — prevents sprouts leaning toward window
+- [ ] Watch for **true leaves** (second set, different shape) — readiness milestone
+- [ ] Watch for **legginess** — if stems get tall/thin/pale, need more light
+- [ ] Watch for **damping off** — fungal collapse at stem base from soggy soil
 - [ ] Water brodiaea only when top 2 cm of soil is dry
 - [ ] Receive new brown Compo soil order
 - [ ] Repot gift arrangement once new soil arrives
@@ -170,4 +174,4 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 ---
 
-*Last updated: April 15, 2026*
+*Last updated: April 20, 2026*

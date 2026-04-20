@@ -250,11 +250,31 @@ Sitting by the window ledge with plenty of light, the mint is wasting no time es
 
 ---
 
+# Day 6 — April 20, 2026: The Babies Are Here!
+
+---
+
+## Sproutlings Progress — "Oh My God, They're Alive!"
+
+The moment every first-time gardener dreams about — and Emma's reaction was exactly what you'd expect. She headed straight to the windowsill first thing in the morning, coffee forgotten, phone in hand, ready to document everything.
+
+And what a sight! The **18-cell seed tray** is buzzing with life. Approximately **70% of cells** now have visible sprouts — tiny green shoots standing upright, pushing through the dark Compo Bio soil. Cosmos and zinnias, both sprouting strong. The seeds were sown on April 16, first sprouts appeared on April 19 (just 3 days!), and by this morning they're well ahead of the 5–10 day estimate.
+
+The humidity dome is off — you can see it pushed to the side. The **zinnia seed packet** sits on the table like a proud birth certificate, and there's even a **wine cork** nearby that was offered as a dome-propping solution (turns out the dome has a built-in slider vent — problem solved!). Through the window behind the tray, the balcony is visible where the brodiaea and babiana bulbs are quietly doing their underground work.
+
+The soil is dark and wet — too wet, actually. Today's care plan: no watering (let it dry back), dome off during sunny hours for airflow, dome back on at night for warmth, and a daily 180° rotation so the sprouts grow straight instead of leaning toward the light.
+
+**Emma's emotional state during this session:** nervous, anxious, hovering, utterly devoted. Had to be told three times to step away and go make coffee. Classic first-time plant parent energy — and honestly? The sprouts are lucky to have her.
+
+![The seed tray on the windowsill — ~70% of cells have visible sprouts pushing through the soil. The dome is off, the zinnia packet sits nearby, and the wine cork that was almost a vent prop rests on the table. These babies are thriving!](pictures/20-sproutlings-progress.jpg)
+
+---
+
 ## The Story So Far
 
-Nineteen photos across five days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of newborn sprouts. Emma's garden now has:
+Twenty photos across six days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of thriving sprouts. Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Seeds** germinating on the windowsill (cosmos and zinnias)
+- **Sprouts** on the windowsill — cosmos and zinnias breaking through!
 - **Herbs** in their own pots (basil and chocolate mint)
 - **Flowers** on the sunny railing (the pink dianthus, finally in their forever planter!)
 - **Gift arrangement** still waiting for its repotting session
@@ -264,7 +284,7 @@ Nineteen photos across five days — from a bare table of supplies to a balcony 
 This balcony is transforming fast!
 
 **Coming soon:**
-- More sprouts waking up + first true leaves on the seedlings!
+- True leaves emerging (the next big milestone!)
 - The gift arrangement finally getting repotted into individual pots
 - Hardening off and the big move outdoors (May 15!)
 - BLOOMS everywhere! (June and beyond)
@@ -273,4 +293,4 @@ This balcony is transforming fast!
 
 ---
 
-*Photos from April 14–19, 2026 — Days 1 through 5 of Emma's Garden*
+*Photos from April 14–20, 2026 — Days 1 through 6 of Emma's Garden*

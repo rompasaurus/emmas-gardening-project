@@ -729,8 +729,8 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 **Emma's Plants at a Glance:**
 
 ```
-COSMOS          Sun: Full | Water: Regular    | Sown indoors Apr 16 | Outside: May 15+
-ZINNIA          Sun: Full | Water: Regular    | Sown indoors Apr 16 | Outside: May 15+
+COSMOS          Sun: Full | Water: Regular    | Sprouting! Apr 19   | Outside: May 15+
+ZINNIA          Sun: Full | Water: Regular    | Sprouting! Apr 19   | Outside: May 15+
 LAVENDER        Sun: Full | Water: Light      | Saved for next season
 BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15   | Blooms: June-Aug
 BABIANA         Sun: Full | Water: When dry   | Planted: April 17   | Blooms: Late spring
@@ -742,4 +742,4 @@ GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 
 ---
 
-*Research compiled April 15, 2026 — Last updated April 17, 2026*
+*Research compiled April 15, 2026 — Last updated April 20, 2026*
