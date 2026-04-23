@@ -270,22 +270,77 @@ The soil is dark and wet — too wet, actually. Today's care plan: no watering (
 
 ---
 
+---
+
+---
+
+# Day 7 — April 22, 2026: Tray 2 & The Grow Light!
+
+---
+
+## The Indoor Nursery Levels Up — "Succession Sowing + Real Light!"
+
+The indoor setup finally looks the part. A **dual-head gooseneck LED ring grow light** arched over **Tray 1** (leggy cosmos and zinnia sprouts stretching for the window), with **Tray 2** in the back — freshly sown, dome on, waiting out its germination window. Stuttgart rooftops glow in the evening light through the balcony railing behind it.
+
+Tray 2 got the same treatment as Tray 1 (TEDI lidded cell tray, Compo Sana Qualitäts-Blumenerde, 1–2 seeds per cell, covered with ~0.5 cm of soil, misted) — but this time positioned right under the grow light from day one. Expected sprouts in ~3 days.
+
+The grow light was initially too high (~25–30 cm up) and got **lowered to 10–15 cm** above the seedling tops, set on a **16-hour timer** with 8 hours of consecutive darkness. Tray 1's leggy sprouts will tighten up over the next 2–4 days under the proper light, and any remaining stretched stems will get **buried deep at transplant** — cosmos and zinnia root along the buried portion of the stem, turning the stretch into extra anchoring.
+
+![The indoor nursery at full strength — Tray 1 seedlings under the dual-head gooseneck grow light, Tray 2 with its dome on behind, Stuttgart rooftops through the window](pictures/21-tray2-grow-light-setup.jpg)
+
+---
+
+---
+
+# Day 8 — April 23, 2026: Dianthus In, The Nook Is Born!
+
+---
+
+## Dianthus Thriving on the Railing — "Pink Heaven!"
+
+Five days after planting and the two pink **dianthus** are showing what they were bought for: full, bushy foliage, pink blooms open, and dozens of unopened buds promising weeks of color ahead. The €4 gray TEDI saddle planter is doing exactly what it was picked for — sitting pretty on the railing, framing a view of the Stuttgart rooftops.
+
+Care from here is easy: **let the top 2 cm of soil dry** between waterings (dianthus hate soggy roots), and **deadhead** spent blooms (pinch them off once they fade and brown) to keep new ones coming all season. It rained two days ago, so no watering today — the saddle planter is draining well and the soil is still moist a knuckle deep.
+
+![The pink dianthus in full bloom in their saddle planter on the railing, Stuttgart rooftops catching the afternoon light](pictures/22-dianthus-hanging-planter.webp)
+
+---
+
+## Michael's Nook — "A Little Green On The Granite Sill"
+
+A new chapter for the apartment: **Michael's Nook**. The granite windowsill is now home to three carefully chosen plants, lined up left to right and soaking up the afternoon sun over Stuttgart's rooftops.
+
+- **Snake plant (Sansevieria trifasciata 'Laurentii')** — that compact upright rosette with bold yellow-edged green leaves. Picked over the silvery 'Moonshine' because the yellow margins play perfectly off the granite.
+- **Haworthia "Safari"** (tiger aloe) — tiny, white-speckled rosette. Stood in for the Aloe vera (the ones at OBI looked overwatered and floppy). The speckled pattern echoes the snake plant's banding.
+- **Mini pineapple (Ananas nanus)** — the bromeliad with the decorative fruit crown, picked for the greenest, freshest fruit on the shelf.
+
+They're still in their nursery pots for now — proper pots with drainage holes and saucers are arriving from Amazon on Saturday (12 cm for the snake plant and mini pineapple, 10–11 cm for the tiger aloe). Soil is already ready: **OBI Kakteen- und Bonsaierde torffrei** (peat-free cactus/bonsai mix).
+
+Until then: no watering, rotate each pot a quarter-turn every couple of days, and enjoy the view.
+
+![Snake plant, tiger aloe 'Safari', and mini pineapple in their nursery pots on the granite sill — Michael's Nook in its opening scene, Stuttgart rooftops in afternoon light](pictures/23-nook-plants-windowsill.webp)
+
+---
+
 ## The Story So Far
 
-Twenty photos across six days — from a bare table of supplies to a balcony filling up with life AND a windowsill full of thriving sprouts. Emma's garden now has:
+Twenty-three photos across eight days — from a bare table of supplies to a balcony (and a windowsill!) filling up with life. Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Sprouts** on the windowsill — cosmos and zinnias breaking through!
-- **Herbs** in their own pots (basil and chocolate mint)
-- **Flowers** on the sunny railing (the pink dianthus, finally in their forever planter!)
-- **Gift arrangement** still waiting for its repotting session
-- **Replanted herbs** looking healthier than ever (basil lush, mint sprouting fresh)
+- **Two trays of seeds** germinating under a proper grow light — Tray 1 (~70% sprouted) + Tray 2 (succession sown April 22)
+- **Herbs** in their own pots (chocolate mint thriving; basil needs a redo)
+- **Dianthus** blooming in their saddle planter on the railing
+- **Sempervivum** — the evergreen backbone's first recruit, waiting on anchor pots
+- **Michael's Nook** — snake plant, tiger aloe, mini pineapple on the granite sill
 - **A proper hose setup** on the wall and a clean workstation to match
 
-This balcony is transforming fast!
+This balcony is transforming fast — and it's officially a year-round project now.
 
 **Coming soon:**
-- True leaves emerging (the next big milestone!)
+- First true leaves on Tray 1 → first pot-up into 10 cm pots
+- Tray 2 sprouts (any day now!)
 - The gift arrangement finally getting repotted into individual pots
+- The Nook plants and Sempervivum moving into their proper pots (April 25)
+- The evergreen-backbone anchor pots flanking the reading chair
 - Hardening off and the big move outdoors (May 15!)
 - BLOOMS everywhere! (June and beyond)
 
@@ -293,4 +348,4 @@ This balcony is transforming fast!
 
 ---
 
-*Photos from April 14–20, 2026 — Days 1 through 6 of Emma's Garden*
+*Photos from April 14–23, 2026 — Days 1 through 8 of Emma's Garden*

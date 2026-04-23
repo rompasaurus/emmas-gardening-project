@@ -19,11 +19,15 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (9 cells) | Summer - Fall | Sprouting! ~70% up |
-| Zinnia (Field Mix) | Seeds (9 cells) | Summer - Fall | Sprouting! ~70% up |
-| Basil (Basilikum) | Herb - potted | Summer | Potted in 27cm TEDI pot |
-| Chocolate Mint | Herb - potted | Summer | Potted solo in 27cm TEDI pot |
-| Dianthus (Pink) | 2x potted plants | Spring - Summer | Planted in 37×28cm TEDI saddle planter on the sunny railing |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% (leggy) + Tray 2 sown April 22 |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% (leggy) + Tray 2 sown April 22 |
+| Basil (Basilikum) | Herb - potted | Summer | Struggling (supermarket pot) — replacement planned |
+| Chocolate Mint | Herb - potted | Summer | Doing well, solo in shaded pot |
+| Dianthus (Pink) | 2x in 37×28cm saddle planter | Spring - Summer | On sunny railing, full buds (Apr 23) |
+| Sempervivum (mixed 6-pack) | Evergreen succulent | Year-round foliage | Bought Apr 23 — awaiting anchor pots |
+| Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
+| Haworthia "Safari" | Succulent (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
+| Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 | Daffodils | Gift arrangement | Spring | Needs repotting |
 | Ranunculus | Gift arrangement | Spring | Needs repotting |
@@ -32,13 +36,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
 | Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
-![The gift arrangement in all its colorful glory, with the pink dianthus keeping it company](pictures/10-gift-arrangement-and-dianthus.jpg)
+![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 20, 2026
+## Latest Update — April 23, 2026
 
-> First sprouts are here! The cosmos and zinnia seeds sown April 16 broke through on April 19 — just 3 days! By this morning, ~70% of cells have visible sprouts. Dome management has begun: lid off during sunny daytime hours, back on at night for warmth. No watering today — soil is still very wet. Rotation starts: 180° daily turn so sprouts grow straight. The babies are doing great!
-
-![~70% of cells sprouted — dome off, sprouts standing tall, the windowsill greenhouse is working!](pictures/20-sproutlings-progress.jpg)
+> Big day! The dianthus are thriving in their saddle planter on the sunny railing — full of buds and pink blooms. An afternoon OBI trip kicked off **Michael's Nook** (snake plant 'Laurentii', Haworthia "Safari", and a mini pineapple on the granite sill) and the **evergreen backbone** design concept — two large anchor pots flanking the reading chair will pair Sempervivum (bought today) with rotating seasonal flowers. Pot-up containers (100× 10cm) ordered for Tray 1, plus 3 Nook pots + 2 anchor pots coming from Amazon Saturday. Tray 2 was sown yesterday under the new grow light, which is now running on a 16h timer over both trays. The balcony is going year-round.
 
 ## Project Pages
 

@@ -29,10 +29,18 @@ permalink: /PROGRESS-REPORT
 | April 19, 2026 | First sprouts! Cosmos/zinnia seedlings up on Day 3 | Done |
 | April 19, 2026 | Basil & mint improving after replanting | Done |
 | April 20, 2026 | ~70% sprouted, dome management shifted | Done |
+| April 22, 2026 | Tray 2 sown (cosmos + zinnia succession) | Done |
+| April 22, 2026 | Grow light arrived and set up at 10–15 cm | Done |
+| April 22, 2026 | Dicot weeds removed from bulb planters | Done |
+| April 23, 2026 | Michael's Nook — OBI trip, 3 plants acquired | Done |
+| April 23, 2026 | Sempervivum 6-pack bought — evergreen backbone starts | Done |
+| April 23, 2026 | Pot-up containers ordered (100× 10cm KPYZLBD) | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
+| April 25, 2026 | Amazon pot order arrives (Nook + Sempervivum anchors) | Upcoming |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
+| July–August 2026 | Plan fall/winter sowing | Upcoming |
 
 ---
 
@@ -293,6 +301,211 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 **Emma's emotional state:** Nervous, anxious, utterly devoted. Had to be told three times to go make coffee and stop hovering over the sprouts. Classic first-time plant parent energy!
 
 ---
+
+### Session 8 — April 22, 2026 — "Tray 2 & The Grow Light Arrives!"
+
+**Succession sowing day — plus the grow light finally showed up to rescue the leggy seedlings.**
+
+Day 7 of the garden, and the windowsill real estate is officially at capacity. Tray 2 got sown with a fresh batch of cosmos and zinnia for a staggered bloom window, an investigation of mystery sprouts in the bulb planters turned up some weeds, and the dual-head gooseneck LED grow light landed just in time.
+
+![Tray 1 seedlings under the new dual-head gooseneck grow light, with Tray 2 (dome on) beside it on the wooden dresser — the indoor nursery is fully operational](pictures/21-tray2-grow-light-setup.jpg)
+
+**Tray 2 — cosmos + zinnia succession sowing:**
+
+Same process that worked for Tray 1, with a few tweaks:
+
+- TEDI lidded cell tray (matching Tray 1)
+- Compo Sana Qualitäts-Blumenerde (new bag)
+- Cells filled to ~2 cm from the rim
+- Small hole poked in the center of each cell, 1–2 seeds dropped in, covered with ~0.5 cm of soil
+- Gentle mist watering with the new spray bottle
+- Dome on, placed indoors by the window on the wooden dresser
+
+Expected sprouts in ~3 days based on Tray 1's timing.
+
+**Bulb planters — the mystery sprout investigation:**
+
+Tiny green sprouts showed up in both the Brodiaea (2 gray railing planters) and the Babiana (53 cm hanging planter). Close inspection revealed **dicot cotyledons** — paired round leaves. Brodiaea and Babiana are monocots and would emerge as thin grass-like blades, so these weren't the bulbs.
+
+Verdict: **weeds**, almost certainly from weed seeds in the Compo potting mix. Pulled to avoid nutrient and water competition with the bulbs below.
+
+**Grow light — arrived, set up, adjusted:**
+
+Dual-head gooseneck LED ring grow light. First attempt placed it too high (~25–30 cm above the seedlings). Lowered to **10–15 cm above seedling tops**. Set on a **16-hour timer** (8 hours of consecutive darkness). A regular LED strip was considered as a supplement but rejected — decorative strips aren't the right spectrum.
+
+**Tray 1 — status check:**
+
+Sprouts looking leggy (tall thin stems, cotyledons stretched toward the light). Cause: insufficient light before the grow light arrived. Plan: at transplant (after May 15), **bury the stretched stem deep**, up to just below the cotyledons — cosmos and zinnia will root along the buried portion.
+
+**Notes for the next few days:**
+
+- Check Tray 2 dome daily for condensation — vent if heavy droplets form
+- Remove dome as soon as sprouts appear (prevents damping-off)
+- Expect Tray 1 growth to come in tighter and sturdier under the grow light within 2–4 days
+- Rotate trays 180° daily once sprouts emerge
+- Skip watering Tray 2 until sprouts are visible
+- Gentle stem ruffling or a low fan helps strengthen stems
+- Sunny days ahead — natural light will supplement nicely
+
+---
+
+### Session 9 — April 23, 2026 — "Dianthus In, Nook Born, Backbone Begins"
+
+**A big day — the dianthus are thriving, Michael's Nook came together at OBI, the evergreen backbone concept kicked off, and pot-up containers were ordered. Lots of plans locked in.**
+
+**Morning check-in on the nursery:**
+
+- **Tray 1 (cosmos + zinnia, sown April 16):** Soil surface a little dry on top — not a concern (mild surface dryness helps keep damping-off at bay). No wilting, so no water today. Next watering will be **bottom-watered** to avoid flattening the leggy stems further.
+- **Tray 2 (cosmos + zinnia, sown April 22):** Barely any condensation on the dome. Day 1 after sowing is when the humid microclimate matters most. Plan: lift the dome, knuckle-deep moisture check, mist or bottom-water briefly if drying, then reseat firmly for a proper seal.
+- **Grow light schedule correction:** Was left on overnight by accident — switched off in the morning, back on for the day, and off at 22:00 to give plants a proper dark period. Timer to be verified.
+
+**Outdoor — herbs (separate pots):**
+
+Mint and basil are kept in separate pots. Mint lives in a shaded spot, deliberately away from everything else — it's famously aggressive and will bully anything sharing a container.
+
+- **Mint:** doing well. Once it has 3–4 sets of leaves, pinch the top pair just above a leaf node to force branching. Repeat every few weeks.
+- **Basil:** leggy, weak stems, probably not going to recover. This was a crowded supermarket/commercial pot (many seedlings competing from day one) — not a reflection on the care. Next attempt: sow from seed or split a commercial root ball into 3–4 separate clumps at transplant.
+
+**Dianthus — thriving in their saddle planter!**
+
+![The pink dianthus, full and blooming, in their 37×28cm gray saddle planter on the balcony railing — overlooking the Stuttgart rooftops](pictures/22-dianthus-hanging-planter.webp)
+
+The two pink dianthus are looking great on the railing — full foliage, lots of unopened buds, vivid pink blooms. No watering today; it rained two days ago and dianthus prefer to dry out between waterings (soggy roots = trouble).
+
+Watering rule of thumb: stick a finger ~2 cm into the soil — water only if dry at that depth. **Deadhead** spent blooms (pinch off flowers once they fade and brown) to keep new ones coming all season.
+
+**Outdoor — Babiana & Brodiaea bulb pots:**
+
+Finger-tested the soil on the bulb pots — still moist a knuckle deep. No watering today. Same principle as dianthus: let the top dry slightly before the next water.
+
+**Pot-up containers ordered (Option 1 chosen):**
+
+Ordered the **KPYZLBD pack of 100× 10 cm plastic propagation pots** with drainage holes (~$15.20, ~$0.15/pot). Right size for the first pot-up from the cell trays (fits the 7–9 cm guidance) and reusable across seasons. 100 count is intentional — this balcony garden is becoming a year-round project.
+
+Rejected: Option 2 (biodegradable paper-fiber) — dries out too fast, mold risk indoors under the grow light, and "plant the whole pot" doesn't apply to balcony containers. Option 3 (13.6 cm) — too big as a first step-up; excess soil around a small root ball stays wet too long and risks root rot.
+
+**Year-round garden planning — a new direction:**
+
+The project is shifting from "spring sowing" to a full year-round rotation:
+
+- **July–August:** Plan fall/winter sowing (candidates for Stuttgart: pansies, violas, ornamental kale, parsley, chives, maybe spinach or mâche)
+- **Late winter (Jan–Feb 2027):** Plan next spring's sowing
+- **Ongoing:** Note what thrived vs. struggled to inform next year
+
+**Design concept — the evergreen backbone:**
+
+New direction: build each large pot around an **evergreen backbone** (hardy foliage that stays green year-round) and rotate seasonal flowers around it. Keeps the balcony looking alive in winter — no empty, sad pots — and gives continuity across seasons.
+
+Concept: 1–2 evergreen structural plants per large pot + rotating seasonal flowers (cosmos/zinnia in summer → pansies/violas in fall → hellebores/primroses in late winter).
+
+Candidate evergreens (Stuttgart zone 7, container-suitable):
+
+- **Heuchera** ("coral bells") — compact, evergreen in mild winters, purple/lime/caramel/silver foliage
+- **Carex** (ornamental grasses) — graceful, with evergreen varieties
+- **Dwarf conifers** — tiny spruces, junipers, or thuja for real structure
+- **Euonymus fortunei** — variegated green/gold or green/white, very hardy
+- **Ivy (Hedera)** — classic trailing evergreen
+- **Lavender** (angustifolia) — semi-evergreen, silvery-green year-round, bonus summer blooms
+
+**Michael's Nook — the OBI trip:**
+
+An afternoon at OBI to finalize plants and soil for the Nook (the granite-sill reading spot overlooking Stuttgart's rooftops). The original plan was snake plant + small aloe vera + mini pineapple. The snake plant and mini pineapple stayed on the list; the Aloe vera got swapped after seeing what was in stock.
+
+![The Nook, set up on the granite sill in afternoon light — snake plant 'Laurentii', Haworthia 'Safari', and mini pineapple in their nursery pots, waiting on proper pots from Amazon. Stuttgart rooftops in the distance](pictures/23-nook-plants-windowsill.webp)
+
+**Final plant selection:**
+
+- **Snake plant (Sansevieria trifasciata 'Laurentii')** — bold yellow-edged green leaves, compact upright rosette. Picked over the silvery 'Moonshine' because the yellow margins complement the granite sill.
+- **Haworthia / small aloe "Safari"** — compact upright rosette with white-speckled pattern. Replaced the true Aloe vera (the Aloe veras at OBI looked overwatered and floppy). The speckled pattern pairs beautifully with the snake plant's banding.
+- **Mini pineapple (Ananas nanus)** — picked the specimen with the freshest, greenest fruit crown (longer-lasting decoration).
+
+**Soil:**
+
+- **Kakteen- und Bonsaierde torffrei** (OBI "grow" brand, 5 L, peat-free) — for the three Nook plants. Lechuza-Pon was rejected (wrong substrate — that's for self-watering Lechuza planters only).
+- Additional Compo compost picked up for general balcony use (top-ups, repotting outdoor plants).
+
+**Pots — ordering from Amazon:**
+
+The terracotta pots at OBI either lacked drainage or weren't the right size. Ordering 3× pots with drainage + saucers (Untersetzer) from Amazon:
+
+| Plant | Diameter | Height | Rationale |
+|-------|----------|--------|-----------|
+| Snake plant | 12 cm | 12–13 cm | Slightly more width than depth suits spreading rhizomes |
+| Tiger aloe "Safari" | 10–11 cm | 9–10 cm | Smallest plant, shallow roots |
+| Mini pineapple | 12 cm | 11–12 cm | Small root system — resist oversizing |
+
+Sill is ~40 cm deep — plenty of room. Saucers essential to protect the granite from water stains. **Estimated arrival: Saturday April 25.**
+
+**Care until pot-up:**
+
+Plants are acclimating. Minimize stress — no fertilizing, no major interventions, stable conditions.
+
+- **Light:** sunny window is ideal. Quarter-turn each pot every couple of days to grow evenly. Watch the aloe for leaf scorch in midday sun.
+- **Watering:** don't water for now. Nursery pots arrive moist; enough residual moisture for several days. **Overwatering after transition is the #1 killer of succulents.** Wait until the soil is fully dry (a week or more).
+- **Temperature:** 18–25°C, no cold drafts.
+
+Once potted up:
+
+- Snake plant: deep soak, then let soil dry completely. Winter: every 4–6 weeks.
+- Tiger aloe: deep soak, dry fully between. Wrinkled leaves = thirsty.
+- Mini pineapple: pour a little water into the central "cup" of the rosette; refresh every 1–2 weeks. Keep soil barely moist, not wet.
+
+Watch for: yellow/mushy leaf bases → overwatering. Wrinkled leaves → underwatering. White cottony spots in crevices → mealybugs.
+
+Mini pineapple fruit: will slowly dry and eventually fall off (weeks to months). Normal. The plant keeps living and may produce "pups" (baby plants) at the base for later propagation.
+
+**OBI trip — evergreen backbone scouting:**
+
+Browsed the full garden section. Only one buy today, but a clear shortlist for the next trip:
+
+- **Sempervivum 6-pack (€7.99) ✅ bought** — mixed red/green/burgundy rosettes. Truly evergreen, hardy in Stuttgart winters, self-multiplies. Will go in a wide shallow pot with Kakteenerde.
+- Hosta ❌ deciduous and shade-loving — wrong plant for the year-round sunny balcony goal
+- Sedum "Spot On" / Mauerpfeffer ❌ semi-evergreen at best, and too similar in habit to Sempervivum
+- Heuchera / Purpurglöckchen ❌ not stocked today — keep looking
+- Carex / Segge ❌ not the right look
+- Euonymus fortunei / Kriechspindel ❌ specimens looked leggy — revisit when stock improves
+- Buchsbaum (boxwood) ❌ looked healthy but skipped — widespread boxwood moth (Buchsbaumzünsler) problem in Stuttgart. **Ilex crenata (Japanische Stechpalme)** is the recommended moth-free alternative
+- Lavendel ❌ only Lavandula stoechas 'Anouk' (Schopf-Lavendel / French lavender) in stock — hardy only to -5 to -10°C, won't survive Stuttgart winters. Want **Lavandula angustifolia (Echter Lavendel / English lavender)**, hardy to -20°C
+
+**Sempervivum — placement and pot plan:**
+
+Planned location: the sunny wall where the reading chair sits. White stucco reflects light and warmth — perfect for Sempervivum, and ideal for cosmos/zinnia transplants later.
+
+Design: two matching anchor pots flanking the chair, each combining the evergreen Sempervivum backbone with seasonal flowers on rotation (cosmos/zinnia in summer → pansies/violas in autumn → etc.).
+
+Pot specs to add to the Amazon order:
+
+- Quantity: **2 pots** (symmetrical — one per side of the chair)
+- Size: **~30–35 cm diameter, ~25–30 cm deep** — fits Sempervivum around the perimeter + cosmos/zinnia in the center, deep enough that cosmos won't topple at full height (60–90 cm)
+- Material: terracotta (classic, breathable, pairs with stucco), or frost-proof plastic (frostfest) as alternative
+- Must-have: drainage holes + saucers or pot feet
+
+**Planting plan per anchor pot (once pots arrive and Tray 1 is ready):**
+
+- Backbone: 3 Sempervivum rosettes around the front/perimeter (splits the 6-pack: 3 per pot)
+- Seasonal center: 2–3 cosmos or zinnia seedlings transplanted from Tray 1 after May 15
+- Optional later: low trailing filler (alyssum, lobelia) to soften the edges
+
+**Care until pot-up (Sempervivum):** leave in a sunny spot on the balcony, don't water unless bone dry, tuck somewhere covered if heavy rain is forecast (so water doesn't pool in nursery cells). Bulletproof in Stuttgart spring temperatures.
+
+**Follow-ups (rolling list):**
+
+- Check Tray 2 soil moisture under the dome; mist or bottom-water if drying
+- Watch Tray 1 for first true leaves → pot up into 10 cm pots, burying leggy stems deep
+- Pinch mint once it has 3–4 sets of leaves
+- Plan replacement basil (seed-sown or split commercial pot)
+- Deadhead dianthus as blooms fade
+- Monitor bulb pots and dianthus — water only when top 2 cm feels dry
+- Babiana planter: finish removing dicot weeds (carried over from April 22)
+- Pots arriving Sat 25 Apr — ready for first pot-up when Tray 1 shows true leaves
+- July–August: revisit fall/winter sowing plan
+- Next OBI trip: Lavandula angustifolia, Ilex crenata, healthier Euonymus fortunei, Heuchera
+- Pot up Nook plants (snake plant, tiger aloe, mini pineapple) in Kakteenerde once pots arrive
+- Pot up Sempervivum split across 2 anchor pots with Kakteenerde once those arrive
+- After May 15: plant 2–3 cosmos/zinnia per anchor pot alongside the Sempervivum
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -303,34 +516,43 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 - Full season plan created with timeline and to-do lists
 - Gift arrangement plants identified and repotting plan made
 - Watering schedule established
-- 18-cell seed tray purchased and set up
-- Cosmos seeds sown indoors (9 cells, 1–2 seeds each)
-- Zinnia seeds sown indoors (9 cells, 1–2 seeds each)
-- Tray placed on bright windowsill with humidity lid
-- First sprouts emerged April 19 — just 3 days after sowing!
-- ~70% of cells sprouted by April 20
-- Dome management started: off during day, on at night with vent open
+- 18-cell seed tray purchased and set up (Tray 1)
+- Cosmos + zinnia seeds sown indoors — Tray 1 (April 16) and Tray 2 (April 22)
+- Tray 1 sprouted ~70% by April 20 (first sprouts Day 3!)
+- Tray 2 sown for succession bloom (TEDI tray, Compo Sana, dome on)
+- Dome management: off during day, on at night with vent open
 - Lavender postponed to next season (needs stratification, timing too tight)
-- OBI run: basil, chocolate mint, 2x pink dianthus, 3x TEDI pots, 17L Compo soil
+- OBI run (April 17): basil, chocolate mint, 2x pink dianthus, 3x TEDI pots, 17L Compo soil
 - Basil potted solo in 27cm TEDI pot
 - Chocolate mint potted solo in 27cm TEDI pot (never share — mint is a bully!)
-- TEDI run: €4 gray 37×28cm saddle planter for the dianthus
-- 2 pink dianthus planted together in their new saddle planter and mounted on the sunny railing
+- TEDI run (April 18): €4 gray 37×28cm saddle planter for the dianthus
+- 2 pink dianthus planted and mounted on the sunny railing
 - Expandable garden hose installed on the balcony wall
 - Balcony workstation hosed down and cleaned up
-- **First sprouts up on April 19 — Day 3 after sowing!**
-- Basil and mint replanted and improving — looking healthier than ever
+- Basil and mint replanted and improving (April 19)
+- Dual-head gooseneck LED grow light set up at 10–15 cm, 16h timer (April 22)
+- Dicot weeds identified and removed from Brodiaea + Babiana planters (April 22)
+- OBI run (April 23): snake plant 'Laurentii', Haworthia "Safari", mini pineapple, Sempervivum 6-pack, Kakteenerde, Compo
+- Pot-up containers ordered (100× 10cm KPYZLBD, drainage holes)
+- Amazon order placed: 3× Nook pots (12/11/12 cm) + 2× Sempervivum anchor pots (30–35 cm)
 
 ### In Progress
-- Sprout care: managing dome, airflow, moisture, and daily rotation
-- Watching for true leaves (readiness milestone for transplant prep)
-- Gift arrangement still in original container — needs repotting (soil now available!)
+- Tray 2 germination watch (expected ~3 days from April 22)
+- Tray 1 true-leaf watch → pot up to 10 cm pots when ready
+- Sprout care: airflow, bottom-watering, daily 180° rotation
+- Michael's Nook plants acclimating in nursery pots (pot-up after pots arrive Sat Apr 25)
+- Sempervivum acclimating on the balcony (pot-up after anchor pots arrive)
+- Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
+- Pot up Nook plants in Kakteenerde (waiting on Saturday April 25 delivery)
+- Pot up Sempervivum split across 2 anchor pots (waiting on delivery)
 - Repotting gift arrangement into individual pots
 - Hardening off seedlings (starts ~May 1)
 - Transplanting cosmos/zinnias outdoors (scheduled for May 15+)
 - Fertilizing routine (starts mid-May)
+- Fall/winter sowing plan (July–August)
+- Find Lavandula angustifolia, Ilex crenata, Heuchera, fuller Euonymus on next OBI trip
 
 ---
 
@@ -351,7 +573,6 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 | April 17, 2026 | Chocolate mint potted solo | ![mint](pictures/11-chocolate-mint-potted.jpg) |
 | April 17, 2026 | Babiana bulbs going into the hanging planter | ![babiana](pictures/12-babiana-bulbs-planting.jpg) |
 | April 17, 2026 | Basil potted and soaking up the sun | ![basil](pictures/13-basil-potted.jpg) |
-| April 18, 2026 | "Emma in the wild" | ![photo](https://cdn.discordapp.com/attachments/1494963406292258897/1495004712028733501/rn_image_picker_lib_temp_aed7ca74-cf7e-490b-9f35-8aa5e88466a0.jpg?ex=69e4ab23&is=69e359a3&hm=9107939a736aad7f0c330fb6e1dc8d4e1241f4053cd8e7717bbeec4b1fbff591&) |
 | April 18, 2026 | Pink dianthus planted and mounted on the sunny railing | ![dianthus](pictures/14-dianthus-planted-on-railing.jpg) |
 | April 18, 2026 | New expandable hose installed on the balcony wall | ![hose](pictures/15-hose-installed.jpg) |
 | April 18, 2026 | Workstation hosed down and cleaned up | ![workstation](pictures/16-workstation-cleaned.jpg) |
@@ -359,10 +580,13 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 | April 19, 2026 | Basil looking lush after replanting | ![basil](pictures/18-basil-after-replanting.jpg) |
 | April 19, 2026 | Mint pushing fresh shoots after replanting | ![mint](pictures/19-mint-after-replanting.jpg) |
 | April 20, 2026 | Sproutlings progress — ~70% sprouted, dome off! | ![sprouts](pictures/20-sproutlings-progress.jpg) |
+| April 22, 2026 | Tray 2 sown + grow light set up over Tray 1 | ![grow light](pictures/21-tray2-grow-light-setup.jpg) |
+| April 23, 2026 | Dianthus thriving in their saddle planter | ![dianthus](pictures/22-dianthus-hanging-planter.webp) |
+| April 23, 2026 | Michael's Nook — snake plant, tiger aloe, mini pineapple | ![nook](pictures/23-nook-plants-windowsill.webp) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 20, 2026*
+*Last updated: April 23, 2026*
