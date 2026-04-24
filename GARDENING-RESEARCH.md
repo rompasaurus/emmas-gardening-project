@@ -21,12 +21,14 @@ permalink: /GARDENING-RESEARCH
 7. [Chocolate Mint](#7-chocolate-mint)
 8. [Dianthus (Pink)](#8-dianthus-pink)
 9. [Gift Arrangement Plants](#9-gift-arrangement-plants)
-10. [Soil & Growing Media](#10-soil--growing-media)
-11. [Balcony Container Gardening Essentials](#11-balcony-container-gardening-essentials)
-12. [Stuttgart Climate & Growing Conditions](#12-stuttgart-climate--growing-conditions)
-13. [Recommended Tools](#13-recommended-tools)
-14. [Video Resources](#14-video-resources)
-15. [Helpful Websites & Communities](#15-helpful-websites--communities)
+10. [Sempervivum (Houseleek)](#10-sempervivum-houseleek)
+11. [Euonymus fortunei (Wintercreeper)](#11-euonymus-fortunei-wintercreeper)
+12. [Soil & Growing Media](#12-soil--growing-media)
+13. [Balcony Container Gardening Essentials](#13-balcony-container-gardening-essentials)
+14. [Stuttgart Climate & Growing Conditions](#14-stuttgart-climate--growing-conditions)
+15. [Recommended Tools](#15-recommended-tools)
+16. [Video Resources](#16-video-resources)
+17. [Helpful Websites & Communities](#17-helpful-websites--communities)
 
 ---
 
@@ -503,7 +505,112 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 10. Soil & Growing Media
+## 10. Sempervivum (Houseleek)
+
+**Botanical name:** *Sempervivum* spp.
+**Common names:** Houseleek, Hens and Chicks, Steinrose (German)
+**Type:** Evergreen succulent perennial
+**Height:** 5–15 cm (rosettes), flower stems to 30 cm
+**Hardiness:** Zone 3–8 — extremely cold-hardy, perfect for Stuttgart winters
+
+### What Emma Has
+
+- Multiple Sempervivum rosettes, to be planted 3 per anchor pot around the rim
+- Will share anchor pots with cosmos/zinnia in the center (after May 15)
+
+### Growing on the Balcony
+
+| Detail | Info |
+|--------|------|
+| Sun | Full sun — the more the better. Sun brings out the reds, purples, and bronzes |
+| Soil | **40% Compo Cactea / 60% Compo Sana** — lean, well-draining |
+| Watering | Very sparingly — let soil dry fully between waterings. Drought-tolerant |
+| Fertilizer | **NEVER.** This is the single most important rule |
+| Drainage | Essential — diameter and drainage matter more than depth |
+| Pot depth | 20cm+ is fine — they're rock-crevice plants that don't need depth |
+| Top-dress | Gravel or small rocks (5–10mm) around rosettes |
+
+### Why NEVER Fertilize
+
+This is critical. Feeding Sempervivum causes:
+- **Soft, weak growth** — loses the tight compact rosette form
+- **Washed-out colors** — reds, purples, and bronzes fade to bland green
+- **Leggy, open rosettes** — they stretch instead of staying compact
+- **Rot risk** — soft tissue is more vulnerable to moisture damage
+- **Reduced winter hardiness** — lush growth doesn't survive frost as well
+
+The Compo Cactea soil's 8-week built-in nutrients are already more than they need. After that, they thrive on neglect.
+
+### Pro Tips
+
+- **More sun = better color.** The intense reds and purples come from UV stress — it's a good thing for Sempervivum
+- **They multiply!** "Hens and chicks" — the main rosette (hen) sends out offsets (chicks) on runners
+- **Nearly indestructible.** Heat, cold, drought, poor soil — they handle it all
+- **Monocarpic flowering:** When a rosette flowers, that specific rosette dies afterward — but the chicks carry on. Don't panic!
+- **Top-dress with gravel** to keep the crown dry and prevent rot at soil level
+
+### Research Links
+
+- Royal Horticultural Society — Sempervivum: https://www.rhs.org.uk/plants/sempervivum
+- Mountain Crest Gardens — Sempervivum Care Guide: https://mountaincrestgardens.com/sempervivum-care/
+
+---
+
+## 11. Euonymus fortunei (Wintercreeper)
+
+**Botanical name:** *Euonymus fortunei*
+**Common names:** Wintercreeper, Spindelstrauch (German)
+**Type:** Evergreen shrub
+**Height:** 30–60 cm (container), can climb/trail
+**Spread:** 30–60 cm
+**Hardiness:** Zone 5–9 — fully hardy in Stuttgart
+
+### What Emma Has
+
+- 2x Euonymus fortunei — 1 golden-variegated, 1 white-variegated (matched pair for visual balance)
+- Will be potted in repurposed black 27x24cm pots (former basil/mint pots)
+
+### Growing on the Balcony
+
+| Detail | Info |
+|--------|------|
+| Sun | Partial shade to full sun — variegated types need acclimation to full sun |
+| Soil | 100% Compo Sana — likes richer, more moisture-retentive soil |
+| Watering | Keep evenly moist — more water than succulents, less than herbs |
+| Fertilizer | Light feed in growing season — half strength every 3-4 weeks |
+| Pruning | Trim ratty leaves after settling, shape as needed |
+| Winter | Fully hardy — stays on the balcony year-round |
+
+### Why Separate Pots (Not in Anchor Pots)
+
+Originally considered joining Euonymus to the Sempervivum + cosmos/zinnia anchor pots. Rejected because:
+- Euonymus is a woody shrub with 30-60cm spread — would crowd out everything
+- Wants richer, more moisture-retentive soil (opposite of what Sempervivum needs)
+- Separate pots allow independent watering and placement
+
+### Variegated Leaf Care
+
+- **Scorch risk:** Variegated leaves (especially white-variegated) can scorch in sudden full sun
+- **Acclimate 1-2 days** in partial shade before moving to full sun position
+- **Reversion:** If plain green shoots appear, prune them out — they'll outcompete the variegated growth
+- **Less chlorophyll** in variegated leaves means slightly slower growth — that's normal
+
+### Pro Tips
+
+- **Year-round structure** — Euonymus provides evergreen interest when annuals are dormant
+- **Can trail or climb** — versatile habit, can cascade over pot edges
+- **Low-maintenance** — once established, they're very easy-going
+- **Prune in spring** to keep compact and bushy
+- **Matched pair** (golden + white variegated) creates visual balance on the balcony
+
+### Research Links
+
+- Royal Horticultural Society — Euonymus fortunei: https://www.rhs.org.uk/plants/euonymus-fortunei
+- Mein schöner Garten — Kriechspindel (Euonymus fortunei): https://www.mein-schoener-garten.de/pflanzen/spindelstrauch
+
+---
+
+## 12. Soil & Growing Media
 
 ### What Emma Has
 
@@ -525,6 +632,26 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
   - Sustainable alternative to peat
 - **For lavender:** Use 40% coir for extra drainage
 
+#### Compo Sana Qualitats-Blumenerde
+- **Type:** Rich general-purpose flower soil
+- **Best for:** Euonymus, Dianthus, cosmos/zinnia cell transplants, general potting
+- **Stock:** 15L on hand + 20L arriving April 25 (Michael from OBI)
+- **Use as:** Standard potting soil for most plants; 60% component in anchor pot blend
+
+#### Compo Cactea (Peat-Free, 5L Bags)
+- **Type:** Peat-free cactus and succulent soil with 8 weeks built-in nutrients
+- **Best for:** Sempervivum (in anchor pot blend)
+- **Stock:** 3x 5L = 15L on hand
+- **Use as:** 40% component in anchor pot blend (40% Cactea / 60% Compo Sana)
+- **Note:** The built-in 8-week nutrients are already more than Sempervivum needs — no additional feeding!
+
+#### Compo BIO Blumendünger 1.3L
+- **Type:** Organic flower fertilizer with potassium ("Mit Kalium")
+- **Best for:** Dianthus, cosmos, zinnias, Euonymus — all flowering plants except Sempervivum
+- **Dosage:** Half strength, every 2-3 weeks
+- **Why chosen:** Flower-specific (potassium = more blooms, less leafy growth), BIO/organic = gentler with less burn risk, €10.99 for 1.3L = good value
+- **NEVER use on Sempervivum**
+
 #### Orchid Soil (White/OBI Bag)
 - **DO NOT USE FOR FLOWERS**
 - **Why:** Chunky bark-based mix designed for orchid roots that need air
@@ -538,10 +665,13 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 | Repotting flowers | 70% Compo Bio + 30% coco coir |
 | Lavender pots | 60% Compo Bio + 40% coco coir |
 | Brodiaea planters | 70% Compo Bio + 30% coco coir |
+| **Anchor pots (Sempervivum + cosmos/zinnia)** | **40% Compo Cactea + 60% Compo Sana** |
+| **Euonymus pots** | **100% Compo Sana** |
+| **Dianthus hanging planter** | **100% Compo Sana** |
 
 ---
 
-## 11. Balcony Container Gardening Essentials
+## 13. Balcony Container Gardening Essentials
 
 ### Pot Selection Guide
 
@@ -578,7 +708,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 12. Stuttgart Climate & Growing Conditions
+## 14. Stuttgart Climate & Growing Conditions
 
 ### Key Climate Data
 
@@ -619,7 +749,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 13. Recommended Tools
+## 15. Recommended Tools
 
 ### Starter Tools (Must-Haves)
 
@@ -630,6 +760,13 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 | **Spray/misting bottle** | Misting seeds and seedlings | Any store | 2–3 EUR |
 | **Hand trowel** | Scooping soil, planting | OBI / Bauhaus | 3–8 EUR |
 | **Pruning snips / scissors** | Deadheading, harvesting | OBI / Bauhaus | 5–10 EUR |
+| **OBI bypass pruners** | Deadheading, trimming, thinning seedlings | OBI | ~8 EUR |
+
+**Bypass Pruner Care (OBI pruners with orange safety-lock):**
+- Wipe blades after each use (sap dulls the edge)
+- Engage safety lock slider when storing
+- Occasional pivot oil (any light oil)
+- Alcohol-disinfect between plants if one is diseased
 
 ### Nice-to-Have Tools
 
@@ -639,6 +776,9 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 | **Gloves** | Protecting hands | OBI / Bauhaus | 3–8 EUR |
 | **Moisture meter** | Takes the guesswork out of watering | OBI / Amazon | 5–10 EUR |
 | **Liquid fertilizer** | Feeding plants mid-season | OBI / Bauhaus | 5–8 EUR |
+| **Measuring jug** | Precise soil + fertilizer measuring | OBI | 2–5 EUR |
+| **Mixing bucket** | Blending soil mixes (Cactea/Sana) | OBI | 3–5 EUR |
+| **Grow lights (clip-on, gooseneck)** | Supplemental light for seedlings | Amazon | 15–25 EUR |
 | **Kneeling pad** | Comfort while potting on balcony | OBI / Bauhaus | 5–10 EUR |
 
 ### German Garden Store Guide
@@ -653,7 +793,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 14. Video Resources
+## 16. Video Resources
 
 ### Getting Started / Beginner Guides
 
@@ -692,7 +832,7 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 
 ---
 
-## 15. Helpful Websites & Communities
+## 17. Helpful Websites & Communities
 
 ### English Resources
 
@@ -729,17 +869,18 @@ Emma received a mixed gift arrangement that needs to be separated and repotted. 
 **Emma's Plants at a Glance:**
 
 ```
-COSMOS          Sun: Full | Water: Regular    | Sprouting! Apr 19   | Outside: May 15+
-ZINNIA          Sun: Full | Water: Regular    | Sprouting! Apr 19   | Outside: May 15+
+COSMOS          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
+ZINNIA          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
 LAVENDER        Sun: Full | Water: Light      | Saved for next season
-BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15   | Blooms: June-Aug
-BABIANA         Sun: Full | Water: When dry   | Planted: April 17   | Blooms: Late spring
-BASIL           Sun: Full | Water: Consistent | Potted: April 17    | Harvest: All summer
-CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17    | SOLO POT ONLY!
-DIANTHUS (x2)   Sun: Full | Water: Light      | Awaiting planter     | Blooms: All summer
+BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15       | Blooms: June-Aug
+BABIANA         Sun: Full | Water: When dry   | Planted: April 17       | Blooms: Late spring
+SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planting: April 25      | NEVER FERTILIZE!
+EUONYMUS (x2)   Sun: Part | Water: Even      | Potting: April 25       | Evergreen year-round
+CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17       | SOLO POT ONLY!
+DIANTHUS (x4)   Sun: Full | Water: Light      | 2 planted + 2 incoming  | Blooms: All summer
 GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 ```
 
 ---
 
-*Research compiled April 15, 2026 — Last updated April 20, 2026*
+*Research compiled April 15, 2026 — Last updated April 24, 2026*

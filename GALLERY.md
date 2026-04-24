@@ -272,6 +272,7 @@ The soil is dark and wet — too wet, actually. Today's care plan: no watering (
 
 ---
 
+
 ---
 
 # Day 7 — April 22, 2026: Tray 2 & The Grow Light!
@@ -322,30 +323,93 @@ Until then: no watering, rotate each pot a quarter-turn every couple of days, an
 
 ---
 
-## The Story So Far
+---
 
-Twenty-three photos across eight days — from a bare table of supplies to a balcony (and a windowsill!) filling up with life. Emma's garden now has:
-- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seeds** germinating under a proper grow light — Tray 1 (~70% sprouted) + Tray 2 (succession sown April 22)
-- **Herbs** in their own pots (chocolate mint thriving; basil needs a redo)
-- **Dianthus** blooming in their saddle planter on the railing
-- **Sempervivum** — the evergreen backbone's first recruit, waiting on anchor pots
-- **Michael's Nook** — snake plant, tiger aloe, mini pineapple on the granite sill
-- **A proper hose setup** on the wall and a clean workstation to match
-
-This balcony is transforming fast — and it's officially a year-round project now.
-
-**Coming soon:**
-- First true leaves on Tray 1 → first pot-up into 10 cm pots
-- Tray 2 sprouts (any day now!)
-- The gift arrangement finally getting repotted into individual pots
-- The Nook plants and Sempervivum moving into their proper pots (April 25)
-- The evergreen-backbone anchor pots flanking the reading chair
-- Hardening off and the big move outdoors (May 15!)
-- BLOOMS everywhere! (June and beyond)
-
-> Keep the photos coming, Emma — this garden diary is growing as fast as the plants!
+# Day 10 — April 24, 2026: The Evergreen Project!
 
 ---
 
-*Photos from April 14–23, 2026 — Days 1 through 8 of Emma's Garden*
+## The OBI Haul — "We Came, We Saw, We Bought Everything"
+
+This is what happens when you walk into OBI with a refined plan and a purpose. The **setup table** is completely covered: a bag of **Compo Cactea** peat-free succulent soil on the left, a **measuring jug** for precise soil and fertilizer dosing, the new **Compo BIO Blumendünger** (the yellow bottle with "Mit Kalium" — potassium for more blooms, less leaves), a pair of **OBI bypass pruners** with that orange safety lock, and the stars of the show — the **NORA anchor pots** in metallic grey, stacked and ready.
+
+The big dark pot in the center is one of the anchor pots up close — formwerk GmbH, made in Germany, 26-28cm diameter. Four of these came home today, though only two are going into service immediately. The other two? Reserve pots. Because as Emma's already learned: "plenty is never bad."
+
+Behind everything, you can spot the existing plants on the railing — the brodiaea planters and dianthus still doing their thing in the sun. The garden is growing in every direction.
+
+![The full OBI haul on the setup table — Compo Cactea soil, BIO Blumendünger, stacked NORA anchor pots, bypass pruners, measuring jug, and the big metallic grey anchor pot front and center](pictures/26-obi-haul-full-spread.jpg)
+
+---
+
+## The Euonymus Pair — "Matching But Different"
+
+Meet the newest residents: two **Euonymus fortunei** shrubs, sitting pretty in their nursery pots on the balcony. **Golden-variegated** on the left — bright lime-green and gold leaves that practically glow in the sunlight. **White-variegated** on the right — darker green with crisp white edges, a cooler contrast.
+
+These are evergreen shrubs that'll provide year-round structure on the balcony long after the annuals have gone to sleep. They're tucked in **partial shade** for now — variegated leaves are scorch-prone and need a day or two to acclimate before they can handle full sun. Tomorrow they'll move into the freed-up black 27x24cm pots (the ones that used to house the basil) with straight Compo Sana soil. Matched pair, matched pots — visual balance on the balcony.
+
+The key decision here: Euonymus was originally considered for the anchor pots alongside the Sempervivum, but its woody 30-60cm spread would have crowded everything out. Separate pots, separate soil, better for everyone.
+
+![Two Euonymus fortunei in nursery pots on the balcony — golden-variegated on the left glowing in the light, white-variegated on the right with its crisp green-and-white leaves](pictures/24-euonymus-pair-golden-and-white.jpg)
+
+---
+
+## New Dianthus + Hanging Planter — "The Band Is Getting Bigger"
+
+Two more **pink dianthus** have joined the squad! These little charmers are still in their nursery wraps on the workstation, sitting next to the **grey hanging planter** that's about to become their home. Look at those delicate pink and purple blooms — already flowering and ready to perform.
+
+This new pair will go into the hanging planter tomorrow and join the existing 37x28cm Dianthus pot on the railing for a matched visual setup. Straight Compo Sana soil, good drainage, full sun position. The dianthus care playbook is simple: deadhead the spent blooms, don't overwater, and they'll keep flowering all summer.
+
+Behind them you can see the decorative glass block wall and the railing planters holding their own in the background — the balcony is filling up with life at every level.
+
+![The new Dianthus pair in their nursery wraps next to the grey hanging planter — pink and purple blooms already open, ready for their new home tomorrow](pictures/25-new-dianthus-pair-and-hanging-planter.jpg)
+
+---
+
+## Dual Grow Lights — "The Nursery Goes Pro"
+
+This is what serious seedling care looks like. **Two Niello 3-head grow lights** — **5 goosenecks total** — arcing over the seed tray like some kind of botanical space station. The original unit had 2 heads; this second unit adds 3 more, giving much better coverage now that the bigger cell trays have arrived.
+
+The seedlings are visible in the cells below — sturdy little green shoots that have come a long way since Day 3. The setup sits on a dark wooden table by the window, getting both natural light from the balcony door and supplemental LED coverage on a **16-hour cycle**. Heads are positioned **10-15cm above the tallest seedlings** and spaced evenly to eliminate shadows.
+
+The bigger cell trays (also arrived today) are for upsizing the seedlings before the May 15 outdoor transplant. These babies are getting the VIP treatment, and it shows.
+
+![The dual Niello grow light setup — 5 goosenecks spreading light over the seed tray, seedlings visible in the cells, positioned by the window for maximum coverage](pictures/27-dual-grow-lights-over-seedlings.jpg)
+
+---
+
+## The Story So Far
+
+Twenty-seven photos across ten days — from a bare table of supplies to a balcony bursting with life, a windowsill nursery under professional-grade grow lights, and a plan that keeps getting bigger and better.
+
+Emma's garden now has:
+- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
+- **Two trays of seeds** under 5-gooseneck grow lights — Tray 1 (~70% sprouted) + Tray 2 (succession sown April 22)
+- **Herbs** — chocolate mint thriving in its solo pot (basil pulled — not Emma's vibe)
+- **Dianthus** blooming on the railing, with a new matched pair incoming!
+- **Sempervivum** — the evergreen backbone, waiting to crown the anchor pots
+- **Euonymus** pair (golden + white variegated) acclimating in partial shade
+- **Michael's Nook** — snake plant, tiger aloe, mini pineapple on the granite sill
+- **4 NORA anchor pots** — 2 going into service, 2 in reserve
+- **New tools** — bypass pruners, measuring jug, mixing bucket
+- **New soil** — Compo Cactea for succulents, BIO Blumendünger for flowers
+- **Gift arrangement** still waiting for its repotting session
+- **A proper hose setup** on the wall and a clean workstation to match
+
+This balcony is becoming a full garden ecosystem!
+
+**Coming soon (tomorrow!):**
+- Sempervivum planted in anchor pots with Cactea/Sana blend
+- Euonymus potted up in their matched black pots
+- New Dianthus pair into the hanging planter
+- Nook plants potted up in Kakteenerde
+- Top-dressing with balcony rocks
+- True leaves on the seedlings (the next big milestone!)
+- The gift arrangement finally getting repotted
+- Hardening off and the big move outdoors (May 15!)
+- BLOOMS everywhere! (June and beyond)
+
+> The Evergreen Project is taking shape — keep the photos coming, Emma!
+
+---
+
+*Photos from April 14–24, 2026 — Days 1 through 10 of Emma's Garden*

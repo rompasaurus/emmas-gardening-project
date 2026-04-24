@@ -35,8 +35,12 @@ permalink: /PROGRESS-REPORT
 | April 23, 2026 | Michael's Nook — OBI trip, 3 plants acquired | Done |
 | April 23, 2026 | Sempervivum 6-pack bought — evergreen backbone starts | Done |
 | April 23, 2026 | Pot-up containers ordered (100× 10cm KPYZLBD) | Done |
+| April 24, 2026 | OBI run — Euonymus, anchor pots, Cactea soil, BIO fertilizer, pruners, new Dianthus pair | Done |
+| April 24, 2026 | Basil pulled — pots repurposed for Euonymus | Done |
+| April 24, 2026 | Second grow light installed (5 goosenecks total) | Done |
+| April 24, 2026 | Fertilizer strategy set — BIO Blumendünger with potassium | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
-| April 25, 2026 | Amazon pot order arrives (Nook + Sempervivum anchors) | Upcoming |
+| April 25, 2026 | Pot up Euonymus, Dianthus, Sempervivum (Michael brings +20L soil) | Upcoming |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -300,8 +304,6 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 
 **Emma's emotional state:** Nervous, anxious, utterly devoted. Had to be told three times to go make coffee and stop hovering over the sprouts. Classic first-time plant parent energy!
 
----
-
 ### Session 8 — April 22, 2026 — "Tray 2 & The Grow Light Arrives!"
 
 **Succession sowing day — plus the grow light finally showed up to rescue the leggy seedlings.**
@@ -506,6 +508,51 @@ Pot specs to add to the Amazon order:
 
 ---
 
+### Session 10 — April 24, 2026 — "The Evergreen Project"
+
+**OBI run day — new plants, new soil, new tools, and the second grow light goes up!**
+
+Emma and Michael refined the Evergreen Project design and hit OBI with a serious shopping list. The haul was big: two variegated Euonymus shrubs, metallic grey NORA anchor pots, Compo Cactea soil, BIO flower fertilizer, bypass pruners, a measuring jug, and a mixing bucket. Most planting is deferred to tomorrow (Apr 25) when Michael brings additional soil — but the plan is locked in.
+
+![The full OBI haul spread out on the setup table — Compo Cactea bag, BIO Blumendünger, NORA anchor pots stacked, bypass pruners, measuring jug, and the big anchor pot ready to go](pictures/26-obi-haul-full-spread.jpg)
+
+**Key decisions made:**
+
+- **Sempervivum = alpine succulents.** Created a soil tension with the cosmos/zinnia anchor pot plan. Resolved with a 40% Cactea / 60% Compo Sana blend — lean enough for Sempervivum, rich enough for annuals. Cosmos and zinnias actually prefer leaner soil anyway (less nitrogen = more flowers, fewer leaves).
+- **Anchor pot dimensions loosened.** Revised from strict 30-35cm wide / 25-30cm deep to 28cm+ wide, 20cm+ deep. Sempervivum are rock-crevice plants — diameter and drainage matter more than depth.
+- **Euonymus gets its own pots.** Initially considered joining the anchor pots, but Euonymus is a woody shrub (30-60cm spread) that would crowd out everything else and wants richer, more moisture-retentive soil. Separate pots it is.
+- **Basil pulled.** Not Emma's interest — was Michael's influence. Freed up two black pots (27x24cm) from the mint area, now repurposed as Euonymus pots. Matched pair = visual balance.
+
+![The two Euonymus fortunei in their nursery pots — golden-variegated on the left, white-variegated on the right, parked in partial shade on the balcony for acclimation](pictures/24-euonymus-pair-golden-and-white.jpg)
+
+**Fertilizer strategy — switched to BIO Blumendünger:**
+
+Originally planned Compo Universal-Flüssigdünger. Switched to **Compo BIO Blumendünger 1.3L** at the shelf — flower-specific ("Mit Kalium" / with potassium) for more blooms, BIO/organic for gentler feeding with less burn risk at half strength, and better value at €8.46/L. Skipped Düngestäbchen (sticks) — can't dial back once inserted, risky near Sempervivum.
+
+**Critical rule: Sempervivum — NEVER fertilize.** Feeding causes soft weak growth, washed-out colors (reds/purples/bronzes fade to bland green), leggy open rosettes, rot risk, and reduced winter hardiness. The Cactea soil's 8-week built-in nutrients are already more than they need.
+
+![The new Dianthus pair in nursery wraps next to the grey hanging planter on the workstation — ready for potting up tomorrow](pictures/25-new-dianthus-pair-and-hanging-planter.jpg)
+
+**Second grow light — intentional, not duplicate:**
+
+Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived today, so 5 goosenecks total give much better coverage than 2. Setup: 10-15cm above tallest seedlings, 16hr cycle, heads spaced evenly across the expanded tray footprint.
+
+![The dual Niello grow light setup — 5 goosenecks total arcing over the seed tray, seedlings visible in the cells below. Serious nursery energy!](pictures/27-dual-grow-lights-over-seedlings.jpg)
+
+**New tools:** OBI bypass pruners with orange safety-lock slider. Care: wipe blades after each use, engage safety lock when storing, occasional pivot oil, alcohol-disinfect between plants if one is diseased. Upcoming uses: deadheading Dianthus, trimming ratty Euonymus leaves, thinning seedlings at transplant.
+
+**Tomorrow's plan (Apr 25):**
+- Michael brings +20L Compo Sana from OBI
+- Pot up new Dianthus pair into hanging planter
+- Pot up 2 Euonymus into freed-up black pots
+- Plant Sempervivum in 2 anchor pots (3 per pot around rim)
+- Leave center of anchor pots empty until May 15 cosmos/zinnia transplant
+- Top-dress Sempervivum with balcony rocks (check size first)
+
+**Overnight plant placement:** Dianthus and Sempervivum in sun (already adapted). Euonymus in partial shade (variegated leaves scorch-prone, need 1-2 day acclimation). No watering — stressed plants + transplant pending = rot risk.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -535,24 +582,35 @@ Pot specs to add to the Amazon order:
 - OBI run (April 23): snake plant 'Laurentii', Haworthia "Safari", mini pineapple, Sempervivum 6-pack, Kakteenerde, Compo
 - Pot-up containers ordered (100× 10cm KPYZLBD, drainage holes)
 - Amazon order placed: 3× Nook pots (12/11/12 cm) + 2× Sempervivum anchor pots (30–35 cm)
+- OBI run (April 24): 2x Euonymus fortunei, 4x NORA anchor pots, 3x Compo Cactea 5L, BIO Blumendünger 1.3L, bypass pruners, measuring jug, bucket, grey hanging planter, 2x Dianthus
+- Basil pulled — pots repurposed for Euonymus
+- Fertilizer strategy finalized: Compo BIO Blumendünger (with potassium, half strength)
+- Second Niello 3-head grow light installed (5 goosenecks total, 16hr cycle)
+- Bigger cell trays set up for seedling upsizing before May 15 transplant
+- Anchor pot soil blend determined: 40% Cactea / 60% Compo Sana
+- Sempervivum care rule established: NEVER fertilize
 
 ### In Progress
-- Tray 2 germination watch (expected ~3 days from April 22)
+- Tray 2 germination watch (sown April 22, dome on)
 - Tray 1 true-leaf watch → pot up to 10 cm pots when ready
-- Sprout care: airflow, bottom-watering, daily 180° rotation
+- Sprout care: airflow, bottom-watering, daily 180° rotation under grow lights
 - Michael's Nook plants acclimating in nursery pots (pot-up after pots arrive Sat Apr 25)
-- Sempervivum acclimating on the balcony (pot-up after anchor pots arrive)
+- Sempervivum acclimating on the balcony
+- Overnight acclimation: Euonymus in partial shade, new Dianthus + Sempervivum in sun
 - Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
 - Pot up Nook plants in Kakteenerde (waiting on Saturday April 25 delivery)
-- Pot up Sempervivum split across 2 anchor pots (waiting on delivery)
+- Pot up Sempervivum split across 2 anchor pots (Apr 25)
+- Pot up new Dianthus pair into hanging planter (Apr 25)
+- Pot up Euonymus into repurposed black pots (Apr 25)
+- Top-dress Sempervivum with balcony rocks
 - Repotting gift arrangement into individual pots
 - Hardening off seedlings (starts ~May 1)
-- Transplanting cosmos/zinnias outdoors (scheduled for May 15+)
-- Fertilizing routine (starts mid-May)
+- Transplanting cosmos/zinnias outdoors into anchor pot centers (scheduled for May 15+)
+- Fertilizing routine (starts mid-May, except Sempervivum — NEVER)
 - Fall/winter sowing plan (July–August)
-- Find Lavandula angustifolia, Ilex crenata, Heuchera, fuller Euonymus on next OBI trip
+- Find Lavandula angustifolia, Ilex crenata, Heuchera on next OBI trip
 
 ---
 
@@ -583,10 +641,14 @@ Pot specs to add to the Amazon order:
 | April 22, 2026 | Tray 2 sown + grow light set up over Tray 1 | ![grow light](pictures/21-tray2-grow-light-setup.jpg) |
 | April 23, 2026 | Dianthus thriving in their saddle planter | ![dianthus](pictures/22-dianthus-hanging-planter.webp) |
 | April 23, 2026 | Michael's Nook — snake plant, tiger aloe, mini pineapple | ![nook](pictures/23-nook-plants-windowsill.webp) |
+| April 24, 2026 | Euonymus pair — golden + white variegated on the balcony | ![euonymus](pictures/24-euonymus-pair-golden-and-white.jpg) |
+| April 24, 2026 | New Dianthus pair + grey hanging planter | ![dianthus](pictures/25-new-dianthus-pair-and-hanging-planter.jpg) |
+| April 24, 2026 | Full OBI haul — Cactea, fertilizer, pots, pruners | ![haul](pictures/26-obi-haul-full-spread.jpg) |
+| April 24, 2026 | Dual grow lights — 5 goosenecks over the seedlings | ![lights](pictures/27-dual-grow-lights-over-seedlings.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 23, 2026*
+*Last updated: April 24, 2026*

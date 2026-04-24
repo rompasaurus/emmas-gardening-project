@@ -59,8 +59,17 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Remove dicot weeds** from Brodiaea and Babiana planters (April 22 — revisit Babiana)
 - [x] **Dianthus flourishing** — full buds, pink blooms on the railing (April 23)
 - [x] **Order pot-up containers** — 100× 10cm KPYZLBD with drainage (April 23)
-- [x] **OBI run** — Michael's Nook plants (snake plant 'Laurentii', Haworthia "Safari", mini pineapple), Kakteenerde, Sempervivum 6-pack (April 23)
+- [x] **OBI run (Apr 23)** — Michael's Nook plants (snake plant 'Laurentii', Haworthia "Safari", mini pineapple), Kakteenerde, Sempervivum 6-pack
 - [x] **Order Amazon pots** — 3× Nook pots (12/11/12 cm) + 2× Sempervivum anchor pots (30–35 cm) (April 23)
+- [x] **OBI run (Apr 24)** — 2x Euonymus fortunei, 4x NORA anchor pots, 3x Compo Cactea 5L, BIO Blumendünger 1.3L, bypass pruners, measuring jug, bucket, grey hanging planter, 2x Dianthus
+- [x] **Second grow light installed** — 5 goosenecks total, 16hr cycle, 10-15cm above seedlings
+- [x] **Bigger cell trays set up** for seedling upsizing before May 15 transplant
+- [x] **Basil pulled** — pots repurposed for Euonymus
+- [x] **Fertilizer strategy set** — Compo BIO Blumendünger (potassium, half strength, every 2-3 wks)
+- [ ] **Apr 25: Pot up Euonymus** into repurposed black 27x24cm pots (Compo Sana)
+- [ ] **Apr 25: Pot up new Dianthus pair** into grey hanging planter (Compo Sana)
+- [ ] **Apr 25: Plant Sempervivum** in 2 anchor pots (3 per pot, rim placement, 40/60 Cactea/Sana blend)
+- [ ] **Apr 25: Top-dress Sempervivum** with balcony rocks (check if 5-10mm size)
 - [ ] **Bottom-water only** — no top watering from now on; water when soil dries back
 - [ ] **Rotate tray 180° daily** — prevents sprouts leaning toward window
 - [ ] Check Tray 2 soil moisture under the dome — mist or bottom-water if drying
@@ -69,9 +78,7 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [ ] Watch for **damping off** — fungal collapse at stem base from soggy soil
 - [ ] Finish removing dicot weeds from Babiana planter
 - [ ] Pot up Nook plants (snake plant, tiger aloe, mini pineapple) in Kakteenerde once pots arrive (Sat Apr 25)
-- [ ] Pot up Sempervivum split across 2 anchor pots with Kakteenerde once pots arrive
 - [ ] Pinch mint tops once it has 3–4 sets of leaves
-- [ ] Plan replacement basil (seed-sown or split commercial pot)
 - [ ] Deadhead dianthus as blooms fade
 - [ ] Water brodiaea, babiana, dianthus only when top 2 cm of soil is dry
 - [ ] Repot gift arrangement into individual pots
@@ -97,8 +104,15 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~Sempervivum 6-pack~~ | OBI | 7.99 EUR | Bought (Apr 23) |
 | ~~OBI Kakteen- und Bonsaierde torffrei (5 L)~~ | OBI | — | Bought (Apr 23) |
 | ~~100× 10 cm propagation pots (KPYZLBD)~~ | Amazon | ~$15.20 | Ordered (Apr 23) |
+| ~~4x NORA anchor pots (metallic grey)~~ | OBI | — | Bought (Apr 24) |
+| ~~3x Compo Cactea 5L~~ | OBI | — | Bought (Apr 24) |
+| ~~Compo BIO Blumendünger 1.3L~~ | OBI | €10.99 | Bought (Apr 24) |
+| ~~2x Euonymus fortunei~~ | OBI | — | Bought (Apr 24) |
+| ~~2x Dianthus (pink)~~ | OBI | — | Bought (Apr 24) |
+| ~~Grey hanging planter~~ | OBI | — | Bought (Apr 24) |
+| ~~Bypass pruners~~ | OBI | — | Bought (Apr 24) |
+| ~~Measuring jug + bucket~~ | OBI | — | Bought (Apr 24) |
 | 3× pots with drainage + saucers (Nook) | Amazon | — | Ordered, arrives Sat Apr 25 |
-| 2× anchor pots 30–35 cm + drainage + saucers/feet | Amazon | — | Ordered, arrives Sat Apr 25 |
 | Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
 | Spray bottle (misting) | Any store | 2–3 EUR | On hand |
 | Lavandula angustifolia (Echter Lavendel) | OBI (next visit) | — | Wish list |
@@ -130,16 +144,16 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 ### Week of May 16–31
 
 - [ ] Monitor transplants daily for wilting or stress
-- [ ] Begin fertilizing with a balanced liquid fertilizer (every 2 weeks)
+- [ ] Begin fertilizing with Compo BIO Blumendünger at half strength (every 2-3 weeks) — NOT Sempervivum or mint!
 - [ ] Deadhead any fading gift-arrangement flowers to encourage new blooms
 
 ### Shopping List — May
 
 | Item | Where | Est. Cost | Priority |
 |------|-------|-----------|----------|
-| Large pots for cosmos/zinnias (3–4) | OBI / Bauhaus | 5–10 EUR each | Needed by May 15 |
-| Liquid flower fertilizer | OBI / Bauhaus | 5–8 EUR | Needed mid-May |
+| ~~Liquid flower fertilizer~~ | OBI | €10.99 | Bought (Apr 24) — BIO Blumendünger 1.3L |
 | Pot saucers/trays | OBI / Bauhaus | 1–3 EUR each | Helpful |
+| OBI Zierkies (decorative gravel) | OBI | 3–5 EUR | For Sempervivum top-dress if balcony rocks too big |
 
 ---
 
@@ -186,8 +200,9 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Soil | Use For | Notes |
 |------|---------|-------|
 | **Compo Bio Anzucht- und Krautererde** (brown bag) | All seed starting, all repotting | Main soil — peat-free starter mix |
-| **Compo Sana Qualitäts-Blumenerde** | Tray 2 + general potting | Added Apr 22 for succession sowing |
-| **Kakteen- und Bonsaierde torffrei** (OBI) | Succulents, cactus, Nook plants, Sempervivum | Peat-free, sharp drainage |
+| **Compo Sana Qualitäts-Blumenerde** | General potting — Tray 2, Euonymus, Dianthus, cosmos/zinnia cells | Rich, moisture-retentive. 15L on hand + 20L arriving Apr 25 |
+| **Kakteen- und Bonsaierde torffrei** (OBI) | Nook plants (snake plant, tiger aloe, pineapple) | Peat-free, sharp drainage |
+| **Compo Cactea** (peat-free, 5L bags) | Anchor pot blend for Sempervivum | 40% Cactea / 60% Sana. 8-week built-in nutrients. 15L on hand |
 | **Neudorff Kokohumus** (coco coir brick) | Mix into Compo soil for pots | Improves drainage + moisture retention. Expand with water first, then mix ~30% coir to 70% soil |
 | **Orchid Soil** (white/OBI bag) | DO NOT use for flowers | Chunky bark mix — only for orchids. Set aside for an indoor orchid project |
 
@@ -199,15 +214,31 @@ The balcony is now a year-round project — each large pot built around an **eve
 |-------|--------------|
 | Brodiaea (bulbs) | When top 2 cm of soil is dry |
 | Babiana (bulbs) | When top 2 cm of soil is dry — similar to brodiaea |
-| Cosmos (trays) | Bottom-water when needed; avoid flattening leggy stems |
+| Cosmos (trays) | Bottom-water when needed; avoid flattening leggy stems. Daily in summer heat |
 | Zinnias (trays) | Bottom-water; keep Tray 2 humid under dome until sprouts appear |
 | Chocolate mint | Keep consistently moist — likes more water than flowering plants |
-| Dianthus | Let top 2 cm dry between waterings — hates soggy roots |
-| Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain in nursery tray |
+| Dianthus (all 4) | Let top 2 cm dry between waterings — hates soggy roots |
+| Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain |
+| Euonymus | Keep evenly moist — richer soil, more water than succulents |
 | Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
 | Haworthia "Safari" | Deep soak, dry fully between. Wrinkled leaves = thirsty |
 | Mini pineapple | Little water in the central rosette cup, refresh every 1–2 weeks. Soil barely moist |
 | Gift plants (pansies, etc.) | Keep evenly moist |
+
+---
+
+## Fertilizer Calendar
+
+| Plant | Timing | Notes |
+|-------|--------|-------|
+| Dianthus (all 4) | Now, every 2-3 weeks | Optional light feed, half strength BIO Blumendünger |
+| Cosmos/zinnia | ~1 week after May 15 transplant | Half strength, every 2-3 weeks |
+| Brodiaea | No feed this year | Bulbs have stored energy |
+| Babiana | No feed this year | Same as brodiaea |
+| Mint | Skip entirely | Barely needs anything |
+| Sempervivum | **NEVER** | Lean soil + sun + gravel only — feeding causes rot, washed-out colors |
+| Nook plants | June + late summer | 1 diluted feed each time |
+| Euonymus | Light feed in growing season | Standard half-strength every 3-4 weeks |
 
 ---
 
@@ -217,15 +248,17 @@ The balcony is now a year-round project — each large pot built around an **eve
 - **Bury leggy stems deep** at transplant — cosmos/zinnia root along the buried stem
 - **Grow light at 10–15 cm**, 16h on / 8h dark — prevents leggy growth in Tray 2
 - **Mint lives alone** — never share a pot with mint, it will take over everything
-- **Pinch basil tops** — keeps it bushy and delays flowering (flowering = bitter leaves)
+- **Sempervivum — NEVER fertilize** — causes soft growth, color loss, rot risk, reduced hardiness
 - **Sunny balcony = thirsty pots** — check water daily in summer
 - **Deadheading = more flowers** — pinch off spent blooms regularly (especially dianthus!)
 - **Overwatering kills succulents** — Sempervivum, aloe, snake plant all prefer bone-dry between waterings
 - **Evergreen backbone + seasonal rotation** — each anchor pot stays alive year-round
+- **Anchor pot blend:** 40% Cactea / 60% Compo Sana for the Sempervivum + cosmos/zinnia pots
+- **Pruner care:** Wipe blades after each use, engage safety lock, oil pivot, alcohol-disinfect between diseased plants
 - **Stuttgart = zone 7** — prefer Lavandula angustifolia over L. stoechas, Ilex crenata over Buchsbaum (moth)
 - **German store tip:** Look for *winterhart*, *Balkonpflanzen*, *Kubelpflanzen*, *Krauter* — NOT *Zimmerpflanzen*
 - **Photos!** Document everything — this is Emma's first garden!
 
 ---
 
-*Last updated: April 23, 2026*
+*Last updated: April 24, 2026*

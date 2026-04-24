@@ -19,12 +19,12 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% (leggy) + Tray 2 sown April 22 |
-| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% (leggy) + Tray 2 sown April 22 |
-| Basil (Basilikum) | Herb - potted | Summer | Struggling (supermarket pot) — replacement planned |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% + Tray 2 sown April 22, under grow lights |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 sprouted ~70% + Tray 2 sown April 22, under grow lights |
+| Sempervivum (mixed 6-pack) | Evergreen succulent | Year-round foliage | Planting Apr 25 in anchor pots |
+| Euonymus fortunei | 2x variegated shrubs | Evergreen | Acclimating — potting Apr 25 |
+| Dianthus (Pink) | 4x potted plants | Spring - Summer | 2 on railing + 2 new for hanging planter |
 | Chocolate Mint | Herb - potted | Summer | Doing well, solo in shaded pot |
-| Dianthus (Pink) | 2x in 37×28cm saddle planter | Spring - Summer | On sunny railing, full buds (Apr 23) |
-| Sempervivum (mixed 6-pack) | Evergreen succulent | Year-round foliage | Bought Apr 23 — awaiting anchor pots |
 | Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
 | Haworthia "Safari" | Succulent (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
 | Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Bought Apr 23 — awaiting pot |
@@ -38,9 +38,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 23, 2026
+## Latest Update — April 24, 2026
 
-> Big day! The dianthus are thriving in their saddle planter on the sunny railing — full of buds and pink blooms. An afternoon OBI trip kicked off **Michael's Nook** (snake plant 'Laurentii', Haworthia "Safari", and a mini pineapple on the granite sill) and the **evergreen backbone** design concept — two large anchor pots flanking the reading chair will pair Sempervivum (bought today) with rotating seasonal flowers. Pot-up containers (100× 10cm) ordered for Tray 1, plus 3 Nook pots + 2 anchor pots coming from Amazon Saturday. Tray 2 was sown yesterday under the new grow light, which is now running on a 16h timer over both trays. The balcony is going year-round.
+> OBI run day! The Evergreen Project is taking shape — purchased Sempervivum succulents, 2 variegated Euonymus shrubs, 4 NORA anchor pots, Compo Cactea soil, BIO Blumendünger fertilizer, bypass pruners, and a new Dianthus pair with hanging planter. Second grow light installed (5 goosenecks total). Basil pulled — pots repurposed. Tomorrow: the big planting session when Michael brings +20L Compo Sana!
+
+![The full OBI haul — Cactea soil, BIO fertilizer, anchor pots, pruners, and more on the setup table](pictures/26-obi-haul-full-spread.jpg)
 
 ## Project Pages
 
