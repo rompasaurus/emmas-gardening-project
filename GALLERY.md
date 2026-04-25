@@ -377,39 +377,150 @@ The bigger cell trays (also arrived today) are for upsizing the seedlings before
 
 ---
 
-## The Story So Far
+---
 
-Twenty-seven photos across ten days — from a bare table of supplies to a balcony bursting with life, a windowsill nursery under professional-grade grow lights, and a plan that keeps getting bigger and better.
+# Day 11 — April 25, 2026: The Big Planting Day!
 
-Emma's garden now has:
-- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seeds** under 5-gooseneck grow lights — Tray 1 (~70% sprouted) + Tray 2 (succession sown April 22)
-- **Herbs** — chocolate mint thriving in its solo pot (basil pulled — not Emma's vibe)
-- **Dianthus** blooming on the railing, with a new matched pair incoming!
-- **Sempervivum** — the evergreen backbone, waiting to crown the anchor pots
-- **Euonymus** pair (golden + white variegated) acclimating in partial shade
-- **Michael's Nook** — snake plant, tiger aloe, mini pineapple on the granite sill
-- **4 NORA anchor pots** — 2 going into service, 2 in reserve
-- **New tools** — bypass pruners, measuring jug, mixing bucket
-- **New soil** — Compo Cactea for succulents, BIO Blumendünger for flowers
-- **Gift arrangement** still waiting for its repotting session
-- **A proper hose setup** on the wall and a clean workstation to match
-
-This balcony is becoming a full garden ecosystem!
-
-**Coming soon (tomorrow!):**
-- Sempervivum planted in anchor pots with Cactea/Sana blend
-- Euonymus potted up in their matched black pots
-- New Dianthus pair into the hanging planter
-- Nook plants potted up in Kakteenerde
-- Top-dressing with balcony rocks
-- True leaves on the seedlings (the next big milestone!)
-- The gift arrangement finally getting repotted
-- Hardening off and the big move outdoors (May 15!)
-- BLOOMS everywhere! (June and beyond)
-
-> The Evergreen Project is taking shape — keep the photos coming, Emma!
+> *"No rest for the wicked."* — Emma, mid-transplant
 
 ---
 
-*Photos from April 14–24, 2026 — Days 1 through 10 of Emma's Garden*
+## The OBI Haul — "Soil for Days"
+
+The day kicked off with a run to OBI for **~20 L of Compo Sana Qualitäts-Blumenerde** — the good stuff, and exactly enough to get through the Euonymus repot and the Sempervivum anchor blend. The supply crate came home loaded up, and a small **Lavandula angustifolia** (OBI Grow line, €3.49) hopped in too — healthy roots, already budding, perfect candidate for the all-grey wall on Zone B. Lavandula angustifolia was on the wishlist since April 23, when only the wrong species (Lavandula stoechas — not winter-hardy in Stuttgart) was in stock. ✅ closed.
+
+Aside: the tile-joint weed situation got researched on the way home. **Chemical herbicides are illegal in Germany on paved surfaces (§12 PflSchG)**, so the legal toolkit is a Fugenkratzer (joint scraper), boiling water, or a heat gun. Filed under "tomorrow."
+
+![~20 L of Compo Sana stacked on the patio next to the supply crate and the freshly-emptied black pots — the day's raw materials are on deck](pictures/28-the-big-haul-compo-sana.jpg)
+
+---
+
+## Pot-Up Cells Ready — "Amazon Came Through"
+
+The Amazon pot order landed Saturday morning right on cue, and 18 of the brand-new **10 cm copper-pink propagation cups** got laid out on the patio worktable. Tray 1 (sown April 16) had hit Day 9, the cosmos were leggy, and these cups were exactly the next-step-up that the seedlings needed: enough room to grow real roots without so much extra soil that the small root balls would sit wet.
+
+Drainage holes confirmed in every cup. Soil pre-moistened. Spray bottle within arm's reach. Workstation set.
+
+![Eighteen empty 10 cm copper-pink propagation cups laid out on the patio table, ready for the cosmos and zinnia transplants](pictures/29-pot-up-cells-ready.jpg)
+
+---
+
+## Tray 1 Potted Up — "The Leggy Get a Lifeline"
+
+The big move. **24 cells worth** of cosmos and zinnia got popped out of the seed tray and tucked into their new individual cups. Working outside on the **shaded patio table** doubled as a soft hardening-off step — first time these seedlings have felt outdoor air.
+
+The legginess strategy:
+
+- **Cosmos** (left/center, narrow cotyledons, stretched stems) → buried below the cotyledons. Cosmos roots along the buried portion of the stem, so the stretch becomes extra anchoring instead of a weakness.
+- **Zinnia** (right, broader cotyledons) → handled by the leaves, not the stem. Zinnia stems don't re-root the same way, so burying them is just rot risk for no benefit.
+
+![18 freshly-transplanted cosmos and zinnia in their new 10 cm copper cups, lined up in three neat rows on the patio worktable in the afternoon shade — leggy cosmos in the center, broader-cotyledon zinnia on the wings](pictures/30-tray1-potted-up-patio.jpg)
+
+After potting, everything came back inside under the **5-gooseneck grow light** setup that just went up on April 24 — but with the lights raised and the timer cut to **12 hr for the next 24–48 hr** to ease the transplant shock. **No water tomorrow** unless the soil surface is bone dry to the touch.
+
+![Tray 1 transplants back on the windowsill bench under the dual grow lights, evening Stuttgart sky just past the railing — leggy stems already looking more anchored in their bigger pots](pictures/31-tray1-under-grow-light.jpg)
+
+---
+
+## Third Dianthus Pair — "The Railing Trio Is Complete"
+
+The dianthus pair purchased on April 24 finally got their grey hanging planter on the railing — a third one matching the pair already up there. **Three pink dianthus planters now line the railing**, and the rhythm is exactly what the gray-pot lineup needed visually: pink → pink → pink against the gray rail and the Stuttgart rooftops.
+
+Used leftover Compo Sana from the Euonymus job — no waste. Watered in. Done.
+
+![The third pink dianthus pair settled into their grey hanging planter on the balcony railing, evening light catching the building behind — three matching dianthus planters now run the length of the railing](pictures/32-dianthus-trio-railing.jpg)
+
+---
+
+## Euonymus Fortunei — "Zone A Backbone"
+
+The matching pair of **Euonymus fortunei** (golden-variegated + white-variegated, acclimated overnight per the April 24 plan) went into the **freed-up black 27×24 cm ex-mint pots** — straight Compo Sana, no Cactea blend. Same depth as the nursery pots, **stems NOT buried**. Watered to runoff.
+
+Each pot is a multi-stemmed plant kept intact — single plant per pot, do *not* separate the stems. Doing so would destabilize the root ball and stress an evergreen that doesn't need any extra drama to start its first season on the balcony. When they go to Zone A (the short wall, black-pot zone), they'll face their bushiest side outward.
+
+This is the **Evergreen Project** finally landing — same concept that's been on the table since April 23 and refined on April 24.
+
+![The Euonymus fortunei pair freshly potted in their black 27×24 cm ex-mint pots — golden-variegated on the left, white-variegated on the right, both bushy and full, ready for Zone A](pictures/33-euonymus-pair-black-pots.jpg)
+
+---
+
+## Sempervivum Anchor Pots — "Hens, Chicks, and Rocks"
+
+The Sempervivum 6-pack from April 23 finally got its real home. The 6-pack split across **two of the four NORA anchor pots**, with the **40/60 Cactea/Sana blend** worked out on April 24 (lean enough for the alpine roots, rich enough that cosmos/zinnia can later share the pot). Crowns kept at soil level — *never buried*, which is how Sempervivum rot in days. Then a **full alpine-style rock top-dress** to finish: pale gravel covering all the bare soil, framing each rosette.
+
+The mix landed up beautifully — green rosettes, deep burgundy/purple rosettes, and a few **S. arachnoideum** (the cobweb-haired one with white silk strands across the rosette).
+
+![The two NORA anchor pots planted up with the Sempervivum 6-pack split across them — green rosettes, burgundy/purple, and the cobweb S. arachnoideum, all finished with a full alpine rock top-dress against the stainless skirting and white stucco wall](pictures/34-sempervivum-anchor-pots.jpg)
+
+**Care non-negotiables (already established April 24):**
+
+- **NO water for 3–5 days.** The roots need to heal first; watering now invites rot.
+- **NEVER fertilize.** Sempervivum want lean soil. Feeding kills them just as surely as overwatering.
+
+The **other two NORA anchor pots stay in reserve**: one for the lavender (tomorrow), one for the cosmos/zinnia overflow post-May 15.
+
+---
+
+## The Patio Battlefield — "Worth It"
+
+By the end of the day the workstation was a scene. Trowel down, soil dust everywhere, the lavender sitting on the bench waiting for tomorrow, the reading chair pushed aside. Emma called it a battlefield.
+
+![The aftermath at dusk — the workstation table dusted with soil, trowel and spray bottle parked, the lavender perched on the bench, the reading chair pushed against the glass-block wall. The day's evidence](pictures/35-patio-battlefield.jpg)
+
+Around **9 hours start to finish** — morning OBI run through the final rock placement on the second Sempervivum pot. Mid-day was the rough stretch (the leggy seedling work is nerve-racking when you've watched these things sprout from nothing). Working in shade on the patio table was good for the plants and fine for the back and wrists. Lessons logged for next time:
+
+- **Always pre-moisten new soil** before transplanting — fluffy dry soil eats roots when you firm it down.
+- **Decorative rock placement around individual rosettes** ate way more time than it added value. Next time: dump and spread.
+- **Order dinner BEFORE the 9-hour work session, not after.**
+
+---
+
+## Bonus — Mint Propagation Worked!
+
+Emma's mint pot now has tiny new plants sprouting from the deleafed stems she replanted earlier in the project. **Confirmation that stem-cutting propagation is a working method to redirect or replace mint** — useful intel for keeping the chocolate mint pot productive long-term. Stays isolated from everything else, of course (mint is invasive and will colonize anything sharing its container).
+
+---
+
+## Final Balcony Zoning — "Locked In"
+
+End-of-day map:
+
+- **Zone A (short wall, BLACK pots):** 2× Euonymus in the black ex-mint pots ✅. Matches the existing black pot at the far end. Sunny morning exposure.
+- **Railing (GREY hangers):** dianthus trio ✅.
+- **Zone B (long sunny wall, ALL GREY):** 2× NORA anchor pots with Sempervivum ✅, 1× NORA pot reserved for the lavender (tomorrow), 1× NORA pot reserved for cosmos/zinnia overflow post-May 15. Reading chair to be relocated.
+
+Year-round backbone in place; seasonal rotation can now layer on top of it.
+
+---
+
+## The Story So Far
+
+Thirty-five photos across eleven days — from a bare table of supplies to a balcony with **two distinct zones, an evergreen backbone, and a railing trio of dianthus**. Emma's garden now has:
+
+- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
+- **Two trays of seeds** under the 5-gooseneck grow lights — Tray 1 now potted up into 18× 10 cm cups (April 25), Tray 2 still under the dome on day 3
+- **Herbs** — chocolate mint thriving + propagating from cuttings (basil pulled April 24)
+- **A dianthus trio** along the railing in matching grey hangers
+- **Zone A backbone** — Euonymus fortunei pair (gold + white-variegated) potted in black ex-mint pots
+- **Zone B anchors** — Sempervivum 6-pack split across two NORA anchor pots with alpine rock top-dress
+- **Lavandula angustifolia** waiting on its NORA pot (tomorrow)
+- **Michael's Nook** — snake plant, tiger aloe, mini pineapple, pots arrived (pot-up tomorrow)
+- **2 NORA anchor pots in reserve** (lavender + cosmos/zinnia overflow)
+- **A proper hose setup** on the wall, a real workstation, and now a real zoning plan
+
+This balcony is becoming a full year-round garden ecosystem!
+
+**Coming soon (tomorrow!):**
+- Lavender repot, Nook pot-up, final placement of Euonymus + Sempervivum, patio cleanup, tile-joint weeds
+- Tray 2 sprouts (Tue–Wed)
+- Tray 1 transplant recovery (lights eased 24–48 hr)
+- The gift arrangement finally getting repotted into individual pots
+- Hardening off and the big move outdoors (May 15!)
+- Cosmos/zinnia transplanting into the Zone B grey overflow pot + alongside Sempervivum
+- BLOOMS everywhere! (June and beyond)
+
+> Keep the photos coming, Emma — this garden diary is growing as fast as the plants!
+
+---
+
+*Photos from April 14–25, 2026 — Days 1 through 11 of Emma's Garden*

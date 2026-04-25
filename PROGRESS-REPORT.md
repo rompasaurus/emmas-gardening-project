@@ -39,8 +39,14 @@ permalink: /PROGRESS-REPORT
 | April 24, 2026 | Basil pulled — pots repurposed for Euonymus | Done |
 | April 24, 2026 | Second grow light installed (5 goosenecks total) | Done |
 | April 24, 2026 | Fertilizer strategy set — BIO Blumendünger with potassium | Done |
+| April 25, 2026 | Tray 1 potted up — 18 cells into 10cm cups | Done |
+| April 25, 2026 | Third dianthus pair planted in grey hanging planter | Done |
+| April 25, 2026 | Euonymus fortunei pair potted (Zone A backbone) | Done |
+| April 25, 2026 | Sempervivum split across 2 NORA anchor pots, alpine rock top-dress | Done |
+| April 25, 2026 | OBI run — ~20L Compo Sana + Lavandula angustifolia (€3.49) | Done |
+| April 25, 2026 | Final balcony zoning plan locked in (Zone A black / Zone B grey) | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
-| April 25, 2026 | Pot up Euonymus, Dianthus, Sempervivum (Michael brings +20L soil) | Upcoming |
+| April 26, 2026 | Lavender repot + Nook pot-up + final placement | Upcoming |
 | May 15, 2026 | Transplant seedlings outdoors | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -553,6 +559,120 @@ Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived tod
 
 ---
 
+### Session 11 — April 25, 2026 — "The Big Planting Day"
+
+> *"No rest for the wicked."* — Emma, mid-transplant
+
+**Massive planting day. Four projects completed, two deferred to tomorrow. ~9 hours start to finish, patio looked like a battlefield by the end. Worth it.**
+
+**Morning OBI run:**
+
+![~20L of Compo Sana Qualitäts-Blumenerde back from OBI, supply crate loaded up alongside the black pots that'll become the Euonymus's new home](pictures/28-the-big-haul-compo-sana.jpg)
+
+- ~20 L **Compo Sana Qualitäts-Blumenerde** — for the Euonymus and the Sempervivum anchor blend
+- 1× **Lavandula angustifolia** (OBI Grow line, €3.49) — healthy roots, already budding. One for now; scale later if it thrives.
+- Tile-joint weed solution **deferred** — chemical herbicides are illegal in Germany on paved surfaces (§12 PflSchG). Legal options: Fugenkratzer (joint scraper), boiling water, or a Heißluftgerät (heat gun).
+
+#### 1 — Tray 1 potted up (cosmos + zinnia → 10 cm cells)
+
+![18 freshly-arrived 10 cm copper-pink propagation cups laid out on the patio table, ready for the cosmos and zinnia transplants](pictures/29-pot-up-cells-ready.jpg)
+
+The Amazon pot order showed up right on cue, and Tray 1 (sown April 16, leggy by Day 9) finally graduated. **24 cells worth** of cosmos and zinnia got transplanted into 10 cm cups — worked outside on the shaded patio table, which doubled as a soft hardening-off step.
+
+![18 of the transplants lined up on the patio worktable in the afternoon shade — leggy cosmos in the center, broader-cotyledon zinnia on the wings, ready to settle into their new individual pots](pictures/30-tray1-potted-up-patio.jpg)
+
+Identification on the table:
+
+- **Cosmos** (left/center) — leggy, narrow cotyledons → buried below the cotyledons to fix the legginess (cosmos roots along the buried stem)
+- **Zinnia** (right) — broader cotyledons → handled by the leaves, not the stem (zinnia stems don't re-root the same way)
+
+After potting, everything went back inside under the dual grow light setup (now 5 goosenecks total since April 24):
+
+![Tray 1 transplants back on the windowsill bench under the dual grow lights — leggy stems already starting to look more anchored in their bigger pots](pictures/31-tray1-under-grow-light.jpg)
+
+**Recovery plan:** lights raised / cut to 12 hr for the next 24–48 hr to let them recover from the transplant shock. **No water tomorrow** unless the surface is dry to the touch.
+
+#### 2 — Third dianthus pair → grey hanging planter
+
+![The third pink dianthus pair settled into their grey hanging planter on the railing — three matching dianthus planters now lined up along the rail, evening Stuttgart light on the building behind](pictures/32-dianthus-trio-railing.jpg)
+
+The pair purchased April 24 went into their new grey hanging planter. Used leftover soil opportunistically (no point letting it go to waste). Watered in. **Three pink dianthus planters now run along the railing** — a beautiful repeating rhythm that ties the whole gray-pot lineup together.
+
+#### 3 — Euonymus fortunei → Zone A (short wall, black pots)
+
+![The Euonymus fortunei pair freshly potted in their black 27×24 cm ex-mint pots — golden-variegated on the left, white-variegated on the right, ready to anchor the Zone A short wall](pictures/33-euonymus-pair-black-pots.jpg)
+
+Both Euonymus into the **freed-up black 27×24 cm ex-mint pots** (the ones repurposed when the basil was pulled on April 24). Straight Compo Sana — no Cactea blend, since Euonymus prefers regular potting mix. Same depth as the nursery pot, stems NOT buried, watered to runoff.
+
+**Multi-stemmed plants kept intact** — single plant per pot, do *not* separate the stems (would destabilize the root ball). When they go to Zone A, they'll face their bushiest side outward.
+
+The matching pair: **golden-variegated + white-variegated** — the contrast will read well against the black pots and the short wall.
+
+#### 4 — Sempervivum (Hens & Chicks) → Zone B anchor pots
+
+![The two grey NORA anchor pots planted up with the Sempervivum 6-pack split across them — green rosettes, burgundy/purple, and S. arachnoideum (cobweb) finished with a full alpine rock top-dress](pictures/34-sempervivum-anchor-pots.jpg)
+
+The 6-pack split across **2 grey NORA anchor pots**, **40/60 Cactea/Sana blend** (per the soil tension resolved on April 24). Crowns kept at soil level — *never buried*. Full rock top-dress for the alpine garden look.
+
+The mix included green rosettes, burgundy/purple, and **S. arachnoideum** (the cobweb-haired one).
+
+**Care non-negotiables (already established April 24):**
+- **NO water for 3–5 days** — the roots need to heal first
+- **NEVER fertilize** — Sempervivum want lean soil; feeding kills them
+
+The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and the cosmos/zinnia post-May 15 overflow.
+
+**Bonus — mint propagation worked:** the mint pot now has tiny new plants sprouting from the deleafed stems Emma replanted earlier. Confirms stem-cutting propagation as a working method to redirect/replace mint. Stays isolated from everything else (mint is invasive).
+
+**The patio at the end of the day:**
+
+![The aftermath — workstation a cheerful mess, soil scattered across the tiles, lavender on the bench, the reading chair pushed aside. Emma called it a battlefield. Worth it.](pictures/35-patio-battlefield.jpg)
+
+#### Final balcony zoning plan (locked in)
+
+**Zone A — short wall (BLACK pot zone):**
+- 2× Euonymus in black ex-mint pots ✅
+- Matches the existing black pot at the far end
+- Sunny morning exposure
+
+**Zone B — long sunny wall (ALL GREY zone):**
+- 2× NORA anchor pots: Sempervivum ✅
+- 1× NORA anchor pot: Lavandula angustifolia (tomorrow)
+- 1× NORA anchor pot: reserved for cosmos/zinnia overflow post-May 15
+- Reading chair to be relocated
+- Scope to scale: more lavender or more Sempervivum varieties
+
+**Railing between zones:** dianthus trio in grey hangers ✅
+
+#### Deferred to tomorrow
+
+- [ ] Lavender repot — 1 NORA pot, 60/40 Cactea/Sana, drainage non-negotiable
+- [ ] Michael's Nook repot — pots arrived; Sansevieria + Aloe Safari + Ananas nanus into drainage pots
+- [ ] Final placement of Euonymus + Sempervivum in their zones, rotate Euonymus bushy-side outward
+- [ ] Patio cleanup — soil sweep, store Compo bags
+- [ ] Tile-joint weeds — Fugenkratzer or boiling water pass
+
+#### Active care reminders
+
+- **Sempervivum:** NO water 3–5 days, NEVER fertilize
+- **Tray 1 seedlings:** lights eased 24–48 hr, no water unless surface dry
+- **Tray 2:** dome on, day 3, germination expected Tue–Wed
+- **Cosmos/zinnia outdoor transplant:** after May 15
+- **Compo BIO Blumendünger:** half-strength every 2–3 wks, start ~1 wk post-May 15 transplant
+- **Dianthus:** optional light feed every 2–3 wks
+- **Brodiaea/Babiana:** no feed year 1
+- **Pruners:** wipe + lock + oil pivot; alcohol disinfect only if disease present
+
+#### Notes for next time
+
+- ~9 hours start (morning check) to finish (final rocks). Mid-day was rough — the leggy seedling work is nerve-racking.
+- Working in shade on the patio table = good for plants, fine for back/wrists.
+- **Always pre-moisten new soil** before transplanting.
+- Decorative rock placement around individual rosettes ate time without adding much value — next time, dump and spread.
+- **Order dinner BEFORE the work, not after.**
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -589,28 +709,34 @@ Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived tod
 - Bigger cell trays set up for seedling upsizing before May 15 transplant
 - Anchor pot soil blend determined: 40% Cactea / 60% Compo Sana
 - Sempervivum care rule established: NEVER fertilize
+- OBI run (April 25): ~20L Compo Sana + 1× Lavandula angustifolia (€3.49)
+- Tray 1 potted up — 18× 10 cm cups, leggy cosmos buried below cotyledons (April 25)
+- Third dianthus pair planted in grey hanging planter — railing trio complete (April 25)
+- Euonymus fortunei pair potted in black ex-mint pots — Zone A backbone (April 25)
+- Sempervivum 6-pack split across 2 NORA anchor pots, 40/60 Cactea/Sana, full alpine rock top-dress (April 25)
+- Final balcony zoning locked in: Zone A black-pot wall + Zone B grey-pot wall + railing dianthus trio
+- Lavandula angustifolia found at OBI (closes the April 23 follow-up)
+- Mint propagation confirmed working — new sprouts from deleafed stem cuttings
 
 ### In Progress
-- Tray 2 germination watch (sown April 22, dome on)
-- Tray 1 true-leaf watch → pot up to 10 cm pots when ready
-- Sprout care: airflow, bottom-watering, daily 180° rotation under grow lights
-- Michael's Nook plants acclimating in nursery pots (pot-up after pots arrive Sat Apr 25)
-- Sempervivum acclimating on the balcony
-- Overnight acclimation: Euonymus in partial shade, new Dianthus + Sempervivum in sun
+- Tray 2 germination watch (day 3, expected Tue–Wed)
+- Tray 1 transplant recovery — lights eased 24–48 hr, no water unless surface dry
+- Michael's Nook plants acclimating in nursery pots (pots arrived — pot-up tomorrow)
+- Lavandula angustifolia waiting on its NORA pot (60/40 Cactea/Sana) — tomorrow
+- Final placement of Euonymus (Zone A) + Sempervivum (Zone B) — tomorrow
 - Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
-- Pot up Nook plants in Kakteenerde (waiting on Saturday April 25 delivery)
-- Pot up Sempervivum split across 2 anchor pots (Apr 25)
-- Pot up new Dianthus pair into hanging planter (Apr 25)
-- Pot up Euonymus into repurposed black pots (Apr 25)
-- Top-dress Sempervivum with balcony rocks
+- Pot up Nook plants in Kakteenerde (pots arrived — scheduled tomorrow)
+- Pot up Lavandula angustifolia in remaining NORA anchor pot (scheduled tomorrow)
+- Tile-joint weeds — Fugenkratzer or boiling water pass (legal options only)
+- Patio cleanup — soil sweep + store Compo bags
 - Repotting gift arrangement into individual pots
 - Hardening off seedlings (starts ~May 1)
 - Transplanting cosmos/zinnias outdoors into anchor pot centers (scheduled for May 15+)
 - Fertilizing routine (starts mid-May, except Sempervivum — NEVER)
 - Fall/winter sowing plan (July–August)
-- Find Lavandula angustifolia, Ilex crenata, Heuchera on next OBI trip
+- Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 
 ---
 
@@ -645,10 +771,18 @@ Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived tod
 | April 24, 2026 | New Dianthus pair + grey hanging planter | ![dianthus](pictures/25-new-dianthus-pair-and-hanging-planter.jpg) |
 | April 24, 2026 | Full OBI haul — Cactea, fertilizer, pots, pruners | ![haul](pictures/26-obi-haul-full-spread.jpg) |
 | April 24, 2026 | Dual grow lights — 5 goosenecks over the seedlings | ![lights](pictures/27-dual-grow-lights-over-seedlings.jpg) |
+| April 25, 2026 | The OBI haul — ~20L Compo Sana + supply crate | ![haul](pictures/28-the-big-haul-compo-sana.jpg) |
+| April 25, 2026 | 10cm pot-up cells laid out and ready | ![pots](pictures/29-pot-up-cells-ready.jpg) |
+| April 25, 2026 | Tray 1 transplanted on the patio table (hardening off too) | ![tray1](pictures/30-tray1-potted-up-patio.jpg) |
+| April 25, 2026 | Tray 1 transplants back under the grow lights | ![grow](pictures/31-tray1-under-grow-light.jpg) |
+| April 25, 2026 | Third dianthus pair on the railing — trio complete | ![trio](pictures/32-dianthus-trio-railing.jpg) |
+| April 25, 2026 | Euonymus fortunei pair in black ex-mint pots — Zone A | ![euonymus](pictures/33-euonymus-pair-black-pots.jpg) |
+| April 25, 2026 | Sempervivum anchor pots, alpine rock top-dress | ![semp](pictures/34-sempervivum-anchor-pots.jpg) |
+| April 25, 2026 | The patio battlefield — workstation aftermath | ![battlefield](pictures/35-patio-battlefield.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 24, 2026*
+*Last updated: April 25, 2026*
