@@ -493,34 +493,87 @@ Year-round backbone in place; seasonal rotation can now layer on top of it.
 
 ---
 
-## The Story So Far
+---
 
-Thirty-five photos across eleven days — from a bare table of supplies to a balcony with **two distinct zones, an evergreen backbone, and a railing trio of dianthus**. Emma's garden now has:
-
-- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seeds** under the 5-gooseneck grow lights — Tray 1 now potted up into 18× 10 cm cups (April 25), Tray 2 still under the dome on day 3
-- **Herbs** — chocolate mint thriving + propagating from cuttings (basil pulled April 24)
-- **A dianthus trio** along the railing in matching grey hangers
-- **Zone A backbone** — Euonymus fortunei pair (gold + white-variegated) potted in black ex-mint pots
-- **Zone B anchors** — Sempervivum 6-pack split across two NORA anchor pots with alpine rock top-dress
-- **Lavandula angustifolia** waiting on its NORA pot (tomorrow)
-- **Michael's Nook** — snake plant, tiger aloe, mini pineapple, pots arrived (pot-up tomorrow)
-- **2 NORA anchor pots in reserve** (lavender + cosmos/zinnia overflow)
-- **A proper hose setup** on the wall, a real workstation, and now a real zoning plan
-
-This balcony is becoming a full year-round garden ecosystem!
-
-**Coming soon (tomorrow!):**
-- Lavender repot, Nook pot-up, final placement of Euonymus + Sempervivum, patio cleanup, tile-joint weeds
-- Tray 2 sprouts (Tue–Wed)
-- Tray 1 transplant recovery (lights eased 24–48 hr)
-- The gift arrangement finally getting repotted into individual pots
-- Hardening off and the big move outdoors (May 15!)
-- Cosmos/zinnia transplanting into the Zone B grey overflow pot + alongside Sempervivum
-- BLOOMS everywhere! (June and beyond)
-
-> Keep the photos coming, Emma — this garden diary is growing as fast as the plants!
+# Day 12 — April 26, 2026: End-of-April Closeout!
 
 ---
 
-*Photos from April 14–25, 2026 — Days 1 through 11 of Emma's Garden*
+## Lavender + Sempervivum — "The Zone B Wall Is Alive!"
+
+The sunny stucco wall finally has its permanent residents. Three grey pots lined up against the white wall: **Sempervivum** anchor pots flanking a freshly planted **Lavandula angustifolia** in the center. All three are top-dressed with the same 5–10mm gravel — it keeps the crowns dry, prevents rot at soil level, and looks clean against the grey pots.
+
+The lavender went in with a 60% Kakteenerde / 40% Sana soil blend — grittier even than the Sempervivum mix, because lavender is Mediterranean and wants all the drainage it can get. Crown placed at or above the soil line (buried crown = the #1 lavender killer). One deep watering to settle, then nothing — lean soil, full sun, benign neglect. This is a plant that thrives on being ignored.
+
+The Sempervivum rosettes are already showing their colors — reds and greens and bronzes catching the afternoon light. They'll multiply all summer, sending out chicks on runners until the pots are full.
+
+![Three grey pots against the white stucco wall — Sempervivum on either side, lavender in the center, all gravel-topped and soaking up the Zone B sun](pictures/36-lavender-and-sempervivum-pots.jpg)
+
+---
+
+## The Nook — "All Grown Up!"
+
+**Michael's Nook** is officially finished. The three plants that arrived in OBI nursery pots on April 23 are now in their proper homes — matching white pots with drainage mesh discs, filled with straight Kakteenerde. Left to right on the granite sill: the bold **Sansevieria 'Laurentii'** with its yellow-edged leaves, the **mini pineapple** with its tiny fruit crown in the center, and the compact **Aloe variegata "Safari"** with its white-speckled rosettes.
+
+The Stuttgart rooftops frame the scene through the window behind them. This is the view from the reading chair — the Poäng, the granite sill, the plants, the city. Not bad for a first-time gardener's apartment.
+
+No watering for 5–7 days post-repot — root wounds need to callus. First drink around May 1–3.
+
+![Michael's Nook complete — snake plant, mini pineapple, and tiger aloe in matching white pots on the granite sill, Stuttgart rooftops catching the afternoon light](pictures/37-nook-repotted-final.jpg)
+
+---
+
+## The Balcony — "April Baseline"
+
+This is it. The **April 2026 baseline** — the reference shot for comparing how everything looks in July when the cosmos are towering, the zinnias are blazing, and the brodiaea are (hopefully) putting on a violet-blue show.
+
+Clean tiles (tile weeds tackled with the new Fugenkratzer), Poäng chairs in position, plants dotting the railing and the sunny wall. The hanging planters with brodiaea and babiana are visible along the railing, the dianthus in their saddle planter catching sun, and the Euonymus and herb pots tucked along the edges. The workstation area is clear. The glass block wall filters the afternoon light.
+
+This balcony went from bare concrete to a living garden in twelve days. Coffee, view, Poäng. That's the life.
+
+![The balcony in full — Poäng chairs arranged, clean tiles, plants along the railing and wall, Stuttgart rooftops in the afternoon sun. The April 2026 baseline](pictures/38-balcony-cleaned-and-ready.jpg)
+
+![Panoramic view of the full terrace — every pot in place, every tile clean. The April 2026 baseline for the July comparison](pictures/39-balcony-panorama-april-baseline.jpg)
+
+---
+
+## Tray 2 — "Day 4 Under The Dome"
+
+Tray 2 (sown April 22) on day 4 of germination. The humidity dome is still on — healthy condensation droplets lining the inside, and through the plastic you can spot **~6 sprouts** breaking through the soil. Right on schedule.
+
+The dome cracking sequence starts in 2–3 days: prop one corner first, then half-off, then fully off over about 3 days. Same careful transition that worked for Tray 1. These babies are following the playbook.
+
+![Tray 2 on the windowsill with the dome still on — condensation droplets on the inside, sprouts visible through the plastic, Stuttgart rooftops blurred in the background](pictures/40-tray2-dome-day4-sprouts.jpg)
+
+---
+
+## The Story So Far
+
+Forty photos across twelve days — from a bare table of supplies to a balcony that's finally ready for sitting season. The April 2026 chapter is closing out strong. Photos 28-35 captured the big April 25 planting day (Tray 1 pot-up, dianthus trio, Euonymus, Sempervivum anchor pots, and the patio battlefield), while photos 36-40 document the April 26 closeout (lavender planted, Nook repotted, balcony baseline).
+
+Emma's garden now has:
+- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
+- **Two trays of seeds** under grow lights — Tray 1 potted up into 10cm cells, Tray 2 sprouting under the dome
+- **Lavender** planted! Lavandula angustifolia in the Zone B sunny wall lineup
+- **Sempervivum** flanking the lavender, gravel-topped, showing their colors
+- **Euonymus** pair (golden + white variegated) settling into their pots
+- **A dianthus trio** along the railing in matching grey hangers
+- **Michael's Nook** — repotted and final: snake plant, pineapple, tiger aloe in matching whites
+- **Chocolate mint** thriving solo + propagating from cuttings
+- **Gift arrangement** still waiting for its repotting session
+- **A clean, organized balcony** with two distinct zones, an evergreen backbone, and a real zoning plan — ready for coffee and sunshine
+
+**Coming up in May:**
+- Tray 2 dome cracking (~Apr 29–30)
+- Lavender moved to full sun (~Apr 28)
+- First Nook watering (~May 1–3)
+- Pre-trip shopping: capillary mats, Blumat carrots, timer plug
+- May 20–25: travel (watering automation in place)
+- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
+- BLOOMS everywhere! (June and beyond)
+
+> April 2026 — from zero to garden. The baseline is set. Now we grow.
+
+---
+
+*Photos from April 14–26, 2026 — Days 1 through 12 of Emma's Garden*

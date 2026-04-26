@@ -162,6 +162,15 @@ permalink: /GARDENING-RESEARCH
 **Bloom time:** June–August
 **Hardiness:** Zone 5–8 (survives Stuttgart winters with protection)
 
+### What Emma Has
+
+- **Lavandula angustifolia** starter plant — planted April 26 in reserved grey pot on the Zone B sunny long wall
+- **Soil mix:** 60% OBI Kakteenerde / 40% Compo Sana — grittier than the Sempervivum blend, more drainage for Mediterranean roots
+- **Crown placement:** at/above soil line — buried crown = rot (#1 lavender killer)
+- **Top-dress:** 5–10mm gravel (same as Sempervivum pots)
+- **Fertilizer:** none — lean soil preference
+- **Note:** L. stoechas (Schopf-Lavendel / French lavender) was skipped — only hardy to -5 to -10°C, won't survive Stuttgart winters. L. angustifolia (Echter Lavendel) is hardy to -20°C.
+
 ### Growing from Seed — The Patient Gardener's Guide
 
 | Detail | Info |
@@ -761,12 +770,17 @@ Originally considered joining Euonymus to the Sempervivum + cosmos/zinnia anchor
 | **Hand trowel** | Scooping soil, planting | OBI / Bauhaus | 3–8 EUR |
 | **Pruning snips / scissors** | Deadheading, harvesting | OBI / Bauhaus | 5–10 EUR |
 | **OBI bypass pruners** | Deadheading, trimming, thinning seedlings | OBI | ~8 EUR |
+| **Fugenkratzer (telescopic, modular heads)** | Tile weed removal on the balcony | OBI | ~10 EUR |
 
 **Bypass Pruner Care (OBI pruners with orange safety-lock):**
 - Wipe blades after each use (sap dulls the edge)
 - Engage safety lock slider when storing
 - Occasional pivot oil (any light oil)
 - Alcohol-disinfect between plants if one is diseased
+
+**Fugenkratzer Care:**
+- Pull toward you on dry joints for best results
+- Combine with boiling water for stubborn deep-rooted weeds (scrape after 24–48hr)
 
 ### Nice-to-Have Tools
 
@@ -871,7 +885,7 @@ Originally considered joining Euonymus to the Sempervivum + cosmos/zinnia anchor
 ```
 COSMOS          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
 ZINNIA          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
-LAVENDER        Sun: Full | Water: Light      | Saved for next season
+LAVENDER        Sun: Full | Water: Light      | Planted: April 26     | Zone B sunny wall
 BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15       | Blooms: June-Aug
 BABIANA         Sun: Full | Water: When dry   | Planted: April 17       | Blooms: Late spring
 SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planting: April 25      | NEVER FERTILIZE!
@@ -883,4 +897,4 @@ GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 
 ---
 
-*Research compiled April 15, 2026 — Last updated April 24, 2026*
+*Research compiled April 15, 2026 — Last updated April 26, 2026*

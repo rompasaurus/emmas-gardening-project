@@ -66,22 +66,28 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Bigger cell trays set up** for seedling upsizing before May 15 transplant
 - [x] **Basil pulled** — pots repurposed for Euonymus
 - [x] **Fertilizer strategy set** — Compo BIO Blumendünger (potassium, half strength, every 2-3 wks)
-- [ ] **Apr 25: Pot up Euonymus** into repurposed black 27x24cm pots (Compo Sana)
-- [ ] **Apr 25: Pot up new Dianthus pair** into grey hanging planter (Compo Sana)
-- [ ] **Apr 25: Plant Sempervivum** in 2 anchor pots (3 per pot, rim placement, 40/60 Cactea/Sana blend)
-- [ ] **Apr 25: Top-dress Sempervivum** with balcony rocks (check if 5-10mm size)
-- [ ] **Bottom-water only** — no top watering from now on; water when soil dries back
-- [ ] **Rotate tray 180° daily** — prevents sprouts leaning toward window
-- [ ] Check Tray 2 soil moisture under the dome — mist or bottom-water if drying
-- [ ] Watch Tray 1 for **true leaves** (second set, different shape) → pot up into 10 cm pots, burying leggy stems deep
-- [ ] Watch for **legginess** — if stems get tall/thin/pale, lower the grow light
-- [ ] Watch for **damping off** — fungal collapse at stem base from soggy soil
-- [ ] Finish removing dicot weeds from Babiana planter
-- [ ] Pot up Nook plants (snake plant, tiger aloe, mini pineapple) in Kakteenerde once pots arrive (Sat Apr 25)
+- [x] **Pot up Euonymus** into repurposed black 27x24cm pots (Compo Sana) — Apr 25
+- [x] **Pot up new Dianthus pair** into grey hanging planter (Compo Sana) — Apr 25
+- [x] **Plant Sempervivum** in 2 anchor pots (3 per pot, rim placement, 40/60 Cactea/Sana blend) — Apr 25
+- [x] **Top-dress Sempervivum** with 5-10mm gravel — Apr 25
+- [x] **Tray 1 potted up** into 10cm cells, burying leggy stems deep — Apr 25
+- [x] **Lavandula angustifolia planted** in grey pot on Zone B sunny wall (60% Kakteenerde / 40% Sana, gravel top-dress) — Apr 26
+- [x] **Nook repotted** — snake plant 12cm, pineapple 12cm, tiger aloe 10-11cm in Kakteenerde with drainage mesh — Apr 26
+- [x] **Balcony cleaned** — tile weeds removed with Fugenkratzer, organized, April baseline photos taken — Apr 26
+- [x] **Travel plan locked** — May 20–25 trip, transplant delayed from May 15 → ~May 26–28 — Apr 26
+- [ ] Move lavender from semi-shade → full Zone B sun (~Apr 28)
+- [ ] Tray 2 dome cracking sequence (~Apr 29–30)
 - [ ] Pinch mint tops once it has 3–4 sets of leaves
 - [ ] Deadhead dianthus as blooms fade
-- [ ] Water brodiaea, babiana, dianthus only when top 2 cm of soil is dry
 - [ ] Repot gift arrangement into individual pots
+
+### Week of April 28 – May
+
+- [ ] Move lavender to full sun position
+- [ ] Tray 2 dome: prop corner → half-off → off entirely (~3 days)
+- [ ] First Nook watering (~May 1–3): snake plant light, aloe deep, pineapple rosette cup
+- [ ] Order pre-trip supplies: capillary mats, 3–4 Blumat carrots + 1.5L PET bottles, timer plug
+- [ ] Tray 1 first half-strength fertilizer dose ~1 week after May 26–28 transplant
 
 ### Shopping List — April
 
@@ -112,13 +118,15 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~Grey hanging planter~~ | OBI | — | Bought (Apr 24) |
 | ~~Bypass pruners~~ | OBI | — | Bought (Apr 24) |
 | ~~Measuring jug + bucket~~ | OBI | — | Bought (Apr 24) |
-| 3× pots with drainage + saucers (Nook) | Amazon | — | Ordered, arrives Sat Apr 25 |
+| ~~3× pots with drainage + saucers (Nook)~~ | Amazon | — | Arrived + repotted (Apr 26) |
+| ~~Lavandula angustifolia (Echter Lavendel)~~ | OBI | — | Bought + planted (Apr 26) |
+| ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
 | Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
-| Spray bottle (misting) | Any store | 2–3 EUR | On hand |
-| Lavandula angustifolia (Echter Lavendel) | OBI (next visit) | — | Wish list |
+| 1–2 capillary mats (indoor seedling cells) | OBI / Amazon | — | Pre-trip (before May 20) |
+| 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
+| 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
 | Ilex crenata (Japanische Stechpalme) | OBI (next visit) | — | Wish list — boxwood moth–free alternative |
 | Heuchera (Purpurglöckchen) | OBI (next visit) | — | Wish list |
-| Healthy fuller Euonymus fortunei | OBI (next visit) | — | Wish list |
 
 ---
 
@@ -133,18 +141,32 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [ ] Deadhead dianthus regularly for continuous blooms
 - [ ] Replacement basil plan — sow from seed or split a commercial pot into 3–4 clumps
 
-### May 15 — Transplant Day!
+### May 20 — Pre-Trip Checklist
+
+- [ ] Deep soak everything
+- [ ] Move balcony pots to shadiest spot
+- [ ] Install Blumat carrots (soak carrots 10 min first, push to neck in damp soil) for dianthus + mint
+- [ ] Set up capillary mats for indoor seedling cells
+- [ ] Confirm timer plug working (16hr grow light cycle)
+- [ ] Raise grow lights to 20–25cm, dim to 70–80% if Niello allows
+
+### May 20–25 — Travel (5 days)
+
+- [ ] Automated watering in place (Blumats + capillary mats)
+- [ ] Grow lights on timer, raised and dimmed for safety
+- [ ] Drought-tolerant plants (brodiaea, babiana, sempervivum, euonymus, nook) — no action needed
+
+### ~May 26–28 — Transplant Day! (Post-Return)
 
 - [ ] **Move cosmos outdoors** into permanent pots (full sun) — bury leggy stems deep (up to just below the cotyledons)
 - [ ] **Move zinnias outdoors** into permanent pots (full sun) — bury leggy stems deep
 - [ ] **Plant 2–3 cosmos/zinnia per Sempervivum anchor pot** (with 3 Sempervivum rosettes around the perimeter)
-- [ ] Move mint to a sunnier spot if needed
 - [ ] Water all transplants deeply after moving
 
 ### Week of May 16–31
 
 - [ ] Monitor transplants daily for wilting or stress
-- [ ] Begin fertilizing with Compo BIO Blumendünger at half strength (every 2-3 weeks) — NOT Sempervivum or mint!
+- [ ] Begin fertilizing with Compo BIO Blumendünger at half strength (~1 week after transplant, every 2-3 weeks) — NOT Sempervivum, lavender, or mint!
 - [ ] Deadhead any fading gift-arrangement flowers to encourage new blooms
 
 ### Shopping List — May
@@ -218,6 +240,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Zinnias (trays) | Bottom-water; keep Tray 2 humid under dome until sprouts appear |
 | Chocolate mint | Keep consistently moist — likes more water than flowering plants |
 | Dianthus (all 4) | Let top 2 cm dry between waterings — hates soggy roots |
+| Lavender | Let soil dry fully between waterings — Mediterranean, hates wet feet |
 | Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain |
 | Euonymus | Keep evenly moist — richer soil, more water than succulents |
 | Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
@@ -236,6 +259,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Brodiaea | No feed this year | Bulbs have stored energy |
 | Babiana | No feed this year | Same as brodiaea |
 | Mint | Skip entirely | Barely needs anything |
+| Lavender | **None** | Lean soil preference — 60% Kakteenerde / 40% Sana, gravel top-dress |
 | Sempervivum | **NEVER** | Lean soil + sun + gravel only — feeding causes rot, washed-out colors |
 | Nook plants | June + late summer | 1 diluted feed each time |
 | Euonymus | Light feed in growing season | Standard half-strength every 3-4 weeks |
@@ -261,4 +285,4 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ---
 
-*Last updated: April 24, 2026*
+*Last updated: April 26, 2026*

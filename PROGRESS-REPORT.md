@@ -45,9 +45,12 @@ permalink: /PROGRESS-REPORT
 | April 25, 2026 | Sempervivum split across 2 NORA anchor pots, alpine rock top-dress | Done |
 | April 25, 2026 | OBI run — ~20L Compo Sana + Lavandula angustifolia (€3.49) | Done |
 | April 25, 2026 | Final balcony zoning plan locked in (Zone A black / Zone B grey) | Done |
+| April 26, 2026 | Lavandula angustifolia planted in grey pot (Zone B sunny wall) | Done |
+| April 26, 2026 | Nook repotted — snake plant, pineapple, tiger aloe in proper pots | Done |
+| April 26, 2026 | Balcony fully cleaned and organized — April baseline established | Done |
+| April 26, 2026 | Travel plan locked: May 20–25, transplant delayed to ~May 26–28 | Done (decision) |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
-| April 26, 2026 | Lavender repot + Nook pot-up + final placement | Upcoming |
-| May 15, 2026 | Transplant seedlings outdoors | Upcoming |
+| May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
 | July–August 2026 | Plan fall/winter sowing | Upcoming |
@@ -673,6 +676,50 @@ The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and t
 
 ---
 
+### Session 12 — April 26, 2026 — "End-of-April Closeout"
+
+**Three big items off the list: lavender planted, Nook repotted, balcony fully cleaned. Travel plan locked. April baseline established.**
+
+End-of-April closeout day. The kind of session where the garden stops looking like a construction site and starts looking like somewhere you'd actually sit with a coffee. Three major tasks knocked out, a travel contingency plan locked in, and the balcony photographed as the official April 2026 baseline.
+
+**Morning check — the nursery:**
+
+Tray 1 (sown April 16, potted up into 10cm cells April 25) is looking healthy on Day 1 in cells. Cosmos cotyledons paired up nicely, and the zinnias on the right are already pushing true leaves — the feathery second pair. Color is good, no yellowing. A few sparse or empty cells to investigate next session. Grow lights eased 24–48hr post pot-up; back to normal 10–15cm distance tomorrow.
+
+Tray 2 (sown April 22, dome day 4) has ~6 sprouts breaking through the soil. Dome condensation is healthy at this stage. The crack-the-dome sequence starts in 2–3 days: prop corner, half-off, off entirely over ~3 days.
+
+![Tray 2 on the windowsill, dome still on at day 4 — healthy condensation droplets on the inside, a few sprouts visible through the plastic, Stuttgart rooftops in the background](pictures/40-tray2-dome-day4-sprouts.jpg)
+
+**Lavender planted!**
+
+Finally — **Lavandula angustifolia** goes in! The winter-hardy variety (skipped L. stoechas, which can't handle Stuttgart winters). Planted in a reserved grey pot on the Zone B sunny long wall. Soil mix: 60% OBI Kakteenerde / 40% Sana — slightly grittier than the Sempervivum blend because lavender wants even more drainage. Crown placed at/above the soil line (buried crown = rot, the #1 lavender killer). Top-dressed with the same 5–10mm gravel as the Sempervivum pots. Watered in once deeply. No fertilizer — lavender prefers lean soil.
+
+![The Zone B sunny wall lineup — Sempervivum anchor pots flanking the lavender in the center, all top-dressed with gravel against the white stucco wall](pictures/36-lavender-and-sempervivum-pots.jpg)
+
+Initially placed in semi-shade out of transplant-stress habit, but Mediterranean plants don't actually need this. Moving to full Zone B sun in 1–2 days.
+
+**Nook repotted!**
+
+The three Nook plants finally got out of their OBI nursery pots and into proper homes. Full repot session into the Amazon pots that arrived yesterday. Final arrangement (L → R): Sansevieria 'Laurentii' (12cm pot), Ananas nanus mini pineapple (12cm pot, center), Aloe variegata "Safari" tiger aloe (10–11cm pot). All pots have drainage mesh discs — they prevent soil washout and pest entry without impeding drainage. Soil: straight OBI Kakteen-und Bonsaierde torffrei.
+
+![Michael's Nook, repotted and final — snake plant, mini pineapple, and tiger aloe in matching white pots on the granite sill, Stuttgart rooftops through the window](pictures/37-nook-repotted-final.jpg)
+
+Care plan: no water for 5–7 days post-repot (root wounds need to callus). Direct sun is fine. Watch for leaf yellowing/mushiness. First watering ~May 1–3.
+
+**Balcony cleanup and April baseline:**
+
+Tile weeds tackled with the new Fugenkratzer (telescopic, modular heads, bought Apr 25). Combo strategy: pull toward you on dry joints, boiling water for stubborn deep roots, then scrape after 24–48 hours. Empty pots, soil bags, and tools organized. Chairs returned to position. The balcony is clean and ready for sitting season.
+
+![The balcony in full — Poäng chairs arranged, clean tiles, plants along the railing and wall, Stuttgart rooftops catching the afternoon light. This is the April 2026 baseline](pictures/38-balcony-cleaned-and-ready.jpg)
+
+![Panoramic view of the full terrace — the April 2026 baseline shot for comparing July growth](pictures/39-balcony-panorama-april-baseline.jpg)
+
+**Travel plan — May 20–25 (5 days):**
+
+Decision: delay cosmos/zinnia outdoor transplant from May 15 → ~May 26–28 (post-return). Reasoning: slightly rootbound seedlings beat transplant-shocked-then-abandoned. Risk assessment: cosmos/zinnia are highest risk (delay transplant), tray seedlings medium (capillary mats), dianthus and mint medium (Blumat carrots + 1.5L PET bottles), everything else drought-tolerant (no action needed). Pre-trip shopping: 1–2 capillary mats, 3–4 Blumat carrots + PET bottles, 1× timer plug. Grow lights stay on 16hr timer, raised to 20–25cm, dimmed to 70–80% if possible.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -717,24 +764,26 @@ The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and t
 - Final balcony zoning locked in: Zone A black-pot wall + Zone B grey-pot wall + railing dianthus trio
 - Lavandula angustifolia found at OBI (closes the April 23 follow-up)
 - Mint propagation confirmed working — new sprouts from deleafed stem cuttings
+- Lavandula angustifolia planted in grey pot, Zone B sunny wall (60% Kakteenerde / 40% Sana, gravel top-dress)
+- Nook repotted: snake plant (12cm), mini pineapple (12cm), tiger aloe (10-11cm) in Kakteenerde with drainage mesh discs
+- Balcony fully cleaned: tile weeds removed with Fugenkratzer, pots organized, chairs positioned
+- April 2026 baseline photos taken for July growth comparison
+- Travel plan locked: May 20–25 trip, transplant delayed to ~May 26–28
+- Fugenkratzer (telescopic, modular heads) added to tool kit
 
 ### In Progress
-- Tray 2 germination watch (day 3, expected Tue–Wed)
-- Tray 1 transplant recovery — lights eased 24–48 hr, no water unless surface dry
-- Michael's Nook plants acclimating in nursery pots (pots arrived — pot-up tomorrow)
-- Lavandula angustifolia waiting on its NORA pot (60/40 Cactea/Sana) — tomorrow
-- Final placement of Euonymus (Zone A) + Sempervivum (Zone B) — tomorrow
+- Tray 1 recovery in 10cm cells — Day 1, lights eased, resume normal distance tomorrow
+- Tray 2 germination: ~6 sprouts on day 4, dome cracking starts ~Apr 29–30
+- Nook plants post-repot: no water for 5–7 days, first watering ~May 1–3
+- Lavender acclimation: move from semi-shade → full Zone B sun ~Apr 28
 - Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
-- Pot up Nook plants in Kakteenerde (pots arrived — scheduled tomorrow)
-- Pot up Lavandula angustifolia in remaining NORA anchor pot (scheduled tomorrow)
-- Tile-joint weeds — Fugenkratzer or boiling water pass (legal options only)
-- Patio cleanup — soil sweep + store Compo bags
+- Pre-trip shopping: capillary mats, Blumat carrots, timer plug (before May 20)
+- May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
+- Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
+- Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
 - Repotting gift arrangement into individual pots
-- Hardening off seedlings (starts ~May 1)
-- Transplanting cosmos/zinnias outdoors into anchor pot centers (scheduled for May 15+)
-- Fertilizing routine (starts mid-May, except Sempervivum — NEVER)
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 
@@ -779,10 +828,15 @@ The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and t
 | April 25, 2026 | Euonymus fortunei pair in black ex-mint pots — Zone A | ![euonymus](pictures/33-euonymus-pair-black-pots.jpg) |
 | April 25, 2026 | Sempervivum anchor pots, alpine rock top-dress | ![semp](pictures/34-sempervivum-anchor-pots.jpg) |
 | April 25, 2026 | The patio battlefield — workstation aftermath | ![battlefield](pictures/35-patio-battlefield.jpg) |
+| April 26, 2026 | Lavender + Sempervivum pots on the Zone B sunny wall | ![lavender](pictures/36-lavender-and-sempervivum-pots.jpg) |
+| April 26, 2026 | Nook repotted — final arrangement on granite sill | ![nook](pictures/37-nook-repotted-final.jpg) |
+| April 26, 2026 | Balcony cleaned and ready — April baseline | ![balcony](pictures/38-balcony-cleaned-and-ready.jpg) |
+| April 26, 2026 | Balcony panorama — April 2026 baseline | ![pano](pictures/39-balcony-panorama-april-baseline.jpg) |
+| April 26, 2026 | Tray 2 dome day 4 — sprouts breaking through | ![tray2](pictures/40-tray2-dome-day4-sprouts.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 25, 2026*
+*Last updated: April 26, 2026*

@@ -19,16 +19,16 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 potted up into 10cm cups (Apr 25), Tray 2 day 3 |
-| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 potted up into 10cm cups (Apr 25), Tray 2 day 3 |
-| Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Split across 2 NORA anchor pots, rock-topped (Apr 25) |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 in 10cm cells, Tray 2 sprouting under dome |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 in 10cm cells (true leaves!), Tray 2 sprouting |
+| Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall |
+| Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
 | Dianthus (Pink) | 3x grey hanging planters (railing trio) | Spring - Summer | Trio complete on the railing (Apr 25) |
-| Lavandula angustifolia | Semi-evergreen herb (Zone B) | Summer | Bought Apr 25 — awaiting NORA pot tomorrow |
 | Chocolate Mint | Herb - potted | Summer | Thriving + propagating from cuttings |
-| Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Pots arrived — pot-up tomorrow |
-| Haworthia "Safari" | Succulent (Michael's Nook) | — | Pots arrived — pot-up tomorrow |
-| Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Pots arrived — pot-up tomorrow |
+| Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
+| Haworthia "Safari" | Succulent (Michael's Nook) | — | Repotted Apr 26 — 10-11cm pot |
+| Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 | Daffodils | Gift arrangement | Spring | Needs repotting |
 | Ranunculus | Gift arrangement | Spring | Needs repotting |
@@ -39,13 +39,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 25, 2026 — The Big Planting Day
+## Latest Update — April 26, 2026
 
-> *"No rest for the wicked."* — Emma, mid-transplant
->
-> ~9 hours, four projects done, two deferred, patio looked like a battlefield. **Tray 1 potted up** — 18× 10 cm cups with the leggy cosmos buried below the cotyledons. **Third dianthus pair** went up in a grey hanger — the railing now has a matching trio. **Euonymus fortunei pair** (gold + white-variegated) potted into the freed-up black ex-mint pots — Zone A backbone is in. **Sempervivum 6-pack** split across two of the NORA anchor pots with the 40/60 Cactea/Sana blend and a full alpine rock top-dress — Zone B anchors locked in. Bought a **Lavandula angustifolia** at OBI (€3.49) — closes the April 23 wishlist follow-up. Final balcony zoning is now official: black-pot Zone A on the short wall, grey-pot Zone B on the long sunny wall, dianthus trio between them on the railing. Lavender repot, Michael's Nook pot-up, and final placement deferred to tomorrow.
+> End-of-April closeout! Lavender planted (Lavandula angustifolia, Zone B sunny wall). Nook repotted into proper pots. Balcony fully cleaned and organized — April baseline photos taken. Travel plan locked for May 20–25: transplant delayed to ~May 26–28 post-return. Tray 1 potted up into 10cm cells, Tray 2 has ~6 sprouts on dome day 4. Coffee, view, Poäng.
 
-![The two NORA anchor pots planted up with the Sempervivum 6-pack — green rosettes, burgundy/purple, and S. arachnoideum, all finished with a full alpine rock top-dress](pictures/34-sempervivum-anchor-pots.jpg)
+![The balcony in full — clean tiles, plants everywhere, Stuttgart rooftops. The April 2026 baseline](pictures/38-balcony-cleaned-and-ready.jpg)
 
 ## Project Pages
 
