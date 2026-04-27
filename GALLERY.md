@@ -547,33 +547,71 @@ The dome cracking sequence starts in 2–3 days: prop one corner first, then hal
 
 ---
 
+---
+
+# Day 13 — April 27, 2026: Dome Off, True Leaves Up!
+
+---
+
+## Tray 2 Graduates — "Dome's Off, We're Flying Free"
+
+Day 5 and **16 of 18 cells** have germinated. The dome's job is done — off it comes entirely. Cotyledons are fully open, cells evenly tall (cosmos at one height, zinnia at another, no legginess within either group). The two laggards may still pop in the next couple of days, but the dome staying on would risk damping-off at this point.
+
+Tray 2 now joins Tray 1 in the open-air nursery phase: fan on, lights at 10–12cm, and the protective microclimate behind it.
+
+![Tray 2 dome off — 16 of 18 cells germinated, cotyledons fully open, goosenecks arcing overhead, Stuttgart skyline through the window behind](pictures/41-tray2-dome-off.jpg)
+
+---
+
+## Tray 1 True Leaves — "They're Actually Growing"
+
+Day 11 from sow, Day 2 post-pot-up, and the **first true leaves** are here. The zinnias are the clearest — pointed leaves emerging between the rounded cotyledons. The cosmos are showing the same on most pots. Deep green throughout, no purpling, no yellowing. Photosynthesis is ramping up.
+
+You can also see the doubles — several pots have two seedlings competing for the same cup. Those get thinned in the next 3–5 days: snip the weaker one at soil level with the bypass pruners, never pull (pulling disturbs the keeper's roots).
+
+The pot-up clearly didn't shock them. Two days post-transplant and they're already pushing new growth. Clean win.
+
+![Tray 1 in their 10cm cups under the grow lights — cosmos (left, narrow leaves) and zinnias (right, broader leaves) both pushing their first true leaves, deep green and healthy](pictures/42-tray1-true-leaves.jpg)
+
+---
+
+## Dianthus First Feed — "The Trio Gets Breakfast"
+
+The railing trio got their first proper meal: **Compo BIO Blumendunger at half strength** (10ml in 2L water). Soil was already moist, so no pre-watering needed — just mixed, swirled, and poured at soil level. The yellow BIO bottle perched on the railing like a proud sponsor.
+
+Expect a flower flush within 10–14 days. Next feed ~May 11–18, every 2–3 weeks through bloom season.
+
+![Dianthus in their grey hanging planter on the railing, pink blooms catching the sun, the Compo BIO Blumendunger bottle balanced on the rail — first feed day](pictures/43-dianthus-first-feed.jpg)
+
+---
+
 ## The Story So Far
 
-Forty photos across twelve days — from a bare table of supplies to a balcony that's finally ready for sitting season. The April 2026 chapter is closing out strong. Photos 28-35 captured the big April 25 planting day (Tray 1 pot-up, dianthus trio, Euonymus, Sempervivum anchor pots, and the patio battlefield), while photos 36-40 document the April 26 closeout (lavender planted, Nook repotted, balcony baseline).
+Forty-three photos across thirteen days. The indoor nursery is running on all cylinders — 11 goosenecks of grow light, a fan on a split schedule, true leaves pushing through on Tray 1, and Tray 2 graduated from the dome. Outside, the balcony is fully zoned, the dianthus trio is on a feeding schedule, and everything else is holding green.
 
 Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seeds** under grow lights — Tray 1 potted up into 10cm cells, Tray 2 sprouting under the dome
-- **Lavender** planted! Lavandula angustifolia in the Zone B sunny wall lineup
-- **Sempervivum** flanking the lavender, gravel-topped, showing their colors
-- **Euonymus** pair (golden + white variegated) settling into their pots
-- **A dianthus trio** along the railing in matching grey hangers
-- **Michael's Nook** — repotted and final: snake plant, pineapple, tiger aloe in matching whites
-- **Chocolate mint** thriving solo + propagating from cuttings
+- **Two trays of seedlings** under 11-gooseneck grow lights — Tray 1 with true leaves, Tray 2 dome off
+- **Lavender** planted on the Zone B sunny wall
+- **Sempervivum** in anchor pots, healing in
+- **Euonymus** pair (Zone A backbone) looking sharp
+- **A dianthus trio** along the railing, first feed done
+- **Michael's Nook** — repotted and resting
+- **Chocolate mint** thriving solo + propagating
+- **11 Niello goosenecks** total across both trays
 - **Gift arrangement** still waiting for its repotting session
-- **A clean, organized balcony** with two distinct zones, an evergreen backbone, and a real zoning plan — ready for coffee and sunshine
 
-**Coming up in May:**
-- Tray 2 dome cracking (~Apr 29–30)
-- Lavender moved to full sun (~Apr 28)
+**Coming up:**
+- Thin Tray 1 doubles (~3–5 days)
+- Install 6 new goosenecks, dedicate per tray
+- Move lavender to full Zone B sun
 - First Nook watering (~May 1–3)
 - Pre-trip shopping: capillary mats, Blumat carrots, timer plug
 - May 20–25: travel (watering automation in place)
 - ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
-- BLOOMS everywhere! (June and beyond)
 
-> April 2026 — from zero to garden. The baseline is set. Now we grow.
+> Thirteen sessions in. The seedlings have true leaves. The balcony has zones. The dianthus have breakfast. This is a real garden now.
 
 ---
 
-*Photos from April 14–26, 2026 — Days 1 through 12 of Emma's Garden*
+*Photos from April 14–27, 2026 — Days 1 through 13 of Emma's Garden*

@@ -49,6 +49,11 @@ permalink: /PROGRESS-REPORT
 | April 26, 2026 | Nook repotted — snake plant, pineapple, tiger aloe in proper pots | Done |
 | April 26, 2026 | Balcony fully cleaned and organized — April baseline established | Done |
 | April 26, 2026 | Travel plan locked: May 20–25, transplant delayed to ~May 26–28 | Done (decision) |
+| April 27, 2026 | Tray 2 dome removed entirely — 16 of 18 cells germinated by Day 5 | Done |
+| April 27, 2026 | Tray 1 true leaves emerging — Day 11 from sow, Day 2 post-pot-up | Done |
+| April 27, 2026 | Fan strategy refined — 3–4 hr/day split sessions, speed 1, indirect | Done |
+| April 27, 2026 | First Compo BIO feed — Dianthus trio, half strength (10ml in 2L) | Done |
+| April 27, 2026 | 6 additional Niello goosenecks acquired — 11 total across both trays | Done |
 | April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
@@ -720,6 +725,69 @@ Decision: delay cosmos/zinnia outdoor transplant from May 15 → ~May 26–28 (p
 
 ---
 
+### Session 13 — April 27, 2026 — "Dome Off, True Leaves Up, Fan Cranked"
+
+> *"I planted lots of stuff that I even start losing track."* — Emma, mid-walk-through
+
+**Tray 2 graduates from the nursery, Tray 1 pushes its first true leaves, and the airflow rules get tuned. Plus the first Compo BIO feed for the Dianthus.**
+
+Day 12 of the garden. Morning check turned into a full balcony walk-through — both trays got assessed, the outdoor side looked solid (no watering needed anywhere), and the first Dianthus feed got mixed and applied.
+
+**Tray 2 — dome OFF entirely:**
+
+![Tray 2 with dome removed — 16 of 18 cells germinated by Day 5, cotyledons fully open, goosenecks arcing overhead, Stuttgart skyline through the window](pictures/41-tray2-dome-off.jpg)
+
+16 of 18 cells germinated by Day 5 — the two laggards may still pop in the next 2–3 days, but the dome's job is officially done. Cotyledons fully open, cells evenly tall (cosmos at one height, zinnia at another, no legginess within either group). Lights holding at 10–15cm.
+
+The dome had to come off for two reasons: damping-off risk (trapped humidity + warm soil = fungal collapse), and the sprouts have outgrown the protected microclimate phase. Tray 2 is now in the open-air nursery phase, same as Tray 1 was after Day 4.
+
+**Tray 1 — true leaves emerging:**
+
+![Tray 1 in 10cm cups under the grow lights — zinnias (right, broader leaves) clearly pushing their first true leaves between the rounded cotyledons, cosmos (left, narrow leaves) showing the same](pictures/42-tray1-true-leaves.jpg)
+
+Day 11 from sow, Day 2 post-pot-up. The zinnias are clearly pushing their first true leaves — the pointed pair emerging between the rounded cotyledons. Cosmos showing the same on most pots. Color is deep green throughout — no purpling, no yellowing, photosynthesis ramping up.
+
+Several pots have doubles that will need thinning in the next 3–5 days. Method: snip the weaker one at soil level with the bypass pruners — never pull, since pulling disturbs the keeper's roots.
+
+The pot-up clearly didn't shock them. Two days post-transplant and they're already pushing new growth — clean win.
+
+**Fan strategy bumped:**
+
+Was running the fan ~2hr/day on speed 1 from the back of the room (gentle breeze, slight stem movement, no direct blast). With Tray 2 dome off, bumped to 3–4hr/day total, split morning + afternoon. Just enough thigmomorphogenesis stimulus to thicken stems without drying out the tray.
+
+The cracked window above the trays remains a hard NO — cold downdraft risk too high. Indirect breeze from across the room is safer and gives the same stem-strengthening result.
+
+**More lights — 5 to 11 goosenecks:**
+
+2 more Niello 3-head units acquired today — going from 5 to 11 goosenecks total. Plan: dedicate full coverage to each tray independently. Tray 1 (post-pot-up, larger leaf area) at ~15cm; Tray 2 stays at 10–12cm until true leaves come in.
+
+**Outdoor walk-through — all green, no water needed:**
+
+- Chocolate mint (isolated): good color, soil moist (knuckle test), no water
+- Euonymus pair (Zone A, potted Apr 25): sharp leaf color on both golden + white-var, soil still moist
+- Lavandula angustifolia (Zone B, planted Apr 26): holding as planted, ready to move to full Zone B sun
+- Sempervivum (2x NORA grey, planted Apr 25): holding dry on purpose, Day 2 of 3–5 day no-water heal-in
+- Brodiaea (Apr 16) + Babiana (Apr 20): no above-ground sprouts yet, within the 2–4 week window — let them be
+- Dianthus trio (railing, all 3 pots): flowers holding, no big flush yet — feeding planned today
+
+**Dianthus first feed — Compo BIO Blumendunger:**
+
+![Dianthus in their grey hanging planter on the railing, full of pink blooms, with the Compo BIO Blumendunger bottle balanced on the rail — first feed day](pictures/43-dianthus-first-feed.jpg)
+
+Half-strength application across the trio. Mix: 5ml per 1L water (= 10ml in 2L). Soil already moist — no plain pre-water needed. Watered at soil level, avoided splashes on leaves and flowers. Used the full 2L same-day (organic feed can ferment if it sits). Expect a flower flush within 10–14 days. Repeat every 2–3 weeks through bloom season.
+
+**Active care reminders:**
+
+- Tray 2: dome off, fan 3–4hr/day, lights 10–12cm, watch the 2 missing cells through Apr 30
+- Tray 1: thin doubles in 3–5 days with bypass pruners, ease watering frequency
+- Sempervivum: still no water until Day 5+ post-plant (~Apr 30)
+- Lavender: ready to move to full Zone B sun (acclimation period complete)
+- Dianthus: next feed ~May 11–18 (every 2–3 weeks)
+- Nook: first water ~May 1–3, no action today
+- Lights: install the 6 new goosenecks, dedicate per tray
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -770,12 +838,19 @@ Decision: delay cosmos/zinnia outdoor transplant from May 15 → ~May 26–28 (p
 - April 2026 baseline photos taken for July growth comparison
 - Travel plan locked: May 20–25 trip, transplant delayed to ~May 26–28
 - Fugenkratzer (telescopic, modular heads) added to tool kit
+- Tray 2 dome removed entirely on Day 5 — 16/18 germination (April 27)
+- Tray 1 true leaves emerging on Day 11 from sow, Day 2 post-pot-up (April 27)
+- Fan strategy refined: 3–4 hr/day split sessions, speed 1, indirect breeze (April 27)
+- First Compo BIO feed: Dianthus trio half-strength (10ml in 2L), full feed cycle started (April 27)
+- Grow light expansion: 6 additional Niello goosenecks — 11 total across both trays (April 27)
 
 ### In Progress
-- Tray 1 recovery in 10cm cells — Day 1, lights eased, resume normal distance tomorrow
-- Tray 2 germination: ~6 sprouts on day 4, dome cracking starts ~Apr 29–30
+- Tray 1 in 10cm cells — true leaves emerging, doubles to be thinned in 3–5 days
+- Tray 2 in open-air nursery phase — fan + lights only, watching 2 ungerminated cells through Apr 30
+- Sempervivum heal-in: Day 2 of 3–5 day no-water period
 - Nook plants post-repot: no water for 5–7 days, first watering ~May 1–3
-- Lavender acclimation: move from semi-shade → full Zone B sun ~Apr 28
+- Lavender acclimation: ready to move from semi-shade → full Zone B sun
+- Dianthus feeding cycle: next feed ~May 11–18, every 2–3 weeks through bloom season
 - Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
@@ -833,10 +908,13 @@ Decision: delay cosmos/zinnia outdoor transplant from May 15 → ~May 26–28 (p
 | April 26, 2026 | Balcony cleaned and ready — April baseline | ![balcony](pictures/38-balcony-cleaned-and-ready.jpg) |
 | April 26, 2026 | Balcony panorama — April 2026 baseline | ![pano](pictures/39-balcony-panorama-april-baseline.jpg) |
 | April 26, 2026 | Tray 2 dome day 4 — sprouts breaking through | ![tray2](pictures/40-tray2-dome-day4-sprouts.jpg) |
+| April 27, 2026 | Tray 2 dome off — 16 of 18 cells germinated by Day 5 | ![tray2](pictures/41-tray2-dome-off.jpg) |
+| April 27, 2026 | Tray 1 true leaves emerging on the zinnias | ![trueleaves](pictures/42-tray1-true-leaves.jpg) |
+| April 27, 2026 | Dianthus first feed — Compo BIO on the railing | ![dianthus](pictures/43-dianthus-first-feed.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 26, 2026*
+*Last updated: April 27, 2026*

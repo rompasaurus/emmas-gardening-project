@@ -19,8 +19,8 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 in 10cm cells, Tray 2 sprouting under dome |
-| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 in 10cm cells (true leaves!), Tray 2 sprouting |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 true leaves emerging! Tray 2 dome off, 16/18 up |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 true leaves emerging! Tray 2 dome off, 16/18 up |
 | Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall |
 | Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
@@ -39,11 +39,11 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 26, 2026
+## Latest Update — April 27, 2026
 
-> End-of-April closeout! Lavender planted (Lavandula angustifolia, Zone B sunny wall). Nook repotted into proper pots. Balcony fully cleaned and organized — April baseline photos taken. Travel plan locked for May 20–25: transplant delayed to ~May 26–28 post-return. Tray 1 potted up into 10cm cells, Tray 2 has ~6 sprouts on dome day 4. Coffee, view, Poäng.
+> Tray 2 dome off — 16/18 germinated by Day 5! Tray 1 pushing first true leaves on Day 11. Fan bumped to 3–4hr/day for stem strength. First Compo BIO feed for the dianthus trio (half strength). 6 more Niello goosenecks acquired — 11 total. Full outdoor walk-through: everything green, nothing needs water.
 
-![The balcony in full — clean tiles, plants everywhere, Stuttgart rooftops. The April 2026 baseline](pictures/38-balcony-cleaned-and-ready.jpg)
+![Tray 1 true leaves emerging — cosmos and zinnias pushing new growth in their 10cm cups under the grow lights](pictures/42-tray1-true-leaves.jpg)
 
 ## Project Pages
 

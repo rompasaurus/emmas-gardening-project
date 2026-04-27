@@ -254,7 +254,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 | Plant | Timing | Notes |
 |-------|--------|-------|
-| Dianthus (all 4) | Now, every 2-3 weeks | Optional light feed, half strength BIO Blumendünger |
+| Dianthus (trio) | Every 2-3 weeks — first feed Apr 27 | Half strength BIO Blumendünger (10ml in 2L), next ~May 11–18 |
 | Cosmos/zinnia | ~1 week after May 15 transplant | Half strength, every 2-3 weeks |
 | Brodiaea | No feed this year | Bulbs have stored energy |
 | Babiana | No feed this year | Same as brodiaea |
@@ -285,4 +285,4 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ---
 
-*Last updated: April 26, 2026*
+*Last updated: April 27, 2026*
