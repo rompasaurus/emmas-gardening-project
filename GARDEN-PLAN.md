@@ -17,7 +17,7 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 |--- Indoor ------|--- Transition -------|--- Full Bloom ------|--- Peak Season ---|
   Start seeds        Harden off             Brodiaea blooms      Everything blooming
   Plant bulbs        May 15: Move outdoors  Cosmos starts         Deadhead & water
-  Repot gifts        Feed plants            Zinnias start         Enjoy!
+                     Feed plants            Zinnias start         Enjoy!
 ```
 
 ---
@@ -44,13 +44,6 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **First sprouts!** Cosmos and zinnia up on Day 3 (April 19)
 - [x] **Basil & mint rebound** after replanting (April 19)
 - [x] **Dome management shifted** — ~70% sprouted, dome off day / on at night with vent (April 20)
-- [ ] **Repot gift arrangement** — separate each plant into its own pot:
-  - [ ] Daffodils
-  - [ ] Ranunculus
-  - [ ] Pansies
-  - [ ] Primrose
-  - [ ] Forget-me-nots
-  - [ ] Pussy willow
 
 ### Week of April 21–27
 
@@ -79,7 +72,6 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [ ] Tray 2 dome cracking sequence (~Apr 29–30)
 - [ ] Pinch mint tops once it has 3–4 sets of leaves
 - [ ] Deadhead dianthus as blooms fade
-- [ ] Repot gift arrangement into individual pots
 
 ### Week of April 28 – May
 
@@ -121,7 +113,6 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~3× pots with drainage + saucers (Nook)~~ | Amazon | — | Arrived + repotted (Apr 26) |
 | ~~Lavandula angustifolia (Echter Lavendel)~~ | OBI | — | Bought + planted (Apr 26) |
 | ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
-| Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
 | 1–2 capillary mats (indoor seedling cells) | OBI / Amazon | — | Pre-trip (before May 20) |
 | 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
 | 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
@@ -167,7 +158,6 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 - [ ] Monitor transplants daily for wilting or stress
 - [ ] Begin fertilizing with Compo BIO Blumendünger at half strength (~1 week after transplant, every 2-3 weeks) — NOT Sempervivum, lavender, or mint!
-- [ ] Deadhead any fading gift-arrangement flowers to encourage new blooms
 
 ### Shopping List — May
 
@@ -246,7 +236,6 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
 | Haworthia "Safari" | Deep soak, dry fully between. Wrinkled leaves = thirsty |
 | Mini pineapple | Little water in the central rosette cup, refresh every 1–2 weeks. Soil barely moist |
-| Gift plants (pansies, etc.) | Keep evenly moist |
 
 ---
 
@@ -254,7 +243,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 | Plant | Timing | Notes |
 |-------|--------|-------|
-| Dianthus (trio) | Every 2-3 weeks — first feed Apr 27 | Half strength BIO Blumendünger (10ml in 2L), next ~May 11–18 |
+| Dianthus (4 plants, 2 pots) | Every 2-3 weeks — first feed Apr 27 | Half strength BIO Blumendünger (10ml in 2L), next ~May 11–18 |
 | Cosmos/zinnia | ~1 week after May 15 transplant | Half strength, every 2-3 weeks |
 | Brodiaea | No feed this year | Bulbs have stored energy |
 | Babiana | No feed this year | Same as brodiaea |

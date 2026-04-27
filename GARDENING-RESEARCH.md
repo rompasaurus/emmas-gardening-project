@@ -20,8 +20,7 @@ permalink: /GARDENING-RESEARCH
 6. [Basil (Basilikum)](#6-basil-basilikum)
 7. [Chocolate Mint](#7-chocolate-mint)
 8. [Dianthus (Pink)](#8-dianthus-pink)
-9. [Gift Arrangement Plants](#9-gift-arrangement-plants)
-10. [Sempervivum (Houseleek)](#10-sempervivum-houseleek)
+9. [Sempervivum (Houseleek)](#9-sempervivum-houseleek)
 11. [Euonymus fortunei (Wintercreeper)](#11-euonymus-fortunei-wintercreeper)
 12. [Soil & Growing Media](#12-soil--growing-media)
 13. [Balcony Container Gardening Essentials](#13-balcony-container-gardening-essentials)
@@ -455,63 +454,6 @@ Emma has 2 pink dianthus waiting for a smaller hanging planter (shopping trip Ap
 
 ---
 
-## 9. Gift Arrangement Plants
-
-Emma received a mixed gift arrangement that needs to be separated and repotted. Here's care info for each:
-
-### Daffodils (*Narcissus*)
-- **After blooming:** Let foliage die back naturally, then reduce watering
-- **Can replant bulbs** in fall for next spring
-- **Balcony tip:** Keep in pot, store in cool spot over summer, water again in fall
-- Guide: https://www.rhs.org.uk/plants/daffodils/growing-guide
-
-### Ranunculus (*Ranunculus asiaticus*)
-- **Sun:** Full sun to partial shade
-- **Water:** Keep moist but not soggy
-- **After blooming:** Foliage dies back — save tubers, replant in fall or early spring
-- **Balcony tip:** Beautiful in a group of small pots
-- Guide: https://www.gardenersworld.com/how-to/grow-plants/how-to-grow-ranunculus/
-
-### Pansies (*Viola x wittrockiana*)
-- **Sun:** Sun to partial shade — very versatile
-- **Water:** Keep evenly moist
-- **Bloom:** Spring through early summer (and fall if you deadhead)
-- **Balcony tip:** Great filler around other pots, handles cool weather well
-- Guide: https://www.rhs.org.uk/plants/viola/growing-guide
-
-### Primrose (*Primula*)
-- **Sun:** Partial shade preferred, but tolerates morning sun
-- **Water:** Keep moist — they don't like drying out
-- **Bloom:** Early spring
-- **Balcony tip:** Place where it gets afternoon shade if possible
-- Guide: https://www.rhs.org.uk/plants/primula/growing-guide
-
-### Forget-me-nots (*Myosotis*)
-- **Sun:** Partial shade to full sun
-- **Water:** Keep moist
-- **Bloom:** Spring to early summer
-- **Balcony tip:** They self-seed readily — might get surprise plants next year!
-- **Note:** Can become invasive in garden beds, but pots keep them contained
-- Guide: https://www.rhs.org.uk/plants/myosotis/growing-guide
-
-### Pussy Willow (*Salix caprea / Salix discolor*)
-- **Type:** Woody shrub/tree — this one is different from the flowers!
-- **What to do:** Can be rooted in water! Place stems in a jar of water and roots will develop
-- **Long-term:** Can grow into a small shrub in a large pot, but gets big over years
-- **Balcony option:** Enjoy as cut branches in a vase; replace when they fade
-- **Alternative:** If stems have roots, pot up in large container with regular potting soil
-- Guide: https://www.rhs.org.uk/plants/salix/growing-guide
-
-### Repotting Instructions (All Gift Plants)
-
-1. **Prepare pots** — one per plant, with drainage holes
-2. **Fill 1/3 with soil** — Compo Bio brown bag
-3. **Gently separate** plants from the arrangement — be careful with roots
-4. **Place in pot** at same depth as before — don't bury stems deeper
-5. **Fill around with soil**, press gently
-6. **Water thoroughly** — let drain completely
-7. **Place in appropriate light** — sun-lovers in sun, shade-lovers out of afternoon sun
-
 ---
 
 ## 10. Sempervivum (Houseleek)
@@ -747,7 +689,7 @@ Originally considered joining Euonymus to the Sempervivum + cosmos/zinnia anchor
 |-------|-----------|
 | **January–February** | Browse seed catalogs, plan the year |
 | **March** | Start slow growers indoors (lavender), clean pots from last year |
-| **April** | Start cosmos, zinnias, plant spring bulbs, repot gift plants |
+| **April** | Start cosmos, zinnias, plant spring bulbs, pot up transplants |
 | **May** | Harden off, transplant after May 15, begin fertilizing |
 | **June** | First blooms! Deadhead, water, enjoy |
 | **July–August** | Peak bloom season, water daily, harvest lavender |

@@ -52,9 +52,8 @@ permalink: /PROGRESS-REPORT
 | April 27, 2026 | Tray 2 dome removed entirely — 16 of 18 cells germinated by Day 5 | Done |
 | April 27, 2026 | Tray 1 true leaves emerging — Day 11 from sow, Day 2 post-pot-up | Done |
 | April 27, 2026 | Fan strategy refined — 3–4 hr/day split sessions, speed 1, indirect | Done |
-| April 27, 2026 | First Compo BIO feed — Dianthus trio, half strength (10ml in 2L) | Done |
+| April 27, 2026 | First Compo BIO feed — Dianthus, half strength (10ml in 2L) | Done |
 | April 27, 2026 | 6 additional Niello goosenecks acquired — 11 total across both trays | Done |
-| April 2026 | Repot gift arrangement into individual pots | Pending |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -650,7 +649,7 @@ The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and t
 - Reading chair to be relocated
 - Scope to scale: more lavender or more Sempervivum varieties
 
-**Railing between zones:** dianthus trio in grey hangers ✅
+**Railing between zones:** dianthus in 2 grey hangers (2 plants each) ✅
 
 #### Deferred to tomorrow
 
@@ -768,13 +767,13 @@ The cracked window above the trays remains a hard NO — cold downdraft risk too
 - Lavandula angustifolia (Zone B, planted Apr 26): holding as planted, ready to move to full Zone B sun
 - Sempervivum (2x NORA grey, planted Apr 25): holding dry on purpose, Day 2 of 3–5 day no-water heal-in
 - Brodiaea (Apr 16) + Babiana (Apr 20): no above-ground sprouts yet, within the 2–4 week window — let them be
-- Dianthus trio (railing, all 3 pots): flowers holding, no big flush yet — feeding planned today
+- Dianthus (railing, 2 pots): flowers holding, no big flush yet — feeding planned today
 
 **Dianthus first feed — Compo BIO Blumendunger:**
 
 ![Dianthus in their grey hanging planter on the railing, full of pink blooms, with the Compo BIO Blumendunger bottle balanced on the rail — first feed day](pictures/43-dianthus-first-feed.jpg)
 
-Half-strength application across the trio. Mix: 5ml per 1L water (= 10ml in 2L). Soil already moist — no plain pre-water needed. Watered at soil level, avoided splashes on leaves and flowers. Used the full 2L same-day (organic feed can ferment if it sits). Expect a flower flush within 10–14 days. Repeat every 2–3 weeks through bloom season.
+Half-strength application across both pots. Mix: 5ml per 1L water (= 10ml in 2L). Soil already moist — no plain pre-water needed. Watered at soil level, avoided splashes on leaves and flowers. Used the full 2L same-day (organic feed can ferment if it sits). Expect a flower flush within 10–14 days. Repeat every 2–3 weeks through bloom season.
 
 **Active care reminders:**
 
@@ -829,7 +828,7 @@ Half-strength application across the trio. Mix: 5ml per 1L water (= 10ml in 2L).
 - Third dianthus pair planted in grey hanging planter — railing trio complete (April 25)
 - Euonymus fortunei pair potted in black ex-mint pots — Zone A backbone (April 25)
 - Sempervivum 6-pack split across 2 NORA anchor pots, 40/60 Cactea/Sana, full alpine rock top-dress (April 25)
-- Final balcony zoning locked in: Zone A black-pot wall + Zone B grey-pot wall + railing dianthus trio
+- Final balcony zoning locked in: Zone A black-pot wall + Zone B grey-pot wall + railing dianthus
 - Lavandula angustifolia found at OBI (closes the April 23 follow-up)
 - Mint propagation confirmed working — new sprouts from deleafed stem cuttings
 - Lavandula angustifolia planted in grey pot, Zone B sunny wall (60% Kakteenerde / 40% Sana, gravel top-dress)
@@ -841,7 +840,7 @@ Half-strength application across the trio. Mix: 5ml per 1L water (= 10ml in 2L).
 - Tray 2 dome removed entirely on Day 5 — 16/18 germination (April 27)
 - Tray 1 true leaves emerging on Day 11 from sow, Day 2 post-pot-up (April 27)
 - Fan strategy refined: 3–4 hr/day split sessions, speed 1, indirect breeze (April 27)
-- First Compo BIO feed: Dianthus trio half-strength (10ml in 2L), full feed cycle started (April 27)
+- First Compo BIO feed: Dianthus half-strength (10ml in 2L), full feed cycle started (April 27)
 - Grow light expansion: 6 additional Niello goosenecks — 11 total across both trays (April 27)
 
 ### In Progress
@@ -851,14 +850,12 @@ Half-strength application across the trio. Mix: 5ml per 1L water (= 10ml in 2L).
 - Nook plants post-repot: no water for 5–7 days, first watering ~May 1–3
 - Lavender acclimation: ready to move from semi-shade → full Zone B sun
 - Dianthus feeding cycle: next feed ~May 11–18, every 2–3 weeks through bloom season
-- Gift arrangement still in original container — needs repotting
 
 ### Not Yet Started
 - Pre-trip shopping: capillary mats, Blumat carrots, timer plug (before May 20)
 - May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
 - Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
 - Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
-- Repotting gift arrangement into individual pots
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 

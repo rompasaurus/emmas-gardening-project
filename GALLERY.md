@@ -486,7 +486,7 @@ Emma's mint pot now has tiny new plants sprouting from the deleafed stems she re
 End-of-day map:
 
 - **Zone A (short wall, BLACK pots):** 2× Euonymus in the black ex-mint pots ✅. Matches the existing black pot at the far end. Sunny morning exposure.
-- **Railing (GREY hangers):** dianthus trio ✅.
+- **Railing (GREY hangers):** dianthus — 4 plants in 2 pots ✅.
 - **Zone B (long sunny wall, ALL GREY):** 2× NORA anchor pots with Sempervivum ✅, 1× NORA pot reserved for the lavender (tomorrow), 1× NORA pot reserved for cosmos/zinnia overflow post-May 15. Reading chair to be relocated.
 
 Year-round backbone in place; seasonal rotation can now layer on top of it.
@@ -575,9 +575,9 @@ The pot-up clearly didn't shock them. Two days post-transplant and they're alrea
 
 ---
 
-## Dianthus First Feed — "The Trio Gets Breakfast"
+## Dianthus First Feed — "Breakfast on the Railing"
 
-The railing trio got their first proper meal: **Compo BIO Blumendunger at half strength** (10ml in 2L water). Soil was already moist, so no pre-watering needed — just mixed, swirled, and poured at soil level. The yellow BIO bottle perched on the railing like a proud sponsor.
+The dianthus got their first proper meal: **Compo BIO Blumendunger at half strength** (10ml in 2L water). Soil was already moist, so no pre-watering needed — just mixed, swirled, and poured at soil level. The yellow BIO bottle perched on the railing like a proud sponsor.
 
 Expect a flower flush within 10–14 days. Next feed ~May 11–18, every 2–3 weeks through bloom season.
 
@@ -587,7 +587,7 @@ Expect a flower flush within 10–14 days. Next feed ~May 11–18, every 2–3 w
 
 ## The Story So Far
 
-Forty-three photos across thirteen days. The indoor nursery is running on all cylinders — 11 goosenecks of grow light, a fan on a split schedule, true leaves pushing through on Tray 1, and Tray 2 graduated from the dome. Outside, the balcony is fully zoned, the dianthus trio is on a feeding schedule, and everything else is holding green.
+Forty-three photos across thirteen days. The indoor nursery is running on all cylinders — 11 goosenecks of grow light, a fan on a split schedule, true leaves pushing through on Tray 1, and Tray 2 graduated from the dome. Outside, the balcony is fully zoned, the dianthus are on a feeding schedule, and everything else is holding green.
 
 Emma's garden now has:
 - **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
@@ -595,11 +595,10 @@ Emma's garden now has:
 - **Lavender** planted on the Zone B sunny wall
 - **Sempervivum** in anchor pots, healing in
 - **Euonymus** pair (Zone A backbone) looking sharp
-- **A dianthus trio** along the railing, first feed done
+- **Dianthus** — 4 plants in 2 grey hanging pots on the railing, first feed done
 - **Michael's Nook** — repotted and resting
 - **Chocolate mint** thriving solo + propagating
 - **11 Niello goosenecks** total across both trays
-- **Gift arrangement** still waiting for its repotting session
 
 **Coming up:**
 - Thin Tray 1 doubles (~3–5 days)

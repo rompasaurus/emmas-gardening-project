@@ -20,12 +20,6 @@ This is Emma's very first gardening project. The goal is simple: **a colorful, b
 | Cosmos (Schmuckkörbchen) | Seeds | Summer - Fall | Starting indoors |
 | Zinnia (Field Mix) | Seeds | Summer - Fall | Starting indoors |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Starting indoors |
-| Daffodils | Gift arrangement | Spring | Needs repotting |
-| Ranunculus | Gift arrangement | Spring | Needs repotting |
-| Pansies | Gift arrangement | Spring - Summer | Needs repotting |
-| Primrose | Gift arrangement | Spring | Needs repotting |
-| Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
-| Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
 ## Project Documents
 

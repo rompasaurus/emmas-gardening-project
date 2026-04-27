@@ -24,24 +24,18 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall |
 | Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
-| Dianthus (Pink) | 3x grey hanging planters (railing trio) | Spring - Summer | Trio complete on the railing (Apr 25) |
+| Dianthus (Pink) | 4 plants in 2 grey hanging pots | Spring - Summer | 2 per pot on the railing, first feed Apr 27 |
 | Chocolate Mint | Herb - potted | Summer | Thriving + propagating from cuttings |
 | Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
 | Haworthia "Safari" | Succulent (Michael's Nook) | — | Repotted Apr 26 — 10-11cm pot |
 | Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
-| Daffodils | Gift arrangement | Spring | Needs repotting |
-| Ranunculus | Gift arrangement | Spring | Needs repotting |
-| Pansies | Gift arrangement | Spring - Summer | Needs repotting |
-| Primrose | Gift arrangement | Spring | Needs repotting |
-| Forget-me-nots | Gift arrangement | Spring - Summer | Needs repotting |
-| Pussy Willow | Gift arrangement | Spring | Needs repotting |
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
 ## Latest Update — April 27, 2026
 
-> Tray 2 dome off — 16/18 germinated by Day 5! Tray 1 pushing first true leaves on Day 11. Fan bumped to 3–4hr/day for stem strength. First Compo BIO feed for the dianthus trio (half strength). 6 more Niello goosenecks acquired — 11 total. Full outdoor walk-through: everything green, nothing needs water.
+> Tray 2 dome off — 16/18 germinated by Day 5! Tray 1 pushing first true leaves on Day 11. Fan bumped to 3–4hr/day for stem strength. First Compo BIO feed for the dianthus (half strength). 6 more Niello goosenecks acquired — 11 total. Full outdoor walk-through: everything green, nothing needs water.
 
 ![Tray 1 true leaves emerging — cosmos and zinnias pushing new growth in their 10cm cups under the grow lights](pictures/42-tray1-true-leaves.jpg)
 
