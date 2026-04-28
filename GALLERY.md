@@ -585,32 +585,78 @@ Expect a flower flush within 10–14 days. Next feed ~May 11–18, every 2–3 w
 
 ---
 
-## The Story So Far
+---
 
-Forty-three photos across thirteen days. The indoor nursery is running on all cylinders — 11 goosenecks of grow light, a fan on a split schedule, true leaves pushing through on Tray 1, and Tray 2 graduated from the dome. Outside, the balcony is fully zoned, the dianthus are on a feeding schedule, and everything else is holding green.
+# Day 14 — April 28, 2026: First Thinning & Spring Setup Wraps
 
-Emma's garden now has:
-- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seedlings** under 11-gooseneck grow lights — Tray 1 with true leaves, Tray 2 dome off
-- **Lavender** planted on the Zone B sunny wall
-- **Sempervivum** in anchor pots, healing in
-- **Euonymus** pair (Zone A backbone) looking sharp
-- **Dianthus** — 4 plants in 2 grey hanging pots on the railing, first feed done
-- **Michael's Nook** — repotted and resting
-- **Chocolate mint** thriving solo + propagating
-- **11 Niello goosenecks** total across both trays
-
-**Coming up:**
-- Thin Tray 1 doubles (~3–5 days)
-- Install 6 new goosenecks, dedicate per tray
-- Move lavender to full Zone B sun
-- First Nook watering (~May 1–3)
-- Pre-trip shopping: capillary mats, Blumat carrots, timer plug
-- May 20–25: travel (watering automation in place)
-- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
-
-> Thirteen sessions in. The seedlings have true leaves. The balcony has zones. The dianthus have breakfast. This is a real garden now.
+> **Content is user-generated and unverified.**
 
 ---
 
-*Photos from April 14–27, 2026 — Days 1 through 13 of Emma's Garden*
+## Tray 1 Pre-Thin — "One Last Look Before the Cut"
+
+The toddlers (sown Apr 16, potted up Apr 25) hit Day 3 in their 10cm cells. True leaves emerging across the tray — time to thin. This is the last photo with doubles and triples still competing for space.
+
+Morning sun coming through the balcony window, Tray 2 cells visible in the foreground. The whole nursery lit up by goosenecks and daylight.
+
+![Tray 1 toddlers under lights, pre-thin — morning sun through the balcony window, Tray 2 cells visible in the foreground](pictures/44-tray1-toddlers-pre-thin.png)
+
+---
+
+## The Thinned Ones — "They Did Their Job"
+
+The hard part. One keeper per cell, weakest snipped at soil line — never pulled, because pulling disturbs the keeper's roots. Cosmos selection: reddest stem (Bipinnatus pigment correlates with vigor) + least leggy. Zinnia selection: biggest true leaves + greenest stem.
+
+These little guys are laid out on the bench. They confirmed the keepers were the strongest. OBI bypass pruners did the job — alcohol-swabbed and fully dried before use.
+
+![The thinned seedlings laid out on the bench — cosmos and zinnias that confirmed the keepers were the strongest](pictures/45-thinned-seedlings-bench.png)
+
+---
+
+## Tray 1 Post-Thinning — "One Strong Keeper Per Cell"
+
+Top-down view after the thinning is done. Each cell now holds one strong keeper with full root volume to claim. No more competition — every seedling gets the whole cup to itself.
+
+The cosmos (narrow leaves) and zinnias (broader leaves) are all clearly pushing true leaves. Deep green throughout, no stress visible.
+
+![Tray 1 post-thinning, top-down — each cell holds one strong keeper, true leaves pushing, deep green and healthy](pictures/46-tray1-post-thinning-topdown.png)
+
+---
+
+## Tray 2 Babies — "Even Green, Settling In"
+
+The babies (sown Apr 22, dome off Apr 27) settling into open air on Day 6. Final germination: 17 of 18 — one no-show, normal attrition. Color and heights uniform with one mild stretcher (genetic, not a concern). Light dropped from 15cm to 10cm to encourage compact growth.
+
+![Tray 2 babies, cotyledons open, even green — 17 of 18 up, settling into open air under the gooseneck lights](pictures/47-tray2-babies-cotyledons.png)
+
+---
+
+## The Story So Far
+
+Forty-seven photos across fourteen days. Tray 1 has been thinned — one keeper per cell, the hardest call yet. Tray 2 is settling into open air at 17/18 germination. The spring outdoor setup is officially wrapped: zones established, railing complete, tile joints cleaned.
+
+Emma's garden now has:
+- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
+- **Two trays of seedlings** under grow lights — Tray 1 thinned to one keeper per cell, Tray 2 at 17/18
+- **Lavender** planted on the Zone B sunny wall
+- **Sempervivum** in anchor pots
+- **Euonymus** pair (Zone A backbone) looking sharp
+- **Dianthus** — 4 plants in 2 grey hanging pots on the railing, first feed done Apr 27
+- **Michael's Nook** — repotted and resting, first water ~May 1–3
+- **Chocolate mint** thriving solo + propagating
+- **Capillary mat** received and banked for May trip
+
+**Coming up:**
+- Tray 1 checkpoint ~Apr 30 — new true leaves, stem strength
+- First Nook watering (~May 1–3)
+- Tray 2 pot-up window: ~May 8–12
+- Capillary mat trial run before May 26–28 trip
+- Pre-trip shopping: Blumat carrots, timer plug
+- May 20–25: travel (watering automation in place)
+- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
+
+> Fourteen sessions in. The toddlers survived thinning. The babies are settling in. The spring setup is wrapped. Now we wait, water, and watch them grow.
+
+---
+
+*Photos from April 14–28, 2026 — Days 1 through 14 of Emma's Garden*

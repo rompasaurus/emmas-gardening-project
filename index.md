@@ -19,8 +19,8 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 true leaves emerging! Tray 2 dome off, 16/18 up |
-| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 true leaves emerging! Tray 2 dome off, 16/18 up |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 thinned to one keeper per cell! Tray 2 at 17/18, settling in |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 thinned to one keeper per cell! Tray 2 at 17/18, settling in |
 | Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall |
 | Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
@@ -33,11 +33,13 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 27, 2026
+## Latest Update — April 28, 2026
 
-> Tray 2 dome off — 16/18 germinated by Day 5! Tray 1 pushing first true leaves on Day 11. Fan bumped to 3–4hr/day for stem strength. First Compo BIO feed for the dianthus (half strength). 6 more Niello goosenecks acquired — 11 total. Full outdoor walk-through: everything green, nothing needs water.
+> *"That was heartbreaking, but it's done."* Tray 1 toddlers thinned to one keeper per cell — cosmos by reddest stem, zinnia by biggest true leaves. Tray 2 at 17/18 germination, light dropped to 10cm. Capillary mat banked for May trip. Spring outdoor setup officially wrapped.
 
-![Tray 1 true leaves emerging — cosmos and zinnias pushing new growth in their 10cm cups under the grow lights](pictures/42-tray1-true-leaves.jpg)
+> **Content is user-generated and unverified.**
+
+![Tray 1 post-thinning, top-down — each cell holds one strong keeper with full root volume to claim](pictures/46-tray1-post-thinning-topdown.png)
 
 ## Project Pages
 
@@ -56,3 +58,4 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 ---
 
 *Emma's Balcony — Stuttgart 2026 — First-time Gardener*
+*Last updated: April 28, 2026*

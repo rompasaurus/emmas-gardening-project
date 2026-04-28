@@ -54,6 +54,11 @@ permalink: /PROGRESS-REPORT
 | April 27, 2026 | Fan strategy refined — 3–4 hr/day split sessions, speed 1, indirect | Done |
 | April 27, 2026 | First Compo BIO feed — Dianthus, half strength (10ml in 2L) | Done |
 | April 27, 2026 | 6 additional Niello goosenecks acquired — 11 total across both trays | Done |
+| April 28, 2026 | Tray 1 toddlers thinned — one keeper per cell, snipped at soil line | Done |
+| April 28, 2026 | Tray 2 final germination: 17/18 up, light dropped to 10cm | Done |
+| April 28, 2026 | Tray 2 light lowered from 15cm to 10cm for compact growth | Done |
+| April 28, 2026 | Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup wrapped | Done |
+| April 28, 2026 | Capillary mat received (Apr 27), held for May 26–28 trip auto-watering | Done (decision) |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -787,6 +792,86 @@ Half-strength application across both pots. Mix: 5ml per 1L water (= 10ml in 2L)
 
 ---
 
+### Session 14 — April 28, 2026 — "First Thinning & Spring Setup Wraps"
+
+> *"That was heartbreaking, but it's done."*
+
+> **Content is user-generated and unverified.**
+
+**Tray 1 toddlers thinned to one keeper per cell, Tray 2 babies at 17/18, light dropped, capillary mat banked for May, and spring outdoor setup officially wrapped.**
+
+Day 14 of the garden. The toddlers (sown Apr 16, potted up Apr 25) hit Day 3 in their 10cm cells today — true leaves emerging across the tray, ready to thin.
+
+**Tray 1 — the hard part:**
+
+![Tray 1 toddlers under lights, pre-thin — morning sun coming through the balcony window, Tray 2 cells visible in the foreground](pictures/44-tray1-toddlers-pre-thin.png)
+
+The rule is simple but emotionally real: one keeper per cell, weakest snipped at soil line — never pulled, because pulling disturbs the keeper's roots. A few cells had three sprouts; some had two; the call was to thin all multiples down to one for cleanest outcome and full root volume per keeper.
+
+Selection criteria: cosmos = reddest stem (Bipinnatus pigment correlates with vigor) + least leggy. Zinnia = biggest true leaves + greenest stem. Snipped at soil line with the OBI bypass pruners (alcohol-swabbed and fully dried before use).
+
+![The thinned ones laid out on the bench — they did their job, they confirmed the keepers were the strongest](pictures/45-thinned-seedlings-bench.png)
+
+![Tray 1 post-thinning, top-down — each cell now holds one strong keeper with full root volume to claim](pictures/46-tray1-post-thinning-topdown.png)
+
+**Tray 2 — Day 6, settling in:**
+
+The babies (sown Apr 22, dome off Apr 27) are settling into open air well. Final germination: 17 of 18. One no-show — normal attrition, not a concern. Color and heights uniform across the tray with one mild stretcher (genetic, not a concern). Light dropped from 15cm to 10cm to encourage compact growth now that humidity is no longer in play.
+
+![Tray 2 babies — cotyledons open, even green, settling into open air under the gooseneck lights](pictures/47-tray2-babies-cotyledons.png)
+
+**Capillary mat — received and banked:**
+
+Capillary mat (received Apr 27) deliberately held off for now. Toddlers want a mild wet/dry cycle to drive roots downward; constant wicking would keep them shallow. Mat reserved for the May 26–28 trip auto-watering setup.
+
+**Spring outdoor setup — wrapped:**
+
+Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone A Euonymus, Zone B Sempervivum + lavender, railing display, and now joint-cleanup — spring outdoor setup officially wrapped.
+
+**Active care reminders (today + next 48hr):**
+
+- Tray 1 keepers: Bottom-water 10–15 minutes today (1–2cm deep tray, pull at the 10-min mark when soil surface just feels cool/damp). No fertilizer this week — let disturbed roots recover
+- Watch for wilt in Tray 1 keepers tomorrow — minor droop is normal stress, persistent flop = root damage
+- Tray 2: Light at 10cm, watch for the stretcher to even out in 1–2 days
+- Lights: Tray 1 = 14cm, Tray 2 = 10cm, 16hr photoperiod for both
+
+**Next care notes — all plants:**
+
+*Seedlings (indoor, under lights):*
+- Tray 1 toddlers: Bottom-water 10–15min today; then mild dry cycle. Light 14cm, 16hr. No fert this week
+- Tray 2 babies: Side-pour or gentle mist (no overhead). Light 10cm, 16hr. No fert until pot-up (~May 8–12)
+
+*Outdoor — Railing Display:*
+- Dianthus trio: Water when top 2–3cm dry. Next feed window ~mid-May, Compo BIO half-strength
+- Brodiaea (Apr 16, 2 railing planters): Water when top 2–3cm dry. No fertilizer year 1
+- Babiana (Apr 20, 53cm hanging): Water when surface dries. No fertilizer year 1
+
+*Outdoor — Zone A (Sun 12pm–sunset):*
+- Euonymus fortunei (golden + white-var): Water deeply when top 3–4cm dry; let cycle to dry. No fertilizer for 4–6 weeks
+
+*Outdoor — Zone B (Sunny long wall):*
+- Sempervivum (2 NORA pots): Water only when soil is fully dry. NEVER fertilize
+- Lavandula angustifolia: Lean dry. Water when top 4–5cm dry. No fertilizer
+
+*Outdoor — Mint (permanent shade spot):*
+- Likes consistent moisture; water when surface is just dry. Skip fertilizer
+
+*Indoor — The Nook (Emma's learning focus):*
+- Currently in no-water window through ~May 1–3 (3+ days post-repot Apr 26)
+- Sansevieria 'Laurentii': First water May 1–3 should be LIGHT. Going forward: let soil dry FULLY between waters (~every 3 weeks summer)
+- Aloe variegata "Safari": First water May 1–3 should be DEEP and INFREQUENT — saturate, then bone-dry. Going forward: every 2–3 weeks active growth
+- Ananas nanus (mini pineapple): First water May 1–3 should be MORE GENEROUS + small pour into central rosette cup. Keep cup water at all times once active
+- All three: bright indirect-to-direct light at sealed sunny window. Fertilizer = 1 diluted feed in June, 1 late summer
+
+**Notes for next time:**
+- Tray 1 next checkpoint: ~Apr 30 (2 days post-thin). Look for new true leaves; check stem strength
+- Tray 2 pot-up window: ~May 8–12, once true leaves emerge and roots fill cells
+- Capillary mat trial run: Test a few days before May 26–28 trip to dial in reservoir flow rate
+- First Nook watering (~May 1–3): Soil should be dust-dry by then. Use room-temp water (filtered if possible)
+- Dianthus first feed already done Apr 27. Next feed window ~mid-May
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -842,14 +927,16 @@ Half-strength application across both pots. Mix: 5ml per 1L water (= 10ml in 2L)
 - Fan strategy refined: 3–4 hr/day split sessions, speed 1, indirect breeze (April 27)
 - First Compo BIO feed: Dianthus half-strength (10ml in 2L), full feed cycle started (April 27)
 - Grow light expansion: 6 additional Niello goosenecks — 11 total across both trays (April 27)
+- Tray 1 toddlers thinned to one keeper per cell — cosmos by reddest stem, zinnia by biggest true leaves (April 28)
+- Tray 2 final germination confirmed: 17/18 up, light dropped to 10cm (April 28)
+- Capillary mat received Apr 27, banked for May 26–28 trip auto-watering (April 28)
+- Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup officially wrapped (April 28)
 
 ### In Progress
-- Tray 1 in 10cm cells — true leaves emerging, doubles to be thinned in 3–5 days
-- Tray 2 in open-air nursery phase — fan + lights only, watching 2 ungerminated cells through Apr 30
-- Sempervivum heal-in: Day 2 of 3–5 day no-water period
-- Nook plants post-repot: no water for 5–7 days, first watering ~May 1–3
-- Lavender acclimation: ready to move from semi-shade → full Zone B sun
-- Dianthus feeding cycle: next feed ~May 11–18, every 2–3 weeks through bloom season
+- Tray 1 keepers recovering post-thin — checkpoint ~Apr 30 for new true leaves and stem strength
+- Tray 2 in open-air nursery phase — 17/18 up, 1 mild stretcher, light at 10cm
+- Nook plants post-repot: no water until ~May 1–3
+- Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
 
 ### Not Yet Started
 - Pre-trip shopping: capillary mats, Blumat carrots, timer plug (before May 20)
@@ -908,10 +995,14 @@ Half-strength application across both pots. Mix: 5ml per 1L water (= 10ml in 2L)
 | April 27, 2026 | Tray 2 dome off — 16 of 18 cells germinated by Day 5 | ![tray2](pictures/41-tray2-dome-off.jpg) |
 | April 27, 2026 | Tray 1 true leaves emerging on the zinnias | ![trueleaves](pictures/42-tray1-true-leaves.jpg) |
 | April 27, 2026 | Dianthus first feed — Compo BIO on the railing | ![dianthus](pictures/43-dianthus-first-feed.jpg) |
+| April 28, 2026 | Tray 1 toddlers under lights, pre-thin | ![prethin](pictures/44-tray1-toddlers-pre-thin.png) |
+| April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-thinned-seedlings-bench.png) |
+| April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-tray1-post-thinning-topdown.png) |
+| April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-tray2-babies-cotyledons.png) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 27, 2026*
+*Last updated: April 28, 2026*
