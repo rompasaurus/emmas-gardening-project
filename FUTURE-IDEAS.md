@@ -118,6 +118,45 @@ YEAR 3+ — Balcony Paradise
 
 ---
 
+## Patio Corner — Potted Tree Options
+
+**Location:** Sunny patio corner, sheltered overhead by wood beam structure, stone tile floor, strong direct sun.
+**Approach:** Potted only — no climbers, no ground planting (rental unit + annual contract renewals = season-by-season strategy).
+**Status:** Scouting / future addition — **not urgent**, pull up next time the OBI itch strikes.
+
+### Top Candidates
+
+| Pick | Vibe | Care | Winter | Pros | Cons |
+|------|------|------|--------|------|------|
+| 🫒 **Olive** *(Michael's pick)* | Mediterranean, sculptural, silver-green | Low — drought-tolerant | Hardy in Stuttgart with fleece on coldest nights; stays in pot outside | Low maintenance, evergreen-ish, portable, ages beautifully | Slow growing, won't fruit reliably (decorative only) |
+| 🍋 **Meyer Lemon** *(Emma's pick)* | Romantic, fragrant blooms, real fruit | High — citrus-specific feed, careful watering | **Must come inside below ~5°C** (Oct–Apr) — needs bright cool indoor spot | Fragrant flowers, edible fruit, dramatic statement | Significant work, indoor winter space, fussy |
+| 🍊 **Calamondin Orange** | Smaller, decorative ornamental fruit | Same as Meyer lemon | Indoor winter required | Smaller footprint than lemon | Same indoor winter requirement |
+
+### Lower-Maintenance Alternatives
+
+- **Bay Laurel (Lorbeer)** — evergreen, fragrant, edible. Tolerates Stuttgart winters with minor protection. Sculptural.
+- **Fig Tree** — surprisingly hardy in Stuttgart. Dramatic large leaves, cottage-garden feel. Edible fruit. Deciduous (bare in winter).
+- **Dwarf Olive Standard / Topiary Ilex crenata** — architectural single-statement. Ilex crenata = boxwood substitute (already preferred over boxwood for moth reasons). Year-round structure.
+
+### Decision Logic (When OBI-Ready)
+
+- Want **low-effort + Mediterranean look?** → Olive
+- Want **fragrance, fruit, and don't mind the work?** → Meyer Lemon
+- Neither at OBI? → Bay laurel or fig as backup statement plants
+
+### Constraints (Locked)
+
+- ✅ Must be portable in a pot (rental + potential relocation)
+- ✅ Must work with season-by-season approach (no multi-year commitments)
+- ✅ Drainage non-negotiable
+- ✅ Terracotta / stone-look pot aesthetic
+- ❌ No boxwood, no Lavandula stoechas (existing rules)
+- ⚠️ If choosing citrus: confirm indoor winter spot exists **before** purchase
+
+> Reference compiled April 29, 2026. See [Gardening Research → Section 19](GARDENING-RESEARCH#19-patio-corner-potted-tree-candidates) for full care detail.
+
+---
+
 ## Shopping Wish List (Future)
 
 | Item | Est. Cost | Notes |
@@ -130,6 +169,9 @@ YEAR 3+ — Balcony Paradise
 | Butterfly bush (Buddleja) | 8–15 EUR | Large pot needed |
 | Herb seeds (basil, thyme, chives) | 2–3 EUR each | Sunny balcony corner |
 | Fall bulbs (tulips, crocuses, etc.) | 5–15 EUR | Buy September/October 2026 |
+| Patio corner potted tree (olive *or* Meyer lemon) | TBD | See *Patio Corner — Potted Tree Options* above. Decide at next OBI run |
+| 40 L+ terracotta / stone-look pot for patio tree | 30–60 EUR | Pair with whichever tree gets picked |
+| Fleece (Vlies) for olive winter wrap | 5–10 EUR | Only if olive is chosen |
 
 ---
 

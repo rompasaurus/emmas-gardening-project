@@ -27,19 +27,19 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Dianthus (Pink) | 4 plants in 2 grey hanging pots | Spring - Summer | 2 per pot on the railing, first feed Apr 27 |
 | Chocolate Mint | Herb - potted | Summer | Thriving + propagating from cuttings |
 | Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
-| Haworthia "Safari" | Succulent (Michael's Nook) | — | Repotted Apr 26 — 10-11cm pot |
+| Haworthia "Safari" | Succulent (Michael's Nook) | Spring (flower stalk!) | Repotted Apr 26 — **flower stalk discovered Apr 29** |
 | Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 
 ![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
 
-## Latest Update — April 28, 2026
+## Latest Update — April 29, 2026 — The Nook Blooms!
 
-> *"That was heartbreaking, but it's done."* Tray 1 toddlers thinned to one keeper per cell — cosmos by reddest stem, zinnia by biggest true leaves. Tray 2 at 17/18 germination, light dropped to 10cm. Capillary mat banked for May trip. Spring outdoor setup officially wrapped.
+> A quiet check-in after the April 26–28 stretch (lavender planted, Nook repotted, Tray 1 thinned) — but with a real surprise.
+>
+> Top-down inspection of the **Haworthia "Safari"** (repotted Apr 26 into its white ceramic Nook pot) caught a **flower stalk emerging from the rosette center** — the Nook's first bloom event! Emma also flagged some yellowing at the base with a red marker circle; verdict came back clean — natural outer-leaf dieback plus nursery substrate fibers, no rot, no mealybugs. Two reference documents also got compiled today: the full **Aumtrly clip-on grow light setup reference** (pre-arrival spec sheet for the BL-J20B 2-pack — mounting, settings, timer test plan ahead of the May 20–25 trip) and a **patio corner tree shortlist** with the olive vs Meyer lemon decision logic and lower-maintenance alternates (bay laurel, fig, Ilex crenata).
 
-> **Content is user-generated and unverified.**
-
-![Tray 1 post-thinning, top-down — each cell holds one strong keeper with full root volume to claim](pictures/46-tray1-post-thinning-topdown.png)
+![Top-down view of the Haworthia rosette in its white pot — a flower stalk bud emerging from the center, white-speckled tiger-spotted leaves radiating outward](pictures/39-haworthia-flower-stalk-top-down.jpg)
 
 ## Project Pages
 
@@ -58,4 +58,4 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 ---
 
 *Emma's Balcony — Stuttgart 2026 — First-time Gardener*
-*Last updated: April 28, 2026*
+*Last updated: April 29, 2026*

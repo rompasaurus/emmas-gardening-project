@@ -659,4 +659,71 @@ Emma's garden now has:
 
 ---
 
-*Photos from April 14–28, 2026 — Days 1 through 14 of Emma's Garden*
+---
+
+# Day 15 — April 29, 2026: The Nook Blooms!
+
+---
+
+## Haworthia "Safari" — Three Days Post-Repot
+
+The Haworthia "Safari" — repotted on April 26 into its new **white ceramic Nook pot** alongside the snake plant and mini pineapple — has settled in beautifully. Crown sitting at soil level (never buried — same rule as Sempervivum), peat-free **Kakteen- und Bonsaierde**, saucer underneath the granite sill.
+
+Look at that **tiger-spotted pattern** — the white tubercles popping against the deep green, soaking up the afternoon sun. The repot didn't faze it at all.
+
+![The Haworthia "Safari" sitting in its white ceramic Nook pot on the granite sill — three days post-repot, white-speckled leaves glowing in the windowsill light](pictures/48-haworthia-safari-potted-up.jpg)
+
+---
+
+## The Surprise — A Flower Stalk!
+
+Top-down inspection caught something that wasn't visible at the OBI shelf, on April 23 setup day, or even at the April 26 repot: a **flower stalk is emerging from the dead center of the rosette**. That little budded stem pushing up between the leaves means this Haworthia is gearing up to bloom — small tubular pink/white flowers on a long thin stalk that'll keep going for weeks.
+
+**Important to know:** Unlike Sempervivum (which die after flowering — they're monocarpic), Haworthia keep going just fine after a bloom cycle. So this is pure bonus, no funeral required.
+
+![Top-down view of the Haworthia rosette — a flower stalk bud emerging from the center, framed by spotted spiky leaves all radiating outward](pictures/51-haworthia-flower-stalk-top-down.jpg)
+
+**Care during the bloom:**
+- Don't cut the stalk — let it run
+- Don't fertilize — the rule doesn't change for flowers; succulents stay on lean soil
+- Don't move the pot — sudden light changes can abort the bloom
+- Slightly more sun helps the stalk grow strong — the Nook's afternoon light is ideal
+- Stay inside the no-water window through ~May 1–3 (5–7 days post-repot, per Apr 26 plan)
+
+---
+
+## The Base Concern — Red Circle Investigation
+
+Emma drew a **red circle around an area at the base of the rosette** to ask the very-reasonable plant-parent question: "is this a problem?"
+
+![Same shot of the Haworthia in its white pot — but with a red marker circle around the base zone Emma flagged for closer inspection](pictures/49-haworthia-base-concern-circled.jpg)
+
+Close-up answer:
+
+![Close-up of the base — yellowing leaf tip dried into a brown papery scrap, a fresh new flower stalk visible behind, and reddish-brown coir/bark fibers from the original nursery substrate scattered across the topsoil](pictures/50-haworthia-base-detail-flower-stalk.jpg)
+
+What's going on, in plain English:
+
+- **The yellow papery bit** = an outer leaf tip naturally dying back. Normal as the rosette ages. Pull it off gently — don't yank green tissue.
+- **The reddish fibers** = leftover coir/bark from the original OBI nursery substrate. Cosmetic only.
+- **No mushy black tissue, no white cottony spots, no soft base** = no rot, no mealybugs. The two failure modes that actually matter aren't here.
+
+**Verdict: not a problem.** Wipe the dried scrap off, leave the plant alone for the rest of the no-water window.
+
+This is exactly the kind of attentive plant-parenting that catches real problems early — the answer this time happens to be "you're fine, breathe."
+
+---
+
+## Behind the Scenes — Two Reference Docs Shipped
+
+The session also produced two reference documents that aren't dramatic photos but lock in real knowledge for the weeks ahead:
+
+1. **Aumtrly Clip-On Grow Light setup reference** — full spec sheet for the **2-pack BL-J20B clip-on plant lamps** that's en route. Day-of-arrival checklist (mode/brightness/timer cycling, gooseneck check, clamp pad inspection), mounting plan for the 120 × 60 cm seedling table, initial settings (mixed mode, level 3 of 5, 16 h timer starting ~6 AM), and a power-blip test before the May 20–25 trip. Lives in [Gardening Research → Section 18](GARDENING-RESEARCH#18-aumtrly-clip-on-grow-light-2-pack-bl-j20b). The 2-pack will run alongside the existing 11-gooseneck Niello setup, not replace it — more redundancy for the trip window.
+
+2. **Patio corner — potted tree options** — Emma vs Michael's friendly disagreement (Meyer lemon vs olive) finally got a proper shortlist with constraints. Olive = low-effort + Mediterranean; Meyer lemon = fragrance, fruit, and indoor winter relocation required. Lower-maintenance alternates: bay laurel, fig, or Ilex crenata. Decision logic in [Future Ideas → Patio Corner](FUTURE-IDEAS#patio-corner--potted-tree-options).
+
+> Not every garden session is a 9-hour battlefield. Some are a quick check-in, a cool surprise discovery, and two pages of homework that pay off all summer.
+
+---
+
+*Photos from April 14–29, 2026 — Days 1 through 15 of Emma's Garden*

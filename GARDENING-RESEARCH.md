@@ -28,6 +28,8 @@ permalink: /GARDENING-RESEARCH
 15. [Recommended Tools](#15-recommended-tools)
 16. [Video Resources](#16-video-resources)
 17. [Helpful Websites & Communities](#17-helpful-websites--communities)
+18. [Aumtrly Clip-On Grow Light (2-Pack BL-J20B)](#18-aumtrly-clip-on-grow-light-2-pack-bl-j20b)
+19. [Patio Corner Potted Tree Candidates](#19-patio-corner-potted-tree-candidates)
 
 ---
 
@@ -830,8 +832,9 @@ ZINNIA          Sun: Full | Water: Regular    | Sprouting under lights! | Outsid
 LAVENDER        Sun: Full | Water: Light      | Planted: April 26     | Zone B sunny wall
 BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15       | Blooms: June-Aug
 BABIANA         Sun: Full | Water: When dry   | Planted: April 17       | Blooms: Late spring
-SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planting: April 25      | NEVER FERTILIZE!
-EUONYMUS (x2)   Sun: Part | Water: Even      | Potting: April 25       | Evergreen year-round
+SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planted: April 25       | NEVER FERTILIZE!
+EUONYMUS (x2)   Sun: Part | Water: Even       | Potted: April 25        | Evergreen year-round
+HAWORTHIA SAFARI Sun: Bright | Water: Sparingly | Potted: April 26       | Flower stalk discovered Apr 29! NEVER fertilize while blooming
 CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17       | SOLO POT ONLY!
 DIANTHUS (x4)   Sun: Full | Water: Light      | 2 planted + 2 incoming  | Blooms: All summer
 GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
@@ -839,4 +842,138 @@ GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 
 ---
 
-*Research compiled April 15, 2026 — Last updated April 26, 2026*
+*Research compiled April 15, 2026 — Last updated April 29, 2026*
+
+---
+
+## 18. Aumtrly Clip-On Grow Light (2-Pack BL-J20B)
+
+**Purpose:** Indoor seedling lighting for Tray 1 (cosmos, zinnia) and Tray 2 (post pot-up). Runs **alongside** the existing 5-gooseneck Niello setup, not as a replacement — more coverage, more redundancy.
+
+**Table coverage:** 120 × 60 cm, target ~108 × 54 cm (90%).
+
+### Confirmed Specs
+
+| Spec | Value |
+|------|-------|
+| Power | **15 W actual draw per lamp** (30 W advertised peak) |
+| Voltage | 5 V via USB adapter |
+| LEDs | 228 total across the 2-pack (114 per lamp / 57 per head) |
+| Spectrum | 70 white + 36 warm white + 4 red (660 nm) + 4 blue (460 nm) per lamp |
+| Color temp | 3000 K warm / 5000 K cool depending on mode |
+| Luminous flux | 1100 lm in a 120° cone |
+| Spectral range | 250–800 nm at full load (covers full PAR 400–700 nm) |
+| Timer | 6 / 12 / 16 h cycles with auto-resume daily |
+| Modes | 3 (white / warm + red / mixed) × 5 brightness levels (20%–100%) |
+| Estimated PPFD | ~150–220 μmol/m²/s at 20 cm in central zone (seedling sweet spot) |
+
+### Day-of-Arrival — Unbox & Inspection
+
+- [ ] Confirm both lamps power on across all 3 light modes
+- [ ] Cycle through all 5 brightness levels
+- [ ] Test the **16 h timer**: set, verify indicator, confirm cycle starts
+- [ ] **Power-blip test** — unplug for 30 seconds, plug back in, confirm schedule resumed (insurance for May 20–25 trip)
+- [ ] Verify goosenecks bend smoothly and hold position without drooping
+- [ ] Inspect clamps — non-slip pad intact, screw mechanism solid
+
+### Mounting on the 120 × 60 cm Table
+
+- Position 2 clamps on opposite long edges of the table, ~30 cm in from each end
+- 4 heads (2 per lamp) span the table at ~60 cm intervals
+- Bend goosenecks so heads sit **20–25 cm above the seedling canopy** for Tray 1
+- Angle heads slightly inward toward trays (not straight down) — softens hot spots, improves edge coverage
+
+### Initial Settings (Current Seedling Stage)
+
+| Setting | Value | Why |
+|---------|-------|-----|
+| Light mode | Mixed (full spectrum) | Best for vegetative seedling growth |
+| Brightness | Level 3 of 5 (~60%) | Cosmos/zinnia at thinned stage don't need full blast; reduces heat + water loss |
+| Timer | 16 h cycle | Matches sunrise–sunset rhythm |
+| Start time | ~6:00 AM | Stuttgart early-May sunrise; cycle ends ~10 PM (no late-night room glow) |
+
+### Adjustment Schedule
+
+- **Tray 2 pot-up (May 8–12):** lift heads to 25–30 cm above new pot tops; bump brightness to **level 4** — established roots can handle more light.
+- **Pre-trip check (May 18–19):** confirm timer running cleanly. **Drop brightness back to level 3** — less light = less water demand for the capillary mat trial.
+- **Ongoing rule of thumb:** heads stay 20–30 cm above canopy at all times. Stretching → lower the heads. Pale/curling top leaves → raise the heads or drop a brightness level.
+
+### Red Flags — First-Week Watch List
+
+| Symptom | Likely Cause | Fix |
+|---------|--------------|-----|
+| Leggy, stretchy growth | Light too far / too dim | Lower heads or raise brightness |
+| Pale or yellowing top leaves | Light too close / too bright | Raise heads or dim |
+| Crispy leaf edges | Heat stress | Raise heads (rare at 15 W actual) |
+| Uneven growth across tray | Poor edge coverage | Reposition heads |
+
+### Notes for the Nook
+
+If a head ever migrates to the Nook for succulent supplementation, use **warm-white-only mode** — most living-room-friendly aesthetic. Mixed mode reads "lab" rather than "cozy plant corner" due to visible blue/red tint.
+
+> Reference compiled April 29, 2026 — pre-arrival. Update with real-world notes once the lamps have been running 5–7 days.
+
+---
+
+## 19. Patio Corner Potted Tree Candidates
+
+**Location:** Sunny patio corner, sheltered overhead by wood beam structure, stone tile floor, strong direct sun.
+**Approach:** Potted only — no climbers, no ground planting (rental unit + annual contract renewals = season-by-season strategy).
+**Status:** Scouting / future addition, **not urgent**.
+
+### Top Candidates
+
+#### 🫒 Olive Tree (Michael's pick)
+
+- **Vibe:** Mediterranean, sculptural, silver-green foliage year-round
+- **Care level:** Low — drought-tolerant, loves sun
+- **Winter:** Hardy in Stuttgart with **fleece protection on the coldest nights**; can stay outside in pot
+- **Pot:** Min 40 L, terracotta or stone-look
+- **Pros:** Low maintenance, evergreen-ish, portable if needed, ages beautifully
+- **Cons:** Slow growing, won't fruit reliably this far north (decorative only)
+
+#### 🍋 Meyer Lemon Tree (Emma's pick)
+
+- **Vibe:** Romantic, fragrant blooms, real fruit
+- **Care level:** High — citrus-specific feed, careful watering, **winter relocation indoors required**
+- **Winter:** Must come inside below ~5°C (October–April). Needs a bright cool spot indoors.
+- **Pot:** Min 40 L, must be movable (consider wheeled saucer)
+- **Pros:** Fragrant flowers, edible fruit, dramatic statement plant
+- **Cons:** Significant work, indoor winter space needed, fussy about feed and water
+
+#### 🍊 Calamondin Orange (alternative citrus)
+
+- **Vibe:** Smaller, more decorative than lemon, ornamental fruit
+- **Care:** Same as Meyer lemon — winter indoors required
+- **Pros:** Smaller footprint than lemon, very pretty
+- **Cons:** Same indoor winter requirement
+
+### Lower-Maintenance Alternatives
+
+#### 🌿 Bay Laurel (Lorbeer)
+Evergreen, fragrant, edible (cooking). Tolerates Stuttgart winters with minor protection. Sculptural — can be shaped or left natural.
+
+#### 🌳 Fig Tree
+Surprisingly hardy in Stuttgart. Dramatic large leaves, cottage-garden feel. Edible fruit if conditions are right. Deciduous (bare in winter).
+
+#### 🌱 Dwarf Olive Standard or Topiary Ilex crenata
+Architectural single-statement option. **Ilex crenata = good boxwood substitute** (Emma already prefers this over boxwood for moth reasons — see Session 9). Year-round structure.
+
+### Decision Logic (When OBI-Ready)
+
+Let inventory + eye decide between olive vs. lemon. Both are good picks; they just optimize for different things:
+
+- Want **low-effort + Mediterranean look?** → Olive
+- Want **fragrance, fruit, and don't mind the work?** → Meyer Lemon
+- Don't see either at OBI? → Bay laurel or fig as backup statement plants
+
+### Constraints to Remember
+
+- ✅ **Must be portable in a pot** (rental + potential relocation)
+- ✅ **Must work with season-by-season approach** (no multi-year commitments)
+- ✅ **Drainage non-negotiable** (standing rule)
+- ✅ **Terracotta / stone-look pot aesthetic**
+- ❌ No boxwood, no Lavandula stoechas (existing rules)
+- ⚠️ If choosing citrus: **confirm indoor winter spot exists before purchase**
+
+> Reference compiled April 29, 2026. Not urgent — pull up next time the OBI itch strikes.

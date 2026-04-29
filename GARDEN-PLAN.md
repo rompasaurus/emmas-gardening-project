@@ -65,21 +65,30 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Top-dress Sempervivum** with 5-10mm gravel — Apr 25
 - [x] **Tray 1 potted up** into 10cm cells, burying leggy stems deep — Apr 25
 - [x] **Lavandula angustifolia planted** in grey pot on Zone B sunny wall (60% Kakteenerde / 40% Sana, gravel top-dress) — Apr 26
-- [x] **Nook repotted** — snake plant 12cm, pineapple 12cm, tiger aloe 10-11cm in Kakteenerde with drainage mesh — Apr 26
+- [x] **Nook repotted** — snake plant 12cm, pineapple 12cm, Haworthia "Safari" 10-11cm in Kakteenerde with drainage mesh — Apr 26
 - [x] **Balcony cleaned** — tile weeds removed with Fugenkratzer, organized, April baseline photos taken — Apr 26
 - [x] **Travel plan locked** — May 20–25 trip, transplant delayed from May 15 → ~May 26–28 — Apr 26
-- [ ] Move lavender from semi-shade → full Zone B sun (~Apr 28)
-- [ ] Tray 2 dome cracking sequence (~Apr 29–30)
-- [ ] Pinch mint tops once it has 3–4 sets of leaves
-- [ ] Deadhead dianthus as blooms fade
+- [x] **Tray 2 dome off entirely** — 16/18 germinated by Day 5 (Apr 27)
+- [x] **Tray 1 true leaves emerging** — Day 11 from sow, Day 2 post-pot-up (Apr 27)
+- [x] **First Compo BIO Dianthus feed** — half-strength, 10ml in 2L (Apr 27)
+- [x] **6 additional Niello goosenecks added** — 11 total, dedicated coverage per tray (Apr 27)
+- [x] **Tray 1 toddlers thinned** — one keeper per cell, snipped at soil line (Apr 28)
+- [x] **Tray 2 final germination** — 17/18 up, light dropped to 10cm (Apr 28)
+- [x] **Apr 29: Haworthia flower stalk discovered** during Nook check-in
+- [x] **Apr 29: Aumtrly clip-on grow light setup reference compiled** — pre-arrival spec sheet, day-of and adjustment schedule
+- [x] **Apr 29: Patio corner tree shortlist** — olive vs Meyer lemon decision logic + lower-maintenance alternates
 
 ### Week of April 28 – May
 
-- [ ] Move lavender to full sun position
-- [ ] Tray 2 dome: prop corner → half-off → off entirely (~3 days)
-- [ ] First Nook watering (~May 1–3): snake plant light, aloe deep, pineapple rosette cup
-- [ ] Order pre-trip supplies: capillary mats, 3–4 Blumat carrots + 1.5L PET bottles, timer plug
+- [ ] Tray 1 keepers checkpoint (~Apr 30): new true leaves, stem strength check
+- [ ] First Nook watering (~May 1–3): snake plant light, Haworthia deep+infrequent, pineapple rosette cup
+- [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug (capillary mats already on hand)
+- [ ] Aumtrly clip-on grow light: unbox + cycle/brightness/timer test + power-blip test + mount on 120×60 cm table at 20–25 cm above canopy
+- [ ] Repot gift arrangement into individual pots
+- [ ] Tray 2 pot-up window: ~May 8–12 once true leaves emerge and roots fill cells
+- [ ] Capillary mat trial run a few days before May 26–28 trip
 - [ ] Tray 1 first half-strength fertilizer dose ~1 week after May 26–28 transplant
+- [ ] Haworthia: don't fertilize while flower stalk is in development; don't move the pot
 
 ### Shopping List — April
 
@@ -113,11 +122,16 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~3× pots with drainage + saucers (Nook)~~ | Amazon | — | Arrived + repotted (Apr 26) |
 | ~~Lavandula angustifolia (Echter Lavendel)~~ | OBI | — | Bought + planted (Apr 26) |
 | ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
-| 1–2 capillary mats (indoor seedling cells) | OBI / Amazon | — | Pre-trip (before May 20) |
+| ~~Capillary mat~~ | — | — | Received Apr 27, banked for May trip |
+| ~~Aumtrly Clip-On Plant Lamps 2-Pack (BL-J20B)~~ | Amazon | — | En route — reference compiled Apr 29 |
 | 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
 | 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
+| Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
 | Ilex crenata (Japanische Stechpalme) | OBI (next visit) | — | Wish list — boxwood moth–free alternative |
 | Heuchera (Purpurglöckchen) | OBI (next visit) | — | Wish list |
+| Healthy fuller Euonymus fortunei | OBI (next visit) | — | Wish list |
+| Patio corner tree (olive *or* Meyer lemon) | OBI (future) | TBD | Scouted Apr 29 — pull up next OBI itch. Olive = low-effort (winter-hardy in pot) vs Meyer lemon = fragrance/fruit (needs indoor winter) |
+| Patio corner tree alternates | OBI (future) | TBD | Bay laurel, fig, or Ilex crenata if neither olive nor lemon land — see Future Ideas |
 
 ---
 
@@ -234,7 +248,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain |
 | Euonymus | Keep evenly moist — richer soil, more water than succulents |
 | Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
-| Haworthia "Safari" | Deep soak, dry fully between. Wrinkled leaves = thirsty |
+| Haworthia "Safari" | **Skip first water for ~1 week post-pot-up (Apr 29)** — let nicked roots heal. Then deep soak, dry fully between. Wrinkled leaves = thirsty. NEVER fertilize, especially while flowering |
 | Mini pineapple | Little water in the central rosette cup, refresh every 1–2 weeks. Soil barely moist |
 
 ---
@@ -271,7 +285,9 @@ The balcony is now a year-round project — each large pot built around an **eve
 - **Stuttgart = zone 7** — prefer Lavandula angustifolia over L. stoechas, Ilex crenata over Buchsbaum (moth)
 - **German store tip:** Look for *winterhart*, *Balkonpflanzen*, *Kubelpflanzen*, *Krauter* — NOT *Zimmerpflanzen*
 - **Photos!** Document everything — this is Emma's first garden!
+- **Aumtrly grow light power-blip test** — before the May 20–25 trip, unplug 30s and confirm timer auto-resumes (insurance against power blips while away)
+- **Haworthia in bloom** — don't cut the stalk, don't move the pot, don't fertilize. Haworthia (unlike Sempervivum) is NOT monocarpic; the rosette survives flowering
 
 ---
 
-*Last updated: April 27, 2026*
+*Last updated: April 29, 2026*

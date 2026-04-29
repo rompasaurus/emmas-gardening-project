@@ -59,6 +59,9 @@ permalink: /PROGRESS-REPORT
 | April 28, 2026 | Tray 2 light lowered from 15cm to 10cm for compact growth | Done |
 | April 28, 2026 | Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup wrapped | Done |
 | April 28, 2026 | Capillary mat received (Apr 27), held for May 26–28 trip auto-watering | Done (decision) |
+| April 29, 2026 | Haworthia "Safari" flower stalk discovered during Nook check-in (potted Apr 26) | Done |
+| April 29, 2026 | Aumtrly clip-on grow light setup reference compiled (pre-arrival spec sheet) | Done |
+| April 29, 2026 | Patio corner tree options scouted — olive vs Meyer lemon shortlist drafted | Done |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -869,6 +872,94 @@ Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone
 - Capillary mat trial run: Test a few days before May 26–28 trip to dial in reservoir flow rate
 - First Nook watering (~May 1–3): Soil should be dust-dry by then. Use room-temp water (filtered if possible)
 - Dianthus first feed already done Apr 27. Next feed window ~mid-May
+---
+
+### Session 15 — April 29, 2026 — "The Nook Blooms (and Trees on the Brain)"
+
+**A quieter check-in after the April 26–28 stretch — but with a real surprise: the Haworthia is sending up a flower stalk. Plus the Aumtrly clip-on grow light reference got finalized ahead of arrival, and the patio corner tree question (olive vs Meyer lemon) finally got a proper shortlist.**
+
+#### 1 — Michael's Nook: Haworthia "Safari" — flower stalk discovered
+
+Quick check on the Nook plants potted up on April 26. Snake plant and mini pineapple holding fine in their respective 12 cm pots, no-water window still in effect through ~May 1–3. The Haworthia "Safari" in its **white ceramic 10–11 cm pot** on the granite sill, however, had a surprise.
+
+![The Haworthia "Safari" sitting in its white ceramic pot on the granite sill — that white-speckled tiger pattern on the leaves popping in the afternoon sun, three days post-repot](pictures/48-haworthia-safari-potted-up.jpg)
+
+**The discovery — a flower stalk!**
+
+Top-down inspection caught something that wasn't visible on the OBI shelf, on April 23 setup day, or even at the April 26 repot: a **flower stalk is emerging from the dead center of the rosette**. That little budded stem pushing up through the leaves means this Haworthia is gearing up to bloom — usually small tubular pink/white flowers on a long thin stalk, weeks-long display.
+
+![Top-down view of the Haworthia rosette — a flower stalk bud emerging from dead center between the leaves, ready to climb skyward over the coming weeks](pictures/51-haworthia-flower-stalk-top-down.jpg)
+
+**Care implications for a flowering Haworthia:**
+
+- **Don't cut it off.** The flower stalk is a happy-plant signal. Let it run its course.
+- **Resist the urge to fertilize.** Flowering doesn't change the rule — succulents on lean soil. The Cactea/Bonsai mix has plenty.
+- **Slightly more sun helps the stalk grow strong** — the Nook's afternoon light is already ideal.
+- **Don't move the pot now.** Sudden light changes can abort the bloom.
+- **Unlike Sempervivum, Haworthia is NOT monocarpic** — flowering doesn't kill the rosette. Bonus.
+
+The repot timing (Apr 26) didn't trigger this — the bud was almost certainly underway before then; it just happened to clear the leaves during the post-repot acclimation. Good news either way.
+
+#### 2 — Concern at the base — red circle investigation
+
+![Same shot with a red circle drawn around a base zone Emma flagged for a closer look — yellowing/dried tissue at the base of the rosette and what looks like fine root or fiber emerging](pictures/49-haworthia-base-concern-circled.jpg)
+
+Emma circled an area at the base of the rosette to ask "is this a problem?" Close-up confirms it's:
+
+![Close-up of the base — yellowing leaf tip dried into a brown papery scrap, the new flower stalk visible behind, plus fine reddish-brown fibers from the surrounding nursery substrate](pictures/50-haworthia-base-detail-flower-stalk.jpg)
+
+- **Yellowed/dried outer leaf tips** — the bottom-most leaves naturally die back as the rosette ages. Normal. Pull the fully papery ones off with a gentle tug; don't yank green tissue.
+- **Reddish-brown fibers** — coir/bark scraps from the original nursery substrate, not roots. Cosmetic only.
+- **No mushy black tissue, no white cottony spots, no soft base** — meaning **no rot, no mealybugs**. The two real failure modes are absent.
+
+**Verdict: not a problem.** Wipe the yellow scrap off, leave the plant alone for the rest of the no-water window.
+
+#### 3 — Aumtrly grow light setup reference (pre-arrival)
+
+Compiled the full setup reference for the **Aumtrly Clip-On Plant Lamps, 2-Pack (BL-J20B)** that's en route. Captured into the research doc ([Gardening Research → Section 18](GARDENING-RESEARCH#18-aumtrly-clip-on-grow-light-2-pack-bl-j20b)) so the day-of-arrival flow is locked in:
+
+- 4 heads (2 per lamp), goosenecks bent to **20–25 cm above seedling canopy**
+- **Mixed (full spectrum) mode**, brightness **level 3 of 5 (~60%)** for current seedling stage
+- **16 h timer**, ~6:00 AM start → ~10:00 PM end (no late-night room glow)
+- **Power-blip test** before the May 20–25 trip — confirm timer auto-resumes after a 30-second unplug
+- Coverage target: ~108 × 54 cm of the 120 × 60 cm table (90%)
+
+Also documented the adjustment schedule for **Tray 2 pot-up (May 8–12)** — heads up to 25–30 cm, brightness to level 4 — and the **pre-trip dim-down (May 18–19)** to reduce water demand for the capillary mat trial that's on standby for the May 20–25 trip (per Session 14).
+
+This 2-pack will run **alongside the existing 11-gooseneck Niello setup** (per Session 13's two-tray dedicated coverage plan), not replace it — more redundancy, and one set is portable enough to migrate to the Nook for evening succulent supplementation if needed (warm-white-only mode for living-room ambiance).
+
+#### 4 — Patio corner tree options — Emma vs Michael, scouted
+
+Emma wants a Meyer lemon. Michael wants an olive. Today's session was honest scouting before the next OBI itch. The full shortlist with constraints lives in [Future Ideas → Patio Corner Tree](FUTURE-IDEAS#patio-corner--potted-tree-options) and the care detail in [Gardening Research → Section 19](GARDENING-RESEARCH#19-patio-corner-potted-tree-candidates).
+
+**Top two:**
+
+- **🫒 Olive** (Michael's pick) — Mediterranean, sculptural, low-effort, **winter-hardy in Stuttgart with fleece on the coldest nights**, can stay in pot outside year-round. Slow growing, won't fruit reliably this far north (decorative).
+- **🍋 Meyer Lemon** (Emma's pick) — fragrant blooms, real fruit, dramatic statement plant. **Must come inside below ~5°C** (October–April) → needs a bright cool indoor winter spot. Higher-effort, fussier feed/water.
+
+**Lower-maintenance alternatives** if neither lands well: **Bay Laurel** (evergreen, edible, hardy), **Fig** (surprisingly hardy in Stuttgart, dramatic leaves, fruit-capable), or **Ilex crenata** as an architectural single-statement pot (Emma already prefers this over boxwood for moth reasons — see Session 9 notes).
+
+**Constraints (locked):**
+
+- ✅ Must be portable in a pot (rental + annual lease cycles)
+- ✅ Season-by-season approach (no multi-year commitments to ground planting or trellises)
+- ✅ Drainage non-negotiable
+- ✅ Terracotta / stone-look pot aesthetic
+- ❌ No boxwood (moth), no Lavandula stoechas (already established rules)
+- ⚠️ If citrus: confirm indoor winter spot before purchase
+
+**Decision rule:** let the next OBI inventory + Emma's eye decide between olive and lemon. Both are good picks; they just optimize differently. **Not urgent — pull this back up next time the OBI itch strikes.**
+
+#### Active care reminders (refresh)
+
+- **Haworthia (Nook):** still inside the no-water window through ~May 1–3 (5–7 days post-repot Apr 26). Don't cut the flower stalk; don't fertilize; don't move the pot.
+- **Snake plant + mini pineapple (Nook):** same no-water window; first watering ~May 1–3 (light for the snake plant; deep+infrequent for the others; small pour into the pineapple's central rosette cup).
+- **Sempervivum (Zone B):** post first-water window — dry-cycle going forward. NEVER fertilize.
+- **Lavandula angustifolia (Zone B):** acclimation done — full sun position. Lean dry going forward.
+- **Tray 1 keepers:** post-thinning recovery (Apr 28). Light at 14 cm, 16 h, no fertilizer this week.
+- **Tray 2 babies:** light at 10 cm, watch the 17/18 stretcher even out, no fertilizer until pot-up (~May 8–12).
+- **Aumtrly grow light:** unbox checklist on file (mode/brightness/timer cycling, gooseneck check, clamp pad inspection) — see research doc Section 18.
+- **Patio tree:** scouting only, no rush.
 
 ---
 
@@ -917,7 +1008,7 @@ Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone
 - Lavandula angustifolia found at OBI (closes the April 23 follow-up)
 - Mint propagation confirmed working — new sprouts from deleafed stem cuttings
 - Lavandula angustifolia planted in grey pot, Zone B sunny wall (60% Kakteenerde / 40% Sana, gravel top-dress)
-- Nook repotted: snake plant (12cm), mini pineapple (12cm), tiger aloe (10-11cm) in Kakteenerde with drainage mesh discs
+- Nook repotted: snake plant (12cm), mini pineapple (12cm), Haworthia "Safari" (10-11cm) in Kakteenerde with drainage mesh discs (April 26)
 - Balcony fully cleaned: tile weeds removed with Fugenkratzer, pots organized, chairs positioned
 - April 2026 baseline photos taken for July growth comparison
 - Travel plan locked: May 20–25 trip, transplant delayed to ~May 26–28
@@ -931,18 +1022,25 @@ Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone
 - Tray 2 final germination confirmed: 17/18 up, light dropped to 10cm (April 28)
 - Capillary mat received Apr 27, banked for May 26–28 trip auto-watering (April 28)
 - Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup officially wrapped (April 28)
+- Haworthia "Safari" flower stalk discovered emerging from rosette center — first bloom event in the Nook (April 29)
+- Haworthia base "concern" investigated and cleared — natural outer-leaf dieback, no rot, no mealybugs (April 29)
+- Aumtrly clip-on grow light setup reference compiled — pre-arrival spec sheet, day-of and adjustment schedule (April 29)
+- Patio corner tree shortlist drafted — olive vs Meyer lemon decision logic + lower-maintenance alternatives (April 29)
 
 ### In Progress
 - Tray 1 keepers recovering post-thin — checkpoint ~Apr 30 for new true leaves and stem strength
 - Tray 2 in open-air nursery phase — 17/18 up, 1 mild stretcher, light at 10cm
-- Nook plants post-repot: no water until ~May 1–3
+- Nook plants post-repot: no water until ~May 1–3; **Haworthia flower stalk in development**
 - Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
+- Aumtrly clip-on grow light: en route — unbox checklist ready (research doc Section 18)
 
 ### Not Yet Started
-- Pre-trip shopping: capillary mats, Blumat carrots, timer plug (before May 20)
+- Pre-trip shopping: capillary mats already on hand, Blumat carrots, timer plug (before May 20)
 - May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
 - Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
 - Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
+- Patio corner tree purchase — pull up at next OBI itch (olive vs Meyer lemon decision)
+- Repotting gift arrangement into individual pots
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 
@@ -999,10 +1097,14 @@ Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone
 | April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-thinned-seedlings-bench.png) |
 | April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-tray1-post-thinning-topdown.png) |
 | April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-tray2-babies-cotyledons.png) |
-| | First bloom! | *(coming soon!)* |
+| April 29, 2026 | Haworthia "Safari" in its white Nook pot — three days post-repot | ![haworthia](pictures/48-haworthia-safari-potted-up.jpg) |
+| April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-haworthia-base-concern-circled.jpg) |
+| April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-haworthia-base-detail-flower-stalk.jpg) |
+| April 29, 2026 | Top-down — flower stalk emerging from the rosette center | ![bloom](pictures/51-haworthia-flower-stalk-top-down.jpg) |
+| | First cosmos/zinnia bloom | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 28, 2026*
+*Last updated: April 29, 2026*
