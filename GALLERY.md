@@ -726,4 +726,88 @@ The session also produced two reference documents that aren't dramatic photos bu
 
 ---
 
-*Photos from April 14–29, 2026 — Days 1 through 15 of Emma's Garden*
+---
+
+# Day 16 — April 30, 2026: The Seedlings Get Their Own Room
+
+> *"It's their room for real — we even whisper whenever we talk around them."*
+
+---
+
+## The Terrace, Settled In
+
+A wide look across the spring baseline before the day's busy indoor work — the IKEA Poäng chairs are out, the artificial-grass mat is down, the railing is full of dianthus and hanging planters, and the first round of pots have all found their spots. April closes with the outdoor side feeling like a proper hangout space.
+
+![Wider terrace shot — Poäng chairs and footrests on the green grass mat, hanging dianthus planters on the railing, Stuttgart rooftops behind, soft afternoon sun across the tiles](pictures/52-terrace-spring-baseline.jpg)
+
+---
+
+## Zone A — Euonymus + Decorative Birds
+
+The Euonymus fortunei pair (golden + white-variegated) got little ceramic decorative birds tucked into the pots — small touches that turn the corner from "plants in pots" into "this space has personality."
+
+![The two black Euonymus pots on their wire stands — leaves bright in the afternoon sun, decorative birds resting in the mulch like little co-habitants](pictures/53-euonymus-pair-with-decorative-birds.png)
+
+---
+
+## Lavender — Buds on the Spike Tips
+
+The Lavandula angustifolia in its grey Zone B pot is starting to show **flower buds at the tips of the spikes** — hard to see in bright sun until you look closely. Should be in obvious bloom within a week or two.
+
+![The Lavandula angustifolia in its grey pot against the white wall, gravel top-dress around the crown, slim grey-green foliage with small bud-tipped flower spikes pushing up](pictures/57-lavender-buds-forming.png)
+
+---
+
+## Brodiaea Pot 2 — First Sprout!
+
+Day 14 post-planting, right on schedule. A bright green pointed shoot is pushing up through the bark mulch in Pot 2. Pot 1 still nothing — also normal, Brodiaea corms can stagger emergence by 1–2 weeks within the same planting. Reassessment for Pot 1 if no sprout by May 14.
+
+![Top-down close-up of Brodiaea Pot 2 — bark mulch surface with a single bright green pointed shoot pushing through, Day 14 post-planting](pictures/56-brodiaea-pot2-first-sprout.png)
+
+---
+
+## Tray 1 — The Zinnia Mystery
+
+Morning inspection caught the zinnias looking pale yellow-green across the board, while cosmos in adjacent pots looked healthy. Working theory: **light bleaching** from sun + grow light stacked on top of each other. Zinnias are more sensitive to high-intensity light than cosmos at the cotyledon-to-true-leaf transition. Blinds came down, fertilizer paused, and the whole setup got slated for relocation indoors.
+
+![Close-up of a Tray 1 cup — broad green cotyledons on a single keeper, fading toward pale at the leaf margins where the sun-plus-grow-light stack was bleaching the zinnia foliage](pictures/55-tray1-cup-closeup.png)
+
+> Lesson logged for next year's spring sowing: pick **one** light source per stage. Cosmos can handle the stack; zinnias cannot.
+
+---
+
+## The Aumtrly Lamps Arrive — The Seedlings Room is Born
+
+The 5 Aumtrly clip-on lamps (BL-J20B, **10 heads total**) arrived in the early evening Amazon window. The whole seedling operation got relocated from the balcony window into a quieter, shaded interior corner — what is now officially **"the seedlings room."**
+
+The sawhorse table got a 60×120 cm anti-slip mesh mat (€4 from the TEDi run earlier in the day) — open weave for full airflow, water drains right through, fits the table almost exactly. Cheaper and more elegant than stacking boot trays.
+
+![The new seedlings room — sawhorse table with anti-slip mesh mat, Tray 1 (left, broader-leaved zinnias and cosmos) and Tray 2 (right, narrow-leaved cosmos and younger zinnia) under their respective Aumtrly clip-on lamps](pictures/58-seedlings-room-aumtrly-setup.jpg)
+
+**Tray 1 setup:** 4 lamps clipped to the table edges (8 light heads), ~22 cm above pots, brightness −2 from max (conservative recovery setting after the bleach), **12 h cycle (6 AM–6 PM)** via built-in timer, zinnias on left, cosmos on right.
+
+**Tray 2 setup:** Separate wood dresser, 1 lamp (2 heads), ~22 cm above pots, **full brightness, 16 h cycle (6 AM–10 PM)** — younger seedlings need the longer photoperiod to push true leaves and build structure.
+
+![Tray 2 babies in their cells under a single Aumtrly clip-on lamp on the wood dresser — top-down through the lamp bar showing dark soil cells with germinating seedlings](pictures/59-tray2-under-aumtrly.png)
+
+The built-in soft-switch timers handle the daily cycle automatically — critical for the May 20–25 trip, since no one needs to manually flip switches. Reassessment ~May 8–10, when Tray 2 is ready for pot-up; at that stage both trays unify onto a single schedule.
+
+---
+
+## The Skylight + Window — Passive Airflow Tower
+
+With the new indoor location, the question of overnight ventilation came up. Stuttgart's overnight low for tonight is forecast around 4 °C — too cold for cosmos and zinnia seedlings. The plan: window closed at night, fan on speed 1 for internal air circulation, room door open for ambient airflow from the rest of the apartment. During the day the skylight cracks open to drive a passive airflow tower with the window — **free ventilation when the temps allow, sealed when they don't.**
+
+![Looking up at the skylight + small window combo above the seedlings room — wood ceiling beams, the skylight cracked, Stuttgart rooftops through the side window](pictures/54-skylight-passive-ventilation.png)
+
+---
+
+## And One Quiet Bonus — Aloe "Safari" Pup #2
+
+Not pictured but worth logging: the morning Nook check caught a **second pup** at the base of one of the lower mother leaves — tucked behind the yellow leaf removed yesterday. Aloe "Safari" is now producing a flower spike *and* two pups simultaneously, all within five days of repotting and before the first scheduled watering. The plant clearly approves.
+
+> Sixteen sessions in. The seedlings have their own room, the zinnia mystery is solved, the Brodiaea is sprouting, and the lavender is budding. April closes loud — May begins quiet.
+
+---
+
+*Photos from April 14–30, 2026 — Days 1 through 16 of Emma's Garden*

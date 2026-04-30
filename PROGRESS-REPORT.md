@@ -62,6 +62,11 @@ permalink: /PROGRESS-REPORT
 | April 29, 2026 | Haworthia "Safari" flower stalk discovered during Nook check-in (potted Apr 26) | Done |
 | April 29, 2026 | Aumtrly clip-on grow light setup reference compiled (pre-arrival spec sheet) | Done |
 | April 29, 2026 | Patio corner tree options scouted — olive vs Meyer lemon shortlist drafted | Done |
+| April 30, 2026 | Aloe "Safari" pup #2 confirmed at base of lower leaf | Done |
+| April 30, 2026 | Brodiaea Pot 2 first sprout — Day 14 post-planting | Done |
+| April 30, 2026 | Zinnia light-bleach diagnosed — sun + grow light combo | Done |
+| April 30, 2026 | Aumtrly grow lights installed — 4 over Tray 1, 1 over Tray 2 | Done |
+| April 30, 2026 | Seedling table relocated to dedicated indoor "seedlings room" | Done |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -963,6 +968,185 @@ Emma wants a Meyer lemon. Michael wants an olive. Today's session was honest sco
 
 ---
 
+### Session 16 — April 30, 2026 — "The Seedlings Get Their Own Room"
+
+> *"It's their room for real — we even whisper whenever we talk around them."*
+
+> **Content is user-generated and unverified.**
+
+**A long, busy session that started with the simple observation of a second aloe pup and ended with a complete relocation of the seedling operation from the balcony window into a dedicated indoor space. Along the way: a zinnia diagnosis, a Brodiaea milestone, a TEDi run, the long-awaited Aumtrly lamp arrival, and a few existential reflections about the gardening fever.**
+
+#### 1 — The Nook: Aloe "Safari" — pup #2 confirmed
+
+The morning started innocently enough with what looked like a tiny pup near where the yellow leaf had been removed yesterday. A closer look confirmed it: a second offset pushing up at the base of one of the lower mother leaves. As of today, Aloe "Safari" is producing a flower spike *and* two pups simultaneously, all within five days of repotting and before the first scheduled watering.
+
+The plant clearly approves of the pot, the soil mix, and the sealed-window placement. No protocol changes — first watering still tracking for May 1–3, deep but infrequent. Both pups stay attached to mama for now; pup separation is a much-later conversation once they have their own root systems.
+
+The yellow leaf was removed cleanly. No pests, no rot, just senescing foliage being cycled out as the plant redirects energy into the new growth.
+
+#### 2 — Tray 1 — the zinnia mystery
+
+A morning inspection revealed the zinnias looking pale yellow-green across the board. Cosmos in adjacent pots looked healthy. The paleness was uniform across all zinnias, which pointed away from nutrient or watering issues and toward an environmental cause.
+
+![Close-up of a Tray 1 cup — broad green cotyledons on a single keeper, fading toward pale at the leaf margins where the sun-plus-grow-light stack was bleaching the zinnia foliage](pictures/55-tray1-cup-closeup.png)
+
+Working theory: **light bleaching** from the combination of direct window sun and the gooseneck grow lights running simultaneously. Zinnias are more sensitive to high-intensity light than cosmos, especially during the cotyledon-to-true-leaf transition. The cosmos handling the same conditions without stress confirmed the theory.
+
+Immediate response:
+
+- Lowered the blinds to block direct sun
+- Cracked the window for airflow only
+- Decided to relocate the entire setup to a shaded interior spot once the new lamps arrived
+
+Fertilizer was paused. No point feeding plants under environmental stress; we'll resume once color stabilizes under the new lighting.
+
+#### 3 — Tray 2 — steady growth, no drama
+
+Day 8 post-sowing. About 8 of 18 cells showing seedlings, with the most advanced cosmos and zinnia cells starting to push true leaves between the cotyledons. A few cells still nothing — normal for staggered germination.
+
+Notable observation: Tray 2 seedlings are visibly sturdier and tighter than Tray 1 was at the same stage. The reason is straightforward — Tray 2 had grow light from the moment the dome came off (Apr 27), so they never went through the leggy stretch phase that Tray 1 dealt with. **Lesson for next year's spring sowing: grow light the moment the dome comes off, not later.**
+
+#### 4 — Outdoor walk-through — steady state
+
+Everything in good shape; nothing needed watering today.
+
+![Zone A Euonymus pair — golden + white-variegated in their black pots on stands, decorative birds tucked in among the leaves, soil still moist from earlier in the week](pictures/53-euonymus-pair-with-decorative-birds.png)
+
+- **Zone A Euonymus** (golden + white-variegated): Both healthy, vibrant color, soil still moist. Decorative birds added to the pots — small touches that turn the corner from "plants in pots" into "this space has personality."
+- **Zone B Sempervivum:** Got a small drink yesterday when soil was bone dry. Burgundy varieties showing their characteristic stress-color in full sun (healthy, not problematic). Cobweb variety webbing visible — another good sign.
+- **Zone B Lavender:** Flower buds forming on the spike tips. Hard to see in bright sun until you look closely. Should be in obvious bloom within a week or two.
+
+![Lavandula angustifolia in its grey pot against the white stucco wall, gravel top-dress around the crown, flower spikes forming buds at the tips](pictures/57-lavender-buds-forming.png)
+
+- **Dianthus:** Both railing pots thriving. The older pot wants deadheading — spent papery flowers visible along several stems. Saving deadheading for a calmer morning session.
+- **Babiana planter:** Day 10 post-planting, no surface activity yet. Normal — corms typically take 3–4 weeks for foliage emergence.
+- **Brodiaea Pot 2: first sprout!** Small bright green pointed shoot through the bark mulch. Day 14 post-planting, right on schedule. Pot 1 still nothing, also normal — Brodiaea corms can stagger emergence by 1–2 weeks within the same planting.
+
+![Top-down close-up of Brodiaea Pot 2 — bark mulch surface with a single bright green pointed shoot pushing through, Day 14 post-planting](pictures/56-brodiaea-pot2-first-sprout.png)
+
+- **Mint:** Half healthy, half doing nothing. Peak mint behavior. No intervention needed.
+
+![Wider terrace view — Poäng chairs on the artificial-grass mat, dianthus + euonymus pots along the railing and walls, Stuttgart rooftops behind. Spring outdoor setup visibly settled in](pictures/52-terrace-spring-baseline.jpg)
+
+#### 5 — TEDi run — trays and mats
+
+Before the lamps arrived, an unplanned trip to TEDi to solve the airflow concern about pots sitting directly on the wood table. Considered several options:
+
+- Boot trays upside-down (€4 each, would need 3–4)
+- Shower mats (uneven texture, pots wobble)
+- Plastic flat trays (no airflow)
+- **Anti-slip mesh mat (60×120cm, cuttable, €4) — winner**
+
+The anti-slip mat solved the problem elegantly. Open mesh weave allows full airflow, water drains straight through, the size matches the seedling table almost exactly, and it's cheaper than buying multiple boot trays. The wood gets some drips, but the wood was never the real concern — the airflow was.
+
+#### 6 — Aumtrly setup — the long-awaited upgrade
+
+The 5 Aumtrly clip-on lamps (BL-J20B, 2-pack ×2 + 1-pack ×1, **10 heads total**) arrived in the early evening Amazon window. After unboxing and verifying all units powered on, the table was relocated from the balcony window to a quieter, shaded interior corner — what is now officially **"the seedlings room."**
+
+![The new seedlings room — sawhorse table with anti-slip mesh mat, Tray 1 (left, broader-leaved zinnias and cosmos) and Tray 2 (right, narrow-leaved cosmos and younger zinnia) under their respective Aumtrly clip-on lamps, white wall behind, wood floor below](pictures/58-seedlings-room-aumtrly-setup.jpg)
+
+**Tray 1 setup:**
+
+- Sawhorse table with anti-slip mat
+- 4 Aumtrly lamps clipped to table edges, double heads each (8 light heads total)
+- Lamp height: ~22 cm above pots
+- Brightness: 2 clicks down from maximum (conservative recovery setting after the bleach)
+- Cycle: 12 hours via built-in timer (6 AM–6 PM)
+- Plants grouped: zinnias on left, cosmos on right
+
+**Tray 2 setup:**
+
+![Tray 2 babies in their cells under a single Aumtrly clip-on lamp on the wood dresser — top-down through the lamp bar showing dark soil cells with germinating seedlings](pictures/59-tray2-under-aumtrly.png)
+
+- Separate wood dresser, away from Tray 1
+- 1 Aumtrly lamp, double head
+- Lamp height: ~22 cm
+- Brightness: full
+- Cycle: 16 hours via built-in timer (6 AM–10 PM)
+- Reasoning: younger seedlings need longer photoperiod to push true leaves and build structure
+
+The built-in soft-switch timers handle the daily cycle automatically — critical for the May 20–25 trip, since no one needs to manually flip switches. **Reassessment point: ~May 8–10, when Tray 2 is ready for pot-up. At that stage both trays unify onto a single schedule.**
+
+#### 7 — Climate control — the window question
+
+With the new indoor location, a question came up about overnight ventilation. Stuttgart's overnight low for tonight is forecast around 4 °C — too cold for cosmos and zinnia seedlings.
+
+![The skylight + small window combo above the seedlings room — passive airflow tower for the day, sealed at night for insect/debris/weather risk](pictures/54-skylight-passive-ventilation.png)
+
+Plan:
+
+- **Tonight:** Window closed, fan on speed 1 for internal air circulation, room door open for ambient airflow from the rest of the apartment.
+- **Going forward:**
+  - Overnight ≥ 12 °C: Kipp position fine, blinds insulate
+  - Overnight 8–12 °C: closed window, fan on low
+  - Overnight < 8 °C: closed window, fan on low, door open
+- **Day:** Kipp position whenever ambient temps allow, plus the skylight cracked for natural airflow tower effect.
+
+Radiator stays off (it's been off all spring). Ambient room temperature is fine for these seedlings.
+
+#### Active care reminders
+
+**The Nook**
+
+- **Aloe "Safari":** First watering ~May 1–3. Deep but infrequent. Water gently around the base, avoiding the rosette center. Don't disturb the pups.
+- **Sansevieria 'Laurentii':** First watering ~May 1–3. Light watering only.
+- **Mini pineapple:** First watering ~May 1–3. More generous than the others, plus a small pour into the central rosette cup.
+- No fertilizer until June.
+
+**Seedlings — Tray 1**
+
+- Lights: 6 AM–6 PM (12h cycle, brightness −2 from max)
+- Water: bottom-water if pots feel light; check every 1–2 days
+- Watch: zinnia color over the next 3–4 days. New true leaves should come in healthy green.
+- No fertilizer until color stabilizes (likely May 5–7); when resumed, half-strength Compo BIO every 2–3 weeks.
+
+**Seedlings — Tray 2**
+
+- Lights: 6 AM–10 PM (16h cycle, full brightness)
+- Watch: true leaves emerging on advanced cells; pot-up window May 8–12
+- 2–3 cells still showing no germination — give them through May 4 before writing off
+
+**Climate**
+
+- Window: closed tonight (overnight low ~4 °C). Reassess each evening using forecast.
+- Fan: speed 1 for internal circulation when window is closed.
+- Skylight: closed at night (insects, debris, weather). Fine to crack during the day.
+
+**Outdoor**
+
+- **Sempervivum:** Check soil every 7–10 days; only water when bone dry 2–3 cm down. Never fertilize.
+- **Lavender:** Soak-and-dry rhythm. Currently moist, no water needed. Watch for full bloom over the next 1–2 weeks.
+- **Euonymus (both):** Water when top 2–3 cm dry. Soil currently moist.
+- **Dianthus (both):** Early morning or late evening watering only. Older pot wants a deadheading session — pull spent flowers back to the first set of healthy leaves or to a junction with new buds.
+- **Babiana:** Light moisture; check every 3–4 days. No surface activity expected until ~May 11–18.
+- **Brodiaea Pot 2:** Don't disturb the new sprout area; continue light watering. More sprouts likely over the next 1–2 weeks.
+- **Brodiaea Pot 1:** Patience. Reassess by May 14.
+- **Mint:** Water when top inch dry. Pinch flower stems if they appear. Otherwise, mint will mint.
+
+#### Notes for next time
+
+- **Zinnias do NOT tolerate sun + grow light stacked.** Cosmos can handle it; zinnias bleach. For future spring sowing, choose one light source per stage and stick with it.
+- **Grow light from dome-off = significantly sturdier seedlings.** Tray 2 proves this — never went leggy because lights were on from Apr 27 onward.
+- **The seedlings room concept is working.** Dedicated space, low traffic, controlled environment. Worth replicating each spring.
+- **Anti-slip mesh mat is a more elegant solution than multiple plastic trays.** Cheap, cuttable, full airflow, fits the table exactly. Repurposable for future projects.
+- **Skylight + small window = passive airflow tower.** Use this during the day for free ventilation; close at night for insect/debris/weather reasons.
+- **"Visitor room → seedlings room"** is a reversible decision. When the seedlings transplant outdoors after May 25, the room can return to its original function. Until then: shhh, the plants are sleeping.
+
+#### Next care notes — looking ahead
+
+- **May 1–3:** First post-repot watering for The Nook trio (Aloe, Sansevieria, pineapple).
+- **May 3–4:** Reassess zinnia color under new lighting. Expect noticeable improvement on new true leaves.
+- **May 5–7:** Resume half-strength Compo BIO fertilizer for Tray 1 if color recovery is confirmed.
+- **May 8–10:** Tray 2 ready for pot-up. Unify lighting schedule for both trays.
+- **May 11–18:** Expected Babiana emergence window.
+- **May 13–14:** Capillary mat trial run (combined with new boot tray under the seedling pots, prep for trip).
+- **May 14:** Reassess Brodiaea Pot 1 if still no sprout.
+- **May 19–20:** Pre-trip light reset. All trays on 12h cycle. No fertilizer this week.
+- **May 20–25:** Trip. Capillary mat handles indoor watering. Outdoor plants on Blumat-style spikes/bottles for Dianthus, Brodiaea, Babiana.
+- **May 26–28:** Cosmos and zinnia transplant to outdoor pots after returning home.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1026,6 +1210,13 @@ Emma wants a Meyer lemon. Michael wants an olive. Today's session was honest sco
 - Haworthia base "concern" investigated and cleared — natural outer-leaf dieback, no rot, no mealybugs (April 29)
 - Aumtrly clip-on grow light setup reference compiled — pre-arrival spec sheet, day-of and adjustment schedule (April 29)
 - Patio corner tree shortlist drafted — olive vs Meyer lemon decision logic + lower-maintenance alternatives (April 29)
+- Aloe variegata "Safari" pup #2 confirmed at base of lower leaf — now flower spike + 2 pups simultaneously (April 30)
+- Brodiaea Pot 2 first sprout — Day 14 post-planting, bright green shoot through bark mulch (April 30)
+- Zinnia light-bleach diagnosed — sun + grow-light stack, cosmos unaffected, fertilizer paused (April 30)
+- TEDi run: anti-slip mesh mat (60×120cm, €4) for seedling table airflow (April 30)
+- Aumtrly clip-on lamps unboxed and installed — 4 over Tray 1 (12h, −2 brightness), 1 over Tray 2 (16h, full) (April 30)
+- Seedling table relocated indoors to dedicated "seedlings room" — out of direct sun, low-traffic (April 30)
+- Climate-control protocol set for indoor location — window/fan/door rules tied to overnight low (April 30)
 
 ### In Progress
 - Tray 1 keepers recovering post-thin — checkpoint ~Apr 30 for new true leaves and stem strength
@@ -1101,10 +1292,18 @@ Emma wants a Meyer lemon. Michael wants an olive. Today's session was honest sco
 | April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-haworthia-base-concern-circled.jpg) |
 | April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-haworthia-base-detail-flower-stalk.jpg) |
 | April 29, 2026 | Top-down — flower stalk emerging from the rosette center | ![bloom](pictures/51-haworthia-flower-stalk-top-down.jpg) |
+| April 30, 2026 | Terrace spring baseline — Poäng chairs, grass mat, planters along the railing | ![terrace](pictures/52-terrace-spring-baseline.jpg) |
+| April 30, 2026 | Zone A Euonymus pair with decorative birds tucked in | ![euonymus](pictures/53-euonymus-pair-with-decorative-birds.png) |
+| April 30, 2026 | Skylight + window — passive airflow tower over the seedlings room | ![skylight](pictures/54-skylight-passive-ventilation.png) |
+| April 30, 2026 | Tray 1 cup close-up — pale zinnia foliage flagged for light-bleach | ![tray1cup](pictures/55-tray1-cup-closeup.png) |
+| April 30, 2026 | Brodiaea Pot 2 — first green shoot through the bark mulch | ![brodiaea](pictures/56-brodiaea-pot2-first-sprout.png) |
+| April 30, 2026 | Lavandula angustifolia — flower buds forming on the spike tips | ![lavender](pictures/57-lavender-buds-forming.png) |
+| April 30, 2026 | The new seedlings room — both trays under their Aumtrly clip-on lamps | ![seedlingsroom](pictures/58-seedlings-room-aumtrly-setup.jpg) |
+| April 30, 2026 | Tray 2 babies under a single Aumtrly lamp — 16h photoperiod | ![tray2aumtrly](pictures/59-tray2-under-aumtrly.png) |
 | | First cosmos/zinnia bloom | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: April 29, 2026*
+*Last updated: April 30, 2026*
