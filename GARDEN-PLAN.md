@@ -80,15 +80,23 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 ### Week of April 28 – May
 
-- [ ] Tray 1 keepers checkpoint (~Apr 30): new true leaves, stem strength check
-- [ ] First Nook watering (~May 1–3): snake plant light, Haworthia deep+infrequent, pineapple rosette cup
-- [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug (capillary mats already on hand)
-- [ ] Aumtrly clip-on grow light: unbox + cycle/brightness/timer test + power-blip test + mount on 120×60 cm table at 20–25 cm above canopy
+- [x] Tray 1 keepers checkpoint (~Apr 30): new true leaves, stem strength check
+- [x] Move lavender to full sun position
+- [x] Aumtrly clip-on grow light: installed Apr 30 — 4 over Tray 1 (12h, -2 brightness), 1 over Tray 2 (16h, full)
+- [x] Tray 2 dome off — 18/18 germination, 100% success rate
+- [x] Tray 2 bottom-watered May 1
+- [x] Brodiaea both pots confirmed viable — Pot 1: 1 shoot, Pot 2: 3 shoots (May 1)
+- [x] Babiana mineral salt crust diagnosed — cosmetic, no action needed (May 1)
+- [x] Tray 1 diagnosed: persistent post-bleaching pigmentation, hold fertilizer (May 1)
+- [ ] First Nook watering (May 2): snake plant light, Haworthia deep (avoid rosette + flower spike), pineapple generous + rosette cup
 - [ ] Repot gift arrangement into individual pots
-- [ ] Tray 2 pot-up window: ~May 8–12 once true leaves emerge and roots fill cells
-- [ ] Capillary mat trial run a few days before May 26–28 trip
+- [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug
+- [ ] Capillary mat trial run (May 13–14): 3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir
+- [ ] Press timers on all 4 grow lights to 12h (May 19–20)
+- [ ] Tray 2 pot-up readiness check (~May 8–12): true leaves + firm cotyledons + roots at cell base
 - [ ] Tray 1 first half-strength fertilizer dose ~1 week after May 26–28 transplant
 - [ ] Haworthia: don't fertilize while flower stalk is in development; don't move the pot
+- [ ] Possible third tray sowing (~May 27–30, post-trip)
 
 ### Shopping List — April
 
@@ -122,8 +130,8 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~3× pots with drainage + saucers (Nook)~~ | Amazon | — | Arrived + repotted (Apr 26) |
 | ~~Lavandula angustifolia (Echter Lavendel)~~ | OBI | — | Bought + planted (Apr 26) |
 | ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
-| ~~Capillary mat~~ | — | — | Received Apr 27, banked for May trip |
-| ~~Aumtrly Clip-On Plant Lamps 2-Pack (BL-J20B)~~ | Amazon | — | En route — reference compiled Apr 29 |
+| ~~Capillary mat~~ | — | — | Received Apr 27, trial May 13–14 |
+| ~~Aumtrly Clip-On Plant Lamps 2-Pack (BL-J20B)~~ | Amazon | — | Installed Apr 30 |
 | 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
 | 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
 | Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
@@ -248,7 +256,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain |
 | Euonymus | Keep evenly moist — richer soil, more water than succulents |
 | Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
-| Haworthia "Safari" | **Skip first water for ~1 week post-pot-up (Apr 29)** — let nicked roots heal. Then deep soak, dry fully between. Wrinkled leaves = thirsty. NEVER fertilize, especially while flowering |
+| Haworthia "Safari" | Deep soak, dry fully between. Wrinkled leaves = thirsty. Flower spike + 2 pups developing! NEVER fertilize, especially while flowering |
 | Mini pineapple | Little water in the central rosette cup, refresh every 1–2 weeks. Soil barely moist |
 
 ---
@@ -290,4 +298,8 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ---
 
+<<<<<<< Updated upstream
 *Last updated: April 29, 2026*
+=======
+*Last updated: May 1, 2026*
+>>>>>>> Stashed changes

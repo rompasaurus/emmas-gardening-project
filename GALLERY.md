@@ -631,34 +631,11 @@ The babies (sown Apr 22, dome off Apr 27) settling into open air on Day 6. Final
 
 ---
 
-## The Story So Far
-
-Forty-seven photos across fourteen days. Tray 1 has been thinned — one keeper per cell, the hardest call yet. Tray 2 is settling into open air at 17/18 germination. The spring outdoor setup is officially wrapped: zones established, railing complete, tile joints cleaned.
-
-Emma's garden now has:
-- **Bulbs** in the railing planters (brodiaea) and hanging planter (babiana)
-- **Two trays of seedlings** under grow lights — Tray 1 thinned to one keeper per cell, Tray 2 at 17/18
-- **Lavender** planted on the Zone B sunny wall
-- **Sempervivum** in anchor pots
-- **Euonymus** pair (Zone A backbone) looking sharp
-- **Dianthus** — 4 plants in 2 grey hanging pots on the railing, first feed done Apr 27
-- **Michael's Nook** — repotted and resting, first water ~May 1–3
-- **Chocolate mint** thriving solo + propagating
-- **Capillary mat** received and banked for May trip
-
-**Coming up:**
-- Tray 1 checkpoint ~Apr 30 — new true leaves, stem strength
-- First Nook watering (~May 1–3)
-- Tray 2 pot-up window: ~May 8–12
-- Capillary mat trial run before May 26–28 trip
-- Pre-trip shopping: Blumat carrots, timer plug
-- May 20–25: travel (watering automation in place)
-- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
-
-> Fourteen sessions in. The toddlers survived thinning. The babies are settling in. The spring setup is wrapped. Now we wait, water, and watch them grow.
+---
 
 ---
 
+<<<<<<< Updated upstream
 ---
 
 # Day 15 — April 29, 2026: The Nook Blooms!
@@ -811,3 +788,94 @@ Not pictured but worth logging: the morning Nook check caught a **second pup** a
 ---
 
 *Photos from April 14–30, 2026 — Days 1 through 16 of Emma's Garden*
+=======
+# Day 15 — May 1, 2026: Both Pots Viable, Tray 1 Diagnosed
+
+> **Content is user-generated and unverified.**
+
+---
+
+## Brodiaea Pot 2 — "Three Shoots and Counting"
+
+Day 16 and **Pot 2** is leading the charge with **3 shoots total** — two new sprouts since yesterday's check, joining the original from April 29. Classic monocot blades, thin and grassy, exactly what Brodiaea emergence looks like. The light/dark contrast across the soil is just sun and shade falling across the pot, not a moisture issue.
+
+![Brodiaea Pot 2 at Day 16 — 3 shoots pushing through, two new since yesterday, classic monocot blades emerging through the gravel](pictures/62-brodiaea-pot2-day16.jpg)
+
+---
+
+## Brodiaea Pot 1 — "Just In Time"
+
+The patience paid off. **Pot 1's first shoot** emerged this afternoon, right at the edge of the pot — just in time before the May 14 reassess deadline. Classic Brodiaea behavior: corms near the pot wall get a bit of extra warmth from the sun-heated surface, and that's often where the first emergence shows up.
+
+Both pots now confirmed viable. Day 16 of 25 planted corms — and the show is just getting started.
+
+![Brodiaea Pot 1 first emergence — a single shoot at the pot edge on Day 16, right where the corm catches extra warmth from the sun-heated wall](pictures/61-brodiaea-pot1-first-shoot.jpg)
+
+---
+
+## Babiana — "The Mystery Crust Solved"
+
+Day 12 for the Babiana, and still no above-ground growth — but that's perfectly within the normal window (expected May 11–18). What did get investigated today was the whitish, ashy crust forming on the soil surface.
+
+**Diagnosis:** mineral salt deposits (efflorescence) from Stuttgart's hard water. This pot shows it while neighbors don't because: bare soil with no foliage to shade the surface + a shallow wide planter = high evaporation rate. Water wicks up, evaporates, and leaves dissolved minerals behind as a visible crust.
+
+Cosmetic only. No harm to the corm. Once Babiana sprouts and develops foliage cover, the crust will diminish on its own.
+
+![Babiana planter close-up — whitish mineral salt crust visible on the bare soil surface, caused by Stuttgart's hard water evaporating through unshaded soil in a shallow wide planter](pictures/60-babiana-mineral-salt-crust.jpg)
+
+---
+
+## Tray 2 — "Textbook Perfect"
+
+This is what 100% looks like. **18 of 18 cells germinated** — including the late-bloomer cell that finally joined the party. Deep dark green, compact and sturdy, first true leaves emerging cleanly on the cosmos cells. Bottom-watered today and the soil absorbed water rapidly, confirming healthy root development.
+
+Tray 2 is the control tray — raised under the corrected setup from day one (no grow-light + direct sun stacking). This is what Tray 1 would have looked like without the bleaching incident. Same seeds, same soil, same gardener. The difference is the lesson learned.
+
+![Tray 2 standing healthy under the gooseneck lights — deep dark green, compact sturdy growth, first true leaves emerging, 18 of 18 germinated. Textbook](pictures/66-tray2-healthy-stand.jpg)
+
+---
+
+## Tray 1 — "The Deep Dive"
+
+Today's diagnostic session. The pale lime-green color on Tray 1's zinnias and cosmos had been nagging — was it a nutrient deficiency? Photos under natural light (away from the grow lights) and under the full grow-light stand told the story.
+
+Under natural light, the uniform pale green across every plant ruled out nutrient deficiency (which shows variable expression — older leaves yellowing first for mobile nutrients, interveinal chlorosis for immobile ones). Under the grow lights, the full stand view confirmed: newer growth the same shade as older growth, no edge burn, no curling, plants upright and sturdy with second true leaves emerging cleanly.
+
+The side-by-side with Tray 2 sealed it: same seeds, same soil, same system — the only variable is the bleaching event Tray 1 experienced. Persistent post-bleaching pigmentation. The metabolic shadow of a mistake that showed up weeks later.
+
+![Tray 1 seedlings under natural light — pale lime-green color uniform across all plants, contrasting sharply with Tray 2's deep green](pictures/63-tray1-natural-light-1.jpg)
+
+![Tray 1 close-up under natural light — second true leaves emerging cleanly despite the pale coloring, plants upright and sturdy](pictures/64-tray1-natural-light-2.jpg)
+
+![Tray 1 full stand under grow lights — the big picture view that changed the diagnosis from nutrient deficiency to post-bleaching pigmentation](pictures/65-tray1-under-grow-lights.jpg)
+
+---
+
+## The Story So Far
+
+Fifty-four photos across fifteen days. Both Brodiaea pots are now confirmed viable. Tray 2 hit 100% germination — 18 of 18, textbook healthy. Tray 1's pale color was diagnosed and understood: not a deficiency, but the metabolic shadow of a lesson learned early. The Babiana's mystery crust turned out to be mineral deposits from hard water — cosmetic, harmless.
+
+Emma's garden now has:
+- **Bulbs** — Brodiaea both pots active (Pot 1: 1 shoot, Pot 2: 3 shoots), Babiana Day 12 (expected May 11–18)
+- **Two trays of seedlings** — Tray 1 pale but steady on a recovery trajectory, Tray 2 at 18/18 with true leaves emerging
+- **Lavender** on the Zone B sunny wall
+- **Sempervivum** in anchor pots
+- **Euonymus** pair (Zone A backbone)
+- **Dianthus** — 4 plants in 2 grey hanging pots, next feed ~mid-May
+- **Michael's Nook** — Aloe producing flower spike + 2 pups! First water tomorrow (May 2)
+- **Chocolate mint** thriving solo + propagating
+
+**Coming up:**
+- Nook first watering (May 2)
+- Tray 2 pot-up readiness check (~May 8)
+- Capillary mat trial (May 13–14)
+- May 20–25: travel (watering automation in place)
+- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
+- Possible third tray sowing (~May 27–30)
+
+> Fifteen sessions in. Both Brodiaea pots viable. Tray 2 textbook healthy. Tray 1 diagnosed and on a steady trajectory. The plants are responding to attention. Specifically, hers.
+
+---
+
+*Photos from April 14 – May 1, 2026 — Days 1 through 15 of Emma's Garden*
+>>>>>>> Stashed changes

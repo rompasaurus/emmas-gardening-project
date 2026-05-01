@@ -59,6 +59,7 @@ permalink: /PROGRESS-REPORT
 | April 28, 2026 | Tray 2 light lowered from 15cm to 10cm for compact growth | Done |
 | April 28, 2026 | Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup wrapped | Done |
 | April 28, 2026 | Capillary mat received (Apr 27), held for May 26–28 trip auto-watering | Done (decision) |
+<<<<<<< Updated upstream
 | April 29, 2026 | Haworthia "Safari" flower stalk discovered during Nook check-in (potted Apr 26) | Done |
 | April 29, 2026 | Aumtrly clip-on grow light setup reference compiled (pre-arrival spec sheet) | Done |
 | April 29, 2026 | Patio corner tree options scouted — olive vs Meyer lemon shortlist drafted | Done |
@@ -67,6 +68,15 @@ permalink: /PROGRESS-REPORT
 | April 30, 2026 | Zinnia light-bleach diagnosed — sun + grow light combo | Done |
 | April 30, 2026 | Aumtrly grow lights installed — 4 over Tray 1, 1 over Tray 2 | Done |
 | April 30, 2026 | Seedling table relocated to dedicated indoor "seedlings room" | Done |
+=======
+| May 1, 2026 | Brodiaea Pot 2 — 3 shoots total (2 new since Apr 29), Day 16 | Done |
+| May 1, 2026 | Brodiaea Pot 1 — first shoot emerged at pot edge, both pots now confirmed viable | Done |
+| May 1, 2026 | Babiana mineral salt crust diagnosed — cosmetic efflorescence from hard water, no action needed | Done (diagnosis) |
+| May 1, 2026 | Tray 2 bottom-watered, 18/18 germination confirmed (100% success rate) | Done |
+| May 1, 2026 | Tray 1 diagnosed: persistent post-bleaching pigmentation, not nutrient deficiency | Done (diagnosis) |
+| May 1, 2026 | Decision: hold fertilizer on Tray 1 — pale color is metabolic shadow, not deficiency | Done (decision) |
+| May 1, 2026 | Possible third tray discussed — deferred until post-trip (~May 27–30) | Done (decision) |
+>>>>>>> Stashed changes
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -1147,6 +1157,154 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 
 ---
 
+### Session 15 — May 1, 2026 — "Both Pots Viable, Tray 1 Diagnosed"
+
+> *"What looks like luck is actually devotion."*
+
+> **Content is user-generated and unverified.**
+
+**A milestone day for the Brodiaea pots and a deep diagnostic session for Tray 1's seedlings. Both Brodiaea pots now confirmed viable, Tray 2 hitting textbook health markers, and Tray 1's pale color identified as persistent post-bleaching pigmentation — a lesson in how mistakes leave metabolic shadows even after recovery.**
+
+#### Brodiaea — Both Pots Now Active
+
+Day 16 since planting. Both pots now confirmed viable.
+
+**Pot 2** — up to 3 shoots total as of today. Two new sprouts since yesterday's check joined the original sprout from April 29.
+
+![Brodiaea Pot 2 at Day 16 — 3 shoots total, two new since yesterday, classic monocot blades emerging through the gravel](pictures/62-brodiaea-pot2-day16.jpg)
+
+**Pot 1** — first shoot emerged this afternoon, right at the edge of the pot. Just in time before the May 14 reassess deadline. Classic Brodiaea behavior to come up at the pot edge where the corm gets a bit of extra warmth from the sun-heated wall.
+
+![Brodiaea Pot 1 first emergence — a single shoot at the pot edge on Day 16, right where the corm catches extra warmth from the sun-heated wall](pictures/61-brodiaea-pot1-first-shoot.jpg)
+
+Note on soil appearance: the light/dark contrast in the Pot 2 photo is just sun/shade falling across the pot, not a moisture gradient. No watering today.
+
+**Updated Brodiaea status:**
+- Pot 1: Day 16 — 1 shoot (first emergence May 1)
+- Pot 2: Day 16 — 3 shoots
+- Both pots confirmed viable
+
+#### Babiana — Mineral Salt Crust Identified
+
+Day 12, no growth visible yet — still well within normal germination window (expected May 11–18).
+
+The whitish, ashy crust on the soil surface that's only appearing on this pot got investigated today.
+
+![Babiana planter close-up — whitish mineral salt crust (efflorescence) visible on the bare soil surface, caused by Stuttgart's hard water evaporating through unshaded soil](pictures/60-babiana-mineral-salt-crust.jpg)
+
+**Diagnosis:** mineral salt deposits (efflorescence) from Stuttgart's hard water. This pot specifically shows it while neighboring Dianthus and Brodiaea pots don't because: bare soil + no shoots yet = no foliage shading the surface, and the shallow wide railing planter = high evaporation per unit volume. Water wicks to the surface, evaporates, leaves dissolved minerals behind as a visible crust. Once Babiana sprouts and develops foliage cover, the crust should diminish significantly.
+
+**Action:** none needed. Cosmetic only, no harm to the corm. Babiana tolerates alkaline conditions just fine. If buildup gets thick over time, scraping the top 0.5cm and topping with fresh mix is the simplest fix. Filtered or rainwater in the spike-watering bottles for the trip would reduce buildup, but it's optional.
+
+#### Tray 2 — Textbook Healthy
+
+Watered today via 10-minute bottom-watering. Soil absorbed water rapidly — exactly what you want post-dome.
+
+![Tray 2 standing healthy under the gooseneck lights — deep dark green, compact sturdy growth, first true leaves emerging on cosmos cells, 18 of 18 germinated](pictures/66-tray2-healthy-stand.jpg)
+
+**Status:**
+- 18 out of 18 cells germinated — including the late-bloomer cell. **100% success rate**
+- Deep dark green color — strong chlorophyll production, no light stress
+- Compact, sturdy growth — no leggy stretching
+- First true leaves emerging cleanly on cosmos cells; cotyledons fully expanded and intact
+- Roots developing well — confirmed by rapid water uptake during bottom-watering
+
+Tray 2 is essentially demonstrating what Tray 1 would have looked like without the bleaching incident. Same seeds, same soil, same general system — the difference is that Tray 2 was raised under the corrected setup from day one (no grow-light + direct sun stacking).
+
+**Pot-up readiness check (target ~May 8–12):** Watch for these biological markers, not the calendar:
+1. First true leaves emerging clearly above cotyledons — already happening
+2. Cotyledons firm and fully expanded — confirmed
+3. Slight root showing at cell base when peeking — check around May 8
+
+If all three line up, ready to pot up. If still developing, wait. Readiness over calendar remains the rule.
+
+#### Tray 1 — Diagnosed: Persistent Post-Bleaching Pigmentation
+
+This was the deep dive of the session. Initial concern was about pale lime-green color on the zinnias compared to expected deep green.
+
+Under natural light (away from grow lights):
+
+![Tray 1 seedlings under natural light — pale lime-green color visible across the zinnias and cosmos, uniform shade suggesting systemic cause rather than nutrient deficiency](pictures/63-tray1-natural-light-1.jpg)
+
+![Tray 1 close-up under natural light — second true leaves emerging cleanly despite the pale coloring, plants upright and sturdy](pictures/64-tray1-natural-light-2.jpg)
+
+Under grow lights (full stand view):
+
+![Tray 1 full stand under grow lights — uniform pale green across all plants, newer growth same shade as older growth, no interveinal yellowing or leaf curling](pictures/65-tray1-under-grow-lights.jpg)
+
+**Diagnostic process:** The initial isolated view suggested possible mild nitrogen deficiency. But the full-stand view changed the picture significantly:
+- Uniform pale green across all plants — not the variable expression typical of nutrient deficiency
+- Newer growth same shade as older growth — not the older-leaves-yellower pattern of mobile-nutrient deficiency
+- No interveinal yellowing, no edge burn, no leaf curling — rules out iron, magnesium, salt stress
+- Plants upright and sturdy — light intensity is adequate
+- Second true leaves emerging cleanly — active growth, no real metabolic stress
+
+**What confirmed the diagnosis:** The direct side-by-side comparison with Tray 2 (same seeds, same soil, same system, no bleaching) showed Tray 2's deep green vs Tray 1's lime-green — establishing that the only meaningful variable between the two trays is the bleaching event Tray 1 experienced.
+
+**Conclusion:** persistent post-bleaching pigmentation. The damaged cotyledons couldn't fully recover their chlorophyll, and the first true leaves emerged from a plant operating on reduced photosynthetic capacity. The pale color is the metabolic shadow of the bleaching event still lingering.
+
+**Implications:**
+- Tray 1 will likely stay paler than Tray 2 throughout its lifecycle — foundational damage doesn't fully erase
+- However, newer foliage from healthy growing tips should come in progressively greener as the plant matures
+- Plants will still flower and perform — just with somewhat reduced vigor compared to Tray 2
+
+**Decision: hold fertilizer.** Stick to the original schedule: first feed ~1 week post-transplant after the May 25 trip. The pale color is not a deficiency — fertilizing won't fix it, and could stress the recovering plants further.
+
+**Practical implication for Zone B transplant:** When transplanting cosmos/zinnia into the reserved grey pot post-trip (~May 26–28), prioritize Tray 2 plants for the showcase position. Tray 1 plants remain useful as backups or for less prominent placement.
+
+**Lesson reinforced:** Never stack grow lights and direct sun, especially on zinnia cotyledons. The cost of that mistake shows up in the timeline weeks later, not just on the day of damage. Tray 2 — sown into the corrected system — proves the lesson was absorbed immediately.
+
+#### Reflection: On Self-Attribution
+
+Tonight's session ended with a moment worth recording. Looking at Tray 1's pale leaves triggered a feeling of failure — the comparison with YouTube tutorials calling zinnias "the easiest plant to grow" landed hard.
+
+But the data tells a different story:
+- 18/18 germination on Tray 2 — commercial nurseries target 80–90%
+- Aloe variegata producing flower spike + 2 pups within days of repotting (only happens when thriving)
+- Every Tray 1 plant alive with second true leaves emerging — bleached seedlings often die outright
+- Every outdoor zone complete and healthy
+
+The pattern of attributing success to "good soil" or "lucky plants" while attributing setbacks to personal failure is a cognitive habit worth noticing. The constant across both trays is the gardener — soil doesn't sow itself at the right depth, and plants don't decide to be 2 seeds per cell.
+
+What looks like luck is actually devotion: checking on every plant first thing in the morning, before bed, and throughout the day. That's not how lucky people garden — that's how attentive gardeners garden.
+
+The plants are responding to attention. Specifically, hers.
+
+#### Possible Third Tray — Deferred
+
+A third tray came up tonight. Recommendation: wait until after the May 20–25 trip, then sow around May 27–30. Reasoning: avoids high-risk dome stage during travel absence, aligns with Tray 2 transplant freeing up seedling room, targets blooms for late July/August to extend the summer color window, and applies all lessons from Trays 1 and 2 to a cleaner third run. Decision deferred — to revisit in a few days with fresh eyes.
+
+#### Next Care Notes
+
+**Tomorrow (May 2) — Nook First Watering:**
+- Sansevieria 'Laurentii' — light water only, just moisten the soil. Don't soak
+- Aloe variegata "Safari" — deep water around the base, then nothing for a long while. Avoid the rosette and the flower spike
+- Ananas nanus — more generous, plus a small pour directly into the rosette cup
+
+**Outdoor:**
+- Zone A (Euonymus): No action — built-in nutrients from fresh Sana
+- Zone B grey pots: Sempervivum — no fertilizer, ever. Lavender — no fertilizer. Reserved pot for cosmos/zinnia — no action until post-trip transplant
+- Railing: Dianthus — next half-strength feed in ~2 weeks (last fed Apr 27). Brodiaea — no feed year 1; both pots active and viable. Babiana — no feed year 1; mineral crust is cosmetic, no action
+- Mint: No action
+
+**Seedlings:**
+- Tray 1: No fertilizer. Continue current grow light schedule (12h cycle, brightness -2). Watch for newer true leaves coming in greener than older growth — that confirms healthy maturation
+- Tray 2: Continue current schedule (16h, full brightness). Monitor pot-up readiness from ~May 8. Don't water again until soil dries noticeably — today's bottom-water was generous
+- Seedlings room: Fan continues at 4 hours/afternoon-to-early-evening with breaks. Window cracked daytime, closed nights below 10°C
+
+**Trip Prep (May 20–25) — Upcoming:**
+- May 13–14: Capillary mat trial (3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir)
+- May 19–20: Press timers on all 4 grow lights (12h)
+- Outdoor spike watering: Blumat-style terracotta spikes + bottles for Dianthus (1.5L), Brodiaea ×2 (1L), Babiana (1L). No spikes for Sempervivum, Lavender, Euonymus, Mint
+- No fertilizer the week before the trip for any plant
+- Heat wave contingency: move railing planters to semi-shade if needed
+
+**Photo tracking:**
+- Continue weekly photos of Aloe pups to track development
+- Capture Tray 1 vs Tray 2 comparison shot at Tray 2 pot-up day for the lesson archive
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1206,6 +1364,7 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 - Tray 2 final germination confirmed: 17/18 up, light dropped to 10cm (April 28)
 - Capillary mat received Apr 27, banked for May 26–28 trip auto-watering (April 28)
 - Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup officially wrapped (April 28)
+<<<<<<< Updated upstream
 - Haworthia "Safari" flower stalk discovered emerging from rosette center — first bloom event in the Nook (April 29)
 - Haworthia base "concern" investigated and cleared — natural outer-leaf dieback, no rot, no mealybugs (April 29)
 - Aumtrly clip-on grow light setup reference compiled — pre-arrival spec sheet, day-of and adjustment schedule (April 29)
@@ -1232,6 +1391,32 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 - Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
 - Patio corner tree purchase — pull up at next OBI itch (olive vs Meyer lemon decision)
 - Repotting gift arrangement into individual pots
+=======
+- Brodiaea Pot 2: 3 shoots total at Day 16 — 2 new since Apr 29 (May 1)
+- Brodiaea Pot 1: first shoot emerged at pot edge, Day 16 — both pots now confirmed viable (May 1)
+- Babiana mineral salt crust diagnosed as cosmetic efflorescence from hard water — no action needed (May 1)
+- Tray 2 bottom-watered, 18/18 germination confirmed — 100% success rate (May 1)
+- Tray 1 diagnosed: persistent post-bleaching pigmentation, not nutrient deficiency (May 1)
+- Decision: hold fertilizer on Tray 1 — pale color is metabolic shadow, not deficiency (May 1)
+- Third tray discussed — deferred until post-trip (~May 27–30) (May 1)
+
+### In Progress
+- Tray 1 on steady trajectory — pale but healthy, watching for newer true leaves coming in greener
+- Tray 2 in open-air nursery phase — 18/18 up, first true leaves emerging, pot-up readiness ~May 8
+- Nook first watering due tomorrow (May 2)
+- Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
+- Brodiaea both pots active — monitoring shoot development
+- Babiana Day 12, no growth yet — expected germination May 11–18
+- Aloe variegata flower spike + 2 pups developing — weekly photo tracking
+
+### Not Yet Started
+- Pre-trip shopping: Blumat carrots, timer plug (before May 20)
+- Capillary mat trial run (May 13–14)
+- May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
+- Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
+- Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
+- Possible third tray sowing (~May 27–30, post-trip)
+>>>>>>> Stashed changes
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 
@@ -1288,6 +1473,7 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 | April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-thinned-seedlings-bench.png) |
 | April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-tray1-post-thinning-topdown.png) |
 | April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-tray2-babies-cotyledons.png) |
+<<<<<<< Updated upstream
 | April 29, 2026 | Haworthia "Safari" in its white Nook pot — three days post-repot | ![haworthia](pictures/48-haworthia-safari-potted-up.jpg) |
 | April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-haworthia-base-concern-circled.jpg) |
 | April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-haworthia-base-detail-flower-stalk.jpg) |
@@ -1301,9 +1487,23 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 | April 30, 2026 | The new seedlings room — both trays under their Aumtrly clip-on lamps | ![seedlingsroom](pictures/58-seedlings-room-aumtrly-setup.jpg) |
 | April 30, 2026 | Tray 2 babies under a single Aumtrly lamp — 16h photoperiod | ![tray2aumtrly](pictures/59-tray2-under-aumtrly.png) |
 | | First cosmos/zinnia bloom | *(coming soon!)* |
+=======
+| May 1, 2026 | Babiana mineral salt crust — efflorescence from hard water | ![babiana](pictures/60-babiana-mineral-salt-crust.jpg) |
+| May 1, 2026 | Brodiaea Pot 1 — first shoot at pot edge, Day 16 | ![brodiaea](pictures/61-brodiaea-pot1-first-shoot.jpg) |
+| May 1, 2026 | Brodiaea Pot 2 — 3 shoots at Day 16 | ![brodiaea](pictures/62-brodiaea-pot2-day16.jpg) |
+| May 1, 2026 | Tray 1 under natural light — pale lime-green diagnostic view 1 | ![tray1](pictures/63-tray1-natural-light-1.jpg) |
+| May 1, 2026 | Tray 1 under natural light — close-up diagnostic view 2 | ![tray1](pictures/64-tray1-natural-light-2.jpg) |
+| May 1, 2026 | Tray 1 full stand under grow lights — uniform pale green | ![tray1](pictures/65-tray1-under-grow-lights.jpg) |
+| May 1, 2026 | Tray 2 healthy stand — deep green, compact, 18/18 | ![tray2](pictures/66-tray2-healthy-stand.jpg) |
+| | First bloom! | *(coming soon!)* |
+>>>>>>> Stashed changes
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
+<<<<<<< Updated upstream
 *Last updated: April 30, 2026*
+=======
+*Last updated: May 1, 2026*
+>>>>>>> Stashed changes

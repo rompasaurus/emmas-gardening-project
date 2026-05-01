@@ -17,29 +17,29 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 | Plant | Type | Bloom Period | Status |
 |-------|------|-------------|--------|
-| Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted in railing planters |
-| Babiana | Bulbs (15-pack) | Late spring - Summer | Planted in hanging planter |
-| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Relocated indoors to the new "seedlings room" under Aumtrly lamps (Apr 30) |
-| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Light-bleach diagnosed Apr 30 — moved indoors, brightness dialed back, recovering |
+| Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Both pots viable! Pot 1: 1 shoot, Pot 2: 3 shoots (Day 16) |
+| Babiana | Bulbs (15-pack) | Late spring - Summer | Day 12, no growth yet (expected May 11–18). Mineral crust = cosmetic |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 pale but steady (post-bleach). Tray 2 at 18/18, textbook healthy |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 pale but steady (post-bleach). Tray 2 at 18/18, textbook healthy |
 | Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall |
 | Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
-| Dianthus (Pink) | 4 plants in 2 grey hanging pots | Spring - Summer | 2 per pot on the railing, first feed Apr 27 |
+| Dianthus (Pink) | 4 plants in 2 grey hanging pots | Spring - Summer | 2 per pot on the railing, next feed ~mid-May |
 | Chocolate Mint | Herb - potted | Summer | Thriving + propagating from cuttings |
-| Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
-| Haworthia "Safari" | Succulent (Michael's Nook) | Spring (flower stalk!) | Flower spike + **2 pups** as of Apr 30 — pup #2 spotted at base of lower leaf |
-| Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | Repotted Apr 26 — 12cm pot |
+| Snake plant 'Laurentii' | Houseplant (Michael's Nook) | — | First water due May 2 |
+| Haworthia "Safari" | Succulent (Michael's Nook) | Spring (flower stalk!) | Flower spike + 2 pups! First water due May 2 |
+| Mini Pineapple (Ananas nanus) | Bromeliad (Michael's Nook) | — | First water due May 2 |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 
-![The pink dianthus in their new saddle planter on the railing — full, buds everywhere, Stuttgart rooftops behind](pictures/22-dianthus-hanging-planter.webp)
+![Tray 2 standing healthy — deep dark green, 18/18 germination, textbook growth](pictures/66-tray2-healthy-stand.jpg)
 
-## Latest Update — April 30, 2026 — The Seedlings Get Their Own Room
+## Latest Update — May 1, 2026
 
-> *"It's their room for real — we even whisper whenever we talk around them."*
->
-> A long, busy session that started with the simple observation of a **second aloe pup** on Haworthia "Safari" (now flower spike + 2 pups simultaneously) and ended with a complete relocation of the seedling operation from the balcony window into a dedicated indoor space. The zinnias were diagnosed with **light-bleach** from sun + grow light stacked together (cosmos unaffected, fertilizer paused). **Brodiaea Pot 2** broke ground — first sprout, Day 14 right on schedule. A TEDi run produced an anti-slip mesh mat for table airflow. The 5 **Aumtrly clip-on lamps** (BL-J20B, 10 heads total) arrived and got installed: 4 over Tray 1 on a 12 h cycle at −2 brightness, 1 over Tray 2 on a 16 h full-brightness cycle. Outdoor walk-through was clean — euonymus got decorative birds, lavender is forming flower buds on the spike tips, and the dianthus trio is thriving.
+> *"What looks like luck is actually devotion."* Both Brodiaea pots now confirmed viable. Tray 2 hits 18/18 germination — 100% success rate, textbook healthy. Tray 1's pale color diagnosed as persistent post-bleaching pigmentation, not a deficiency. Babiana mineral crust identified as cosmetic. Nook first watering tomorrow.
 
-![The new seedlings room — sawhorse table with anti-slip mesh mat, Tray 1 (left) and Tray 2 (right) under their respective Aumtrly clip-on lamps](pictures/58-seedlings-room-aumtrly-setup.jpg)
+> **Content is user-generated and unverified.**
+
+![Brodiaea Pot 1 first shoot — emerged at the pot edge on Day 16, both pots now confirmed viable](pictures/61-brodiaea-pot1-first-shoot.jpg)
 
 ## Project Pages
 
@@ -58,4 +58,4 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 ---
 
 *Emma's Balcony — Stuttgart 2026 — First-time Gardener*
-*Last updated: April 30, 2026*
+*Last updated: May 1, 2026*
