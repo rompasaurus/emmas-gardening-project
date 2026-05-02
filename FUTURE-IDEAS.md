@@ -94,6 +94,14 @@ When the balcony season ends (October/November):
 - Keep notes on what worked and what didn't for next year
 - This GitHub repo is already a great start!
 
+### 9. The Pineapple Dynasty (Phyllis Project)
+On May 2, 2026, Phyllis the mini pineapple revealed **5 pups** at her base — on the high end of what any home pineapple ever produces. Once the fruit ripens and the mother begins her decline, the pups can be separated into individual pots. Possibilities:
+- Pot up all 5 pups in matching small white ceramic pots — a windowsill row of Phyllis daughters
+- Gift pups to friends with handwritten care notes (the OBI Kakteenerde + repot trick that triggered the burst)
+- Document the dynasty in a photo timeline — mother's fruiting → decline → pup separation → next-generation maturity
+- Save one pup for the patio corner if it grows large enough — a real outdoor pineapple in Stuttgart would be a story
+- Keep the protocol notes in [Gardening Research → Section 20](GARDENING-RESEARCH#20-the-nook--cobra-machali-phyllis) up to date as the separation date approaches
+
 ---
 
 ## Seasonal Expansion Roadmap

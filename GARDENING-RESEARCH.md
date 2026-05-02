@@ -30,6 +30,7 @@ permalink: /GARDENING-RESEARCH
 17. [Helpful Websites & Communities](#17-helpful-websites--communities)
 18. [Aumtrly Clip-On Grow Light (2-Pack BL-J20B)](#18-aumtrly-clip-on-grow-light-2-pack-bl-j20b)
 19. [Patio Corner Potted Tree Candidates](#19-patio-corner-potted-tree-candidates)
+20. [The Nook — Cobra, Machali, Phyllis](#20-the-nook--cobra-machali-phyllis)
 
 ---
 
@@ -827,22 +828,24 @@ Originally considered joining Euonymus to the Sempervivum + cosmos/zinnia anchor
 **Emma's Plants at a Glance:**
 
 ```
-COSMOS          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
-ZINNIA          Sun: Full | Water: Regular    | Sprouting under lights! | Outside: May 15+
-LAVENDER        Sun: Full | Water: Light      | Planted: April 26     | Zone B sunny wall
-BRODIAEA        Sun: Full | Water: When dry   | Planted: April 15       | Blooms: June-Aug
-BABIANA         Sun: Full | Water: When dry   | Planted: April 17       | Blooms: Late spring
-SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planted: April 25       | NEVER FERTILIZE!
-EUONYMUS (x2)   Sun: Part | Water: Even       | Potted: April 25        | Evergreen year-round
-HAWORTHIA SAFARI Sun: Bright | Water: Sparingly | Potted: April 26       | Flower stalk discovered Apr 29! NEVER fertilize while blooming
-CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17       | SOLO POT ONLY!
-DIANTHUS (x4)   Sun: Full | Water: Light      | 2 planted + 2 incoming  | Blooms: All summer
+COSMOS          Sun: Full | Water: Regular    | Tray 1 recovering, Tray 2 textbook | Outside: ~May 26–28
+ZINNIA          Sun: Full | Water: Regular    | Tray 1 recovering, Tray 2 textbook | Outside: ~May 26–28
+LAVENDER        Sun: Full | Water: Light      | Planted: April 26 | Buds forming on Zone B sunny wall
+BRODIAEA        Sun: Full | Water: When dry   | Pot 1: 1 shoot, Pot 2: 5 shoots (Day 16) | Blooms: June-Aug
+BABIANA         Sun: Full | Water: When dry   | Day 13, no growth yet | Emergence: May 11–18
+SEMPERVIVUM     Sun: Full | Water: Sparingly  | Planted: April 25 | NEVER FERTILIZE!
+EUONYMUS (x2)   Sun: Part | Water: Even       | Potted: April 25 | Evergreen year-round
+COBRA           Sun: Bright | Water: Light    | Sansevieria 'Laurentii', The Nook | First water May 2; next ~3 weeks
+MACHALI         Sun: Bright | Water: Sparingly | Aloe variegata "Safari" | Flower spike + 2 pups; NEVER fertilize while blooming
+PHYLLIS         Sun: Bright | Water: Soil-only | Mini pineapple, mother of 5 pups! | Soil-only watering until fruit ripens
+CHOC. MINT      Sun: Any  | Water: Consistent | Potted: April 17 | SOLO POT ONLY!
+DIANTHUS (x4)   Sun: Full | Water: Light      | 2 pots / 4 plants on railing | Next feed: May 11–14
 GIFT PLANTS     Sun: Varies | Water: Moist    | Repot: ASAP into individual pots
 ```
 
 ---
 
-*Research compiled April 15, 2026 — Last updated April 29, 2026*
+*Research compiled April 15, 2026 — Last updated May 2, 2026*
 
 ---
 
@@ -977,3 +980,60 @@ Let inventory + eye decide between olive vs. lemon. Both are good picks; they ju
 - ⚠️ If choosing citrus: **confirm indoor winter spot exists before purchase**
 
 > Reference compiled April 29, 2026. Not urgent — pull up next time the OBI itch strikes.
+
+---
+
+## 20. The Nook — Cobra, Machali, Phyllis
+
+**Location:** Granite windowsill, indirect bright light, indoor temperature 18–22°C.
+**Soil:** OBI Kakteen- und Bonsaierde torffrei (peat-free, mineral-rich, sharp drainage). Drainage mesh discs at the base of each pot.
+**Repot date:** April 26, 2026.
+**First post-repot watering:** May 2, 2026.
+
+### 🐍 Cobra — Sansevieria 'Laurentii'
+
+- **Common names:** Snake plant, Mother-in-law's tongue, Bogenhanf
+- **Pot:** 12 cm white ceramic, drainage hole + saucer
+- **Light:** Bright indirect; tolerates lower light but grows slower
+- **Watering rule:** Light edge-of-pot pour, ~50–80 ml. **No water on the crown** — the rosette center holds water and rots fast. Soil must dry **completely** between drinks. Next watering ~3 weeks; in winter every 4–6 weeks.
+- **Why this works:** Sansevieria stores water in its thick rhizomes and leaves. The fastest way to kill one is overwatering. Edge-of-pot drinks force roots to seek moisture, building a stronger root system.
+- **Fertilizer:** Once or twice a year only — diluted cactus food in spring/summer. Skip otherwise.
+- **Watch for:** Soft mushy leaves at the base = root rot (overwatered). Curled or wrinkled leaves = thirsty (rare).
+
+### 🐅 Machali — Aloe variegata "Safari" (formerly Haworthia)
+
+- **Common names:** Tiger aloe, Partridge-breasted aloe, Tigeraloe
+- **Status:** Flower spike rising from rosette center (discovered Apr 29) + 2 pups at base (Apr 30)
+- **Pot:** 10–11 cm white ceramic, drainage hole + lavender saucer
+- **Light:** Bright indirect; some morning sun OK, no harsh midday
+- **Watering rule:** **Deep base water** around the pot edges. **No rosette pour, no water down the flower spike.** Soil dries fully between waterings. Next watering ~2.5–3 weeks. Wrinkled leaves = thirsty (clearest signal at this size).
+- **NEVER fertilize while flowering** — feeding the plant during reproduction confuses the energy signal and can abort the spike.
+- **Don't move the pot** while the spike is developing — orientation cues matter for spike formation.
+- **Aloe variegata is NOT monocarpic** (unlike Sempervivum). The rosette survives flowering and pups will keep developing.
+- **Pups:** Stay attached until they develop their own roots. Separate only if/when the parent plant looks crowded — months out, not weeks.
+
+### 🍍 Phyllis — Mini Pineapple (Ananas nanus)
+
+- **Status:** Mature with developing fruit + **5 pups** at the base (discovered May 2, 2026)
+- **Pot:** 12 cm white ceramic, drainage hole + saucer
+- **Light:** Bright indirect; bromeliads tolerate moderate light
+- **Watering rule:** **Soil-only watering**, thoroughly until light drainage. **No rosette cup pour** while fruit + pups develop — water sitting in the rosette risks rot at exactly the wrong moment. Watering interval ~1.5–2 weeks.
+- **Why 5 pups is remarkable:** Pineapples are **monocarpic** — the main plant fruits once, then declines, but produces offshoots (suckers/ratoons) before dying. Most home pineapples produce 1–2 pups in a lifetime. Five is on the high end of what any home pineapple ever produces.
+- **What enabled the pup burst:**
+  1. **OBI Kakteen- und Bonsaierde torffrei** mimics the volcanic substrates pineapples evolved on, supplies bromeliad-friendly micronutrients, and prevents the slow root rot that kills most home pineapples before they ever pup.
+  2. **The repot triggered it.** Gentle root disturbance + fresh oxygenated mineral soil sends the "time to reproduce" signal, and the fresh nutrient pool gives her the energy budget to push pups at scale.
+  3. **Gentle handling.** Rough repots cause shock that suppresses reproduction. Pups visible now were forming pre-repot but only continued because the transition didn't traumatize her.
+- **Decision tree:** Let pups grow attached to the mother. They need their own roots and must reach **15–20 cm** before separation. Once the fruit ripens and the mother begins her decline, separate into individual pots — potential pineapple dynasty of up to 5 new plants.
+- **Fertilizer:** None while fruit + pups establish. Resume light feeding only after separation.
+
+### Universal Nook Rules
+
+| Rule | Why |
+|------|-----|
+| Soil dries fully between waterings | Mineral substrate + low water need = root rot risk if kept moist |
+| No water in rosettes / crowns / spikes | Standing water = rot at the most vulnerable points |
+| Bright indirect, no harsh direct sun | Granite sill location is ideal year-round |
+| Skip fertilizer during flowering / fruiting | Disrupts the reproductive energy signal |
+| Weekly photos of Machali + Phyllis | Track flower spike progression and pup development; record-keeping for the dynasty |
+
+> Reference compiled May 2, 2026 — first post-repot watering protocols established. Update with separation procedure when Phyllis's pups reach 15–20 cm.

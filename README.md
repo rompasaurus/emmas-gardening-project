@@ -12,14 +12,23 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 This is Emma's very first gardening project. The goal is simple: **a colorful, blooming balcony from spring through late summer.**
 
-## What's Growing
+## What's Growing (as of May 2, 2026)
 
 | Plant | Type | Bloom Period | Status |
 |-------|------|-------------|--------|
-| Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Planted |
-| Cosmos (Schmuckkörbchen) | Seeds | Summer - Fall | Starting indoors |
-| Zinnia (Field Mix) | Seeds | Summer - Fall | Starting indoors |
-| Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Starting indoors |
+| Brodiaea Queen Fabiola | Bulbs (railing pots ×2) | June - August | Pot 1: 1 shoot, Pot 2: 5 shoots (Day 16) |
+| Babiana | Bulbs (hanging planter) | Late spring - Summer | Day 13, emergence expected May 11–18 |
+| Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 recovering, Tray 2 textbook (18/18) |
+| Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 recovering, Tray 2 textbook (18/18) |
+| Lavandula angustifolia | Potted plant (Zone B) | June - August | Buds forming on the sunny wall |
+| Sempervivum (mixed 6-pack) | Anchor pots (Zone B) | Year-round foliage | Gravel top-dressed |
+| Euonymus fortunei | 2× variegated shrubs (Zone A) | Evergreen | Black ex-mint pots |
+| Dianthus (Pink) | 4 plants in 2 grey pots | Spring - Summer | Railing trio, next feed May 11–14 |
+| Chocolate Mint | Herb (solo pot) | Summer | Thriving + propagating from cuttings |
+| 🐍 Cobra | Sansevieria 'Laurentii' (The Nook) | — | First watering May 2 — light edge pour |
+| 🐅 Machali | Aloe variegata "Safari" (The Nook) | Spring (flower spike!) | Flower spike + 2 pups developing |
+| 🍍 Phyllis | Mini Pineapple (The Nook) | Fruiting | **Mother of 5 pups!** (discovered May 2) |
+| Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 
 ## Project Documents
 
@@ -34,9 +43,9 @@ This is Emma's very first gardening project. The goal is simple: **a colorful, b
 ## Quick Facts
 
 - **Balcony orientation:** Full sun — perfect for all chosen plants
-- **Soil:** Compo Bio Anzucht- und Krautererde (peat-free starter mix) + Neudorff Kokohumus (coco coir for drainage)
-- **Key date:** May 15, 2026 — last frost, safe to move seedlings outdoors
-- **Supplies source:** OBI / Bauhaus (Stuttgart)
+- **Soil:** Compo Bio Anzucht- + Compo Sana + OBI Kakteenerde (Nook) + Compo Cactea (Sempervivum blend)
+- **Key date:** Cosmos/zinnia transplant ~May 26–28 (delayed from May 15 due to May 20–25 trip)
+- **Supplies source:** OBI / Bauhaus / TEDi / Amazon (Stuttgart)
 
 ## Philosophy
 

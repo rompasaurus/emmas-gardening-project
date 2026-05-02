@@ -91,7 +91,12 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **First Nook watering (May 2)** — Cobra (light edge, ~50–80ml, no crown), Machali (deep base, no rosette/spike pour), Phyllis (soil-only, no cup pour while pups + fruit develop)
 - [x] **Nook plants named (May 2)** — 🐍 Cobra (Sansevieria 'Laurentii'), 🍍 Phyllis (mini pineapple, mother of 5 pups), 🐅 Machali (Aloe variegata "Safari")
 - [x] **Phyllis 5 pups discovery (May 2)** — high end of home pineapple pup production; soil-only watering protocol locked in
+- [x] **Brodiaea Pot 2 jump to 5 shoots (May 2)** — 2 new shoots since yesterday, real momentum; Pot 1 still solo (within stagger window)
+- [x] **Tray 1 visible recovery (May 2)** — pale lime-green shifting noticeably greener, second true leaves on cosmos, back-right zinnia leading
+- [x] **Outdoor watering paused (May 2)** — 3-day rain forecast Sun–Tue (~11mm) plus damp Wed; railing pots watered evening of May 1, soil settled, rain takes over for ~5 days
 - [ ] **Wed May 6** — close seedlings room window overnight (forecast low 8°C crosses 10°C threshold)
+- [ ] After rain ends (~May 7) — quick check of Zone B saucers for pooling
+- [ ] Reassess Brodiaea Pot 1 by ~May 14 if still only one shoot
 - [ ] Repot gift arrangement into individual pots
 - [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug
 - [ ] Capillary mat trial run (May 13–14): 3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir
@@ -149,13 +154,16 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 ## May 2026 — Hardening Off & Transplanting
 
-### Week of May 1–14 (Before Last Frost)
+### Week of May 1–14 (Before Travel)
 
-- [ ] **Harden off seedlings** — starting May 1, place cosmos and zinnia seedlings outside for a few hours daily, increasing each day
+- [ ] **Harden off seedlings** — start ~May 18–19 (1 week before May 26–28 transplant), increasing balcony exposure daily. **Do NOT start May 1** — original schedule was tied to May 15 transplant; trip pushed transplant to May 26–28
 - [ ] Protect seedlings from wind — balcony can be breezy
-- [ ] Continue watering brodiaea and babiana (top 2 cm rule)
+- [ ] Brodiaea / Babiana — rain handles watering May 3–6 (no manual watering); resume top 2 cm rule after dry spell returns
 - [ ] Keep mint watered — slightly more moisture than flowers
 - [ ] Deadhead dianthus regularly for continuous blooms
+- [ ] Tray 2 pot-up readiness check May 8–12 (true leaves + firm cotyledons + roots at cell base)
+- [ ] Dianthus next half-strength feed ~May 11–14 (every 2–3 weeks from Apr 27 first feed)
+- [ ] Babiana emergence window May 11–18
 - [ ] Replacement basil plan — sow from seed or split a commercial pot into 3–4 clumps
 
 ### May 20 — Pre-Trip Checklist
@@ -283,7 +291,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ## Key Reminders
 
-- **May 15** is the magic date — nothing frost-sensitive goes outside before then
+- **May 15** was the original "safe to transplant" date — **superseded by May 26–28** because of the May 20–25 trip. Slightly rootbound seedlings beat transplant-shocked-then-abandoned
 - **Bury leggy stems deep** at transplant — cosmos/zinnia root along the buried stem
 - **Grow light at 10–15 cm**, 16h on / 8h dark — prevents leggy growth in Tray 2
 - **Mint lives alone** — never share a pot with mint, it will take over everything
