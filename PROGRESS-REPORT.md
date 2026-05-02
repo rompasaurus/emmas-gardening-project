@@ -59,7 +59,6 @@ permalink: /PROGRESS-REPORT
 | April 28, 2026 | Tray 2 light lowered from 15cm to 10cm for compact growth | Done |
 | April 28, 2026 | Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup wrapped | Done |
 | April 28, 2026 | Capillary mat received (Apr 27), held for May 26–28 trip auto-watering | Done (decision) |
-<<<<<<< Updated upstream
 | April 29, 2026 | Haworthia "Safari" flower stalk discovered during Nook check-in (potted Apr 26) | Done |
 | April 29, 2026 | Aumtrly clip-on grow light setup reference compiled (pre-arrival spec sheet) | Done |
 | April 29, 2026 | Patio corner tree options scouted — olive vs Meyer lemon shortlist drafted | Done |
@@ -68,7 +67,6 @@ permalink: /PROGRESS-REPORT
 | April 30, 2026 | Zinnia light-bleach diagnosed — sun + grow light combo | Done |
 | April 30, 2026 | Aumtrly grow lights installed — 4 over Tray 1, 1 over Tray 2 | Done |
 | April 30, 2026 | Seedling table relocated to dedicated indoor "seedlings room" | Done |
-=======
 | May 1, 2026 | Brodiaea Pot 2 — 3 shoots total (2 new since Apr 29), Day 16 | Done |
 | May 1, 2026 | Brodiaea Pot 1 — first shoot emerged at pot edge, both pots now confirmed viable | Done |
 | May 1, 2026 | Babiana mineral salt crust diagnosed — cosmetic efflorescence from hard water, no action needed | Done (diagnosis) |
@@ -76,7 +74,13 @@ permalink: /PROGRESS-REPORT
 | May 1, 2026 | Tray 1 diagnosed: persistent post-bleaching pigmentation, not nutrient deficiency | Done (diagnosis) |
 | May 1, 2026 | Decision: hold fertilizer on Tray 1 — pale color is metabolic shadow, not deficiency | Done (decision) |
 | May 1, 2026 | Possible third tray discussed — deferred until post-trip (~May 27–30) | Done (decision) |
->>>>>>> Stashed changes
+| May 2, 2026 | Nook first watering — Cobra (light edge), Machali (deep base, no rosette pour), Phyllis (soil only, no cup) | Done |
+| May 2, 2026 | Phyllis the pineapple — **5 pups** discovered around the base | Done (discovery) |
+| May 2, 2026 | Nook plants named — Cobra (Sansevieria), Phyllis (pineapple), Machali (Aloe variegata) | Done |
+| May 2, 2026 | Brodiaea Pot 2 — 5 shoots total (2 new today), Pot 1 still solo | Done |
+| May 2, 2026 | Tray 1 visibly recovering — uniform pale green shifting greener, second true leaves on cosmos | Done (observation) |
+| May 2, 2026 | Outdoor watering paused — 3 days rain forecast Sun–Tue (~11mm) plus damp Wed | Done (decision) |
+| May 2, 2026 | Wed May 6 overnight window-close planned — forecast low 8°C crosses 10°C threshold | Done (decision) |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -1157,7 +1161,7 @@ Radiator stays off (it's been off all spring). Ambient room temperature is fine 
 
 ---
 
-### Session 15 — May 1, 2026 — "Both Pots Viable, Tray 1 Diagnosed"
+### Session 17 — May 1, 2026 — "Both Pots Viable, Tray 1 Diagnosed"
 
 > *"What looks like luck is actually devotion."*
 
@@ -1305,6 +1309,139 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 
 ---
 
+### Session 18 — May 2, 2026 — "Phyllis the Mother of Pineapples, Machali the Queen Mother of Tigers"
+
+> *"What was a nook of low-maintenance plants is turning into a dynasty."*
+
+> **Content is user-generated and unverified.**
+
+**A morning sweep that started ordinary and ended with a pineapple dynasty. Tray 1 is visibly recovering, both Brodiaea pots are gaining momentum (Pot 2 at 5 shoots), the Nook got its first post-repot watering, all three Nook plants got proper names — and Phyllis the pineapple revealed five offshoots hiding under her leaves.**
+
+#### Seedlings — Both Trays in Good Shape
+
+**Tray 1** (potted up Apr 25, thinned Apr 28) is visibly recovering from the bleaching damage of late April. The uniform pale lime-green that triggered last week's deep-dive has shifted noticeably greener, with stronger and more uniform color across both zinnias and cosmos. Several plants are pushing second true leaves, and the cosmos are showing reddish-purple stems — classic anthocyanin under grow lights, totally normal. The back-right zinnia in particular is leading the pack.
+
+![Tray 1 on Day 17 — fifteen 10cm pots showing recovering color, uniform pale green shifting noticeably greener since last week, cosmos with reddish-purple stems and second true leaves emerging](pictures/67-tray1-recovering-may2.jpg)
+
+This is a better outcome than the "stays paler all lifecycle but functional" prognosis. Pigmentation recovery looks real — though Tray 2 plants will still take priority for the post-trip Zone B grey pot transplant, just in case.
+
+**Tray 2** (sown Apr 22, dome off Apr 27) is textbook. Even germination, deep green color across all 18 cells, cotyledons firm and thick, second true leaves emerging on the front row. Sitting on the dresser in indirect window light (verified — no direct sun bouncing off the nearby mirror) and tracking right on schedule for the May 8–12 pot-up window. **Biological readiness leads, not the calendar.**
+
+![Tray 2 under the Aumtrly clip-on lamp — 13 visible cells of cosmos seedlings with deep green needle-like true leaves emerging cleanly, even height across the tray, on schedule for May 8–12 pot-up](pictures/68-tray2-second-true-leaves-may2.jpg)
+
+#### Outdoor — Rain Incoming, Plan Adjusts Itself
+
+The forecast pulled this morning: three days of moderate rain Sunday through Tuesday (~11mm total, heaviest Tuesday afternoon), followed by a damp Wednesday. Beneficial soak, not a deluge.
+
+Which means:
+- **Railing pots** got their evening watering yesterday — perfect timing. Soil settles tonight, then rain takes over for ~5 days
+- **Zone A** (Euonymus duo) still doesn't need water — the 27×24cm pots in fresh Sana hold moisture impressively well. Both plants healthy
+- **Zone B** (Sempervivum and Lavender) thriving as usual. The "independent cool guys." Glance at saucers after the rain ends to make sure no pooling — but the gritty Cactea/Kakteenerde mix should drain fine
+- **Mint** unbothered as always
+
+**Milestone tracking:**
+
+| Plant | Day | Status |
+|-------|-----|--------|
+| Brodiaea Pot 2 | 16 | 5 shoots total — added 2 more this morning, real momentum |
+| Brodiaea Pot 1 | 16 | First shoot still solo; within stagger window, no concern yet |
+| Babiana | 13 | No emergence yet — expected window May 11–18, on track |
+| Dianthus | — | Stable, healthy, holding well |
+
+The mineral salt crust noted on the Babiana railing pot last week will likely rinse off naturally with the rain. Bonus.
+
+**Heads up for Wednesday May 6:** Forecast low of 8°C crosses the seedlings room window threshold (10°C). Plan to close the window that night.
+
+#### The Nook — Watering Day, Naming Day, Surprise Day
+
+Day 6 since the April 26 repot — right in the first-water window. All three Nook plants got their first proper drink since the repot, each on their own protocol.
+
+##### Cobra — Sansevieria 'Laurentii' (Left, 12cm)
+
+Light edge-of-pot watering, ~50–80ml. No water on the crown, no drainage produced (expected — fresh mineral soil absorbs that volume fully). She looks beautifully happy: gorgeous yellow margins, strong leaf turgor, no soft spots. Perlite from the OBI cactus mix visible on the soil surface (totally normal — not mineral deposits). **Named today** for her tall, striking, sword-like presence.
+
+![Cobra the Sansevieria 'Laurentii' on the granite windowsill — tall sword-like leaves with bold yellow margins and dark green centers, mint-green watering can off to the right ready for her edge-of-pot drink](pictures/69-cobra-sansevieria-watering-day.jpg)
+
+![Cobra base detail — top-down into the white pot showing the leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-cobra-base-closeup.jpg)
+
+##### Machali — Aloe variegata "Safari" (Right, formerly Haworthia/Tiger Aloe)
+
+Renamed today after the legendary tigress of Ranthambore National Park — a fierce spotted matriarch, fitting for a small succulent producing a flower spike and two pups simultaneously. Deep watering around the edges, no pour into the rosette center while the spike is developing.
+
+The flower spike continues to progress beautifully. No new leaves visible, but that's expected — at her size, leaves come on the scale of weeks-to-months, and right now her energy is going into the spike and root re-establishment. **The spike is the growth signal.**
+
+![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner](pictures/71-machali-flower-spike-progress.jpg)
+
+##### Phyllis — Mini Pineapple (Center, Michael's Plant)
+
+Soil watered thoroughly until light drainage, **no rosette cup pour today**. The reason is the next section.
+
+#### About Phyllis — Mother of Five
+
+Lifted her leaves to water her and stopped breathing for a second.
+
+**There are five pups.**
+
+Not one. Not two. Five. After the initial 😯 moment, careful counting confirmed five distinct offshoots emerging around her base — cream-white pointed shoots pushing up through the soil, some already with little leaf rosettes forming.
+
+![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-phyllis-pineapple-pups-closeup.jpg)
+
+![Phyllis pup detail close-up — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead](pictures/73-phyllis-pup-detail.jpg)
+
+This is genuinely remarkable. Pineapples are **monocarpic** — the main plant fruits once and then dies, but before going she produces offshoots (suckers/ratoons) to carry on. Most home pineapples produce one or two pups in their lifetime. Five is on the high end of what any home pineapple ever produces.
+
+**A few things worked in our favor:**
+
+1. **OBI Kakteen- und Bonsaierde torffrei** — peat-free, mineral-rich, excellent drainage. Mimics the volcanic substrates pineapples evolved on, supplies the micronutrients bromeliads love, and prevents the root rot that quietly kills most home pineapples before they ever get to pup. Earning their shoutout today.
+2. **The repot itself probably triggered this burst.** Gentle root disturbance + fresh oxygenated mineral soil sends the "time to reproduce" signal to a mature pineapple, and the fresh nutrient pool gives her the energy budget to actually push pups at scale.
+3. **Gentle handling during the repot.** A rough or rushed repot causes leaf snap, root tearing, and shock that suppresses reproduction. The pups visible now were forming before the repot, but they only continued developing because the transition didn't traumatize her.
+
+**Decision tree from here:** let pups grow attached to mother for now (they need to develop their own roots and reach 15–20cm before separation). Once the fruit ripens and she begins her decline, we'll have the option of separating into individual pots — potentially turning Phyllis into a pineapple dynasty of up to five new plants.
+
+**Practical care change:** no rosette cup pour while the fruit is maturing and pups are establishing. Water sitting in the rosette risks rot at exactly the wrong moment. **Soil watering only for the foreseeable future.**
+
+#### Naming Corner — The Nook is a Throne Room
+
+| Name | Plant | Role |
+|------|-------|------|
+| 🐍 **Cobra** | Sansevieria 'Laurentii' | Elegant striker, left wing, tall sword-like leaves |
+| 🍍 **Phyllis** | Mini pineapple | Mother of five, holds nominal residency under Michael's name |
+| 🐅 **Machali** | Aloe variegata "Safari" | Queen mother, right wing, named for the legendary tigress |
+
+#### Next Care Notes
+
+**Seedlings room:**
+- Tray 1 — keep monitoring color; hold fertilizer per original schedule (start ~1 week post-transplant after May 25 trip)
+- Tray 2 — pot-up window May 8–12, readiness-driven; prioritize these plants for Zone B grey pot transplant after the trip
+- Wednesday May 6 — close window overnight, forecast low 8°C
+- Daytime: Kipp window position; airflow fan on speed 1
+
+**Outdoor:**
+- No watering for 4–5 days — rain handles it Sun–Tue plus damp Wed
+- After rain ends — quick check of any saucers (Zone B especially) for pooling
+- Brodiaea Pot 1 — reassess by ~May 14 if still only one shoot
+- Babiana — expect emergence May 11–18
+- Dianthus — next half-strength feed due ~May 11–14 (every 2–3 weeks from Apr 27 first feed)
+
+**The Nook:**
+- Cobra — next light water in ~3 weeks
+- Machali — next deep water in ~2.5–3 weeks; watch the flower spike for cues
+- Phyllis — next watering ~1.5–2 weeks; soil only, no rosette pour while fruit + pups develop
+- Weekly photos to track Machali's pups + Phyllis's pup development
+
+#### Looking Ahead
+
+- May 6: Close seedlings room window overnight (8°C low)
+- May 8–12: Tray 2 pot-up window (readiness-driven)
+- May 13–14: Capillary mat trial for trip prep
+- May 19–20: Press all 4 grow light timers, prep watering spikes for railing
+- May 20–25: Trip
+- ~May 26–28: Tray 1 cosmos/zinnia transplant into Zone B grey pot
+
+> A morning that started ordinary and ended with a pineapple dynasty. The garden is always a little ahead of you, and sometimes she just decides today is the day to show off.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1364,7 +1501,6 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 - Tray 2 final germination confirmed: 17/18 up, light dropped to 10cm (April 28)
 - Capillary mat received Apr 27, banked for May 26–28 trip auto-watering (April 28)
 - Tile-joint weed cleanup with Fugenkratzer — spring outdoor setup officially wrapped (April 28)
-<<<<<<< Updated upstream
 - Haworthia "Safari" flower stalk discovered emerging from rosette center — first bloom event in the Nook (April 29)
 - Haworthia base "concern" investigated and cleared — natural outer-leaf dieback, no rot, no mealybugs (April 29)
 - Aumtrly clip-on grow light setup reference compiled — pre-arrival spec sheet, day-of and adjustment schedule (April 29)
@@ -1376,22 +1512,6 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 - Aumtrly clip-on lamps unboxed and installed — 4 over Tray 1 (12h, −2 brightness), 1 over Tray 2 (16h, full) (April 30)
 - Seedling table relocated indoors to dedicated "seedlings room" — out of direct sun, low-traffic (April 30)
 - Climate-control protocol set for indoor location — window/fan/door rules tied to overnight low (April 30)
-
-### In Progress
-- Tray 1 keepers recovering post-thin — checkpoint ~Apr 30 for new true leaves and stem strength
-- Tray 2 in open-air nursery phase — 17/18 up, 1 mild stretcher, light at 10cm
-- Nook plants post-repot: no water until ~May 1–3; **Haworthia flower stalk in development**
-- Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
-- Aumtrly clip-on grow light: en route — unbox checklist ready (research doc Section 18)
-
-### Not Yet Started
-- Pre-trip shopping: capillary mats already on hand, Blumat carrots, timer plug (before May 20)
-- May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
-- Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
-- Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
-- Patio corner tree purchase — pull up at next OBI itch (olive vs Meyer lemon decision)
-- Repotting gift arrangement into individual pots
-=======
 - Brodiaea Pot 2: 3 shoots total at Day 16 — 2 new since Apr 29 (May 1)
 - Brodiaea Pot 1: first shoot emerged at pot edge, Day 16 — both pots now confirmed viable (May 1)
 - Babiana mineral salt crust diagnosed as cosmetic efflorescence from hard water — no action needed (May 1)
@@ -1399,15 +1519,23 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 - Tray 1 diagnosed: persistent post-bleaching pigmentation, not nutrient deficiency (May 1)
 - Decision: hold fertilizer on Tray 1 — pale color is metabolic shadow, not deficiency (May 1)
 - Third tray discussed — deferred until post-trip (~May 27–30) (May 1)
+- Nook first watering completed — Cobra (light edge), Machali (deep base, no rosette), Phyllis (soil only) (May 2)
+- Phyllis the pineapple — **5 pups discovered around her base** (rare on the high end for home pineapples) (May 2)
+- Nook plants named: Cobra (Sansevieria), Phyllis (pineapple), Machali (Aloe variegata "Safari") (May 2)
+- Brodiaea Pot 2 — 5 shoots (2 new this morning), Pot 1 still solo (within stagger window) (May 2)
+- Tray 1 visibly recovering — pale lime-green shifting greener, second true leaves emerging on cosmos (May 2)
+- Outdoor watering paused — 3-day rain forecast Sun–Tue (~11mm) plus damp Wed (May 2)
+- Phyllis rosette-cup pour discontinued — soil watering only while fruit + pups establish (May 2)
 
 ### In Progress
-- Tray 1 on steady trajectory — pale but healthy, watching for newer true leaves coming in greener
+- Tray 1 recovering — pale color shifting greener, watching for further pigmentation rebound
 - Tray 2 in open-air nursery phase — 18/18 up, first true leaves emerging, pot-up readiness ~May 8
-- Nook first watering due tomorrow (May 2)
 - Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
-- Brodiaea both pots active — monitoring shoot development
-- Babiana Day 12, no growth yet — expected germination May 11–18
-- Aloe variegata flower spike + 2 pups developing — weekly photo tracking
+- Brodiaea both pots active — Pot 2 at 5 shoots, Pot 1 holding at 1, monitoring development
+- Babiana Day 13, no growth yet — expected germination May 11–18
+- Machali (Aloe variegata) flower spike + 2 pups developing — weekly photo tracking
+- Phyllis (mini pineapple) — 5 pups developing, soil-only watering until fruit ripens
+- Wed May 6 — close seedlings room window overnight (forecast low 8°C)
 
 ### Not Yet Started
 - Pre-trip shopping: Blumat carrots, timer plug (before May 20)
@@ -1416,7 +1544,8 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 - Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
 - Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
 - Possible third tray sowing (~May 27–30, post-trip)
->>>>>>> Stashed changes
+- Patio corner tree purchase — pull up at next OBI itch (olive vs Meyer lemon decision)
+- Repotting gift arrangement into individual pots
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
 
@@ -1473,7 +1602,6 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 | April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-thinned-seedlings-bench.png) |
 | April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-tray1-post-thinning-topdown.png) |
 | April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-tray2-babies-cotyledons.png) |
-<<<<<<< Updated upstream
 | April 29, 2026 | Haworthia "Safari" in its white Nook pot — three days post-repot | ![haworthia](pictures/48-haworthia-safari-potted-up.jpg) |
 | April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-haworthia-base-concern-circled.jpg) |
 | April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-haworthia-base-detail-flower-stalk.jpg) |
@@ -1486,8 +1614,6 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 | April 30, 2026 | Lavandula angustifolia — flower buds forming on the spike tips | ![lavender](pictures/57-lavender-buds-forming.png) |
 | April 30, 2026 | The new seedlings room — both trays under their Aumtrly clip-on lamps | ![seedlingsroom](pictures/58-seedlings-room-aumtrly-setup.jpg) |
 | April 30, 2026 | Tray 2 babies under a single Aumtrly lamp — 16h photoperiod | ![tray2aumtrly](pictures/59-tray2-under-aumtrly.png) |
-| | First cosmos/zinnia bloom | *(coming soon!)* |
-=======
 | May 1, 2026 | Babiana mineral salt crust — efflorescence from hard water | ![babiana](pictures/60-babiana-mineral-salt-crust.jpg) |
 | May 1, 2026 | Brodiaea Pot 1 — first shoot at pot edge, Day 16 | ![brodiaea](pictures/61-brodiaea-pot1-first-shoot.jpg) |
 | May 1, 2026 | Brodiaea Pot 2 — 3 shoots at Day 16 | ![brodiaea](pictures/62-brodiaea-pot2-day16.jpg) |
@@ -1495,15 +1621,17 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 | May 1, 2026 | Tray 1 under natural light — close-up diagnostic view 2 | ![tray1](pictures/64-tray1-natural-light-2.jpg) |
 | May 1, 2026 | Tray 1 full stand under grow lights — uniform pale green | ![tray1](pictures/65-tray1-under-grow-lights.jpg) |
 | May 1, 2026 | Tray 2 healthy stand — deep green, compact, 18/18 | ![tray2](pictures/66-tray2-healthy-stand.jpg) |
+| May 2, 2026 | Tray 1 recovering — color shifting greener, second true leaves on cosmos | ![tray1recover](pictures/67-tray1-recovering-may2.jpg) |
+| May 2, 2026 | Tray 2 second true leaves emerging under the Aumtrly lamp | ![tray2truelvs](pictures/68-tray2-second-true-leaves-may2.jpg) |
+| May 2, 2026 | Cobra the Sansevieria 'Laurentii' on the granite sill — watering day | ![cobra](pictures/69-cobra-sansevieria-watering-day.jpg) |
+| May 2, 2026 | Cobra base detail — fresh mineral soil, perlite specks, healthy turgor | ![cobrabase](pictures/70-cobra-base-closeup.jpg) |
+| May 2, 2026 | Machali — Aloe variegata flower spike continuing to develop | ![machali](pictures/71-machali-flower-spike-progress.jpg) |
+| May 2, 2026 | Phyllis the pineapple — **5 pups** discovered around her base | ![phyllispups](pictures/72-phyllis-pineapple-pups-closeup.jpg) |
+| May 2, 2026 | Phyllis pup detail — single offshoot pushing up with leaf rosette forming | ![phyllispup](pictures/73-phyllis-pup-detail.jpg) |
 | | First bloom! | *(coming soon!)* |
->>>>>>> Stashed changes
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-<<<<<<< Updated upstream
-*Last updated: April 30, 2026*
-=======
-*Last updated: May 1, 2026*
->>>>>>> Stashed changes
+*Last updated: May 2, 2026*

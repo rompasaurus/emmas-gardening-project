@@ -635,10 +635,9 @@ The babies (sown Apr 22, dome off Apr 27) settling into open air on Day 6. Final
 
 ---
 
-<<<<<<< Updated upstream
 ---
 
-# Day 15 — April 29, 2026: The Nook Blooms!
+# Day 16 — April 29, 2026: The Nook Blooms!
 
 ---
 
@@ -788,8 +787,12 @@ Not pictured but worth logging: the morning Nook check caught a **second pup** a
 ---
 
 *Photos from April 14–30, 2026 — Days 1 through 16 of Emma's Garden*
-=======
-# Day 15 — May 1, 2026: Both Pots Viable, Tray 1 Diagnosed
+
+---
+
+---
+
+# Day 17 — May 1, 2026: Both Pots Viable, Tray 1 Diagnosed
 
 > **Content is user-generated and unverified.**
 
@@ -851,31 +854,127 @@ The side-by-side with Tray 2 sealed it: same seeds, same soil, same system — t
 
 ---
 
+---
+
+---
+
+# Day 18 — May 2, 2026: Phyllis, Mother of Pineapples
+
+> *"What was a nook of low-maintenance plants is turning into a dynasty."*
+
+---
+
+## Tray 1 — Recovering, Greener Every Day
+
+Day 17 from sowing, Day 7 post-thinning. The uniform pale lime-green that had us worried last week has shifted noticeably greener. Stronger color across both zinnias and cosmos, several plants pushing **second true leaves**, and the cosmos showing classic reddish-purple stems — anthocyanin under grow lights, totally normal. The back-right zinnia is leading the pack.
+
+Better outcome than the "stays paler all lifecycle but functional" prognosis. Pigmentation recovery looks real.
+
+![Tray 1 on Day 17 — fifteen 10cm pots arranged on the mesh table mat, color noticeably greener than last week, several seedlings pushing second true leaves with cosmos showing reddish-purple stems](pictures/67-tray1-recovering-may2.jpg)
+
+---
+
+## Tray 2 — Textbook Tracking the Pot-Up Window
+
+Even germination, deep green color across all 18 cells, cotyledons firm, second true leaves emerging on the front row. Sitting on the dresser in indirect window light (verified — no direct sun bouncing off the nearby mirror) and tracking right on schedule for the **May 8–12 pot-up window**. Biological readiness leads, not the calendar.
+
+![Tray 2 under the Aumtrly clip-on lamp on the wood dresser — 13 visible red 9cm pots holding cosmos seedlings with deep green needle-like true leaves emerging cleanly, even height across the tray](pictures/68-tray2-second-true-leaves-may2.jpg)
+
+---
+
+## The Nook — Watering Day, Naming Day
+
+Day 6 since the April 26 repot, right in the first-water window. All three Nook plants got their first proper drink — and all three got proper names.
+
+### Cobra — Sansevieria 'Laurentii'
+
+Light edge-of-pot watering, ~50–80ml. No water on the crown, no drainage produced (expected — fresh mineral soil absorbs that volume fully). She looks beautifully happy: gorgeous yellow margins, strong leaf turgor, no soft spots. Named for her tall, striking, sword-like presence.
+
+![Cobra the Sansevieria 'Laurentii' on the granite windowsill in evening light — tall sword-like leaves with bold yellow margins and dark green centers, a mint-green watering can poised off to the right](pictures/69-cobra-sansevieria-watering-day.jpg)
+
+A close-up confirms the perlite specks on the soil surface are just OBI cactus mix — not mineral deposits — and the leaf bases are firm and crisp.
+
+![Cobra base detail — top-down into the white pot showing leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-cobra-base-closeup.jpg)
+
+### Machali — Aloe variegata "Safari"
+
+Renamed today after the legendary tigress of Ranthambore National Park — a fierce spotted matriarch, fitting for a small succulent producing a flower spike *and* two pups simultaneously. Deep watering around the edges, no pour into the rosette center while the spike is developing.
+
+The flower spike continues to progress beautifully. **The spike is the growth signal** — at her size, leaves come on the scale of weeks-to-months, and right now her energy is going into the spike and root re-establishment.
+
+![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner of the frame](pictures/71-machali-flower-spike-progress.jpg)
+
+### Phyllis — Mini Pineapple, Mother of Five
+
+Lifted her leaves to water her and stopped breathing for a second.
+
+**There are five pups.**
+
+Not one. Not two. **Five.** After the initial 😯 moment, careful counting confirmed five distinct offshoots emerging around her base — cream-white pointed shoots pushing up through the soil, some already with little leaf rosettes forming.
+
+![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-phyllis-pineapple-pups-closeup.jpg)
+
+Pineapples are **monocarpic** — the main plant fruits once and then dies, but before going she produces offshoots (suckers/ratoons) to carry on. Most home pineapples produce one or two pups in their lifetime. **Five is on the high end of what any home pineapple ever produces.**
+
+A few things worked in her favor: peat-free OBI Kakteen-und Bonsaierde (mimics the volcanic substrates pineapples evolved on), a gentle repot that triggered the reproduction signal without trauma, and fresh mineral soil giving her the energy budget to actually push pups at scale.
+
+![Phyllis pup detail — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead, clear evidence of the dynasty starting](pictures/73-phyllis-pup-detail.jpg)
+
+**Practical care change:** no rosette cup pour while the fruit is maturing and pups are establishing. Water sitting in the rosette risks rot at exactly the wrong moment. Soil watering only for the foreseeable future.
+
+The decision tree from here: let pups grow attached to mother for now (they need their own roots and 15–20cm height before separation). Once the fruit ripens and she begins her decline, we'll have the option of separating them into individual pots — potentially turning Phyllis into a **pineapple dynasty of up to five new plants**.
+
+---
+
+## Naming Corner — The Nook is a Throne Room
+
+| Name | Plant | Role |
+|------|-------|------|
+| 🐍 **Cobra** | Sansevieria 'Laurentii' | Elegant striker, left wing, tall sword-like leaves |
+| 🍍 **Phyllis** | Mini pineapple | Mother of five, holds nominal residency under Michael's name |
+| 🐅 **Machali** | Aloe variegata "Safari" | Queen mother, right wing, named for the legendary tigress |
+
+---
+
+## Outdoor — Rain Incoming, Plan Adjusts Itself
+
+Three days of moderate rain forecast Sun–Tue (~11mm total, heaviest Tuesday afternoon), followed by a damp Wednesday. Beneficial soak, not a deluge.
+
+- **Brodiaea Pot 2 (Day 16)** — **5 shoots total**, two new this morning. Real momentum.
+- **Brodiaea Pot 1 (Day 16)** — first shoot still solo; within stagger window, no concern.
+- **Babiana (Day 13)** — no emergence yet, expected May 11–18, on track.
+- **Dianthus** — stable, healthy, holding well.
+- **Zone A & B, mint** — unbothered, no water needed; rain handles the next 5 days.
+
+Heads up for Wednesday May 6: forecast low of 8°C crosses the seedlings room window threshold — close it overnight.
+
+---
+
 ## The Story So Far
 
-Fifty-four photos across fifteen days. Both Brodiaea pots are now confirmed viable. Tray 2 hit 100% germination — 18 of 18, textbook healthy. Tray 1's pale color was diagnosed and understood: not a deficiency, but the metabolic shadow of a lesson learned early. The Babiana's mystery crust turned out to be mineral deposits from hard water — cosmetic, harmless.
+Sixty-one photos across eighteen days. Both Brodiaea pots are confirmed viable (Pot 2 leading at 5 shoots). Tray 2 at 18/18, tracking the May 8–12 pot-up window. Tray 1 visibly recovering — color shifting greener every check. The Nook has been named, watered, and revealed itself a throne room: Cobra, Machali, and Phyllis the mother of five.
 
 Emma's garden now has:
-- **Bulbs** — Brodiaea both pots active (Pot 1: 1 shoot, Pot 2: 3 shoots), Babiana Day 12 (expected May 11–18)
-- **Two trays of seedlings** — Tray 1 pale but steady on a recovery trajectory, Tray 2 at 18/18 with true leaves emerging
-- **Lavender** on the Zone B sunny wall
+- **Bulbs** — Brodiaea both pots active (Pot 1: 1 shoot, Pot 2: 5 shoots), Babiana Day 13 (expected May 11–18)
+- **Two trays of seedlings** — Tray 1 recovering with second true leaves emerging, Tray 2 at 18/18 tracking pot-up readiness
+- **Lavender** on the Zone B sunny wall, buds on the spike tips
 - **Sempervivum** in anchor pots
-- **Euonymus** pair (Zone A backbone)
-- **Dianthus** — 4 plants in 2 grey hanging pots, next feed ~mid-May
-- **Michael's Nook** — Aloe producing flower spike + 2 pups! First water tomorrow (May 2)
+- **Euonymus** pair (Zone A backbone, with decorative birds)
+- **Dianthus** — 4 plants in 2 grey hanging pots, next feed ~May 11–14
+- **The Nook** — Cobra, Machali (flower spike + 2 pups), and Phyllis (5 pups!) all post first watering
 - **Chocolate mint** thriving solo + propagating
 
 **Coming up:**
-- Nook first watering (May 2)
-- Tray 2 pot-up readiness check (~May 8)
+- May 6: Close seedlings room window overnight (8°C low)
+- Tray 2 pot-up readiness check (~May 8–12)
 - Capillary mat trial (May 13–14)
+- May 19–20: timer presses, watering spikes prep
 - May 20–25: travel (watering automation in place)
 - ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
 - Possible third tray sowing (~May 27–30)
 
-> Fifteen sessions in. Both Brodiaea pots viable. Tray 2 textbook healthy. Tray 1 diagnosed and on a steady trajectory. The plants are responding to attention. Specifically, hers.
+> Eighteen sessions in. Phyllis is a mother of five. Machali holds the right wing. Cobra strikes from the left. The plants are responding to attention. Specifically, hers.
 
 ---
 
-*Photos from April 14 – May 1, 2026 — Days 1 through 15 of Emma's Garden*
->>>>>>> Stashed changes
+*Photos from April 14 – May 2, 2026 — Days 1 through 18 of Emma's Garden*

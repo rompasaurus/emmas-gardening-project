@@ -88,14 +88,18 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] Brodiaea both pots confirmed viable — Pot 1: 1 shoot, Pot 2: 3 shoots (May 1)
 - [x] Babiana mineral salt crust diagnosed — cosmetic, no action needed (May 1)
 - [x] Tray 1 diagnosed: persistent post-bleaching pigmentation, hold fertilizer (May 1)
-- [ ] First Nook watering (May 2): snake plant light, Haworthia deep (avoid rosette + flower spike), pineapple generous + rosette cup
+- [x] **First Nook watering (May 2)** — Cobra (light edge, ~50–80ml, no crown), Machali (deep base, no rosette/spike pour), Phyllis (soil-only, no cup pour while pups + fruit develop)
+- [x] **Nook plants named (May 2)** — 🐍 Cobra (Sansevieria 'Laurentii'), 🍍 Phyllis (mini pineapple, mother of 5 pups), 🐅 Machali (Aloe variegata "Safari")
+- [x] **Phyllis 5 pups discovery (May 2)** — high end of home pineapple pup production; soil-only watering protocol locked in
+- [ ] **Wed May 6** — close seedlings room window overnight (forecast low 8°C crosses 10°C threshold)
 - [ ] Repot gift arrangement into individual pots
 - [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug
 - [ ] Capillary mat trial run (May 13–14): 3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir
 - [ ] Press timers on all 4 grow lights to 12h (May 19–20)
 - [ ] Tray 2 pot-up readiness check (~May 8–12): true leaves + firm cotyledons + roots at cell base
 - [ ] Tray 1 first half-strength fertilizer dose ~1 week after May 26–28 transplant
-- [ ] Haworthia: don't fertilize while flower stalk is in development; don't move the pot
+- [ ] Machali: don't fertilize while flower stalk is in development; don't move the pot
+- [ ] Phyllis: weekly photos to track pup development; separate to individual pots only after fruit ripens + pups reach 15–20cm
 - [ ] Possible third tray sowing (~May 27–30, post-trip)
 
 ### Shopping List — April
@@ -255,9 +259,9 @@ The balcony is now a year-round project — each large pot built around an **eve
 | Lavender | Let soil dry fully between waterings — Mediterranean, hates wet feet |
 | Sempervivum | Only when bone dry; overwatering = rot. Cover from heavy rain |
 | Euonymus | Keep evenly moist — richer soil, more water than succulents |
-| Snake plant 'Laurentii' | Deep soak when potted up, then let soil dry completely. Winter: every 4–6 weeks |
-| Haworthia "Safari" | Deep soak, dry fully between. Wrinkled leaves = thirsty. Flower spike + 2 pups developing! NEVER fertilize, especially while flowering |
-| Mini pineapple | Little water in the central rosette cup, refresh every 1–2 weeks. Soil barely moist |
+| 🐍 **Cobra** (Sansevieria 'Laurentii') | Light edge-of-pot watering (~50–80ml), no crown pour. Let soil dry completely between drinks. Next ~3 weeks. Winter: every 4–6 weeks |
+| 🐅 **Machali** (Aloe variegata "Safari") | Deep water around the base, **no rosette/flower-spike pour**. Dry fully between. Wrinkled leaves = thirsty. Flower spike + 2 pups developing — NEVER fertilize while flowering. Next ~2.5–3 weeks |
+| 🍍 **Phyllis** (mini pineapple, mother of 5 pups) | **Soil-only watering** while fruit + pups develop — no rosette cup pour (rot risk). Water thoroughly until light drainage, every 1.5–2 weeks |
 
 ---
 
@@ -294,12 +298,9 @@ The balcony is now a year-round project — each large pot built around an **eve
 - **German store tip:** Look for *winterhart*, *Balkonpflanzen*, *Kubelpflanzen*, *Krauter* — NOT *Zimmerpflanzen*
 - **Photos!** Document everything — this is Emma's first garden!
 - **Aumtrly grow light power-blip test** — before the May 20–25 trip, unplug 30s and confirm timer auto-resumes (insurance against power blips while away)
-- **Haworthia in bloom** — don't cut the stalk, don't move the pot, don't fertilize. Haworthia (unlike Sempervivum) is NOT monocarpic; the rosette survives flowering
+- **Machali in bloom** — don't cut the stalk, don't move the pot, don't fertilize. Aloe variegata (unlike Sempervivum) is NOT monocarpic; the rosette survives flowering
+- **Phyllis is monocarpic** — the mother fruits once and dies, but produces pups before going. The 5 pups stay attached until they develop their own roots and reach 15–20cm before separation. Soil-only watering while fruit + pups establish — water in the rosette cup risks rot at exactly the wrong moment
 
 ---
 
-<<<<<<< Updated upstream
-*Last updated: April 29, 2026*
-=======
-*Last updated: May 1, 2026*
->>>>>>> Stashed changes
+*Last updated: May 2, 2026*
