@@ -872,6 +872,14 @@ Better outcome than the "stays paler all lifecycle but functional" prognosis. Pi
 
 ![Tray 1 on Day 17 — fifteen 10cm pots arranged on the mesh table mat, color noticeably greener than last week, several seedlings pushing second true leaves with cosmos showing reddish-purple stems](pictures/67-tray1-recovering-may2.jpg)
 
+Zooming in on the zinnia side: broad rounded cotyledons with the first true leaves coming through, color clearly recovering from the late-April pale lime-green.
+
+![Tray 1 zinnia side top-down — fifteen red 10cm cups on the mesh mat, broad rounded zinnia cotyledons with developing true leaves, color noticeably greener than the worst of the bleach week](pictures/74-tray1-zinnia-side-recovery.jpg)
+
+And the cosmos side, with classic feathery dill-like true leaves emerging cleanly — the textbook cosmos look. Reddish-purple anthocyanin in the stems is normal under grow lights.
+
+![Tray 1 cosmos side top-down — feathery, dill-like cosmos true leaves emerging from the 10cm cups, deeper green color, grow light gooseneck visible at the upper right](pictures/75-tray1-cosmos-true-leaves.jpg)
+
 ---
 
 ## Tray 2 — Textbook Tracking the Pot-Up Window
@@ -890,9 +898,15 @@ Day 6 since the April 26 repot, right in the first-water window. All three Nook 
 
 Light edge-of-pot watering, ~50–80ml. No water on the crown, no drainage produced (expected — fresh mineral soil absorbs that volume fully). She looks beautifully happy: gorgeous yellow margins, strong leaf turgor, no soft spots. Named for her tall, striking, sword-like presence.
 
+The morning portrait — full plant on the granite windowsill, mint-green watering can off to the right, gravel courtyard visible through the window:
+
+![Cobra full portrait on the granite windowsill in morning light — tall sword-like leaves with bold yellow margins and dark green centers, mint-green watering can poised off to the right, pebble courtyard visible through the window](pictures/78-cobra-portrait-windowsill.jpg)
+
 ![Cobra the Sansevieria 'Laurentii' on the granite windowsill in evening light — tall sword-like leaves with bold yellow margins and dark green centers, a mint-green watering can poised off to the right](pictures/69-cobra-sansevieria-watering-day.jpg)
 
-A close-up confirms the perlite specks on the soil surface are just OBI cactus mix — not mineral deposits — and the leaf bases are firm and crisp.
+A top-down peek into the leaf cluster: you can see the base of each leaf emerging from fresh mineral soil, perlite specks visible (just the OBI cactus mix — not mineral deposits), and the leaf-to-soil junction crisp and firm.
+
+![Cobra leaf-base detail — close-up into the leaf cluster showing the base of each variegated leaf emerging from fresh mineral soil with perlite specks, healthy turgor, no salt crust](pictures/76-cobra-leaf-base-detail.jpg)
 
 ![Cobra base detail — top-down into the white pot showing leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-cobra-base-closeup.jpg)
 
@@ -904,6 +918,10 @@ The flower spike continues to progress beautifully. **The spike is the growth si
 
 ![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner of the frame](pictures/71-machali-flower-spike-progress.jpg)
 
+A closer angle in warmer morning light shows the tiger-spotted leaves and the spike's developing buds in detail:
+
+![Machali in warm morning light on the granite sill — tiger-spotted dark green leaves with white tubercles, flower spike rising from the rosette center with bud cluster forming, lavender watering can corner peeking in](pictures/79-machali-flower-spike-detail.jpg)
+
 ### Phyllis — Mini Pineapple, Mother of Five
 
 Lifted her leaves to water her and stopped breathing for a second.
@@ -914,9 +932,17 @@ Not one. Not two. **Five.** After the initial 😯 moment, careful counting conf
 
 ![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-phyllis-pineapple-pups-closeup.jpg)
 
+Lifting the leaves further reveals the dynasty: multiple pup bases visible side-by-side around the mother's stem, cream-white shoots already forming their own leaf rosettes:
+
+![Phyllis pups overview — several cream-white pup bases visible at the mother pineapple's stem, leaf rosettes already forming on the larger pups, mother leaves arching overhead](pictures/80-phyllis-pups-overview.jpg)
+
 Pineapples are **monocarpic** — the main plant fruits once and then dies, but before going she produces offshoots (suckers/ratoons) to carry on. Most home pineapples produce one or two pups in their lifetime. **Five is on the high end of what any home pineapple ever produces.**
 
 A few things worked in her favor: peat-free OBI Kakteen-und Bonsaierde (mimics the volcanic substrates pineapples evolved on), a gentle repot that triggered the reproduction signal without trauma, and fresh mineral soil giving her the energy budget to actually push pups at scale.
+
+A close-up of one of the larger pups pushing through the soil right at the mother's base — the clearest single-pup detail shot of the morning:
+
+![Phyllis single pup detail — close-up of one cream-white pointed pup pushing up from the soil right at the mother's stem, tiny developing leaf tip visible at the apex, mother leaves arching down on either side](pictures/77-phyllis-pup-mother-base.jpg)
 
 ![Phyllis pup detail — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead, clear evidence of the dynasty starting](pictures/73-phyllis-pup-detail.jpg)
 
@@ -952,7 +978,7 @@ Heads up for Wednesday May 6: forecast low of 8°C crosses the seedlings room wi
 
 ## The Story So Far
 
-Sixty-one photos across eighteen days. Both Brodiaea pots are confirmed viable (Pot 2 leading at 5 shoots). Tray 2 at 18/18, tracking the May 8–12 pot-up window. Tray 1 visibly recovering — color shifting greener every check. The Nook has been named, watered, and revealed itself a throne room: Cobra, Machali, and Phyllis the mother of five.
+Sixty-eight photos across eighteen days. Both Brodiaea pots are confirmed viable (Pot 2 leading at 5 shoots). Tray 2 at 18/18, tracking the May 8–12 pot-up window. Tray 1 visibly recovering — color shifting greener every check. The Nook has been named, watered, and revealed itself a throne room: Cobra, Machali, and Phyllis the mother of five.
 
 Emma's garden now has:
 - **Bulbs** — Brodiaea both pots active (Pot 1: 1 shoot, Pot 2: 5 shoots), Babiana Day 13 (expected May 11–18)

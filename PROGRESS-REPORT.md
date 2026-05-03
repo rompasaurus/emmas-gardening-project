@@ -1323,6 +1323,14 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 
 ![Tray 1 on Day 17 — fifteen 10cm pots showing recovering color, uniform pale green shifting noticeably greener since last week, cosmos with reddish-purple stems and second true leaves emerging](pictures/67-tray1-recovering-may2.jpg)
 
+Zinnia side close-up — broad cotyledons with developing true leaves, color clearly greener than last week's bleach worst-case:
+
+![Tray 1 zinnia side top-down — broad rounded zinnia cotyledons with developing true leaves, color noticeably greener](pictures/74-tray1-zinnia-side-recovery.jpg)
+
+Cosmos side close-up — feathery, dill-like true leaves coming through cleanly, the textbook cosmos signature:
+
+![Tray 1 cosmos side top-down — feathery, dill-like cosmos true leaves emerging from the 10cm cups, deeper green color, grow light gooseneck visible at the upper right](pictures/75-tray1-cosmos-true-leaves.jpg)
+
 This is a better outcome than the "stays paler all lifecycle but functional" prognosis. Pigmentation recovery looks real — though Tray 2 plants will still take priority for the post-trip Zone B grey pot transplant, just in case.
 
 **Tray 2** (sown Apr 22, dome off Apr 27) is textbook. Even germination, deep green color across all 18 cells, cotyledons firm and thick, second true leaves emerging on the front row. Sitting on the dresser in indirect window light (verified — no direct sun bouncing off the nearby mirror) and tracking right on schedule for the May 8–12 pot-up window. **Biological readiness leads, not the calendar.**
@@ -1362,7 +1370,11 @@ Light edge-of-pot watering, ~50–80ml. No water on the crown, no drainage produ
 
 ![Cobra the Sansevieria 'Laurentii' on the granite windowsill — tall sword-like leaves with bold yellow margins and dark green centers, mint-green watering can off to the right ready for her edge-of-pot drink](pictures/69-cobra-sansevieria-watering-day.jpg)
 
+![Cobra full portrait on the granite windowsill in morning light — tall sword-like leaves with yellow margins, mint-green watering can off to the right, gravel courtyard visible through the window](pictures/78-cobra-portrait-windowsill.jpg)
+
 ![Cobra base detail — top-down into the white pot showing the leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-cobra-base-closeup.jpg)
+
+![Cobra leaf-base detail — close-up into the leaf cluster showing the base of each variegated leaf emerging from fresh mineral soil with perlite specks, healthy turgor](pictures/76-cobra-leaf-base-detail.jpg)
 
 ##### Machali — Aloe variegata "Safari" (Right, formerly Haworthia/Tiger Aloe)
 
@@ -1371,6 +1383,8 @@ Renamed today after the legendary tigress of Ranthambore National Park — a fie
 The flower spike continues to progress beautifully. No new leaves visible, but that's expected — at her size, leaves come on the scale of weeks-to-months, and right now her energy is going into the spike and root re-establishment. **The spike is the growth signal.**
 
 ![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner](pictures/71-machali-flower-spike-progress.jpg)
+
+![Machali in warm morning light on the granite sill — tiger-spotted dark green leaves with white tubercles, flower spike rising from the rosette center with bud cluster forming](pictures/79-machali-flower-spike-detail.jpg)
 
 ##### Phyllis — Mini Pineapple (Center, Michael's Plant)
 
@@ -1386,7 +1400,11 @@ Not one. Not two. Five. After the initial 😯 moment, careful counting confirme
 
 ![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-phyllis-pineapple-pups-closeup.jpg)
 
+![Phyllis pups overview — several cream-white pup bases visible at the mother pineapple's stem, leaf rosettes already forming on the larger pups](pictures/80-phyllis-pups-overview.jpg)
+
 ![Phyllis pup detail close-up — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead](pictures/73-phyllis-pup-detail.jpg)
+
+![Phyllis single pup detail — close-up of one cream-white pointed pup pushing up from the soil right at the mother's stem, tiny developing leaf tip visible at the apex](pictures/77-phyllis-pup-mother-base.jpg)
 
 This is genuinely remarkable. Pineapples are **monocarpic** — the main plant fruits once and then dies, but before going she produces offshoots (suckers/ratoons) to carry on. Most home pineapples produce one or two pups in their lifetime. Five is on the high end of what any home pineapple ever produces.
 
@@ -1628,6 +1646,13 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 | May 2, 2026 | Machali — Aloe variegata flower spike continuing to develop | ![machali](pictures/71-machali-flower-spike-progress.jpg) |
 | May 2, 2026 | Phyllis the pineapple — **5 pups** discovered around her base | ![phyllispups](pictures/72-phyllis-pineapple-pups-closeup.jpg) |
 | May 2, 2026 | Phyllis pup detail — single offshoot pushing up with leaf rosette forming | ![phyllispup](pictures/73-phyllis-pup-detail.jpg) |
+| May 2, 2026 | Tray 1 zinnia side recovering — broad cotyledons, color clearly greener | ![tray1zinnia](pictures/74-tray1-zinnia-side-recovery.jpg) |
+| May 2, 2026 | Tray 1 cosmos side — feathery true leaves emerging cleanly | ![tray1cosmos](pictures/75-tray1-cosmos-true-leaves.jpg) |
+| May 2, 2026 | Cobra leaf-base detail — perlite specks, healthy turgor at the soil junction | ![cobrabase2](pictures/76-cobra-leaf-base-detail.jpg) |
+| May 2, 2026 | Phyllis pup at mother's base — cream-white shoot pushing through soil at the stem | ![phyllispup2](pictures/77-phyllis-pup-mother-base.jpg) |
+| May 2, 2026 | Cobra full portrait — granite sill, watering can, gravel courtyard view | ![cobraportrait](pictures/78-cobra-portrait-windowsill.jpg) |
+| May 2, 2026 | Machali in warm morning light — tiger spots, flower spike with bud cluster | ![machalispike](pictures/79-machali-flower-spike-detail.jpg) |
+| May 2, 2026 | Phyllis pups overview — several cream-white pup bases at the mother's stem | ![phyllispupsoverview](pictures/80-phyllis-pups-overview.jpg) |
 | | First bloom! | *(coming soon!)* |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
