@@ -81,6 +81,13 @@ permalink: /PROGRESS-REPORT
 | May 2, 2026 | Tray 1 visibly recovering — uniform pale green shifting greener, second true leaves on cosmos | Done (observation) |
 | May 2, 2026 | Outdoor watering paused — 3 days rain forecast Sun–Tue (~11mm) plus damp Wed | Done (decision) |
 | May 2, 2026 | Wed May 6 overnight window-close planned — forecast low 8°C crosses 10°C threshold | Done (decision) |
+| May 4, 2026 | Solo OBI run — Lavandula angustifolia 'Essence Purple' 4-pack (€12.99) acquired | Done |
+| May 4, 2026 | 1 spare square grey pot purchased to complete Itchy + Scratchy 2+2 split | Done |
+| May 4, 2026 | L. stoechas 'Anouk' (wrong lavender for Stuttgart) recognized and avoided | Done (decision) |
+| May 4, 2026 | 3 impulse-buy traps dodged — Lima rossa, carnivorous terrarium, TEDi basket pots | Done (decision) |
+| May 4, 2026 | Full plant naming roster locked in — every plant in the garden has a name and a zone | Done |
+| May 4, 2026 | Patio corner tree hunt — switched from OBI to Baumschule, deferred to autumn / next spring with Michael | Done (decision) |
+| May 5, 2026 | Itchy + Scratchy repot — 2+2 split into square grey pots (60/40 Kakteenerde/Sana) | Upcoming |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -1460,6 +1467,103 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 
 ---
 
+### Session 19 — May 4, 2026 — "Solo Recon & the Naming Day"
+
+> *"Solo plant shopping is the move when it matters."*
+
+> **Content is user-generated and unverified.**
+
+**A focused solo OBI run for Emma — Michael was locked into Monday WFH, so the lavender-expansion mission ran without backup. Came back with a Lavandula angustifolia 'Essence Purple' 4-pack and one spare square grey pot, dodged the wrong-lavender trap and three impulse buys, and turned a quiet evening into a full plant-naming roster. Every plant in the garden now has a name and a zone.**
+
+#### 1 — The OBI run — solo and focused
+
+Michael was locked into work today (Monday WFH), so the OBI mission ran solo: expand the lavender footprint on the balcony.
+
+The first lavender on the shelves was beyond stacked — and immediately suspicious. **Lavandula stoechas 'Anouk' (Schopf-Lavendel)**, the topped lavender with bunny-ear bracts. Pretty in store, dead by February in Stuttgart. The locals know — that's why nobody was buying it.
+
+The good stuff was almost gone: **Lavandula angustifolia 'Essence Purple'** — hardy to −20 °C, same species as Lovely (the existing balcony lavender). Two units left, both 4-packs in shallow bowl pots — four young plants bundled together rather than a single mature specimen. Same value either way: split into two square grey pots, two plants per pot.
+
+Picked up one extra square grey pot to complete the 2+2 setup and walked through checkout with the OBI gardener trying to give planting advice in German. Between his Schwäbisch and Emma's survival German, the takeaway was the standard rule already known: **crown above soil, never bury it.**
+
+#### 2 — What didn't make the basket
+
+Three impulse traps dodged:
+
+- **Lima rossa (Italian red lime)** — gorgeous but limes are the most cold-sensitive citrus, and we're clearly past spring tree season at this OBI (no Meyer lemon, no olive). Tree hunt deferred to a Baumschule with Michael in autumn.
+- **Carnivorous plant terrarium** — Michael has been "thinking it's cool" for ages without committing. Realized this would become Emma's chore: distilled water runs, dormancy management, feeding plants in a sealed box. Hard pass.
+- **TEDi woven basket pots on tripod legs** — paper rope over wire frame, not outdoor-rated. Held them, felt the truth, walked away.
+
+#### 3 — Past-Emma vs. Present-Emma
+
+Got home, looked at Goldy and Frosty, and felt the post-purchase regret. The mature variegated Euonymus seen at OBI today was so much fuller — would have filled the Zone A pots beautifully. Why didn't I look harder when I bought mine?
+
+**Because I was rushed.** Shopping with company creates "gotta choose fast" pressure. Goldy and Frosty are the result. They're not wrong — just young. They'll grow into that mature shape over 2–3 years.
+
+The real takeaway: **solo plant shopping is the move when it matters.**
+
+#### 4 — The Naming Day
+
+Once the new lavender pair was named (Itchy and Scratchy — they made me sneeze and itch the whole drive home), it became obvious every plant in the garden deserved one. The Nook trio (Cobra, Phyllis, Machali) was already named on May 2 — May 4 fills in everyone else and locks the roster in:
+
+| Zone | Plant | Name |
+|------|-------|------|
+| Zone A (round black NORA) | Euonymus golden | **Goldy** |
+| Zone A | Euonymus white-variegated | **Frosty** |
+| Zone A | Chocolate Mint | **Chocolate Mint** |
+| Zone B (square grey) | Existing Lavender | **Lovely** |
+| Zone B | New Lavender pot 1 | **Itchy** |
+| Zone B | New Lavender pot 2 | **Scratchy** |
+| Zone B | Sempervivum pot 1 | **Chicks** |
+| Zone B | Sempervivum pot 2 | **Side Chick** |
+| Railing | Older Dianthus | **Pinky** |
+| Railing | Newer Dianthus | **Gilly** |
+| Railing | Brodiaea Pot 2 | **Big Sissy** |
+| Railing | Brodiaea Pot 1 | **Lil Sissy** |
+| Railing | Babiana | **Baboon** |
+| Nook | Sansevieria 'Laurentii' | 🐍 **COBRA** |
+| Nook | Mini Pineapple (Ananas nanus) | 🍍 **PHYLLIS** |
+| Nook | Aloe variegata 'Safari' | 🐅 **MACHALI** |
+| Seedlings | Cosmos | Tray 1 |
+| Seedlings | Zinnia | Tray 2 |
+
+Tray 1 and Tray 2 stay descriptive until the seedlings prove they're going to make it.
+
+#### Active care reminders
+
+- **Itchy + Scratchy repot tomorrow (May 5)** — 24 hr post-transport rest rule. Soak rootball, gently tease the 4 plants apart, 2 per square grey pot, 60/40 Kakteenerde/Sana, crown above soil, no feed. Water in once, then dry between.
+- **Goldy + Frosty** — no feed Y1 (fresh Sana built-in nutrients). Y2+ schedule: half-strength Compo BIO twice/season, early March + early June, stop by mid-July.
+- **Pinky + Gilly** — next half-strength feed ~May 11–13.
+- **Big Sissy** — continued tip surge (5 shoots), watch for first scapes.
+- **Lil Sissy** — sheltered now, monitor for follow-up tips.
+- **Baboon** — emergence window May 11–18, Day 13 today, no signs yet.
+- **Lovely** — no feed ever.
+- **Chicks + Side Chick** — never feed, gravel top-dress holding.
+- **COBRA, MACHALI, PHYLLIS** — post-first-water (May 2) all stable. PHYLLIS pup dynasty (5 offshoots) holding, MACHALI flower spike active, COBRA fully absorbed first water. June diluted feed coming up.
+- **Tray 1** — still on 12 h cycle for post-bleach recovery. May 8 reassessment.
+- **Tray 2** — on 16 h cycle, healthy. Pot-up window May 8–12, readiness-driven.
+
+#### Notes for next time
+
+- **Tomorrow:** Itchy + Scratchy repot. Photograph rootball separation for the next log.
+- **Solo plant shopping = better decisions.** Default to solo for non-Michael errands going forward.
+- **Past Euonymus rush-buy is the comparison case** — discipline today saved another version of that.
+- **Tree hunt for the patio corner:** switch from OBI to a proper Baumschule, plan for autumn or next spring with Michael.
+- **T-16 days to the May 20–25 trip.** Capillary mat trial May 13–14, Blumat installs ~May 18–19, lights to 12 h May 19–20, no fertilizer in the week before.
+
+#### Photo log — pending upload
+
+- L. stoechas 'Anouk' at OBI — the wrong lavender, dodged
+- L. angustifolia 'Essence Purple' tag — confirmed hardy to −20 °C
+- The 4-pack bowl form — four young plants for the 2+2 split
+- Lima rossa standard at OBI
+- Carnivorous plant terrarium at OBI
+- TEDi woven basket pots on tripod legs
+- Mature variegated Euonymus at OBI — preview of Goldy & Frosty in 2–3 years
+
+> Sessions 17 and 18 produced names and dynasties; Session 19 turned the whole garden into characters. The roster is closed for now.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1544,6 +1648,11 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 - Tray 1 visibly recovering — pale lime-green shifting greener, second true leaves emerging on cosmos (May 2)
 - Outdoor watering paused — 3-day rain forecast Sun–Tue (~11mm) plus damp Wed (May 2)
 - Phyllis rosette-cup pour discontinued — soil watering only while fruit + pups establish (May 2)
+- Solo OBI run — Lavandula angustifolia 'Essence Purple' 4-pack (€12.99) + 1 spare square grey pot acquired (May 4)
+- L. stoechas 'Anouk' (wrong lavender) recognized and avoided + 3 impulse-buy traps dodged (Lima rossa, carnivorous terrarium, TEDi baskets) (May 4)
+- Full plant naming roster locked in — every plant in the garden has a name and a zone (May 4)
+- New lavender pair (Itchy + Scratchy) staged for 24 hr post-transport rest before May 5 repot (May 4)
+- Patio corner tree hunt — switched from OBI to a proper Baumschule, deferred to autumn / next spring with Michael (May 4)
 
 ### In Progress
 - Tray 1 recovering — pale color shifting greener, watching for further pigmentation rebound
@@ -1554,6 +1663,7 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 - Machali (Aloe variegata) flower spike + 2 pups developing — weekly photo tracking
 - Phyllis (mini pineapple) — 5 pups developing, soil-only watering until fruit ripens
 - Wed May 6 — close seedlings room window overnight (forecast low 8°C)
+- Itchy + Scratchy resting 24 hr post-transport — repot scheduled May 5 (2+2 split, square grey pots)
 
 ### Not Yet Started
 - Pre-trip shopping: Blumat carrots, timer plug (before May 20)
@@ -1562,7 +1672,7 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 - Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
 - Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
 - Possible third tray sowing (~May 27–30, post-trip)
-- Patio corner tree purchase — pull up at next OBI itch (olive vs Meyer lemon decision)
+- Patio corner tree purchase — switched to a proper Baumschule (autumn / next spring with Michael); olive vs Meyer lemon decision still open
 - Repotting gift arrangement into individual pots
 - Fall/winter sowing plan (July–August)
 - Find Ilex crenata, Heuchera on next OBI trip (Lavandula angustifolia ✅ April 25)
@@ -1659,4 +1769,4 @@ This is genuinely remarkable. Pineapples are **monocarpic** — the main plant f
 
 ---
 
-*Last updated: May 2, 2026*
+*Last updated: May 4, 2026*

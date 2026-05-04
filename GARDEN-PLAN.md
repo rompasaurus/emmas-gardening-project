@@ -94,6 +94,9 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Brodiaea Pot 2 jump to 5 shoots (May 2)** — 2 new shoots since yesterday, real momentum; Pot 1 still solo (within stagger window)
 - [x] **Tray 1 visible recovery (May 2)** — pale lime-green shifting noticeably greener, second true leaves on cosmos, back-right zinnia leading
 - [x] **Outdoor watering paused (May 2)** — 3-day rain forecast Sun–Tue (~11mm) plus damp Wed; railing pots watered evening of May 1, soil settled, rain takes over for ~5 days
+- [x] **Solo OBI run (May 4)** — Lavandula angustifolia 'Essence Purple' 4-pack (€12.99) + 1 spare square grey pot. L. stoechas 'Anouk' avoided (not winter-hardy in Stuttgart); 3 impulse buys dodged (Lima rossa, carnivorous terrarium, TEDi basket pots)
+- [x] **Plant naming roster locked in (May 4)** — every plant in the garden has a name and a zone (Goldy/Frosty in Zone A; Lovely/Itchy/Scratchy/Chicks/Side Chick in Zone B; Pinky/Gilly/Big Sissy/Lil Sissy/Baboon on the railing; 🐍 COBRA/🍍 PHYLLIS/🐅 MACHALI in the Nook). See Progress Report → Session 19
+- [ ] **Repot Itchy + Scratchy (May 5)** — 24 hr post-transport rest done; soak rootball, gently tease the 4 plants apart, 2 per square grey pot, 60/40 Kakteenerde/Sana, crown above soil, water in once, no feed
 - [ ] **Wed May 6** — close seedlings room window overnight (forecast low 8°C crosses 10°C threshold)
 - [ ] After rain ends (~May 7) — quick check of Zone B saucers for pooling
 - [ ] Reassess Brodiaea Pot 1 by ~May 14 if still only one shoot
@@ -141,13 +144,15 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
 | ~~Capillary mat~~ | — | — | Received Apr 27, trial May 13–14 |
 | ~~Aumtrly Clip-On Plant Lamps 2-Pack (BL-J20B)~~ | Amazon | — | Installed Apr 30 |
+| ~~Lavandula angustifolia 'Essence Purple' 4-pack~~ | OBI | €12.99 | Bought (May 4) — Itchy + Scratchy, 2+2 repot May 5 |
+| ~~1× spare square grey pot~~ | OBI | — | Bought (May 4) — completes Itchy + Scratchy 2+2 setup |
 | 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
 | 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
 | Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
 | Ilex crenata (Japanische Stechpalme) | OBI (next visit) | — | Wish list — boxwood moth–free alternative |
 | Heuchera (Purpurglöckchen) | OBI (next visit) | — | Wish list |
 | Healthy fuller Euonymus fortunei | OBI (next visit) | — | Wish list |
-| Patio corner tree (olive *or* Meyer lemon) | OBI (future) | TBD | Scouted Apr 29 — pull up next OBI itch. Olive = low-effort (winter-hardy in pot) vs Meyer lemon = fragrance/fruit (needs indoor winter) |
+| Patio corner tree (olive *or* Meyer lemon) | Baumschule (autumn / next spring) | TBD | May 4 update: OBI clearly past spring tree season (no Meyer lemon, no olive). Switching to a proper Baumschule with Michael — defer to autumn or next spring. Olive = low-effort (winter-hardy in pot) vs Meyer lemon = fragrance/fruit (needs indoor winter) |
 | Patio corner tree alternates | OBI (future) | TBD | Bay laurel, fig, or Ilex crenata if neither olive nor lemon land — see Future Ideas |
 
 ---
@@ -311,4 +316,4 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ---
 
-*Last updated: May 2, 2026*
+*Last updated: May 4, 2026*

@@ -21,7 +21,8 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Day 13, no growth yet (expected May 11–18). Salt crust will rinse off in the rain |
 | Cosmos (Schmuckkörbchen) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 visibly **recovering** — color shifting greener, second true leaves on cosmos. Tray 2 textbook, second true leaves emerging |
 | Zinnia (Field Mix) | Seeds (Tray 1 + Tray 2) | Summer - Fall | Tray 1 visibly **recovering** — back-right zinnia leading. Tray 2 deep green, on track for May 8–12 pot-up |
-| Lavandula angustifolia | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall, flower buds forming |
+| Lavandula angustifolia (Lovely) | Potted plant (Zone B) | June - August | Planted Apr 26 — Zone B sunny wall, flower buds forming |
+| Lavandula angustifolia 'Essence Purple' (Itchy + Scratchy) | 4-pack → 2 square grey pots (Zone B) | June - August | Acquired May 4, resting 24 hr — 2+2 repot scheduled May 5 |
 | Sempervivum (mixed 6-pack) | Evergreen succulent (Zone B) | Year-round foliage | Planted in anchor pots, gravel top-dressed |
 | Euonymus fortunei | 2x variegated shrubs (Zone A) | Evergreen | Potted in black ex-mint pots (Apr 25) |
 | Dianthus (Pink) | 4 plants in 2 grey hanging pots | Spring - Summer | 2 per pot on the railing, next feed ~May 11–14 |
@@ -32,13 +33,13 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![Tray 2 standing healthy — deep dark green, 18/18 germination, textbook growth](pictures/66-tray2-healthy-stand.jpg)
 
-## Latest Update — May 2, 2026
+## Latest Update — May 4, 2026 — Solo Recon & the Naming Day
 
-> *"What was a nook of low-maintenance plants is turning into a dynasty."* A morning sweep that started ordinary and ended with a pineapple dynasty. Phyllis the mini pineapple was lifted for her first watering and revealed **five pups** hiding under her leaves — on the high end of what any home pineapple ever produces. The Nook was officially named (🐍 Cobra, 🐅 Machali, 🍍 Phyllis), all three plants got their first post-repot watering, Tray 1 is visibly recovering with second true leaves on the cosmos, and Brodiaea Pot 2 jumped to 5 shoots. Three days of rain incoming — outdoor watering paused.
+> *"Solo plant shopping is the move when it matters."* A focused **solo OBI run** for Emma — Michael was locked into Monday WFH, so the lavender-expansion mission ran without backup. Came back with a **Lavandula angustifolia 'Essence Purple' 4-pack** (hardy to −20 °C, same species as Lovely) and one spare square grey pot, dodged the wrong-lavender trap (L. stoechas 'Anouk') and three impulse buys (Lima rossa, carnivorous terrarium, TEDi basket pots), and used the quiet evening to lock in a **full plant naming roster** — every plant in the garden now has a name and a zone. Goldy + Frosty in Zone A; Lovely + new pair Itchy + Scratchy in Zone B; Pinky, Gilly, Big Sissy, Lil Sissy, and Baboon on the railing; 🐍 COBRA, 🍍 PHYLLIS, and 🐅 MACHALI in the Nook. Itchy + Scratchy resting 24 hr before tomorrow's 2+2 repot.
 
 > **Content is user-generated and unverified.**
 
-![Phyllis the mini pineapple — five cream-white pup shoots emerging around her base, the start of a pineapple dynasty](pictures/72-phyllis-pineapple-pups-closeup.jpg)
+![Lavandula angustifolia (Lovely) in her grey pot against the white wall — flower buds forming on the spike tips, soon to be joined in Zone B by Itchy + Scratchy](pictures/57-lavender-buds-forming.png)
 
 ## Project Pages
 
@@ -57,4 +58,4 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 ---
 
 *Emma's Balcony — Stuttgart 2026 — First-time Gardener*
-*Last updated: May 2, 2026*
+*Last updated: May 4, 2026*
