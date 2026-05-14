@@ -92,7 +92,4 @@ Not on Discord? No problem:
 | `!garden help` | See commands inside Discord |
 
 ---
-
-
-## FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUK
 *The garden grows better with friends!*
