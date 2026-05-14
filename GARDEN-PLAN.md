@@ -96,19 +96,38 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [x] **Outdoor watering paused (May 2)** — 3-day rain forecast Sun–Tue (~11mm) plus damp Wed; railing pots watered evening of May 1, soil settled, rain takes over for ~5 days
 - [x] **Solo OBI run (May 4)** — Lavandula angustifolia 'Essence Purple' 4-pack (€12.99) + 1 spare square grey pot. L. stoechas 'Anouk' avoided (not winter-hardy in Stuttgart); 3 impulse buys dodged (Lima rossa, carnivorous terrarium, TEDi basket pots)
 - [x] **Plant naming roster locked in (May 4)** — every plant in the garden has a name and a zone (Goldy/Frosty in Zone A; Lovely/Itchy/Scratchy/Chicks/Side Chick in Zone B; Pinky/Gilly/Big Sissy/Lil Sissy/Baboon on the railing; 🐍 COBRA/🍍 PHYLLIS/🐅 MACHALI in the Nook). See Progress Report → Session 19
-- [ ] **Repot Itchy + Scratchy (May 5)** — 24 hr post-transport rest done; soak rootball, gently tease the 4 plants apart, 2 per square grey pot, 60/40 Kakteenerde/Sana, crown above soil, water in once, no feed
-- [ ] **Wed May 6** — close seedlings room window overnight (forecast low 8°C crosses 10°C threshold)
-- [ ] After rain ends (~May 7) — quick check of Zone B saucers for pooling
-- [ ] Reassess Brodiaea Pot 1 by ~May 14 if still only one shoot
+- [x] **Repot Itchy + Scratchy (May 5)** — 24 hr post-transport rest done; soak rootball, gently tease the 4 plants apart, 2 per square grey pot, 60/40 Kakteenerde/Sana, crown above soil, water in once, no feed
+- [x] **Wed May 6** — close seedlings room window overnight (forecast low 8°C crosses 10°C threshold)
+- [x] After rain ends (~May 7) — quick check of Zone B saucers for pooling
+- [x] **Pinky + Gilly pre-trip half-strength feed (May 11)** — 75ml each via syringe, no runoff; peak bloom density confirmed 24 hr later
+- [x] **Lil Sissy two new sprouts (May 11)** — staggered emergence continuing at previously dormant corm sites
+- [x] **Baboon FIRST EMERGENCE (May 12)** — 2 pale yellow-white fuzzy tips revealed after dry surface crust scrape; Day 2 of May 11–18 window
+- [x] **Hard-water crust diagnostic + maintenance protocol (May 12)** — Stuttgart tap CaCO₃/MgCO₃ wicking + evaporation deposit; scrape every 3–4 weeks during active growth
+- [x] **Sprout ID protocol locked in (May 12)** — Babiana = pale yellow-white fuzzy; Brodiaea = bright green smooth
+- [x] **Goldy + Frosty spring flush observation (May 12)** — new leaf clusters, latent buds at leaf nodes, aerial rootlet initials documented on stems
+- [x] **Three-lavender wellness check (May 12)** — Lovely ~15–20 spikes, Itchy ~12–15 (bushy/spreading), Scratchy ~8–10 (3 leaders, upright)
+- [x] **Pinching decision (May 12)** — Lovely bloom freely + deadhead; Itchy + Scratchy pinch all spikes this week (Year 1 root + woody-base priority)
+- [x] **Side Chicks monocarpic event flagged (May 12)** — 5–6 stalks on S. arachnoideum, 4–8 wk bloom-and-die, chicks already in place
+- [x] **Chicks colony status (May 12)** — 3 mother rosettes producing 15–20 chicks, multiplying as designed
+- [x] **Outdoor transplant strategy framed (May 12)** — mixed configuration, Amazon Compo Sana pre-order, post-trip execution ~May 27
+- [ ] Reassess Brodiaea Pot 1 by ~May 14 if no further new sprouts on top of current 2+ tips
+- [ ] **Pinch all Itchy + Scratchy flower spikes this week (by ~May 17)** — base of stem, just above topmost leaf pair
+- [ ] **Order Compo Sana from Amazon this week** (~140L, pre-trip delivery) — sparing Michael the 140L OBI carry
+- [ ] **Stake out final outdoor container strategy with Michael before May 20** — mixed config across railing + Mediterranean-adjacent + new floor zone
+- [ ] **Pre-trip OBI/TEDi run for outdoor pots** — execution post-trip
 - [ ] Repot gift arrangement into individual pots
 - [ ] Order pre-trip supplies: 3–4 Blumat carrots + 1.5L PET bottles, timer plug
-- [ ] Capillary mat trial run (May 13–14): 3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir
+- [ ] **Capillary mat trial run May 13–14** — 3m mat cut to tray footprint +2–3cm, draping into ~4–5L reservoir
 - [ ] Press timers on all 4 grow lights to 12h (May 19–20)
-- [ ] Tray 2 pot-up readiness check (~May 8–12): true leaves + firm cotyledons + roots at cell base
+- [ ] Tray 2 pot-up readiness check (~May 8–12): true leaves + firm cotyledons + roots at cell base — currently cotyledon + first true leaves, no rush
 - [ ] Tray 1 first half-strength fertilizer dose ~1 week after May 26–28 transplant
 - [ ] Machali: don't fertilize while flower stalk is in development; don't move the pot
+- [ ] **Machali pre-trip top-up planning** — next watering window May 17–20 (during trip)
+- [ ] **Cobra pre-trip top-up planning** — next watering window May 20–23 (during trip)
+- [ ] **Phyllis next watering window May 11–14** — Day 11, soil-only watering, no rosette cup pour
 - [ ] Phyllis: weekly photos to track pup development; separate to individual pots only after fruit ripens + pups reach 15–20cm
 - [ ] Possible third tray sowing (~May 27–30, post-trip)
+- [ ] **Surface scrape maintenance every 3–4 weeks** on Baboon + Brodiaea pots during active growth
 
 ### Shopping List — April
 
@@ -144,8 +163,10 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 | ~~Fugenkratzer (telescopic, modular heads)~~ | OBI | — | Bought (Apr 25) |
 | ~~Capillary mat~~ | — | — | Received Apr 27, trial May 13–14 |
 | ~~Aumtrly Clip-On Plant Lamps 2-Pack (BL-J20B)~~ | Amazon | — | Installed Apr 30 |
-| ~~Lavandula angustifolia 'Essence Purple' 4-pack~~ | OBI | €12.99 | Bought (May 4) — Itchy + Scratchy, 2+2 repot May 5 |
-| ~~1× spare square grey pot~~ | OBI | — | Bought (May 4) — completes Itchy + Scratchy 2+2 setup |
+| ~~Lavandula angustifolia 'Essence Purple' 4-pack~~ | OBI | €12.99 | Bought (May 4) — Itchy + Scratchy, repotted May 5 (2+2 split, 60/40 Kakteenerde/Sana) |
+| ~~1× spare square grey pot~~ | OBI | — | Bought (May 4) — completed Itchy + Scratchy 2+2 setup |
+| Compo Sana — bulk (~140L) | Amazon | — | **Order this week (pre-trip delivery)** — for outdoor transplant ~May 27. Avoids 140L OBI carry |
+| Outdoor cosmos/zinnia pots | TEDi / OBI | TBD | Pre-trip in-person run — mixed config (singles + mixed pots), railing + Mediterranean-adjacent + new floor zone |
 | 3–4 Blumat carrots + 1.5L PET bottles | OBI / Amazon | — | Pre-trip (before May 20) |
 | 1× Zeitschaltuhr / timer plug | OBI | — | Pre-trip (before May 20) |
 | Small pots (6–8) for gift repotting | OBI / Bauhaus | 1–2 EUR each | Soon |
@@ -166,9 +187,9 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 - [ ] Brodiaea / Babiana — rain handles watering May 3–6 (no manual watering); resume top 2 cm rule after dry spell returns
 - [ ] Keep mint watered — slightly more moisture than flowers
 - [ ] Deadhead dianthus regularly for continuous blooms
-- [ ] Tray 2 pot-up readiness check May 8–12 (true leaves + firm cotyledons + roots at cell base)
-- [ ] Dianthus next half-strength feed ~May 11–14 (every 2–3 weeks from Apr 27 first feed)
-- [ ] Babiana emergence window May 11–18
+- [ ] Tray 2 pot-up readiness check May 8–12 (true leaves + firm cotyledons + roots at cell base) — currently cotyledon + first true leaves
+- [x] **Dianthus half-strength feed May 11** — 75ml each via syringe, no runoff (technique refined since April)
+- [x] **Babiana emergence May 12** — first tips revealed after hard-water surface crust scrape (Day 2 of May 11–18 window)
 - [ ] Replacement basil plan — sow from seed or split a commercial pot into 3–4 clumps
 
 ### May 20 — Pre-Trip Checklist
@@ -263,8 +284,8 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 | Plant | Watering Rule |
 |-------|--------------|
-| Brodiaea (bulbs) | When top 2 cm of soil is dry |
-| Babiana (bulbs) | When top 2 cm of soil is dry — similar to brodiaea |
+| Brodiaea (Big Sissy + Lil Sissy) | When top 2 cm of soil is dry. **Surface scrape every 3–4 weeks during active growth** if hard-water crust appears |
+| Babiana (Baboon) | When top 2 cm of soil is dry. **Hard-water crust scrape every 3–4 weeks** — Stuttgart tap CaCO₃/MgCO₃ deposits via wicking + evaporation; can mechanically block emergence |
 | Cosmos (trays) | Bottom-water when needed; avoid flattening leggy stems. Daily in summer heat |
 | Zinnias (trays) | Bottom-water; keep Tray 2 humid under dome until sprouts appear |
 | Chocolate mint | Keep consistently moist — likes more water than flowering plants |
@@ -282,7 +303,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 | Plant | Timing | Notes |
 |-------|--------|-------|
-| Dianthus (4 plants, 2 pots) | Every 2-3 weeks — first feed Apr 27 | Half strength BIO Blumendünger (10ml in 2L), next ~May 11–18 |
+| Dianthus (Pinky + Gilly) | Every 2-3 weeks — first feed Apr 27, half-strength syringe May 11 | **Refined syringe technique:** 75ml each, no runoff. Next feed Thursday May 28 (post-trip, combined with cosmos/zinnia) |
 | Cosmos/zinnia | ~1 week after May 15 transplant | Half strength, every 2-3 weeks |
 | Brodiaea | No feed this year | Bulbs have stored energy |
 | Babiana | No feed this year | Same as brodiaea |
@@ -313,7 +334,10 @@ The balcony is now a year-round project — each large pot built around an **eve
 - **Aumtrly grow light power-blip test** — before the May 20–25 trip, unplug 30s and confirm timer auto-resumes (insurance against power blips while away)
 - **Machali in bloom** — don't cut the stalk, don't move the pot, don't fertilize. Aloe variegata (unlike Sempervivum) is NOT monocarpic; the rosette survives flowering
 - **Phyllis is monocarpic** — the mother fruits once and dies, but produces pups before going. The 5 pups stay attached until they develop their own roots and reach 15–20cm before separation. Soil-only watering while fruit + pups establish — water in the rosette cup risks rot at exactly the wrong moment
+- **Side Chicks (cobweb Sempervivum) are also monocarpic** — each rosette flowers once and dies. The 5–6 stalks pushing now (May 12) will bloom-and-die over 4–8 weeks; the chicks already produced replace them. Net colony expanding. Let them bloom for the pollinators
+- **Hard-water crust protocol** — Stuttgart tap leaves CaCO₃/MgCO₃ deposits at the soil surface via capillary wicking + evaporation; can mechanically block emergence. **Dry scrape the top ~0.5cm every 3–4 weeks during active growth** on Baboon + Brodiaea pots. Bigger pot volume + more watering volume = more crust (Baboon vs. Brodiaea baseline)
+- **Goldy + Frosty climber genetics** — Euonymus fortunei produces aerial rootlet initials along stems even in pots without a wall. Don't mistake them for pests/disease; they're dormant climber anchors
 
 ---
 
-*Last updated: May 4, 2026*
+*Last updated: May 12, 2026*

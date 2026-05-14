@@ -978,29 +978,30 @@ Heads up for Wednesday May 6: forecast low of 8°C crosses the seedlings room wi
 
 ## The Story So Far
 
-Sixty-eight photos across eighteen days. Both Brodiaea pots are confirmed viable (Pot 2 leading at 5 shoots). Tray 2 at 18/18, tracking the May 8–12 pot-up window. Tray 1 visibly recovering — color shifting greener every check. The Nook has been named, watered, and revealed itself a throne room: Cobra, Machali, and Phyllis the mother of five.
+Twenty sessions in. The naming roster is locked (Session 19, May 4) and the garden answered with one of the most milestone-dense mornings of the season (Session 20, May 12): **Baboon woke up** — two pale yellow-white Babiana tips revealed beneath a Stuttgart hard-water crust on Day 2 of the May 11–18 window. **Lil Sissy pushed two new sprouts**, the Brodiaea staggered emergence pattern playing out as predicted. **Pinky + Gilly hit peak bloom 24 hours after a refined 75 ml syringe feed**, zero runoff — the technique finally landed. **Goldy + Frosty showed spring flush plus aerial rootlet initials**, climber genetics expressing even in pots without a wall. **Itchy and Scratchy revealed two distinct lavender personalities at Day 6 post-repot** — Itchy bushy and spreading, Scratchy upright with 3 leaders. **Side Chicks pushed 5–6 monocarpic flower stalks** — cobweb Sempervivum bloom-and-die cycle running, chicks already in place.
 
 Emma's garden now has:
-- **Bulbs** — Brodiaea both pots active (Pot 1: 1 shoot, Pot 2: 5 shoots), Babiana Day 13 (expected May 11–18)
-- **Two trays of seedlings** — Tray 1 recovering with second true leaves emerging, Tray 2 at 18/18 tracking pot-up readiness
-- **Lavender** on the Zone B sunny wall, buds on the spike tips
-- **Sempervivum** in anchor pots
-- **Euonymus** pair (Zone A backbone, with decorative birds)
-- **Dianthus** — 4 plants in 2 grey hanging pots, next feed ~May 11–14
-- **The Nook** — Cobra, Machali (flower spike + 2 pups), and Phyllis (5 pups!) all post first watering
-- **Chocolate mint** thriving solo + propagating
+- **Bulbs** — Big Sissy (Pot 2) multi-shoot cluster, Lil Sissy (Pot 1) +2 new sprouts (May 11), **Baboon (Babiana) first emergence May 12** after hard-water crust scrape
+- **Two trays of seedlings** — T1 cosmos toddlers at multi-leaf stage, T2 cotyledon + first true leaves under multi-arm Aumtrly array, lights 15–20 cm clearance, no legginess
+- **Three lavenders** on the Zone B sunny wall — Lovely (~15–20 spikes), Itchy (~12–15 bushy spikes), Scratchy (~8–10 spikes with 3 leaders). Pinch decision: Lovely free, Itchy + Scratchy pinch all this week
+- **Sempervivum** — Chicks pot multiplying (3 mothers × 15–20 chicks), Side Chicks pot pushing 5–6 monocarpic flower stalks
+- **Euonymus** — Goldy + Frosty in spring flush, latent buds + aerial rootlet initials documented
+- **Dianthus** — Pinky + Gilly at peak bloom density post-feed, next feed Thursday May 28
+- **The Nook** — Cobra, Machali (flower spike + 2 pups), Phyllis (5 pups!) all stable, watering windows mapped to trip
+- **Chocolate mint** thriving solo
 
 **Coming up:**
-- May 6: Close seedlings room window overnight (8°C low)
-- Tray 2 pot-up readiness check (~May 8–12)
-- Capillary mat trial (May 13–14)
-- May 19–20: timer presses, watering spikes prep
-- May 20–25: travel (watering automation in place)
-- ~May 26–28: THE BIG TRANSPLANT — cosmos and zinnias go outdoors!
-- Possible third tray sowing (~May 27–30)
+- This week: PINCH ALL Itchy + Scratchy flower spikes (base of stem, just above topmost leaf pair)
+- This week: Order Compo Sana from Amazon (~140L, pre-trip delivery)
+- May 13–14: Capillary mat trial run
+- May 17–20: Machali pre-trip top-up; finalize outdoor container strategy with Michael
+- May 19–20: timer presses, Blumat installs
+- May 20–25: travel (capillary mat + Blumat spikes in place; shelter Mediterranean + Euonymus + Mint under balcony ceiling)
+- ~May 27: outdoor transplant + first half-strength feed (mixed configuration: railing + Mediterranean-adjacent + new floor zone)
+- Surface scrape maintenance every 3–4 weeks on Baboon + Brodiaea pots during active growth
 
-> Eighteen sessions in. Phyllis is a mother of five. Machali holds the right wing. Cobra strikes from the left. The plants are responding to attention. Specifically, hers.
+> Twenty sessions in. Baboon woke up. Lil Sissy gained two. Pinky + Gilly bloomed on cue. Goldy + Frosty are quietly preparing to climb walls that aren't there. Side Chicks are blooming themselves out of existence — by design. The garden doesn't slow down during the quiet days. She just waits for someone to look closely.
 
 ---
 
-*Photos from April 14 – May 2, 2026 — Days 1 through 18 of Emma's Garden*
+*Photos from April 14 – May 2, 2026 — Days 1 through 18 of Emma's Garden. Sessions 19 (May 4) and 20 (May 12) photo logs are pending upload.*

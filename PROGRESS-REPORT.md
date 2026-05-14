@@ -87,7 +87,20 @@ permalink: /PROGRESS-REPORT
 | May 4, 2026 | 3 impulse-buy traps dodged — Lima rossa, carnivorous terrarium, TEDi basket pots | Done (decision) |
 | May 4, 2026 | Full plant naming roster locked in — every plant in the garden has a name and a zone | Done |
 | May 4, 2026 | Patio corner tree hunt — switched from OBI to Baumschule, deferred to autumn / next spring with Michael | Done (decision) |
-| May 5, 2026 | Itchy + Scratchy repot — 2+2 split into square grey pots (60/40 Kakteenerde/Sana) | Upcoming |
+| May 5, 2026 | Itchy + Scratchy repot — 2+2 split into square grey pots (60/40 Kakteenerde/Sana) | Done |
+| May 11, 2026 | Pinky + Gilly pre-trip half-strength feed — 75ml each via syringe, no runoff (technique refined) | Done |
+| May 11, 2026 | Lil Sissy — 2 new sprouts from previously dormant corm sites (staggered emergence continuing) | Done |
+| May 12, 2026 | **Baboon FIRST EMERGENCE** — 2 sub-surface tips revealed after dry crust scrape (Day 2 of May 11–18 window) | Done |
+| May 12, 2026 | Hard-water surface crust diagnostic + maintenance protocol established (scrape every 3–4 weeks) | Done |
+| May 12, 2026 | Babiana vs. Brodiaea sprout ID protocol confirmed — Babiana pale yellow-white fuzzy; Brodiaea bright green smooth | Done |
+| May 12, 2026 | Pinky + Gilly — peak bloom density 24hr post-feed, fertilizer technique validated | Done |
+| May 12, 2026 | Goldy + Frosty — spring flush + latent bud + aerial rootlet initials documented | Done |
+| May 12, 2026 | Itchy — ~12–15 flower spikes, bushy/spreading habit logged (Day 6 post-repot) | Done |
+| May 12, 2026 | Scratchy — ~8–10 spikes with 3 leaders, upright habit logged (Day 6 post-repot) | Done |
+| May 12, 2026 | Pinching decision — Lovely blooms freely; Itchy + Scratchy pinch all spikes (Year 1 root + woody-base priority) | Done (decision) |
+| May 12, 2026 | Side Chicks — monocarpic flowering event flagged (5–6 stalks on S. arachnoideum) | Done (observation) |
+| May 12, 2026 | Chicks — 3 mother rosettes producing 15–20 chicks; colony multiplying as designed | Done (observation) |
+| May 12, 2026 | Outdoor transplant strategy framed — mixed config, Amazon Compo Sana pre-order, post-trip execution ~May 27 | Done (decision) |
 | May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
@@ -1564,6 +1577,177 @@ Tray 1 and Tray 2 stay descriptive until the seedlings prove they're going to ma
 
 ---
 
+### Session 20 — May 12, 2026 — "Baboon Wakes Up, Three Lavenders, and the Hard-Water Lesson"
+
+> **Content is user-generated and unverified.**
+
+**A wellness-check sweep across the full balcony + Mediterranean + indoor seedlings that turned into one of the most milestone-dense sessions of the season: first Babiana emergence (Baboon!) after a hard-water crust scrape, two new Brodiaea sprouts on Lil Sissy, Pinky + Gilly at peak bloom 24 hours after a refined half-strength syringe feed, Goldy + Frosty showing spring flush plus aerial rootlet initials, Itchy + Scratchy logging two distinct growth personalities at Day 6 post-repot, Side Chicks pushing 5–6 monocarpic flower stalks, and the outdoor transplant plan finally taking shape.**
+
+#### 1 — Dianthus pre-trip feed pays off
+
+The morning started with Pinky and Gilly. They had their **pre-trip half-strength feed yesterday (May 11)** — 75ml each via syringe, the refined dose after April's runoff lesson — and the result was visible 24 hours later. Both pots fully blooming, dense pink-and-white cascades over the railing. The improvement in fertilizer technique was the real win: **no runoff, no waste, just absorbed nutrients and a bloom response on schedule.**
+
+#### 2 — Lil Sissy two new sprouts
+
+Then to the railing planters. **Lil Sissy (Brodiaea Pot 2)** had pushed **two new sprouts in the last 24 hours** — small bright-green tips emerging from previously dormant corm sites. That's the staggered emergence pattern playing out exactly as expected for Brodiaea: corms in the same pot don't wake up on the same clock.
+
+#### 3 — Baboon wakes up — first Babiana emergence
+
+But the bigger find came at the **Baboon pot**. The soil surface had been looking "ashy" and odd for a while — different from how the Brodiaea pots looked at the equivalent pre-emergence stage. Today the gut call won: a **gentle dry scrape of the top half-centimeter** to clear the crust. And right underneath, sitting just below the surface and waiting, were **two pale yellow-white fuzzy sprout tips**. **First Babiana emergence — Day 2 of the May 11–18 window.**
+
+The crust diagnosis came together from there. **Stuttgart tap water is hard** — high in calcium and magnesium carbonates. Over weeks of watering and evaporation, those minerals get pulled to the soil surface via capillary wicking and deposit there as a fine crystalline crust. Baboon's pot, being roughly twice the volume of each Brodiaea pot, had more soil column to wick through and was watered with slightly more volume each time — more wicking cycles, more deposit, more crust. The surface scrape today exposed actual **crystalline grains visible against the freshly disturbed darker soil**.
+
+The hypothesis that the crust could be mechanically blocking emergence wasn't proven definitively (timing alone isn't proof), but the validation was striking enough to become a **permanent protocol: scrape every 3–4 weeks during active growth.**
+
+**Sprout ID protocol — locked in:**
+
+| Bulb | Sprout appearance |
+|------|-------------------|
+| **Babiana** (Baboon) | Pale yellow-white, fuzzy texture |
+| **Brodiaea** (Big + Lil Sissy) | Bright green, smooth |
+
+#### 4 — Goldy + Frosty — spring flush, latent buds, aerial rootlet initials
+
+Goldy and Frosty got a thorough Euonymus check. Both plants are doing the **spring flush** — new leaf clusters at stem tips, new pale-lime growth visible, **latent buds clearly forming at leaf nodes** along the stems. The closer photos also showed something more interesting: **thorny brown protrusions along the stems**, distinct from the leaf-axil buds. Those are **aerial rootlet initials** — Euonymus fortunei is a climber by nature, even when grown as a tidy shrub in a pot. Goldy and Frosty are genetically prepared to attach themselves to a wall and climb 5 meters; they just don't have a wall, so the rootlets stay dormant. Real Master Gardener moment: **noticing the plant's evolutionary strategy still expressed even when the environment doesn't require it.**
+
+#### 5 — Three lavenders, three personalities
+
+The lavender check was the headline.
+
+| Lavender | Status (Day 6 post-repot for Itchy + Scratchy) |
+|----------|------------------------------------------------|
+| **Lovely** (established) | ~15–20 spikes, vertical vase-shaped habit, peak bloom developing |
+| **Itchy** | ~12–15 spikes, bushy/spreading habit |
+| **Scratchy** | ~8–10 spikes including 3 leaders, more upright habit reminiscent of established Lovely |
+
+Itchy and Scratchy came from the same nursery 4-pack, same repot date, same care, but they're **visibly different growth strategies**. They came from the same nursery pot but already had separate root systems — so this isn't a clonal experiment, it's **two distinct individuals expressing their own developmental personalities**. Real variation, real observation, real data.
+
+**Pinching decision — the clean "plant-first" treatment:**
+
+- **Lovely (established):** bloom freely, deadhead post-bloom.
+- **Itchy + Scratchy (Year 1):** **pinch all spikes** this week to redirect energy into root and woody-base development for the long game (3–5 productive seasons ahead).
+
+Today was about deciding. Execution this week.
+
+#### 6 — Sempervivum: chicks multiplying, Side Chicks blooming (and dying)
+
+**Chicks pot** — three mother rosettes producing **15–20 chicks between them**, the colony multiplying as designed.
+
+**Side Chicks pot** — the cobweb variety (**S. arachnoideum**) is sending up **5–6 flower stalks**. Sempervivum is **monocarpic**: each rosette flowers exactly once, at the end of its life, and dies after blooming. The five-or-six rosettes pushing stalks will brown and die over the next 4–8 weeks. **The chicks they already produced will replace them.** Net colony: expanding, not shrinking. **Let them bloom — the pollinators will love it.**
+
+#### 7 — Indoor seedlings — humming along
+
+The seedling station continues humming. **Cosmos toddlers in T1 at the multi-leaf stage**, zinnias filling in nicely, **T2 still at cotyledon-plus-first-true-leaves**. Color reads pale-yellow-green under the grow lights, but the morning natural-light check confirms deep green — the camera is misrepresenting the spectrum, not the plants. Light height maintained at 15–20 cm clearance above the tallest tips, no legginess.
+
+#### 8 — Outdoor transplant plan takes shape
+
+The session closed with outdoor transplant planning — not finalized today, but the structure took shape:
+
+- **Mixed configuration likely** — some single-species pots, some mixed cosmos/zinnia, distributed across railing + Mediterranean-adjacent + a new floor zone.
+- **Soil ordered from Amazon** (Compo Sana in bigger volumes, delivered to the door, sparing Michael the 140L OBI carry).
+- **Pots in-person at TEDi/OBI.**
+- **Execution post-trip, around May 27.**
+
+The **spare-soil rule** got reconfirmed: keep extra, because Goldy and Frosty's repot fix last week used up every drop of the 14L surplus.
+
+#### 9 — Quiet days note
+
+A note for the record: the **last few days were quieter on the documentation side**. Bare-minimum care continued — checking the seedlings, doing the fertilizer feed — but logging fell off. That's fine. **Bare-minimum care is still care.** Days like that happen and the plants don't notice the missing photos.
+
+#### Photo log — pending upload
+
+- Lil Sissy two new sprouts close-up — pale tips emerging at previously dormant corm sites
+- Baboon first emergence — two pale yellow-white fuzzy tips after surface crust removal
+- Lil Sissy wider view — established cluster on left, new tips center and right
+- Baboon soil surface after scrape — crystalline calcium deposits visible against fresh soil
+- Goldy and Frosty wide shot — variegated foliage and spring flush context
+- Frosty close-up — leaf axil buds and white variegation pattern
+- Goldy close-up — new lime-yellow leaf clusters at stem tips
+- Goldy stem detail — latent buds + aerial rootlet initials on stems
+- Frosty stem detail — paired leaf nodes with bud development
+- Pinky and Gilly hanging planters — peak post-feed bloom density
+- Itchy lavender — flower spikes pre-bloom, bushy spreading habit
+- Scratchy lavender — flower spikes with 3 tall leaders, upright habit
+- Lovely lavender — peak spike count, vertical vase-shaped habit
+- Chicks pot — three mother rosettes plus 15–20 chick rosettes
+- Side Chicks pot — cobweb Sempervivum with 5–6 monocarpic flower stalks visible
+- Seedling station wide — T1 + T2 merged under multi-arm grow light array
+- T1 cosmos close-up — toddler stage, multi-leaf dissected foliage
+- T2 zinnias front row — cotyledons plus first true leaves, "2" sticker labels visible
+
+#### Next care notes
+
+**Pinky + Gilly (Dianthus):**
+- Next feed Thursday May 28 (post-trip), half-strength combined with cosmos/zinnia
+- Monitor bloom, deadhead spent flowers as needed
+- Capillary mat for trip May 20–25
+- Blumat spike 1.5L per pot during trip
+
+**Big Sissy + Lil Sissy (Brodiaea):**
+- No watering needed — soil moisture from rains adequate
+- **Surface scrape maintenance every 3–4 weeks** if hard-water crust appears
+- Watch for continued staggered emergence at remaining dormant corm sites
+- Blumat spike 1L each during trip
+
+**Baboon (Babiana):**
+- **First emergence confirmed** — monitor next 48 hours for greening and elongation
+- Watch for additional tips emerging from other corms (continued staggered emergence likely)
+- Hard-water crust now removed — scrape maintenance every 3–4 weeks going forward
+- Blumat spike 1L during trip
+
+**Goldy + Frosty (Euonymus):**
+- Continue spring flush observation — no action needed
+- No fertilizer Year 1 (fresh Sana built-in)
+- No spike for trip; minimal water needs during 5-day absence
+- Pinching deferred indefinitely (Emma's preference, plant-health acceptable)
+
+**Lovely (lavender, established):**
+- Bloom freely, no pinching
+- Deadhead post-bloom and light shape prune (4–6 weeks out)
+- No water unless finger-test confirms dry at 3 cm
+
+**Itchy + Scratchy (Year 1 lavender, Day 6 post-repot):**
+- **PINCH ALL FLOWER SPIKES THIS WEEK** — base of stem, just above topmost leaf pair
+- Finger-test soil before next watering; light drink (~250–300 ml each) if bone dry, otherwise wait
+- Monitor crowns staying above soil — top up dry Kakteenerde if settled
+
+**Chicks + Side Chick (Sempervivum):**
+- No action — colony multiplying as designed
+- **Monitor Side Chicks cobweb monocarpic event over next 4–8 weeks** (rosettes will bloom and die, chicks replace)
+- Last water May 10 — next when outer leaves slightly deflate (likely 2+ weeks out)
+
+**Chocolate Mint:**
+- No special action — continue current water rhythm
+
+**T1 + T2 Seedlings (indoor):**
+- Continue 12 h light cycle, lights 15–20 cm above tallest
+- Capillary mat trial May 13–14
+- Capillary mat full deployment May 20–25
+- Outdoor hardening starts ~May 27 (post-trip)
+- Outdoor transplant target ~early June
+
+**Nook (COBRA, PHYLLIS, MACHALI):**
+- **PHYLLIS** next watering window May 11–14 (Day 11 today, soon)
+- **MACHALI** next watering window May 17–20 (during trip — pre-trip top-up planning)
+- **COBRA** next watering window May 20–23 (during trip — pre-trip top-up planning)
+- June diluted feed scheduled
+
+**Outdoor transplant prep (Cosmos/Zinnia future):**
+- Order Compo Sana from Amazon this week (~140L, pre-trip delivery)
+- Stake out final container strategy with Michael before May 20
+- Pre-trip OBI/TEDi run for outdoor pots
+- Post-trip execution ~May 27+
+
+**Trip prep status (May 20–25, T-8 days):**
+- Capillary mat dry-run tomorrow May 13
+- Blumat spike installation pre-departure
+- Mediterranean + Euonymus + Mint: shelter under balcony ceiling during absence
+- No fertilizer in the week before departure
+
+> Session 20 stacks more firsts in one morning than any session in weeks: first Babiana emergence, the hard-water crust diagnostic, two distinct lavender personalities at Day 6, aerial rootlet initials on Goldy + Frosty, and a monocarpic flowering event quietly underway on the Side Chicks. The garden didn't slow down during the quiet documentation days — she was just waiting for someone to look closely.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1653,17 +1837,31 @@ Tray 1 and Tray 2 stay descriptive until the seedlings prove they're going to ma
 - Full plant naming roster locked in — every plant in the garden has a name and a zone (May 4)
 - New lavender pair (Itchy + Scratchy) staged for 24 hr post-transport rest before May 5 repot (May 4)
 - Patio corner tree hunt — switched from OBI to a proper Baumschule, deferred to autumn / next spring with Michael (May 4)
+- Itchy + Scratchy repot completed — 2+2 split into square grey pots, 60/40 Kakteenerde/Sana (May 5)
+- Pinky + Gilly pre-trip half-strength feed — 75ml each via syringe, no runoff (May 11)
+- Lil Sissy two new sprouts confirmed — staggered emergence continuing (May 11)
+- **Baboon FIRST EMERGENCE** — 2 pale yellow-white fuzzy tips revealed after dry crust scrape (May 12)
+- Hard-water surface crust diagnostic + 3–4 week scrape maintenance protocol established (May 12)
+- Babiana vs. Brodiaea sprout ID protocol confirmed (Babiana fuzzy yellow-white; Brodiaea smooth green) (May 12)
+- Pinky + Gilly peak bloom density 24 hr post-feed — fertilizer technique validated (May 12)
+- Goldy + Frosty spring flush + latent bud + aerial rootlet initials documented (May 12)
+- Itchy logged at ~12–15 spikes, bushy/spreading habit; Scratchy at ~8–10 spikes with 3 leaders, upright habit (May 12)
+- Pinching decision locked: Lovely free-bloom + deadhead, Itchy + Scratchy pinch all spikes Year 1 (May 12)
+- Chicks colony multiplying — 3 mothers producing 15–20 chicks (May 12)
+- Side Chicks monocarpic flowering event flagged — 5–6 stalks on S. arachnoideum, 4–8 wk bloom-and-die cycle (May 12)
+- Indoor seedlings healthy — T1 multi-leaf, T2 cotyledon+first true leaves, lights at 15–20 cm clearance, no legginess (May 12)
+- Outdoor transplant strategy framed — mixed config, Amazon Compo Sana pre-order, post-trip execution ~May 27 (May 12)
 
 ### In Progress
-- Tray 1 recovering — pale color shifting greener, watching for further pigmentation rebound
-- Tray 2 in open-air nursery phase — 18/18 up, first true leaves emerging, pot-up readiness ~May 8
-- Dianthus feeding cycle: next feed ~mid-May, every 2–3 weeks through bloom season
-- Brodiaea both pots active — Pot 2 at 5 shoots, Pot 1 holding at 1, monitoring development
-- Babiana Day 13, no growth yet — expected germination May 11–18
+- Tray 1 cosmos toddlers at multi-leaf stage; Tray 2 still cotyledon + first true leaves — lights at 15–20cm clearance
+- Dianthus feeding cycle: next feed Thursday May 28 (post-trip), syringe technique validated
+- Brodiaea both pots active — Pot 2 multi-shoot cluster, Pot 1 (Lil Sissy) at 2+ new tips, staggered emergence continuing
+- **Baboon (Babiana) first emergence — monitor next 48 hr for greening + further tips at other corms**
 - Machali (Aloe variegata) flower spike + 2 pups developing — weekly photo tracking
 - Phyllis (mini pineapple) — 5 pups developing, soil-only watering until fruit ripens
-- Wed May 6 — close seedlings room window overnight (forecast low 8°C)
-- Itchy + Scratchy resting 24 hr post-transport — repot scheduled May 5 (2+2 split, square grey pots)
+- Itchy + Scratchy Day 6 post-repot — pinch all flower spikes this week
+- Side Chicks monocarpic bloom cycle running — 5–6 stalks, 4–8 wk to die-off, chicks already in place
+- Trip prep T-8 days — capillary mat dry-run May 13, Blumat installation pre-departure
 
 ### Not Yet Started
 - Pre-trip shopping: Blumat carrots, timer plug (before May 20)
@@ -1769,4 +1967,4 @@ Tray 1 and Tray 2 stay descriptive until the seedlings prove they're going to ma
 
 ---
 
-*Last updated: May 4, 2026*
+*Last updated: May 12, 2026*
