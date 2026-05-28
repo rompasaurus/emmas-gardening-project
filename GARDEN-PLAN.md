@@ -28,7 +28,7 @@ APRIL 2026          MAY 2026              JUNE 2026           JULY–SEPT 2026
 
 - [x] **Plant Brodiaea bulbs** in both gray railing planters (8–10 bulbs each, 8–10 cm deep)
 
-![Brodiaea bulbs nestled into the soil — these little guys will be violet-blue stars by June!](pictures/05-brodiaea-bulbs-placed.jpg)
+![Brodiaea bulbs nestled into the soil — these little guys will be violet-blue stars by June!](pictures/05-20260415-brodiaea-bulbs-placed.jpg)
 - [x] **Buy seed trays** at OBI or Bauhaus — got an 18-cell tray with humidity lid!
 - [x] **Start cosmos seeds indoors** (9 cells) — sown ~1cm deep in Compo Bio soil, misted, lid on, windowsill
 - [x] **Start zinnia seeds indoors** (9 cells) — sown ~1cm deep, same method as cosmos
@@ -265,7 +265,7 @@ The balcony is now a year-round project — each large pot built around an **eve
 
 ---
 
-![The full soil lineup — know your bags! Brown bag = good for flowers, white bag = orchids only!](pictures/01-the-supply-haul.jpg)
+![The full soil lineup — know your bags! Brown bag = good for flowers, white bag = orchids only!](pictures/01-20260415-the-supply-haul.jpg)
 
 ## Soil Guide — What to Use Where
 

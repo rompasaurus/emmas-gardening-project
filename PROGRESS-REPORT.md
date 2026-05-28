@@ -101,7 +101,12 @@ permalink: /PROGRESS-REPORT
 | May 12, 2026 | Side Chicks — monocarpic flowering event flagged (5–6 stalks on S. arachnoideum) | Done (observation) |
 | May 12, 2026 | Chicks — 3 mother rosettes producing 15–20 chicks; colony multiplying as designed | Done (observation) |
 | May 12, 2026 | Outdoor transplant strategy framed — mixed config, Amazon Compo Sana pre-order, post-trip execution ~May 27 | Done (decision) |
-| May 26–28, 2026 | Transplant seedlings outdoors (delayed from May 15 for travel) | Upcoming |
+| May 28, 2026 | **Side Chick FIRST BLOOM** — Sempervivum star-shaped pink flower opened, monocarpic death bloom event (opening day catch) | Done (milestone) |
+| May 28, 2026 | Hardening off Day 3 — both trays outdoors, zinnias upright in shade, cosmos catching direct sun, stems thickening | Done |
+| May 28, 2026 | Soil arrived a day early; bamboo stakes expected today; four 52L TEDi bins ready | Done |
+| May 28, 2026 | Dianthus fertilizer tonight — Compo BIO half strength (6ml/1.5L), 750ml per pot, Pinky + Gilly only | Upcoming |
+| May 28, 2026 | First gentle direct-sun exposure for zinnias (late afternoon, 1–2 hr, watch for wilt) | Upcoming |
+| May 29, 2026 | Transplant Tray 1 into four 52L bins (evening cool, 10–12cm spacing, sunny terrace edges) | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
 | July–August 2026 | Plan fall/winter sowing | Upcoming |
@@ -132,9 +137,9 @@ Session ended with Emma ready to get started. The adventure begins!
 
 Emma shared photos of all her supplies. The following were identified and catalogued:
 
-![The full supply haul — three kinds of soil, ready to figure out which ones to actually use](pictures/01-the-supply-haul.jpg)
+![The full supply haul — three kinds of soil, ready to figure out which ones to actually use](pictures/01-20260415-the-supply-haul.jpg)
 
-![Every seed packet and the brodiaea bulbs, spread out on the table like a gardener's game plan](pictures/02-seeds-and-bulbs-lineup.jpg)
+![Every seed packet and the brodiaea bulbs, spread out on the table like a gardener's game plan](pictures/02-20260415-seeds-and-bulbs-lineup.jpg)
 
 **Seeds:**
 - Cosmos (Schmuckkörbchen) — full sun, start indoors, transplant after May 15
@@ -146,7 +151,7 @@ Emma shared photos of all her supplies. The following were identified and catalo
 
 **Supplies identified:**
 
-![The gray railing planters — wavy, sturdy, and about to become the brodiaea's new home](pictures/03-railing-planters-ready.jpg)
+![The gray railing planters — wavy, sturdy, and about to become the brodiaea's new home](pictures/03-20260415-railing-planters-ready.jpg)
 
 - 2 gray railing planters (double hook style)
 - Compo Bio Anzucht- und Krautererde (brown bag) — main seed starting soil
@@ -161,11 +166,11 @@ Emma shared photos of all her supplies. The following were identified and catalo
 
 **Achievement unlocked: Brodiaea Bulbs Planted!**
 
-![Both planters on the balcony, filled with soil and the pink trowel ready for action](pictures/04-planters-filled-with-soil.jpg)
+![Both planters on the balcony, filled with soil and the pink trowel ready for action](pictures/04-20260415-planters-filled-with-soil.jpg)
 
-![Holes dug and waiting — each one a future flower's front door](pictures/06-holes-ready-for-bulbs.jpg)
+![Holes dug and waiting — each one a future flower's front door](pictures/06-20260415-holes-ready-for-bulbs.jpg)
 
-![The brodiaea bulbs placed on the soil — little golden-brown promises of violet-blue summer blooms](pictures/05-brodiaea-bulbs-placed.jpg)
+![The brodiaea bulbs placed on the soil — little golden-brown promises of violet-blue summer blooms](pictures/05-20260415-brodiaea-bulbs-placed.jpg)
 
 Both gray railing planters were filled with brodiaea bulbs during this session — approximately 8–10 bulbs per planter, placed 8–10 cm deep. These will bloom June through August.
 
@@ -189,7 +194,7 @@ Each plant to be separated into its own pot with Compo Bio soil.
 
 Michael helped Emma set up the seed starting station today. A brand new **18-cell seed tray** was unboxed — it comes in three sections of six cells each, with a clear plastic humidity lid to keep things warm and moist while the seeds germinate.
 
-![The full sowing station — 18-cell tray filled with soil, seed packets open, scissors and trowels at the ready. This is what Day 2 looks like!](pictures/07-seed-tray-sowing-station.jpg)
+![The full sowing station — 18-cell tray filled with soil, seed packets open, scissors and trowels at the ready. This is what Day 2 looks like!](pictures/07-20260416-seed-tray-sowing-station.jpg)
 
 **The plan:** 9 cells for cosmos, 9 cells for zinnias. A clean 50/50 split.
 
@@ -201,11 +206,11 @@ Michael helped Emma set up the seed starting station today. A brand new **18-cel
 5. Covered lightly with soil — no hard pressing on top
 6. Sprayed everything down with the spray bottle until evenly moist
 
-![The tray and spray bottle sitting on the table before filling — 18 cells of potential and a humidity lid ready to create a little greenhouse](pictures/08-tray-and-spray-bottle-ready.jpg)
+![The tray and spray bottle sitting on the table before filling — 18 cells of potential and a humidity lid ready to create a little greenhouse](pictures/08-20260416-tray-and-spray-bottle-ready.jpg)
 
 **Placement:** The tray went straight to a bright indoor windowsill with the humidity lid on top. The lid stays on until the first sprouts peek through, then it comes off to let air circulate. Expected germination: **5–10 days** — could see the first tiny green shoots by April 21–26!
 
-![The seed tray on the windowsill with the humidity lid ready — a mini greenhouse with a view. Now we wait!](pictures/09-tray-on-windowsill.jpg)
+![The seed tray on the windowsill with the humidity lid ready — a mini greenhouse with a view. Now we wait!](pictures/09-20260416-tray-on-windowsill.jpg)
 
 **The lavender decision:** After some consideration, the lavender seeds were set aside for a future season. The reasons make sense — lavender needs cold stratification (2–4 weeks in the fridge before sowing), has slow germination (another 2–4 weeks), and the timing was just too tight to get viable seedlings before the May 15 transplant date. The seeds will keep! If Emma wants lavender on the balcony this summer, a starter plant from the garden center is the way to go.
 
@@ -226,21 +231,21 @@ Today was a big day. Michael and Emma hit OBI with a plan to grab some long pots
 - 2x **Pink dianthus** — cheerful, low-maintenance summer bloomers
 - **17L bag of brown Compo** (Qualitats-Blumenerde) — the good stuff, and plenty of it this time!
 
-![The gift flower arrangement in full spring glory — daffodils reaching for the sky, red ranunculus popping, pansies and primrose filling in the gaps, forget-me-nots adding that perfect blue touch — with the pink dianthus sitting pretty next to it](pictures/10-gift-arrangement-and-dianthus.jpg)
+![The gift flower arrangement in full spring glory — daffodils reaching for the sky, red ranunculus popping, pansies and primrose filling in the gaps, forget-me-nots adding that perfect blue touch — with the pink dianthus sitting pretty next to it](pictures/10-20260417-gift-arrangement-and-dianthus.jpg)
 
 **What got planted:**
 
 The **Babiana bulbs** (15-pack!) went into the **53cm hanging planter** — one of the gray railing-style planters. Holes were dug, bulbs were dropped in, and everything got a good watering. These will bloom in late spring to summer with stunning purple-blue and white flowers.
 
-![The Babiana bulb packet held over the railing planter — 15 bulbs of "Mischung" (mixed colors) ready to be tucked into their new home, planting holes already dug and waiting](pictures/12-babiana-bulbs-planting.jpg)
+![The Babiana bulb packet held over the railing planter — 15 bulbs of "Mischung" (mixed colors) ready to be tucked into their new home, planting holes already dug and waiting](pictures/12-20260417-babiana-bulbs-planting.jpg)
 
 **Basil** got its own 27cm TEDI pot and is already looking lush and bushy on the balcony. Key care tip: pinch the top leaves regularly to keep it bushy and delay flowering — once basil flowers, the leaves turn bitter.
 
-![Fresh basil in its new black TEDI pot on the balcony — those big green leaves are just begging to be turned into pesto or tossed on a caprese salad](pictures/13-basil-potted.jpg)
+![Fresh basil in its new black TEDI pot on the balcony — those big green leaves are just begging to be turned into pesto or tossed on a caprese salad](pictures/13-20260417-basil-potted.jpg)
 
 **Chocolate mint** also got its own solo pot — and this is important, because mint is the plant world's most aggressive roommate. It sends out runners and will absolutely strangle anything sharing its pot within a month. Solo living only!
 
-![Chocolate mint in its own black pot, right where it belongs — alone. Those dark-tinged leaves smell incredible and this one's going to fill out fast](pictures/11-chocolate-mint-potted.jpg)
+![Chocolate mint in its own black pot, right where it belongs — alone. Those dark-tinged leaves smell incredible and this one's going to fill out fast](pictures/11-20260417-chocolate-mint-potted.jpg)
 
 **The dianthus** are waiting for a smaller hanging planter — shopping trip planned for tomorrow (April 18). They'll want full sun, well-draining soil, and regular deadheading to keep the pink blooms coming all summer.
 
@@ -280,7 +285,7 @@ Step-by-step walkthrough:
 6. **Water in** — slow thorough soak until water drained out the bottom
 7. **Mount & place** — hooked onto the sunny railing alongside the brodiaea planters
 
-![The two pink dianthus settled into their new €4 gray TEDI saddle planter, mounted on the sunny railing with a view over the Stuttgart rooftops](pictures/14-dianthus-planted-on-railing.jpg)
+![The two pink dianthus settled into their new €4 gray TEDI saddle planter, mounted on the sunny railing with a view over the Stuttgart rooftops](pictures/14-20260418-dianthus-planted-on-railing.jpg)
 
 Spacing on point, crowns at the right height, freshly watered, and now catching full afternoon sun — exactly what dianthus want for continuous summer blooms.
 
@@ -288,11 +293,11 @@ Spacing on point, crowns at the right height, freshly watered, and now catching 
 
 Emma's ordered expandable garden hose arrived and got installed on the balcony wall. Green hose with a black protective sleeve, multi-pattern spray nozzle, brass fittings, mounted to the wall hanger for clean storage between waterings. No more hauling watering cans back and forth from the kitchen sink.
 
-![The new expandable garden hose mounted on the balcony wall — green hose, multi-pattern spray nozzle, brass fittings, all tucked neatly on its wall hanger](pictures/15-hose-installed.jpg)
+![The new expandable garden hose mounted on the balcony wall — green hose, multi-pattern spray nozzle, brass fittings, all tucked neatly on its wall hanger](pictures/15-20260418-hose-installed.jpg)
 
 First job for the new hose: cleaning down the balcony workstation. The tiled floor got a proper hose-down — no more soil dust, potting debris, or stray leaves around the staging area.
 
-![The freshly hosed-down workstation — wet tiles, clean corners, the supply crate sitting ready on its stand. A tidy base for the next planting session](pictures/16-workstation-cleaned.jpg)
+![The freshly hosed-down workstation — wet tiles, clean corners, the supply crate sitting ready on its stand. A tidy base for the next planting session](pictures/16-20260418-workstation-cleaned.jpg)
 
 **Current balcony state after today:**
 - Brodiaea — 2 gray railing planters
@@ -313,15 +318,15 @@ First job for the new hose: cleaning down the balcony workstation. The tiled flo
 
 Emma peeked at the windowsill tray this morning and there they were — **tiny yellow-green seedlings** pushing through the soil in several cells, curled cotyledons breaking free. Sown on April 16, so today is **Day 3 post-sow** — ahead of the 5–10 day window and a sign that the humidity dome + bright windowsill combo is working exactly as intended.
 
-![First sprouts! Several cells of the 18-cell tray showing tiny yellow-green cotyledons pushing up through the soil — Day 3 after sowing cosmos and zinnias](pictures/17-first-sprouts.jpg)
+![First sprouts! Several cells of the 18-cell tray showing tiny yellow-green cotyledons pushing up through the soil — Day 3 after sowing cosmos and zinnias](pictures/17-20260419-first-sprouts.jpg)
 
 **Basil & mint update — replanted and improving!**
 
 Emma also checked in on the basil and mint today. Both were replanted and are looking noticeably healthier — the basil is pushing out lush, full leaves and the mint is sending up fresh bright green shoots. The replanting clearly agreed with them.
 
-![Basil after replanting — lush green leaves filling out the pot, soaking up the morning sun on the patio](pictures/18-basil-after-replanting.jpg)
+![Basil after replanting — lush green leaves filling out the pot, soaking up the morning sun on the patio](pictures/18-20260419-basil-after-replanting.jpg)
 
-![Mint after replanting — fresh bright green shoots pushing up through the soil, already reaching for the light](pictures/19-mint-after-replanting.jpg)
+![Mint after replanting — fresh bright green shoots pushing up through the soil, already reaching for the light](pictures/19-20260419-mint-after-replanting.jpg)
 
 **What we're looking at:** the first cotyledons (seed leaves) — not the "true" leaves yet, but the sign that germination is complete. Zinnias are known for quick germination (3–7 days) so these early risers are almost certainly zinnias. Cosmos usually take a few more days.
 
@@ -343,7 +348,7 @@ Emma also checked in on the basil and mint today. Both were replanted and are lo
 
 The cosmos and zinnia seeds sown on April 16 defied expectations. First sprouts appeared on April 19 — just 3 days after sowing, well ahead of the 5–10 day estimate. By this morning (April 20), approximately **70% of cells have visible sprouts**. They're green, standing upright, and showing no signs of legginess. Ahead of schedule!
 
-![~70% of cells sprouted — dome off, sprouts standing tall on the windowsill. The zinnia seed packet sits nearby as a proud reminder of where it all started](pictures/20-sproutlings-progress.jpg)
+![~70% of cells sprouted — dome off, sprouts standing tall on the windowsill. The zinnia seed packet sits nearby as a proud reminder of where it all started](pictures/20-20260420-sproutlings-progress.jpg)
 
 Emma headed straight to the sprouts first thing in the morning — full plant-parent mode activated. The soil was quite wet with heavy condensation on the dome, so the session focused on managing airflow and moisture.
 
@@ -370,7 +375,7 @@ Emma headed straight to the sprouts first thing in the morning — full plant-pa
 
 Day 7 of the garden, and the windowsill real estate is officially at capacity. Tray 2 got sown with a fresh batch of cosmos and zinnia for a staggered bloom window, an investigation of mystery sprouts in the bulb planters turned up some weeds, and the dual-head gooseneck LED grow light landed just in time.
 
-![Tray 1 seedlings under the new dual-head gooseneck grow light, with Tray 2 (dome on) beside it on the wooden dresser — the indoor nursery is fully operational](pictures/21-tray2-grow-light-setup.jpg)
+![Tray 1 seedlings under the new dual-head gooseneck grow light, with Tray 2 (dome on) beside it on the wooden dresser — the indoor nursery is fully operational](pictures/21-20260422-tray2-grow-light-setup.jpg)
 
 **Tray 2 — cosmos + zinnia succession sowing:**
 
@@ -430,7 +435,7 @@ Mint and basil are kept in separate pots. Mint lives in a shaded spot, deliberat
 
 **Dianthus — thriving in their saddle planter!**
 
-![The pink dianthus, full and blooming, in their 37×28cm gray saddle planter on the balcony railing — overlooking the Stuttgart rooftops](pictures/22-dianthus-hanging-planter.webp)
+![The pink dianthus, full and blooming, in their 37×28cm gray saddle planter on the balcony railing — overlooking the Stuttgart rooftops](pictures/22-20260423-dianthus-hanging-planter.webp)
 
 The two pink dianthus are looking great on the railing — full foliage, lots of unopened buds, vivid pink blooms. No watering today; it rained two days ago and dianthus prefer to dry out between waterings (soggy roots = trouble).
 
@@ -473,7 +478,7 @@ Candidate evergreens (Stuttgart zone 7, container-suitable):
 
 An afternoon at OBI to finalize plants and soil for the Nook (the granite-sill reading spot overlooking Stuttgart's rooftops). The original plan was snake plant + small aloe vera + mini pineapple. The snake plant and mini pineapple stayed on the list; the Aloe vera got swapped after seeing what was in stock.
 
-![The Nook, set up on the granite sill in afternoon light — snake plant 'Laurentii', Haworthia 'Safari', and mini pineapple in their nursery pots, waiting on proper pots from Amazon. Stuttgart rooftops in the distance](pictures/23-nook-plants-windowsill.webp)
+![The Nook, set up on the granite sill in afternoon light — snake plant 'Laurentii', Haworthia 'Safari', and mini pineapple in their nursery pots, waiting on proper pots from Amazon. Stuttgart rooftops in the distance](pictures/23-20260423-nook-plants-windowsill.webp)
 
 **Final plant selection:**
 
@@ -574,7 +579,7 @@ Pot specs to add to the Amazon order:
 
 Emma and Michael refined the Evergreen Project design and hit OBI with a serious shopping list. The haul was big: two variegated Euonymus shrubs, metallic grey NORA anchor pots, Compo Cactea soil, BIO flower fertilizer, bypass pruners, a measuring jug, and a mixing bucket. Most planting is deferred to tomorrow (Apr 25) when Michael brings additional soil — but the plan is locked in.
 
-![The full OBI haul spread out on the setup table — Compo Cactea bag, BIO Blumendünger, NORA anchor pots stacked, bypass pruners, measuring jug, and the big anchor pot ready to go](pictures/26-obi-haul-full-spread.jpg)
+![The full OBI haul spread out on the setup table — Compo Cactea bag, BIO Blumendünger, NORA anchor pots stacked, bypass pruners, measuring jug, and the big anchor pot ready to go](pictures/26-20260424-obi-haul-full-spread.jpg)
 
 **Key decisions made:**
 
@@ -583,7 +588,7 @@ Emma and Michael refined the Evergreen Project design and hit OBI with a serious
 - **Euonymus gets its own pots.** Initially considered joining the anchor pots, but Euonymus is a woody shrub (30-60cm spread) that would crowd out everything else and wants richer, more moisture-retentive soil. Separate pots it is.
 - **Basil pulled.** Not Emma's interest — was Michael's influence. Freed up two black pots (27x24cm) from the mint area, now repurposed as Euonymus pots. Matched pair = visual balance.
 
-![The two Euonymus fortunei in their nursery pots — golden-variegated on the left, white-variegated on the right, parked in partial shade on the balcony for acclimation](pictures/24-euonymus-pair-golden-and-white.jpg)
+![The two Euonymus fortunei in their nursery pots — golden-variegated on the left, white-variegated on the right, parked in partial shade on the balcony for acclimation](pictures/24-20260424-euonymus-pair-golden-and-white.jpg)
 
 **Fertilizer strategy — switched to BIO Blumendünger:**
 
@@ -591,13 +596,13 @@ Originally planned Compo Universal-Flüssigdünger. Switched to **Compo BIO Blum
 
 **Critical rule: Sempervivum — NEVER fertilize.** Feeding causes soft weak growth, washed-out colors (reds/purples/bronzes fade to bland green), leggy open rosettes, rot risk, and reduced winter hardiness. The Cactea soil's 8-week built-in nutrients are already more than they need.
 
-![The new Dianthus pair in nursery wraps next to the grey hanging planter on the workstation — ready for potting up tomorrow](pictures/25-new-dianthus-pair-and-hanging-planter.jpg)
+![The new Dianthus pair in nursery wraps next to the grey hanging planter on the workstation — ready for potting up tomorrow](pictures/25-20260424-new-dianthus-pair-and-hanging-planter.jpg)
 
 **Second grow light — intentional, not duplicate:**
 
 Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived today, so 5 goosenecks total give much better coverage than 2. Setup: 10-15cm above tallest seedlings, 16hr cycle, heads spaced evenly across the expanded tray footprint.
 
-![The dual Niello grow light setup — 5 goosenecks total arcing over the seed tray, seedlings visible in the cells below. Serious nursery energy!](pictures/27-dual-grow-lights-over-seedlings.jpg)
+![The dual Niello grow light setup — 5 goosenecks total arcing over the seed tray, seedlings visible in the cells below. Serious nursery energy!](pictures/27-20260424-dual-grow-lights-over-seedlings.jpg)
 
 **New tools:** OBI bypass pruners with orange safety-lock slider. Care: wipe blades after each use, engage safety lock when storing, occasional pivot oil, alcohol-disinfect between plants if one is diseased. Upcoming uses: deadheading Dianthus, trimming ratty Euonymus leaves, thinning seedlings at transplant.
 
@@ -621,7 +626,7 @@ Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived tod
 
 **Morning OBI run:**
 
-![~20L of Compo Sana Qualitäts-Blumenerde back from OBI, supply crate loaded up alongside the black pots that'll become the Euonymus's new home](pictures/28-the-big-haul-compo-sana.jpg)
+![~20L of Compo Sana Qualitäts-Blumenerde back from OBI, supply crate loaded up alongside the black pots that'll become the Euonymus's new home](pictures/28-20260425-the-big-haul-compo-sana.jpg)
 
 - ~20 L **Compo Sana Qualitäts-Blumenerde** — for the Euonymus and the Sempervivum anchor blend
 - 1× **Lavandula angustifolia** (OBI Grow line, €3.49) — healthy roots, already budding. One for now; scale later if it thrives.
@@ -629,11 +634,11 @@ Second Niello 3-head unit arrived as planned. Bigger cell trays also arrived tod
 
 #### 1 — Tray 1 potted up (cosmos + zinnia → 10 cm cells)
 
-![18 freshly-arrived 10 cm copper-pink propagation cups laid out on the patio table, ready for the cosmos and zinnia transplants](pictures/29-pot-up-cells-ready.jpg)
+![18 freshly-arrived 10 cm copper-pink propagation cups laid out on the patio table, ready for the cosmos and zinnia transplants](pictures/29-20260425-pot-up-cells-ready.jpg)
 
 The Amazon pot order showed up right on cue, and Tray 1 (sown April 16, leggy by Day 9) finally graduated. **24 cells worth** of cosmos and zinnia got transplanted into 10 cm cups — worked outside on the shaded patio table, which doubled as a soft hardening-off step.
 
-![18 of the transplants lined up on the patio worktable in the afternoon shade — leggy cosmos in the center, broader-cotyledon zinnia on the wings, ready to settle into their new individual pots](pictures/30-tray1-potted-up-patio.jpg)
+![18 of the transplants lined up on the patio worktable in the afternoon shade — leggy cosmos in the center, broader-cotyledon zinnia on the wings, ready to settle into their new individual pots](pictures/30-20260425-tray1-potted-up-patio.jpg)
 
 Identification on the table:
 
@@ -642,19 +647,19 @@ Identification on the table:
 
 After potting, everything went back inside under the dual grow light setup (now 5 goosenecks total since April 24):
 
-![Tray 1 transplants back on the windowsill bench under the dual grow lights — leggy stems already starting to look more anchored in their bigger pots](pictures/31-tray1-under-grow-light.jpg)
+![Tray 1 transplants back on the windowsill bench under the dual grow lights — leggy stems already starting to look more anchored in their bigger pots](pictures/31-20260425-tray1-under-grow-light.jpg)
 
 **Recovery plan:** lights raised / cut to 12 hr for the next 24–48 hr to let them recover from the transplant shock. **No water tomorrow** unless the surface is dry to the touch.
 
 #### 2 — Third dianthus pair → grey hanging planter
 
-![The third pink dianthus pair settled into their grey hanging planter on the railing — three matching dianthus planters now lined up along the rail, evening Stuttgart light on the building behind](pictures/32-dianthus-trio-railing.jpg)
+![The third pink dianthus pair settled into their grey hanging planter on the railing — three matching dianthus planters now lined up along the rail, evening Stuttgart light on the building behind](pictures/32-20260425-dianthus-trio-railing.jpg)
 
 The pair purchased April 24 went into their new grey hanging planter. Used leftover soil opportunistically (no point letting it go to waste). Watered in. **Three pink dianthus planters now run along the railing** — a beautiful repeating rhythm that ties the whole gray-pot lineup together.
 
 #### 3 — Euonymus fortunei → Zone A (short wall, black pots)
 
-![The Euonymus fortunei pair freshly potted in their black 27×24 cm ex-mint pots — golden-variegated on the left, white-variegated on the right, ready to anchor the Zone A short wall](pictures/33-euonymus-pair-black-pots.jpg)
+![The Euonymus fortunei pair freshly potted in their black 27×24 cm ex-mint pots — golden-variegated on the left, white-variegated on the right, ready to anchor the Zone A short wall](pictures/33-20260425-euonymus-pair-black-pots.jpg)
 
 Both Euonymus into the **freed-up black 27×24 cm ex-mint pots** (the ones repurposed when the basil was pulled on April 24). Straight Compo Sana — no Cactea blend, since Euonymus prefers regular potting mix. Same depth as the nursery pot, stems NOT buried, watered to runoff.
 
@@ -664,7 +669,7 @@ The matching pair: **golden-variegated + white-variegated** — the contrast wil
 
 #### 4 — Sempervivum (Hens & Chicks) → Zone B anchor pots
 
-![The two grey NORA anchor pots planted up with the Sempervivum 6-pack split across them — green rosettes, burgundy/purple, and S. arachnoideum (cobweb) finished with a full alpine rock top-dress](pictures/34-sempervivum-anchor-pots.jpg)
+![The two grey NORA anchor pots planted up with the Sempervivum 6-pack split across them — green rosettes, burgundy/purple, and S. arachnoideum (cobweb) finished with a full alpine rock top-dress](pictures/34-20260425-sempervivum-anchor-pots.jpg)
 
 The 6-pack split across **2 grey NORA anchor pots**, **40/60 Cactea/Sana blend** (per the soil tension resolved on April 24). Crowns kept at soil level — *never buried*. Full rock top-dress for the alpine garden look.
 
@@ -680,7 +685,7 @@ The remaining 2 NORA anchor pots stay reserved for the lavender (tomorrow) and t
 
 **The patio at the end of the day:**
 
-![The aftermath — workstation a cheerful mess, soil scattered across the tiles, lavender on the bench, the reading chair pushed aside. Emma called it a battlefield. Worth it.](pictures/35-patio-battlefield.jpg)
+![The aftermath — workstation a cheerful mess, soil scattered across the tiles, lavender on the bench, the reading chair pushed aside. Emma called it a battlefield. Worth it.](pictures/35-20260425-patio-battlefield.jpg)
 
 #### Final balcony zoning plan (locked in)
 
@@ -739,13 +744,13 @@ Tray 1 (sown April 16, potted up into 10cm cells April 25) is looking healthy on
 
 Tray 2 (sown April 22, dome day 4) has ~6 sprouts breaking through the soil. Dome condensation is healthy at this stage. The crack-the-dome sequence starts in 2–3 days: prop corner, half-off, off entirely over ~3 days.
 
-![Tray 2 on the windowsill, dome still on at day 4 — healthy condensation droplets on the inside, a few sprouts visible through the plastic, Stuttgart rooftops in the background](pictures/40-tray2-dome-day4-sprouts.jpg)
+![Tray 2 on the windowsill, dome still on at day 4 — healthy condensation droplets on the inside, a few sprouts visible through the plastic, Stuttgart rooftops in the background](pictures/40-20260426-tray2-dome-day4-sprouts.jpg)
 
 **Lavender planted!**
 
 Finally — **Lavandula angustifolia** goes in! The winter-hardy variety (skipped L. stoechas, which can't handle Stuttgart winters). Planted in a reserved grey pot on the Zone B sunny long wall. Soil mix: 60% OBI Kakteenerde / 40% Sana — slightly grittier than the Sempervivum blend because lavender wants even more drainage. Crown placed at/above the soil line (buried crown = rot, the #1 lavender killer). Top-dressed with the same 5–10mm gravel as the Sempervivum pots. Watered in once deeply. No fertilizer — lavender prefers lean soil.
 
-![The Zone B sunny wall lineup — Sempervivum anchor pots flanking the lavender in the center, all top-dressed with gravel against the white stucco wall](pictures/36-lavender-and-sempervivum-pots.jpg)
+![The Zone B sunny wall lineup — Sempervivum anchor pots flanking the lavender in the center, all top-dressed with gravel against the white stucco wall](pictures/36-20260426-lavender-and-sempervivum-pots.jpg)
 
 Initially placed in semi-shade out of transplant-stress habit, but Mediterranean plants don't actually need this. Moving to full Zone B sun in 1–2 days.
 
@@ -753,7 +758,7 @@ Initially placed in semi-shade out of transplant-stress habit, but Mediterranean
 
 The three Nook plants finally got out of their OBI nursery pots and into proper homes. Full repot session into the Amazon pots that arrived yesterday. Final arrangement (L → R): Sansevieria 'Laurentii' (12cm pot), Ananas nanus mini pineapple (12cm pot, center), Aloe variegata "Safari" tiger aloe (10–11cm pot). All pots have drainage mesh discs — they prevent soil washout and pest entry without impeding drainage. Soil: straight OBI Kakteen-und Bonsaierde torffrei.
 
-![Michael's Nook, repotted and final — snake plant, mini pineapple, and tiger aloe in matching white pots on the granite sill, Stuttgart rooftops through the window](pictures/37-nook-repotted-final.jpg)
+![Michael's Nook, repotted and final — snake plant, mini pineapple, and tiger aloe in matching white pots on the granite sill, Stuttgart rooftops through the window](pictures/37-20260426-nook-repotted-final.jpg)
 
 Care plan: no water for 5–7 days post-repot (root wounds need to callus). Direct sun is fine. Watch for leaf yellowing/mushiness. First watering ~May 1–3.
 
@@ -761,9 +766,9 @@ Care plan: no water for 5–7 days post-repot (root wounds need to callus). Dire
 
 Tile weeds tackled with the new Fugenkratzer (telescopic, modular heads, bought Apr 25). Combo strategy: pull toward you on dry joints, boiling water for stubborn deep roots, then scrape after 24–48 hours. Empty pots, soil bags, and tools organized. Chairs returned to position. The balcony is clean and ready for sitting season.
 
-![The balcony in full — Poäng chairs arranged, clean tiles, plants along the railing and wall, Stuttgart rooftops catching the afternoon light. This is the April 2026 baseline](pictures/38-balcony-cleaned-and-ready.jpg)
+![The balcony in full — Poäng chairs arranged, clean tiles, plants along the railing and wall, Stuttgart rooftops catching the afternoon light. This is the April 2026 baseline](pictures/38-20260426-balcony-cleaned-and-ready.jpg)
 
-![Panoramic view of the full terrace — the April 2026 baseline shot for comparing July growth](pictures/39-balcony-panorama-april-baseline.jpg)
+![Panoramic view of the full terrace — the April 2026 baseline shot for comparing July growth](pictures/39-20260426-balcony-panorama-april-baseline.jpg)
 
 **Travel plan — May 20–25 (5 days):**
 
@@ -781,7 +786,7 @@ Day 12 of the garden. Morning check turned into a full balcony walk-through — 
 
 **Tray 2 — dome OFF entirely:**
 
-![Tray 2 with dome removed — 16 of 18 cells germinated by Day 5, cotyledons fully open, goosenecks arcing overhead, Stuttgart skyline through the window](pictures/41-tray2-dome-off.jpg)
+![Tray 2 with dome removed — 16 of 18 cells germinated by Day 5, cotyledons fully open, goosenecks arcing overhead, Stuttgart skyline through the window](pictures/41-20260427-tray2-dome-off.jpg)
 
 16 of 18 cells germinated by Day 5 — the two laggards may still pop in the next 2–3 days, but the dome's job is officially done. Cotyledons fully open, cells evenly tall (cosmos at one height, zinnia at another, no legginess within either group). Lights holding at 10–15cm.
 
@@ -789,7 +794,7 @@ The dome had to come off for two reasons: damping-off risk (trapped humidity + w
 
 **Tray 1 — true leaves emerging:**
 
-![Tray 1 in 10cm cups under the grow lights — zinnias (right, broader leaves) clearly pushing their first true leaves between the rounded cotyledons, cosmos (left, narrow leaves) showing the same](pictures/42-tray1-true-leaves.jpg)
+![Tray 1 in 10cm cups under the grow lights — zinnias (right, broader leaves) clearly pushing their first true leaves between the rounded cotyledons, cosmos (left, narrow leaves) showing the same](pictures/42-20260427-tray1-true-leaves.jpg)
 
 Day 11 from sow, Day 2 post-pot-up. The zinnias are clearly pushing their first true leaves — the pointed pair emerging between the rounded cotyledons. Cosmos showing the same on most pots. Color is deep green throughout — no purpling, no yellowing, photosynthesis ramping up.
 
@@ -818,7 +823,7 @@ The cracked window above the trays remains a hard NO — cold downdraft risk too
 
 **Dianthus first feed — Compo BIO Blumendunger:**
 
-![Dianthus in their grey hanging planter on the railing, full of pink blooms, with the Compo BIO Blumendunger bottle balanced on the rail — first feed day](pictures/43-dianthus-first-feed.jpg)
+![Dianthus in their grey hanging planter on the railing, full of pink blooms, with the Compo BIO Blumendunger bottle balanced on the rail — first feed day](pictures/43-20260427-dianthus-first-feed.jpg)
 
 Half-strength application across both pots. Mix: 5ml per 1L water (= 10ml in 2L). Soil already moist — no plain pre-water needed. Watered at soil level, avoided splashes on leaves and flowers. Used the full 2L same-day (organic feed can ferment if it sits). Expect a flower flush within 10–14 days. Repeat every 2–3 weeks through bloom season.
 
@@ -846,21 +851,21 @@ Day 14 of the garden. The toddlers (sown Apr 16, potted up Apr 25) hit Day 3 in 
 
 **Tray 1 — the hard part:**
 
-![Tray 1 toddlers under lights, pre-thin — morning sun coming through the balcony window, Tray 2 cells visible in the foreground](pictures/44-tray1-toddlers-pre-thin.png)
+![Tray 1 toddlers under lights, pre-thin — morning sun coming through the balcony window, Tray 2 cells visible in the foreground](pictures/44-20260428-tray1-toddlers-pre-thin.png)
 
 The rule is simple but emotionally real: one keeper per cell, weakest snipped at soil line — never pulled, because pulling disturbs the keeper's roots. A few cells had three sprouts; some had two; the call was to thin all multiples down to one for cleanest outcome and full root volume per keeper.
 
 Selection criteria: cosmos = reddest stem (Bipinnatus pigment correlates with vigor) + least leggy. Zinnia = biggest true leaves + greenest stem. Snipped at soil line with the OBI bypass pruners (alcohol-swabbed and fully dried before use).
 
-![The thinned ones laid out on the bench — they did their job, they confirmed the keepers were the strongest](pictures/45-thinned-seedlings-bench.png)
+![The thinned ones laid out on the bench — they did their job, they confirmed the keepers were the strongest](pictures/45-20260428-thinned-seedlings-bench.png)
 
-![Tray 1 post-thinning, top-down — each cell now holds one strong keeper with full root volume to claim](pictures/46-tray1-post-thinning-topdown.png)
+![Tray 1 post-thinning, top-down — each cell now holds one strong keeper with full root volume to claim](pictures/46-20260428-tray1-post-thinning-topdown.png)
 
 **Tray 2 — Day 6, settling in:**
 
 The babies (sown Apr 22, dome off Apr 27) are settling into open air well. Final germination: 17 of 18. One no-show — normal attrition, not a concern. Color and heights uniform across the tray with one mild stretcher (genetic, not a concern). Light dropped from 15cm to 10cm to encourage compact growth now that humidity is no longer in play.
 
-![Tray 2 babies — cotyledons open, even green, settling into open air under the gooseneck lights](pictures/47-tray2-babies-cotyledons.png)
+![Tray 2 babies — cotyledons open, even green, settling into open air under the gooseneck lights](pictures/47-20260428-tray2-babies-cotyledons.png)
 
 **Capillary mat — received and banked:**
 
@@ -921,13 +926,13 @@ Tile-joint weed cleanup completed with the Fugenkratzer telescopic scraper. Zone
 
 Quick check on the Nook plants potted up on April 26. Snake plant and mini pineapple holding fine in their respective 12 cm pots, no-water window still in effect through ~May 1–3. The Haworthia "Safari" in its **white ceramic 10–11 cm pot** on the granite sill, however, had a surprise.
 
-![The Haworthia "Safari" sitting in its white ceramic pot on the granite sill — that white-speckled tiger pattern on the leaves popping in the afternoon sun, three days post-repot](pictures/48-haworthia-safari-potted-up.jpg)
+![The Haworthia "Safari" sitting in its white ceramic pot on the granite sill — that white-speckled tiger pattern on the leaves popping in the afternoon sun, three days post-repot](pictures/48-20260429-haworthia-safari-potted-up.jpg)
 
 **The discovery — a flower stalk!**
 
 Top-down inspection caught something that wasn't visible on the OBI shelf, on April 23 setup day, or even at the April 26 repot: a **flower stalk is emerging from the dead center of the rosette**. That little budded stem pushing up through the leaves means this Haworthia is gearing up to bloom — usually small tubular pink/white flowers on a long thin stalk, weeks-long display.
 
-![Top-down view of the Haworthia rosette — a flower stalk bud emerging from dead center between the leaves, ready to climb skyward over the coming weeks](pictures/51-haworthia-flower-stalk-top-down.jpg)
+![Top-down view of the Haworthia rosette — a flower stalk bud emerging from dead center between the leaves, ready to climb skyward over the coming weeks](pictures/51-20260429-haworthia-flower-stalk-top-down.jpg)
 
 **Care implications for a flowering Haworthia:**
 
@@ -941,11 +946,11 @@ The repot timing (Apr 26) didn't trigger this — the bud was almost certainly u
 
 #### 2 — Concern at the base — red circle investigation
 
-![Same shot with a red circle drawn around a base zone Emma flagged for a closer look — yellowing/dried tissue at the base of the rosette and what looks like fine root or fiber emerging](pictures/49-haworthia-base-concern-circled.jpg)
+![Same shot with a red circle drawn around a base zone Emma flagged for a closer look — yellowing/dried tissue at the base of the rosette and what looks like fine root or fiber emerging](pictures/49-20260429-haworthia-base-concern-circled.jpg)
 
 Emma circled an area at the base of the rosette to ask "is this a problem?" Close-up confirms it's:
 
-![Close-up of the base — yellowing leaf tip dried into a brown papery scrap, the new flower stalk visible behind, plus fine reddish-brown fibers from the surrounding nursery substrate](pictures/50-haworthia-base-detail-flower-stalk.jpg)
+![Close-up of the base — yellowing leaf tip dried into a brown papery scrap, the new flower stalk visible behind, plus fine reddish-brown fibers from the surrounding nursery substrate](pictures/50-20260429-haworthia-base-detail-flower-stalk.jpg)
 
 - **Yellowed/dried outer leaf tips** — the bottom-most leaves naturally die back as the rosette ages. Normal. Pull the fully papery ones off with a gentle tug; don't yank green tissue.
 - **Reddish-brown fibers** — coir/bark scraps from the original nursery substrate, not roots. Cosmetic only.
@@ -1022,7 +1027,7 @@ The yellow leaf was removed cleanly. No pests, no rot, just senescing foliage be
 
 A morning inspection revealed the zinnias looking pale yellow-green across the board. Cosmos in adjacent pots looked healthy. The paleness was uniform across all zinnias, which pointed away from nutrient or watering issues and toward an environmental cause.
 
-![Close-up of a Tray 1 cup — broad green cotyledons on a single keeper, fading toward pale at the leaf margins where the sun-plus-grow-light stack was bleaching the zinnia foliage](pictures/55-tray1-cup-closeup.png)
+![Close-up of a Tray 1 cup — broad green cotyledons on a single keeper, fading toward pale at the leaf margins where the sun-plus-grow-light stack was bleaching the zinnia foliage](pictures/55-20260430-tray1-cup-closeup.png)
 
 Working theory: **light bleaching** from the combination of direct window sun and the gooseneck grow lights running simultaneously. Zinnias are more sensitive to high-intensity light than cosmos, especially during the cotyledon-to-true-leaf transition. The cosmos handling the same conditions without stress confirmed the theory.
 
@@ -1044,23 +1049,23 @@ Notable observation: Tray 2 seedlings are visibly sturdier and tighter than Tray
 
 Everything in good shape; nothing needed watering today.
 
-![Zone A Euonymus pair — golden + white-variegated in their black pots on stands, decorative birds tucked in among the leaves, soil still moist from earlier in the week](pictures/53-euonymus-pair-with-decorative-birds.png)
+![Zone A Euonymus pair — golden + white-variegated in their black pots on stands, decorative birds tucked in among the leaves, soil still moist from earlier in the week](pictures/53-20260430-euonymus-pair-with-decorative-birds.png)
 
 - **Zone A Euonymus** (golden + white-variegated): Both healthy, vibrant color, soil still moist. Decorative birds added to the pots — small touches that turn the corner from "plants in pots" into "this space has personality."
 - **Zone B Sempervivum:** Got a small drink yesterday when soil was bone dry. Burgundy varieties showing their characteristic stress-color in full sun (healthy, not problematic). Cobweb variety webbing visible — another good sign.
 - **Zone B Lavender:** Flower buds forming on the spike tips. Hard to see in bright sun until you look closely. Should be in obvious bloom within a week or two.
 
-![Lavandula angustifolia in its grey pot against the white stucco wall, gravel top-dress around the crown, flower spikes forming buds at the tips](pictures/57-lavender-buds-forming.png)
+![Lavandula angustifolia in its grey pot against the white stucco wall, gravel top-dress around the crown, flower spikes forming buds at the tips](pictures/57-20260430-lavender-buds-forming.png)
 
 - **Dianthus:** Both railing pots thriving. The older pot wants deadheading — spent papery flowers visible along several stems. Saving deadheading for a calmer morning session.
 - **Babiana planter:** Day 10 post-planting, no surface activity yet. Normal — corms typically take 3–4 weeks for foliage emergence.
 - **Brodiaea Pot 2: first sprout!** Small bright green pointed shoot through the bark mulch. Day 14 post-planting, right on schedule. Pot 1 still nothing, also normal — Brodiaea corms can stagger emergence by 1–2 weeks within the same planting.
 
-![Top-down close-up of Brodiaea Pot 2 — bark mulch surface with a single bright green pointed shoot pushing through, Day 14 post-planting](pictures/56-brodiaea-pot2-first-sprout.png)
+![Top-down close-up of Brodiaea Pot 2 — bark mulch surface with a single bright green pointed shoot pushing through, Day 14 post-planting](pictures/56-20260430-brodiaea-pot2-first-sprout.png)
 
 - **Mint:** Half healthy, half doing nothing. Peak mint behavior. No intervention needed.
 
-![Wider terrace view — Poäng chairs on the artificial-grass mat, dianthus + euonymus pots along the railing and walls, Stuttgart rooftops behind. Spring outdoor setup visibly settled in](pictures/52-terrace-spring-baseline.jpg)
+![Wider terrace view — Poäng chairs on the artificial-grass mat, dianthus + euonymus pots along the railing and walls, Stuttgart rooftops behind. Spring outdoor setup visibly settled in](pictures/52-20260430-terrace-spring-baseline.jpg)
 
 #### 5 — TEDi run — trays and mats
 
@@ -1077,7 +1082,7 @@ The anti-slip mat solved the problem elegantly. Open mesh weave allows full airf
 
 The 5 Aumtrly clip-on lamps (BL-J20B, 2-pack ×2 + 1-pack ×1, **10 heads total**) arrived in the early evening Amazon window. After unboxing and verifying all units powered on, the table was relocated from the balcony window to a quieter, shaded interior corner — what is now officially **"the seedlings room."**
 
-![The new seedlings room — sawhorse table with anti-slip mesh mat, Tray 1 (left, broader-leaved zinnias and cosmos) and Tray 2 (right, narrow-leaved cosmos and younger zinnia) under their respective Aumtrly clip-on lamps, white wall behind, wood floor below](pictures/58-seedlings-room-aumtrly-setup.jpg)
+![The new seedlings room — sawhorse table with anti-slip mesh mat, Tray 1 (left, broader-leaved zinnias and cosmos) and Tray 2 (right, narrow-leaved cosmos and younger zinnia) under their respective Aumtrly clip-on lamps, white wall behind, wood floor below](pictures/58-20260430-seedlings-room-aumtrly-setup.jpg)
 
 **Tray 1 setup:**
 
@@ -1090,7 +1095,7 @@ The 5 Aumtrly clip-on lamps (BL-J20B, 2-pack ×2 + 1-pack ×1, **10 heads total*
 
 **Tray 2 setup:**
 
-![Tray 2 babies in their cells under a single Aumtrly clip-on lamp on the wood dresser — top-down through the lamp bar showing dark soil cells with germinating seedlings](pictures/59-tray2-under-aumtrly.png)
+![Tray 2 babies in their cells under a single Aumtrly clip-on lamp on the wood dresser — top-down through the lamp bar showing dark soil cells with germinating seedlings](pictures/59-20260430-tray2-under-aumtrly.png)
 
 - Separate wood dresser, away from Tray 1
 - 1 Aumtrly lamp, double head
@@ -1105,7 +1110,7 @@ The built-in soft-switch timers handle the daily cycle automatically — critica
 
 With the new indoor location, a question came up about overnight ventilation. Stuttgart's overnight low for tonight is forecast around 4 °C — too cold for cosmos and zinnia seedlings.
 
-![The skylight + small window combo above the seedlings room — passive airflow tower for the day, sealed at night for insect/debris/weather risk](pictures/54-skylight-passive-ventilation.png)
+![The skylight + small window combo above the seedlings room — passive airflow tower for the day, sealed at night for insect/debris/weather risk](pictures/54-20260430-skylight-passive-ventilation.png)
 
 Plan:
 
@@ -1195,11 +1200,11 @@ Day 16 since planting. Both pots now confirmed viable.
 
 **Pot 2** — up to 3 shoots total as of today. Two new sprouts since yesterday's check joined the original sprout from April 29.
 
-![Brodiaea Pot 2 at Day 16 — 3 shoots total, two new since yesterday, classic monocot blades emerging through the gravel](pictures/62-brodiaea-pot2-day16.jpg)
+![Brodiaea Pot 2 at Day 16 — 3 shoots total, two new since yesterday, classic monocot blades emerging through the gravel](pictures/62-20260501-brodiaea-pot2-day16.jpg)
 
 **Pot 1** — first shoot emerged this afternoon, right at the edge of the pot. Just in time before the May 14 reassess deadline. Classic Brodiaea behavior to come up at the pot edge where the corm gets a bit of extra warmth from the sun-heated wall.
 
-![Brodiaea Pot 1 first emergence — a single shoot at the pot edge on Day 16, right where the corm catches extra warmth from the sun-heated wall](pictures/61-brodiaea-pot1-first-shoot.jpg)
+![Brodiaea Pot 1 first emergence — a single shoot at the pot edge on Day 16, right where the corm catches extra warmth from the sun-heated wall](pictures/61-20260501-brodiaea-pot1-first-shoot.jpg)
 
 Note on soil appearance: the light/dark contrast in the Pot 2 photo is just sun/shade falling across the pot, not a moisture gradient. No watering today.
 
@@ -1214,7 +1219,7 @@ Day 12, no growth visible yet — still well within normal germination window (e
 
 The whitish, ashy crust on the soil surface that's only appearing on this pot got investigated today.
 
-![Babiana planter close-up — whitish mineral salt crust (efflorescence) visible on the bare soil surface, caused by Stuttgart's hard water evaporating through unshaded soil](pictures/60-babiana-mineral-salt-crust.jpg)
+![Babiana planter close-up — whitish mineral salt crust (efflorescence) visible on the bare soil surface, caused by Stuttgart's hard water evaporating through unshaded soil](pictures/60-20260501-babiana-mineral-salt-crust.jpg)
 
 **Diagnosis:** mineral salt deposits (efflorescence) from Stuttgart's hard water. This pot specifically shows it while neighboring Dianthus and Brodiaea pots don't because: bare soil + no shoots yet = no foliage shading the surface, and the shallow wide railing planter = high evaporation per unit volume. Water wicks to the surface, evaporates, leaves dissolved minerals behind as a visible crust. Once Babiana sprouts and develops foliage cover, the crust should diminish significantly.
 
@@ -1224,7 +1229,7 @@ The whitish, ashy crust on the soil surface that's only appearing on this pot go
 
 Watered today via 10-minute bottom-watering. Soil absorbed water rapidly — exactly what you want post-dome.
 
-![Tray 2 standing healthy under the gooseneck lights — deep dark green, compact sturdy growth, first true leaves emerging on cosmos cells, 18 of 18 germinated](pictures/66-tray2-healthy-stand.jpg)
+![Tray 2 standing healthy under the gooseneck lights — deep dark green, compact sturdy growth, first true leaves emerging on cosmos cells, 18 of 18 germinated](pictures/66-20260501-tray2-healthy-stand.jpg)
 
 **Status:**
 - 18 out of 18 cells germinated — including the late-bloomer cell. **100% success rate**
@@ -1248,13 +1253,13 @@ This was the deep dive of the session. Initial concern was about pale lime-green
 
 Under natural light (away from grow lights):
 
-![Tray 1 seedlings under natural light — pale lime-green color visible across the zinnias and cosmos, uniform shade suggesting systemic cause rather than nutrient deficiency](pictures/63-tray1-natural-light-1.jpg)
+![Tray 1 seedlings under natural light — pale lime-green color visible across the zinnias and cosmos, uniform shade suggesting systemic cause rather than nutrient deficiency](pictures/63-20260501-tray1-natural-light-1.jpg)
 
-![Tray 1 close-up under natural light — second true leaves emerging cleanly despite the pale coloring, plants upright and sturdy](pictures/64-tray1-natural-light-2.jpg)
+![Tray 1 close-up under natural light — second true leaves emerging cleanly despite the pale coloring, plants upright and sturdy](pictures/64-20260501-tray1-natural-light-2.jpg)
 
 Under grow lights (full stand view):
 
-![Tray 1 full stand under grow lights — uniform pale green across all plants, newer growth same shade as older growth, no interveinal yellowing or leaf curling](pictures/65-tray1-under-grow-lights.jpg)
+![Tray 1 full stand under grow lights — uniform pale green across all plants, newer growth same shade as older growth, no interveinal yellowing or leaf curling](pictures/65-20260501-tray1-under-grow-lights.jpg)
 
 **Diagnostic process:** The initial isolated view suggested possible mild nitrogen deficiency. But the full-stand view changed the picture significantly:
 - Uniform pale green across all plants — not the variable expression typical of nutrient deficiency
@@ -1341,21 +1346,21 @@ A third tray came up tonight. Recommendation: wait until after the May 20–25 t
 
 **Tray 1** (potted up Apr 25, thinned Apr 28) is visibly recovering from the bleaching damage of late April. The uniform pale lime-green that triggered last week's deep-dive has shifted noticeably greener, with stronger and more uniform color across both zinnias and cosmos. Several plants are pushing second true leaves, and the cosmos are showing reddish-purple stems — classic anthocyanin under grow lights, totally normal. The back-right zinnia in particular is leading the pack.
 
-![Tray 1 on Day 17 — fifteen 10cm pots showing recovering color, uniform pale green shifting noticeably greener since last week, cosmos with reddish-purple stems and second true leaves emerging](pictures/67-tray1-recovering-may2.jpg)
+![Tray 1 on Day 17 — fifteen 10cm pots showing recovering color, uniform pale green shifting noticeably greener since last week, cosmos with reddish-purple stems and second true leaves emerging](pictures/67-20260502-tray1-recovering-may2.jpg)
 
 Zinnia side close-up — broad cotyledons with developing true leaves, color clearly greener than last week's bleach worst-case:
 
-![Tray 1 zinnia side top-down — broad rounded zinnia cotyledons with developing true leaves, color noticeably greener](pictures/74-tray1-zinnia-side-recovery.jpg)
+![Tray 1 zinnia side top-down — broad rounded zinnia cotyledons with developing true leaves, color noticeably greener](pictures/74-20260502-tray1-zinnia-side-recovery.jpg)
 
 Cosmos side close-up — feathery, dill-like true leaves coming through cleanly, the textbook cosmos signature:
 
-![Tray 1 cosmos side top-down — feathery, dill-like cosmos true leaves emerging from the 10cm cups, deeper green color, grow light gooseneck visible at the upper right](pictures/75-tray1-cosmos-true-leaves.jpg)
+![Tray 1 cosmos side top-down — feathery, dill-like cosmos true leaves emerging from the 10cm cups, deeper green color, grow light gooseneck visible at the upper right](pictures/75-20260502-tray1-cosmos-true-leaves.jpg)
 
 This is a better outcome than the "stays paler all lifecycle but functional" prognosis. Pigmentation recovery looks real — though Tray 2 plants will still take priority for the post-trip Zone B grey pot transplant, just in case.
 
 **Tray 2** (sown Apr 22, dome off Apr 27) is textbook. Even germination, deep green color across all 18 cells, cotyledons firm and thick, second true leaves emerging on the front row. Sitting on the dresser in indirect window light (verified — no direct sun bouncing off the nearby mirror) and tracking right on schedule for the May 8–12 pot-up window. **Biological readiness leads, not the calendar.**
 
-![Tray 2 under the Aumtrly clip-on lamp — 13 visible cells of cosmos seedlings with deep green needle-like true leaves emerging cleanly, even height across the tray, on schedule for May 8–12 pot-up](pictures/68-tray2-second-true-leaves-may2.jpg)
+![Tray 2 under the Aumtrly clip-on lamp — 13 visible cells of cosmos seedlings with deep green needle-like true leaves emerging cleanly, even height across the tray, on schedule for May 8–12 pot-up](pictures/68-20260502-tray2-second-true-leaves-may2.jpg)
 
 #### Outdoor — Rain Incoming, Plan Adjusts Itself
 
@@ -1388,13 +1393,13 @@ Day 6 since the April 26 repot — right in the first-water window. All three No
 
 Light edge-of-pot watering, ~50–80ml. No water on the crown, no drainage produced (expected — fresh mineral soil absorbs that volume fully). She looks beautifully happy: gorgeous yellow margins, strong leaf turgor, no soft spots. Perlite from the OBI cactus mix visible on the soil surface (totally normal — not mineral deposits). **Named today** for her tall, striking, sword-like presence.
 
-![Cobra the Sansevieria 'Laurentii' on the granite windowsill — tall sword-like leaves with bold yellow margins and dark green centers, mint-green watering can off to the right ready for her edge-of-pot drink](pictures/69-cobra-sansevieria-watering-day.jpg)
+![Cobra the Sansevieria 'Laurentii' on the granite windowsill — tall sword-like leaves with bold yellow margins and dark green centers, mint-green watering can off to the right ready for her edge-of-pot drink](pictures/69-20260502-cobra-sansevieria-watering-day.jpg)
 
-![Cobra full portrait on the granite windowsill in morning light — tall sword-like leaves with yellow margins, mint-green watering can off to the right, gravel courtyard visible through the window](pictures/78-cobra-portrait-windowsill.jpg)
+![Cobra full portrait on the granite windowsill in morning light — tall sword-like leaves with yellow margins, mint-green watering can off to the right, gravel courtyard visible through the window](pictures/78-20260502-cobra-portrait-windowsill.jpg)
 
-![Cobra base detail — top-down into the white pot showing the leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-cobra-base-closeup.jpg)
+![Cobra base detail — top-down into the white pot showing the leaf bases emerging from fresh mineral soil, perlite specks visible on the surface, no mushy tissue, no salt crust, just healthy turgor](pictures/70-20260502-cobra-base-closeup.jpg)
 
-![Cobra leaf-base detail — close-up into the leaf cluster showing the base of each variegated leaf emerging from fresh mineral soil with perlite specks, healthy turgor](pictures/76-cobra-leaf-base-detail.jpg)
+![Cobra leaf-base detail — close-up into the leaf cluster showing the base of each variegated leaf emerging from fresh mineral soil with perlite specks, healthy turgor](pictures/76-20260502-cobra-leaf-base-detail.jpg)
 
 ##### Machali — Aloe variegata "Safari" (Right, formerly Haworthia/Tiger Aloe)
 
@@ -1402,9 +1407,9 @@ Renamed today after the legendary tigress of Ranthambore National Park — a fie
 
 The flower spike continues to progress beautifully. No new leaves visible, but that's expected — at her size, leaves come on the scale of weeks-to-months, and right now her energy is going into the spike and root re-establishment. **The spike is the growth signal.**
 
-![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner](pictures/71-machali-flower-spike-progress.jpg)
+![Machali the Aloe variegata 'Safari' in evening light on the granite sill — tiger-spotted rosette of dark green leaves with white tubercles, the flower spike rising from the center with developing buds, lavender saucer visible in the corner](pictures/71-20260502-machali-flower-spike-progress.jpg)
 
-![Machali in warm morning light on the granite sill — tiger-spotted dark green leaves with white tubercles, flower spike rising from the rosette center with bud cluster forming](pictures/79-machali-flower-spike-detail.jpg)
+![Machali in warm morning light on the granite sill — tiger-spotted dark green leaves with white tubercles, flower spike rising from the rosette center with bud cluster forming](pictures/79-20260502-machali-flower-spike-detail.jpg)
 
 ##### Phyllis — Mini Pineapple (Center, Michael's Plant)
 
@@ -1418,13 +1423,13 @@ Lifted her leaves to water her and stopped breathing for a second.
 
 Not one. Not two. Five. After the initial 😯 moment, careful counting confirmed five distinct offshoots emerging around her base — cream-white pointed shoots pushing up through the soil, some already with little leaf rosettes forming.
 
-![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-phyllis-pineapple-pups-closeup.jpg)
+![Phyllis the mini pineapple — top-down peek under the mother's leaves revealing multiple cream-white pointed pup shoots emerging from the soil around her base, fresh mineral mix visible between rosettes](pictures/72-20260502-phyllis-pineapple-pups-closeup.jpg)
 
-![Phyllis pups overview — several cream-white pup bases visible at the mother pineapple's stem, leaf rosettes already forming on the larger pups](pictures/80-phyllis-pups-overview.jpg)
+![Phyllis pups overview — several cream-white pup bases visible at the mother pineapple's stem, leaf rosettes already forming on the larger pups](pictures/80-20260502-phyllis-pups-overview.jpg)
 
-![Phyllis pup detail close-up — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead](pictures/73-phyllis-pup-detail.jpg)
+![Phyllis pup detail close-up — a single cream-white pointed offshoot pushing up through the soil with tiny leaf rosette already forming, mother leaves arching overhead](pictures/73-20260502-phyllis-pup-detail.jpg)
 
-![Phyllis single pup detail — close-up of one cream-white pointed pup pushing up from the soil right at the mother's stem, tiny developing leaf tip visible at the apex](pictures/77-phyllis-pup-mother-base.jpg)
+![Phyllis single pup detail — close-up of one cream-white pointed pup pushing up from the soil right at the mother's stem, tiny developing leaf tip visible at the apex](pictures/77-20260502-phyllis-pup-mother-base.jpg)
 
 This is genuinely remarkable. Pineapples are **monocarpic** — the main plant fruits once and then dies, but before going she produces offshoots (suckers/ratoons) to carry on. Most home pineapples produce one or two pups in their lifetime. Five is on the high end of what any home pineapple ever produces.
 
@@ -1748,6 +1753,74 @@ A note for the record: the **last few days were quieter on the documentation sid
 
 ---
 
+### Session 21 — May 28, 2026 — "Side Chick Blooms"
+
+**Stuttgart · Day 3 of hardening off · post-Scotland recovery week**
+
+---
+
+#### 1 — The Day's Highlight: Side Chick Blooms
+
+The big one. **Side Chick (Sempervivum) opened her first flower this morning** — spotted fresh on a casual walk-by, so we caught it on opening day. A star-shaped pink bloom: pointed petals fading from deeper rose at the center out to pale blush at the tips, fuzzy-haired edges, a ring of reddish-tipped stamens around a green central eye, with a cluster of more buds queued up behind it on the scape.
+
+Worth noting how rare this sighting is. Sempervivum are grown almost entirely for their rosettes — the geometry, the burgundy-and-green color. Their flowers barely appear in any of the photos, videos, or care guides out there, because a rosette may take several years to flower and only a fraction of a colony does so in any given year. Many growers also snip the bloom stalk before it opens to keep things tidy. So this is the "hidden chapter" most people never see.
+
+The bittersweet side: Sempervivum are **monocarpic** — the rosette that flowers spends its life doing so and dies afterward (the "death bloom"). But she's already raised a ring of chicks around her base, so the colony carries on. The mother simply hands off to her pups.
+
+A genuine garden milestone — and on a favorite shade of pink, no less.
+
+![Side Chick first bloom — close-up of the pink star flower with buds behind, opening day](pictures/82-20260528-side-chick-first-bloom-closeup.jpg)
+
+![Side Chick — wider shot in the gravel-top bin, colony and bloom in context](pictures/81-20260528-side-chick-colony-bloom-wide.jpg)
+
+---
+
+#### 2 — Seedlings — Hardening Off (Day 3)
+
+Both trays are taking the outdoor transition well.
+
+- **Zinnias:** standing upright, sturdy. Still in mostly bright ambient light / shade — getting indirect sun rather than direct beam. Plan: give them a gentle first direct-sun exposure in the cooler late afternoon (after ~4–5 PM), starting with an hour or two and watching for wilt or leaf bleaching.
+- **Cosmos:** catching direct sun already; stems visibly thickening — exactly the response wanted from outdoor air movement and real light. The under-light legginess is correcting.
+
+#### 3 — Supplies / Transplant Status
+
+- **Soil:** arrived a day early (yesterday)
+- **Bamboo stakes:** the remaining item — expected to arrive today
+- **Bins:** four 52L TEDi bins ready
+- Still inside the original schedule. Transplant target tomorrow (May 29), or whenever stakes land — done in the evening cool, never into hot afternoon soil.
+
+#### 4 — Today's Tasks
+
+- **This evening — Dianthus fertilizer (Pinky + Gilly only):** Compo BIO Blumendünger, half strength = 6ml concentrate into 1.5L water, 750ml per pot. Light pre-moisten if soil is dry; apply at root zone, avoid foliage.
+- **Late afternoon:** first gentle direct-sun exposure for the zinnias.
+
+> **Note on the recurring calendar feed:** the half-strength fertilizer event now bundles cosmos/zinnia in with the Dianthus starting today, but the seedlings are NOT yet transplanted and should not be fed until ~3–4 weeks after they go into the bins. For today, Dianthus only. Calendar to be adjusted tomorrow once the transplant date is locked.
+
+#### Next care notes
+
+**Outdoor / Balcony**
+- *Pinky + Gilly (Dianthus):* fertilizer tonight (see above); on the every-2-week half-strength feed cycle.
+- *Lovely, Itchy + Scratchy (Lavender):* water only when soil reads dry; lean and infrequent.
+- *Chicks + Side Chick (Sempervivum):* drought-tolerant, sparing water. Enjoy and monitor the bloom scape — expect more buds to open over the coming days. No special intervention needed.
+- *Goldy + Frosty (Euonymus):* year-round anchors, doing well. Keep an eye on Frosty's solid-green reversion shoot — optional to snip later to preserve variegation.
+- *Mint:* thriving (escaping into paver cracks). No concerns.
+- *Baboon (Babiana), the Sissies (Brodiaea):* continue monitoring growth.
+
+**Nursery / Seedlings**
+- Continue hardening off — gradual sun increase, watch for wilt/scorch.
+- Transplant Tray 1 into the four 52L bins tomorrow (or on stake arrival), evening cool, ~10–12cm staggered spacing, distributed around sunny terrace edges (not the patio seating area). Tray 2 follows ~1 week later.
+- **No feeding the cosmos/zinnia until ~3–4 weeks post-transplant.** Fresh Compo soil carries its own nutrient charge.
+- When feeding does begin: cosmos go LIGHT (too much nitrogen = leaves, no flowers); zinnias are heavier feeders and tolerate a regular bloom-focused feed.
+
+**The Nook (indoor)**
+- *Phyllis (Ananas nanus):* next water ~June 1 (recurring). No rosette cup pour while fruit + pups developing.
+- *Machali (Aloe variegata):* next water ~June 9. Deep edge watering only, no rosette pour while flower spike active.
+- *Cobra (Sansevieria):* next water ~June 9. Light edge-pour ~50–80ml.
+
+> Session 21 delivered the garden's most photogenic milestone yet: Side Chick's first bloom — a pink star-shaped Sempervivum flower caught on opening day, the "hidden chapter" most rosette growers never see. Meanwhile, the hardening-off process is on Day 3, stems are thickening, supplies are staging for tomorrow's transplant, and the garden is quietly shifting from indoor nursery to outdoor production mode.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1851,25 +1924,28 @@ A note for the record: the **last few days were quieter on the documentation sid
 - Side Chicks monocarpic flowering event flagged — 5–6 stalks on S. arachnoideum, 4–8 wk bloom-and-die cycle (May 12)
 - Indoor seedlings healthy — T1 multi-leaf, T2 cotyledon+first true leaves, lights at 15–20 cm clearance, no legginess (May 12)
 - Outdoor transplant strategy framed — mixed config, Amazon Compo Sana pre-order, post-trip execution ~May 27 (May 12)
+- **Side Chick FIRST BLOOM** — Sempervivum star-shaped pink flower opened, monocarpic death bloom caught on opening day (May 28)
+- Hardening off Day 3 — zinnias upright in shade, cosmos catching direct sun with stems thickening (May 28)
+- Soil arrived early, bamboo stakes pending, four 52L TEDi bins ready for transplant (May 28)
 
 ### In Progress
-- Tray 1 cosmos toddlers at multi-leaf stage; Tray 2 still cotyledon + first true leaves — lights at 15–20cm clearance
-- Dianthus feeding cycle: next feed Thursday May 28 (post-trip), syringe technique validated
-- Brodiaea both pots active — Pot 2 multi-shoot cluster, Pot 1 (Lil Sissy) at 2+ new tips, staggered emergence continuing
-- **Baboon (Babiana) first emergence — monitor next 48 hr for greening + further tips at other corms**
-- Machali (Aloe variegata) flower spike + 2 pups developing — weekly photo tracking
-- Phyllis (mini pineapple) — 5 pups developing, soil-only watering until fruit ripens
-- Itchy + Scratchy Day 6 post-repot — pinch all flower spikes this week
-- Side Chicks monocarpic bloom cycle running — 5–6 stalks, 4–8 wk to die-off, chicks already in place
-- Trip prep T-8 days — capillary mat dry-run May 13, Blumat installation pre-departure
+- **Hardening off Day 3** — zinnias in shade, cosmos in direct sun; gradual sun increase continuing
+- **Transplant staging** — soil, bins, stakes assembling for May 29 evening transplant into four 52L bins
+- Dianthus feeding cycle: tonight May 28 half-strength feed (6ml/1.5L, 750ml per pot, Pinky + Gilly only)
+- Brodiaea both pots active — continue monitoring growth
+- Baboon (Babiana) — continue monitoring growth post-emergence
+- Machali (Aloe variegata) flower spike + 2 pups developing — next water ~June 9
+- Phyllis (mini pineapple) — 5 pups developing, soil-only watering, next water ~June 1
+- Cobra (Sansevieria) — next water ~June 9
+- Side Chick monocarpic bloom cycle — first flower open, more buds queued, expect blooming over coming days
+- Frosty solid-green reversion shoot — optional snip to preserve variegation
 
 ### Not Yet Started
-- Pre-trip shopping: Blumat carrots, timer plug (before May 20)
-- Capillary mat trial run (May 13–14)
-- May 20 morning checklist: deep soak, shade positions, Blumats installed, timer confirmed
-- Transplanting cosmos/zinnias outdoors into anchor pot centers (~May 26–28 post-return)
-- Fertilizer first dose: ~1 week after transplant (half strength BIO Blumendünger)
-- Possible third tray sowing (~May 27–30, post-trip)
+- Transplant Tray 1 into four 52L bins (~May 29, evening cool, 10–12cm staggered spacing)
+- Transplant Tray 2 follows ~1 week after Tray 1
+- Fertilizer first dose for cosmos/zinnia: ~3–4 weeks post-transplant (fresh Compo soil carries nutrient charge)
+- Adjust calendar feed to separate Dianthus and seedling fertilizer schedules post-transplant
+- Possible third tray sowing (~late May–early June)
 - Patio corner tree purchase — switched to a proper Baumschule (autumn / next spring with Michael); olive vs Meyer lemon decision still open
 - Repotting gift arrangement into individual pots
 - Fall/winter sowing plan (July–August)
@@ -1881,90 +1957,91 @@ A note for the record: the **last few days were quieter on the documentation sid
 
 | Date | Description | Photo |
 |------|-------------|-------|
-| April 15, 2026 | The supply haul — soils on the table | ![supplies](pictures/01-the-supply-haul.jpg) |
-| April 15, 2026 | Seeds and bulbs lineup | ![seeds](pictures/02-seeds-and-bulbs-lineup.jpg) |
-| April 15, 2026 | Railing planters unboxed | ![planters](pictures/03-railing-planters-ready.jpg) |
-| April 15, 2026 | Planters filled with soil on the balcony | ![soil](pictures/04-planters-filled-with-soil.jpg) |
-| April 15, 2026 | Brodiaea bulbs placed in planter | ![bulbs](pictures/05-brodiaea-bulbs-placed.jpg) |
-| April 15, 2026 | Planting holes dug and ready | ![holes](pictures/06-holes-ready-for-bulbs.jpg) |
-| April 16, 2026 | Seed tray sowing station in action | ![sowing](pictures/07-seed-tray-sowing-station.jpg) |
-| April 16, 2026 | Tray and spray bottle before filling | ![tray](pictures/08-tray-and-spray-bottle-ready.jpg) |
-| April 16, 2026 | Seed tray on the windowsill — the waiting begins | ![windowsill](pictures/09-tray-on-windowsill.jpg) |
-| April 17, 2026 | Gift arrangement & dianthus on the balcony | ![gifts](pictures/10-gift-arrangement-and-dianthus.jpg) |
-| April 17, 2026 | Chocolate mint potted solo | ![mint](pictures/11-chocolate-mint-potted.jpg) |
-| April 17, 2026 | Babiana bulbs going into the hanging planter | ![babiana](pictures/12-babiana-bulbs-planting.jpg) |
-| April 17, 2026 | Basil potted and soaking up the sun | ![basil](pictures/13-basil-potted.jpg) |
-| April 18, 2026 | Pink dianthus planted and mounted on the sunny railing | ![dianthus](pictures/14-dianthus-planted-on-railing.jpg) |
-| April 18, 2026 | New expandable hose installed on the balcony wall | ![hose](pictures/15-hose-installed.jpg) |
-| April 18, 2026 | Workstation hosed down and cleaned up | ![workstation](pictures/16-workstation-cleaned.jpg) |
-| April 19, 2026 | First sprouts! Cosmos/zinnia seedlings on Day 3 | ![sprouts](pictures/17-first-sprouts.jpg) |
-| April 19, 2026 | Basil looking lush after replanting | ![basil](pictures/18-basil-after-replanting.jpg) |
-| April 19, 2026 | Mint pushing fresh shoots after replanting | ![mint](pictures/19-mint-after-replanting.jpg) |
-| April 20, 2026 | Sproutlings progress — ~70% sprouted, dome off! | ![sprouts](pictures/20-sproutlings-progress.jpg) |
-| April 22, 2026 | Tray 2 sown + grow light set up over Tray 1 | ![grow light](pictures/21-tray2-grow-light-setup.jpg) |
-| April 23, 2026 | Dianthus thriving in their saddle planter | ![dianthus](pictures/22-dianthus-hanging-planter.webp) |
-| April 23, 2026 | Michael's Nook — snake plant, tiger aloe, mini pineapple | ![nook](pictures/23-nook-plants-windowsill.webp) |
-| April 24, 2026 | Euonymus pair — golden + white variegated on the balcony | ![euonymus](pictures/24-euonymus-pair-golden-and-white.jpg) |
-| April 24, 2026 | New Dianthus pair + grey hanging planter | ![dianthus](pictures/25-new-dianthus-pair-and-hanging-planter.jpg) |
-| April 24, 2026 | Full OBI haul — Cactea, fertilizer, pots, pruners | ![haul](pictures/26-obi-haul-full-spread.jpg) |
-| April 24, 2026 | Dual grow lights — 5 goosenecks over the seedlings | ![lights](pictures/27-dual-grow-lights-over-seedlings.jpg) |
-| April 25, 2026 | The OBI haul — ~20L Compo Sana + supply crate | ![haul](pictures/28-the-big-haul-compo-sana.jpg) |
-| April 25, 2026 | 10cm pot-up cells laid out and ready | ![pots](pictures/29-pot-up-cells-ready.jpg) |
-| April 25, 2026 | Tray 1 transplanted on the patio table (hardening off too) | ![tray1](pictures/30-tray1-potted-up-patio.jpg) |
-| April 25, 2026 | Tray 1 transplants back under the grow lights | ![grow](pictures/31-tray1-under-grow-light.jpg) |
-| April 25, 2026 | Third dianthus pair on the railing — trio complete | ![trio](pictures/32-dianthus-trio-railing.jpg) |
-| April 25, 2026 | Euonymus fortunei pair in black ex-mint pots — Zone A | ![euonymus](pictures/33-euonymus-pair-black-pots.jpg) |
-| April 25, 2026 | Sempervivum anchor pots, alpine rock top-dress | ![semp](pictures/34-sempervivum-anchor-pots.jpg) |
-| April 25, 2026 | The patio battlefield — workstation aftermath | ![battlefield](pictures/35-patio-battlefield.jpg) |
-| April 26, 2026 | Lavender + Sempervivum pots on the Zone B sunny wall | ![lavender](pictures/36-lavender-and-sempervivum-pots.jpg) |
-| April 26, 2026 | Nook repotted — final arrangement on granite sill | ![nook](pictures/37-nook-repotted-final.jpg) |
-| April 26, 2026 | Balcony cleaned and ready — April baseline | ![balcony](pictures/38-balcony-cleaned-and-ready.jpg) |
-| April 26, 2026 | Balcony panorama — April 2026 baseline | ![pano](pictures/39-balcony-panorama-april-baseline.jpg) |
-| April 26, 2026 | Tray 2 dome day 4 — sprouts breaking through | ![tray2](pictures/40-tray2-dome-day4-sprouts.jpg) |
-| April 27, 2026 | Tray 2 dome off — 16 of 18 cells germinated by Day 5 | ![tray2](pictures/41-tray2-dome-off.jpg) |
-| April 27, 2026 | Tray 1 true leaves emerging on the zinnias | ![trueleaves](pictures/42-tray1-true-leaves.jpg) |
-| April 27, 2026 | Dianthus first feed — Compo BIO on the railing | ![dianthus](pictures/43-dianthus-first-feed.jpg) |
-| April 28, 2026 | Tray 1 toddlers under lights, pre-thin | ![prethin](pictures/44-tray1-toddlers-pre-thin.png) |
-| April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-thinned-seedlings-bench.png) |
-| April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-tray1-post-thinning-topdown.png) |
-| April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-tray2-babies-cotyledons.png) |
-| April 29, 2026 | Haworthia "Safari" in its white Nook pot — three days post-repot | ![haworthia](pictures/48-haworthia-safari-potted-up.jpg) |
-| April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-haworthia-base-concern-circled.jpg) |
-| April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-haworthia-base-detail-flower-stalk.jpg) |
-| April 29, 2026 | Top-down — flower stalk emerging from the rosette center | ![bloom](pictures/51-haworthia-flower-stalk-top-down.jpg) |
-| April 30, 2026 | Terrace spring baseline — Poäng chairs, grass mat, planters along the railing | ![terrace](pictures/52-terrace-spring-baseline.jpg) |
-| April 30, 2026 | Zone A Euonymus pair with decorative birds tucked in | ![euonymus](pictures/53-euonymus-pair-with-decorative-birds.png) |
-| April 30, 2026 | Skylight + window — passive airflow tower over the seedlings room | ![skylight](pictures/54-skylight-passive-ventilation.png) |
-| April 30, 2026 | Tray 1 cup close-up — pale zinnia foliage flagged for light-bleach | ![tray1cup](pictures/55-tray1-cup-closeup.png) |
-| April 30, 2026 | Brodiaea Pot 2 — first green shoot through the bark mulch | ![brodiaea](pictures/56-brodiaea-pot2-first-sprout.png) |
-| April 30, 2026 | Lavandula angustifolia — flower buds forming on the spike tips | ![lavender](pictures/57-lavender-buds-forming.png) |
-| April 30, 2026 | The new seedlings room — both trays under their Aumtrly clip-on lamps | ![seedlingsroom](pictures/58-seedlings-room-aumtrly-setup.jpg) |
-| April 30, 2026 | Tray 2 babies under a single Aumtrly lamp — 16h photoperiod | ![tray2aumtrly](pictures/59-tray2-under-aumtrly.png) |
-| May 1, 2026 | Babiana mineral salt crust — efflorescence from hard water | ![babiana](pictures/60-babiana-mineral-salt-crust.jpg) |
-| May 1, 2026 | Brodiaea Pot 1 — first shoot at pot edge, Day 16 | ![brodiaea](pictures/61-brodiaea-pot1-first-shoot.jpg) |
-| May 1, 2026 | Brodiaea Pot 2 — 3 shoots at Day 16 | ![brodiaea](pictures/62-brodiaea-pot2-day16.jpg) |
-| May 1, 2026 | Tray 1 under natural light — pale lime-green diagnostic view 1 | ![tray1](pictures/63-tray1-natural-light-1.jpg) |
-| May 1, 2026 | Tray 1 under natural light — close-up diagnostic view 2 | ![tray1](pictures/64-tray1-natural-light-2.jpg) |
-| May 1, 2026 | Tray 1 full stand under grow lights — uniform pale green | ![tray1](pictures/65-tray1-under-grow-lights.jpg) |
-| May 1, 2026 | Tray 2 healthy stand — deep green, compact, 18/18 | ![tray2](pictures/66-tray2-healthy-stand.jpg) |
-| May 2, 2026 | Tray 1 recovering — color shifting greener, second true leaves on cosmos | ![tray1recover](pictures/67-tray1-recovering-may2.jpg) |
-| May 2, 2026 | Tray 2 second true leaves emerging under the Aumtrly lamp | ![tray2truelvs](pictures/68-tray2-second-true-leaves-may2.jpg) |
-| May 2, 2026 | Cobra the Sansevieria 'Laurentii' on the granite sill — watering day | ![cobra](pictures/69-cobra-sansevieria-watering-day.jpg) |
-| May 2, 2026 | Cobra base detail — fresh mineral soil, perlite specks, healthy turgor | ![cobrabase](pictures/70-cobra-base-closeup.jpg) |
-| May 2, 2026 | Machali — Aloe variegata flower spike continuing to develop | ![machali](pictures/71-machali-flower-spike-progress.jpg) |
-| May 2, 2026 | Phyllis the pineapple — **5 pups** discovered around her base | ![phyllispups](pictures/72-phyllis-pineapple-pups-closeup.jpg) |
-| May 2, 2026 | Phyllis pup detail — single offshoot pushing up with leaf rosette forming | ![phyllispup](pictures/73-phyllis-pup-detail.jpg) |
-| May 2, 2026 | Tray 1 zinnia side recovering — broad cotyledons, color clearly greener | ![tray1zinnia](pictures/74-tray1-zinnia-side-recovery.jpg) |
-| May 2, 2026 | Tray 1 cosmos side — feathery true leaves emerging cleanly | ![tray1cosmos](pictures/75-tray1-cosmos-true-leaves.jpg) |
-| May 2, 2026 | Cobra leaf-base detail — perlite specks, healthy turgor at the soil junction | ![cobrabase2](pictures/76-cobra-leaf-base-detail.jpg) |
-| May 2, 2026 | Phyllis pup at mother's base — cream-white shoot pushing through soil at the stem | ![phyllispup2](pictures/77-phyllis-pup-mother-base.jpg) |
-| May 2, 2026 | Cobra full portrait — granite sill, watering can, gravel courtyard view | ![cobraportrait](pictures/78-cobra-portrait-windowsill.jpg) |
-| May 2, 2026 | Machali in warm morning light — tiger spots, flower spike with bud cluster | ![machalispike](pictures/79-machali-flower-spike-detail.jpg) |
-| May 2, 2026 | Phyllis pups overview — several cream-white pup bases at the mother's stem | ![phyllispupsoverview](pictures/80-phyllis-pups-overview.jpg) |
-| | First bloom! | *(coming soon!)* |
+| April 15, 2026 | The supply haul — soils on the table | ![supplies](pictures/01-20260415-the-supply-haul.jpg) |
+| April 15, 2026 | Seeds and bulbs lineup | ![seeds](pictures/02-20260415-seeds-and-bulbs-lineup.jpg) |
+| April 15, 2026 | Railing planters unboxed | ![planters](pictures/03-20260415-railing-planters-ready.jpg) |
+| April 15, 2026 | Planters filled with soil on the balcony | ![soil](pictures/04-20260415-planters-filled-with-soil.jpg) |
+| April 15, 2026 | Brodiaea bulbs placed in planter | ![bulbs](pictures/05-20260415-brodiaea-bulbs-placed.jpg) |
+| April 15, 2026 | Planting holes dug and ready | ![holes](pictures/06-20260415-holes-ready-for-bulbs.jpg) |
+| April 16, 2026 | Seed tray sowing station in action | ![sowing](pictures/07-20260416-seed-tray-sowing-station.jpg) |
+| April 16, 2026 | Tray and spray bottle before filling | ![tray](pictures/08-20260416-tray-and-spray-bottle-ready.jpg) |
+| April 16, 2026 | Seed tray on the windowsill — the waiting begins | ![windowsill](pictures/09-20260416-tray-on-windowsill.jpg) |
+| April 17, 2026 | Gift arrangement & dianthus on the balcony | ![gifts](pictures/10-20260417-gift-arrangement-and-dianthus.jpg) |
+| April 17, 2026 | Chocolate mint potted solo | ![mint](pictures/11-20260417-chocolate-mint-potted.jpg) |
+| April 17, 2026 | Babiana bulbs going into the hanging planter | ![babiana](pictures/12-20260417-babiana-bulbs-planting.jpg) |
+| April 17, 2026 | Basil potted and soaking up the sun | ![basil](pictures/13-20260417-basil-potted.jpg) |
+| April 18, 2026 | Pink dianthus planted and mounted on the sunny railing | ![dianthus](pictures/14-20260418-dianthus-planted-on-railing.jpg) |
+| April 18, 2026 | New expandable hose installed on the balcony wall | ![hose](pictures/15-20260418-hose-installed.jpg) |
+| April 18, 2026 | Workstation hosed down and cleaned up | ![workstation](pictures/16-20260418-workstation-cleaned.jpg) |
+| April 19, 2026 | First sprouts! Cosmos/zinnia seedlings on Day 3 | ![sprouts](pictures/17-20260419-first-sprouts.jpg) |
+| April 19, 2026 | Basil looking lush after replanting | ![basil](pictures/18-20260419-basil-after-replanting.jpg) |
+| April 19, 2026 | Mint pushing fresh shoots after replanting | ![mint](pictures/19-20260419-mint-after-replanting.jpg) |
+| April 20, 2026 | Sproutlings progress — ~70% sprouted, dome off! | ![sprouts](pictures/20-20260420-sproutlings-progress.jpg) |
+| April 22, 2026 | Tray 2 sown + grow light set up over Tray 1 | ![grow light](pictures/21-20260422-tray2-grow-light-setup.jpg) |
+| April 23, 2026 | Dianthus thriving in their saddle planter | ![dianthus](pictures/22-20260423-dianthus-hanging-planter.webp) |
+| April 23, 2026 | Michael's Nook — snake plant, tiger aloe, mini pineapple | ![nook](pictures/23-20260423-nook-plants-windowsill.webp) |
+| April 24, 2026 | Euonymus pair — golden + white variegated on the balcony | ![euonymus](pictures/24-20260424-euonymus-pair-golden-and-white.jpg) |
+| April 24, 2026 | New Dianthus pair + grey hanging planter | ![dianthus](pictures/25-20260424-new-dianthus-pair-and-hanging-planter.jpg) |
+| April 24, 2026 | Full OBI haul — Cactea, fertilizer, pots, pruners | ![haul](pictures/26-20260424-obi-haul-full-spread.jpg) |
+| April 24, 2026 | Dual grow lights — 5 goosenecks over the seedlings | ![lights](pictures/27-20260424-dual-grow-lights-over-seedlings.jpg) |
+| April 25, 2026 | The OBI haul — ~20L Compo Sana + supply crate | ![haul](pictures/28-20260425-the-big-haul-compo-sana.jpg) |
+| April 25, 2026 | 10cm pot-up cells laid out and ready | ![pots](pictures/29-20260425-pot-up-cells-ready.jpg) |
+| April 25, 2026 | Tray 1 transplanted on the patio table (hardening off too) | ![tray1](pictures/30-20260425-tray1-potted-up-patio.jpg) |
+| April 25, 2026 | Tray 1 transplants back under the grow lights | ![grow](pictures/31-20260425-tray1-under-grow-light.jpg) |
+| April 25, 2026 | Third dianthus pair on the railing — trio complete | ![trio](pictures/32-20260425-dianthus-trio-railing.jpg) |
+| April 25, 2026 | Euonymus fortunei pair in black ex-mint pots — Zone A | ![euonymus](pictures/33-20260425-euonymus-pair-black-pots.jpg) |
+| April 25, 2026 | Sempervivum anchor pots, alpine rock top-dress | ![semp](pictures/34-20260425-sempervivum-anchor-pots.jpg) |
+| April 25, 2026 | The patio battlefield — workstation aftermath | ![battlefield](pictures/35-20260425-patio-battlefield.jpg) |
+| April 26, 2026 | Lavender + Sempervivum pots on the Zone B sunny wall | ![lavender](pictures/36-20260426-lavender-and-sempervivum-pots.jpg) |
+| April 26, 2026 | Nook repotted — final arrangement on granite sill | ![nook](pictures/37-20260426-nook-repotted-final.jpg) |
+| April 26, 2026 | Balcony cleaned and ready — April baseline | ![balcony](pictures/38-20260426-balcony-cleaned-and-ready.jpg) |
+| April 26, 2026 | Balcony panorama — April 2026 baseline | ![pano](pictures/39-20260426-balcony-panorama-april-baseline.jpg) |
+| April 26, 2026 | Tray 2 dome day 4 — sprouts breaking through | ![tray2](pictures/40-20260426-tray2-dome-day4-sprouts.jpg) |
+| April 27, 2026 | Tray 2 dome off — 16 of 18 cells germinated by Day 5 | ![tray2](pictures/41-20260427-tray2-dome-off.jpg) |
+| April 27, 2026 | Tray 1 true leaves emerging on the zinnias | ![trueleaves](pictures/42-20260427-tray1-true-leaves.jpg) |
+| April 27, 2026 | Dianthus first feed — Compo BIO on the railing | ![dianthus](pictures/43-20260427-dianthus-first-feed.jpg) |
+| April 28, 2026 | Tray 1 toddlers under lights, pre-thin | ![prethin](pictures/44-20260428-tray1-toddlers-pre-thin.png) |
+| April 28, 2026 | Thinned seedlings laid out on the bench | ![thinned](pictures/45-20260428-thinned-seedlings-bench.png) |
+| April 28, 2026 | Tray 1 post-thinning — one keeper per cell | ![postthin](pictures/46-20260428-tray1-post-thinning-topdown.png) |
+| April 28, 2026 | Tray 2 babies — cotyledons open, even green | ![tray2](pictures/47-20260428-tray2-babies-cotyledons.png) |
+| April 29, 2026 | Haworthia "Safari" in its white Nook pot — three days post-repot | ![haworthia](pictures/48-20260429-haworthia-safari-potted-up.jpg) |
+| April 29, 2026 | The base concern — red-circle annotation (verdict: not a problem) | ![concern](pictures/49-20260429-haworthia-base-concern-circled.jpg) |
+| April 29, 2026 | Close-up of the base — flower stalk + dried outer leaf tip | ![base](pictures/50-20260429-haworthia-base-detail-flower-stalk.jpg) |
+| April 29, 2026 | Top-down — flower stalk emerging from the rosette center | ![bloom](pictures/51-20260429-haworthia-flower-stalk-top-down.jpg) |
+| April 30, 2026 | Terrace spring baseline — Poäng chairs, grass mat, planters along the railing | ![terrace](pictures/52-20260430-terrace-spring-baseline.jpg) |
+| April 30, 2026 | Zone A Euonymus pair with decorative birds tucked in | ![euonymus](pictures/53-20260430-euonymus-pair-with-decorative-birds.png) |
+| April 30, 2026 | Skylight + window — passive airflow tower over the seedlings room | ![skylight](pictures/54-20260430-skylight-passive-ventilation.png) |
+| April 30, 2026 | Tray 1 cup close-up — pale zinnia foliage flagged for light-bleach | ![tray1cup](pictures/55-20260430-tray1-cup-closeup.png) |
+| April 30, 2026 | Brodiaea Pot 2 — first green shoot through the bark mulch | ![brodiaea](pictures/56-20260430-brodiaea-pot2-first-sprout.png) |
+| April 30, 2026 | Lavandula angustifolia — flower buds forming on the spike tips | ![lavender](pictures/57-20260430-lavender-buds-forming.png) |
+| April 30, 2026 | The new seedlings room — both trays under their Aumtrly clip-on lamps | ![seedlingsroom](pictures/58-20260430-seedlings-room-aumtrly-setup.jpg) |
+| April 30, 2026 | Tray 2 babies under a single Aumtrly lamp — 16h photoperiod | ![tray2aumtrly](pictures/59-20260430-tray2-under-aumtrly.png) |
+| May 1, 2026 | Babiana mineral salt crust — efflorescence from hard water | ![babiana](pictures/60-20260501-babiana-mineral-salt-crust.jpg) |
+| May 1, 2026 | Brodiaea Pot 1 — first shoot at pot edge, Day 16 | ![brodiaea](pictures/61-20260501-brodiaea-pot1-first-shoot.jpg) |
+| May 1, 2026 | Brodiaea Pot 2 — 3 shoots at Day 16 | ![brodiaea](pictures/62-20260501-brodiaea-pot2-day16.jpg) |
+| May 1, 2026 | Tray 1 under natural light — pale lime-green diagnostic view 1 | ![tray1](pictures/63-20260501-tray1-natural-light-1.jpg) |
+| May 1, 2026 | Tray 1 under natural light — close-up diagnostic view 2 | ![tray1](pictures/64-20260501-tray1-natural-light-2.jpg) |
+| May 1, 2026 | Tray 1 full stand under grow lights — uniform pale green | ![tray1](pictures/65-20260501-tray1-under-grow-lights.jpg) |
+| May 1, 2026 | Tray 2 healthy stand — deep green, compact, 18/18 | ![tray2](pictures/66-20260501-tray2-healthy-stand.jpg) |
+| May 2, 2026 | Tray 1 recovering — color shifting greener, second true leaves on cosmos | ![tray1recover](pictures/67-20260502-tray1-recovering-may2.jpg) |
+| May 2, 2026 | Tray 2 second true leaves emerging under the Aumtrly lamp | ![tray2truelvs](pictures/68-20260502-tray2-second-true-leaves-may2.jpg) |
+| May 2, 2026 | Cobra the Sansevieria 'Laurentii' on the granite sill — watering day | ![cobra](pictures/69-20260502-cobra-sansevieria-watering-day.jpg) |
+| May 2, 2026 | Cobra base detail — fresh mineral soil, perlite specks, healthy turgor | ![cobrabase](pictures/70-20260502-cobra-base-closeup.jpg) |
+| May 2, 2026 | Machali — Aloe variegata flower spike continuing to develop | ![machali](pictures/71-20260502-machali-flower-spike-progress.jpg) |
+| May 2, 2026 | Phyllis the pineapple — **5 pups** discovered around her base | ![phyllispups](pictures/72-20260502-phyllis-pineapple-pups-closeup.jpg) |
+| May 2, 2026 | Phyllis pup detail — single offshoot pushing up with leaf rosette forming | ![phyllispup](pictures/73-20260502-phyllis-pup-detail.jpg) |
+| May 2, 2026 | Tray 1 zinnia side recovering — broad cotyledons, color clearly greener | ![tray1zinnia](pictures/74-20260502-tray1-zinnia-side-recovery.jpg) |
+| May 2, 2026 | Tray 1 cosmos side — feathery true leaves emerging cleanly | ![tray1cosmos](pictures/75-20260502-tray1-cosmos-true-leaves.jpg) |
+| May 2, 2026 | Cobra leaf-base detail — perlite specks, healthy turgor at the soil junction | ![cobrabase2](pictures/76-20260502-cobra-leaf-base-detail.jpg) |
+| May 2, 2026 | Phyllis pup at mother's base — cream-white shoot pushing through soil at the stem | ![phyllispup2](pictures/77-20260502-phyllis-pup-mother-base.jpg) |
+| May 2, 2026 | Cobra full portrait — granite sill, watering can, gravel courtyard view | ![cobraportrait](pictures/78-20260502-cobra-portrait-windowsill.jpg) |
+| May 2, 2026 | Machali in warm morning light — tiger spots, flower spike with bud cluster | ![machalispike](pictures/79-20260502-machali-flower-spike-detail.jpg) |
+| May 2, 2026 | Phyllis pups overview — several cream-white pup bases at the mother's stem | ![phyllispupsoverview](pictures/80-20260502-phyllis-pups-overview.jpg) |
+| May 28, 2026 | Side Chick — wider shot in the gravel-top bin, colony and bloom in context | ![sidechickwide](pictures/81-20260528-side-chick-colony-bloom-wide.jpg) |
+| May 28, 2026 | Side Chick — first bloom close-up, opening day, pink star flower with buds behind | ![sidechickbloom](pictures/82-20260528-side-chick-first-bloom-closeup.jpg) |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
 ---
 
-*Last updated: May 12, 2026*
+*Last updated: May 28, 2026*
