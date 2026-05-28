@@ -1016,7 +1016,23 @@ The bittersweet side: Sempervivum are monocarpic — the rosette that flowers di
 
 ![Side Chick — wider shot in the gravel-top bin, colony and bloom in context on the balcony](pictures/81-20260528-side-chick-colony-bloom-wide.jpg)
 
-Meanwhile: hardening off Day 3 — zinnias standing upright in shade, cosmos catching direct sun with stems visibly thickening. Soil arrived a day early, four 52L TEDi bins ready, transplant staging for tomorrow evening.
+A late-afternoon revisit caught the bloom from a different angle — the scape rising out of a cluster of burgundy-tinged rosettes, side by side with the soft green of the neighboring pot:
+
+![Side Chick afternoon revisit — bloom spike angled out of the bin, burgundy-tinged rosettes around the scape, late afternoon light](pictures/83-20260528-side-chick-bloom-afternoon-angle.jpg)
+
+And from straight above — the full colony of rosettes in the gravel-top bin with the bloom spike standing tall from the center rosette, the smaller green Chicks pot tucked in at the corner of the frame:
+
+![Side Chick bin top-down — colony of rosettes in the gravel top-dress, bloom spike rising from the central rosette, smaller green Chicks pot in the corner](pictures/84-20260528-side-chick-bloom-afternoon-topdown.jpg)
+
+### The Seedlings — Hardening Off, Evening of Day 3
+
+By evening the seedlings were lined up along the terrace at the base of the glass-brick wall — four pots, cosmos and zinnia toddlers leafy and upright, getting their last hour of fading light before nightfall:
+
+![Four pots of seedlings staged along the terrace by the glass-brick wall — hardening off Day 3, evening light, dry pavers](pictures/85-20260528-seedlings-hardening-terrace-evening.jpg)
+
+A few minutes later the same line-up, post-water — pavers darkened around each pot, foliage freshened. The cosmos stems are visibly stockier than they were under the grow lights; the outdoor air has done its job:
+
+![Same four pots after the evening watering — pavers wet around each pot, foliage perked up, cosmos stems visibly thickening from outdoor air](pictures/86-20260528-seedlings-hardening-terrace-watered.jpg)
 
 > Twenty-one sessions in. Side Chick bloomed — the hidden chapter most rosette growers never see. The garden is shifting from indoor nursery to outdoor production mode. Tomorrow: transplant day.
 

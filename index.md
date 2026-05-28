@@ -42,6 +42,18 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 
 ![Side Chick colony and bloom in the gravel-top bin — wider context shot](pictures/81-20260528-side-chick-colony-bloom-wide.jpg)
 
+Afternoon revisit on the bloom — the scape angled out, burgundy-tinged rosettes around it; and a top-down look at the full colony with the bloom spike rising from the center:
+
+![Side Chick afternoon revisit — bloom spike at an angle, burgundy-tinged rosettes around the scape](pictures/83-20260528-side-chick-bloom-afternoon-angle.jpg)
+
+![Side Chick bin top-down — colony with bloom scape rising, gravel topdress, second pot peeking in](pictures/84-20260528-side-chick-bloom-afternoon-topdown.jpg)
+
+And the seedlings at their evening hardening station — four pots of cosmos/zinnia staged along the terrace by the glass-brick wall, first with the pavers dry, then post-water with foliage freshened up:
+
+![Seedlings staged on the terrace by the glass-brick wall — hardening off Day 3, evening light, dry pavers](pictures/85-20260528-seedlings-hardening-terrace-evening.jpg)
+
+![Same line-up post-water — pavers wet, foliage freshened after the evening top-up](pictures/86-20260528-seedlings-hardening-terrace-watered.jpg)
+
 ## Project Pages
 
 - [Garden Plan](GARDEN-PLAN) — Full planting schedule, dates, to-do lists, and shopping needs

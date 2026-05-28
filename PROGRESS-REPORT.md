@@ -2039,6 +2039,10 @@ Both trays are taking the outdoor transition well.
 | May 2, 2026 | Phyllis pups overview — several cream-white pup bases at the mother's stem | ![phyllispupsoverview](pictures/80-20260502-phyllis-pups-overview.jpg) |
 | May 28, 2026 | Side Chick — wider shot in the gravel-top bin, colony and bloom in context | ![sidechickwide](pictures/81-20260528-side-chick-colony-bloom-wide.jpg) |
 | May 28, 2026 | Side Chick — first bloom close-up, opening day, pink star flower with buds behind | ![sidechickbloom](pictures/82-20260528-side-chick-first-bloom-closeup.jpg) |
+| May 28, 2026 | Side Chick afternoon revisit — bloom spike angle, burgundy-tinged rosettes around the scape | ![sidechickafternoon](pictures/83-20260528-side-chick-bloom-afternoon-angle.jpg) |
+| May 28, 2026 | Side Chick bin top-down — colony with bloom scape, gravel topdress, second pot peeking in | ![sidechicktopdown](pictures/84-20260528-side-chick-bloom-afternoon-topdown.jpg) |
+| May 28, 2026 | Hardening off Day 3 — four pots of seedlings staged along the terrace by the glass-brick wall, evening light | ![hardeningoff](pictures/85-20260528-seedlings-hardening-terrace-evening.jpg) |
+| May 28, 2026 | Same line-up post-water — pavers wet, foliage fresh after the evening top-up | ![hardeningwater](pictures/86-20260528-seedlings-hardening-terrace-watered.jpg) |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
