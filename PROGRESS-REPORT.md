@@ -104,9 +104,24 @@ permalink: /PROGRESS-REPORT
 | May 28, 2026 | **Side Chick FIRST BLOOM** — Sempervivum star-shaped pink flower opened, monocarpic death bloom event (opening day catch) | Done (milestone) |
 | May 28, 2026 | Hardening off Day 3 — both trays outdoors, zinnias upright in shade, cosmos catching direct sun, stems thickening | Done |
 | May 28, 2026 | Soil arrived a day early; bamboo stakes expected today; four 52L TEDi bins ready | Done |
-| May 28, 2026 | Dianthus fertilizer tonight — Compo BIO half strength (6ml/1.5L), 750ml per pot, Pinky + Gilly only | Upcoming |
-| May 28, 2026 | First gentle direct-sun exposure for zinnias (late afternoon, 1–2 hr, watch for wilt) | Upcoming |
-| May 29, 2026 | Transplant Tray 1 into four 52L bins (evening cool, 10–12cm spacing, sunny terrace edges) | Upcoming |
+| May 28, 2026 | Dianthus fertilizer tonight — Compo BIO half strength (6ml/1.5L), 750ml per pot, Pinky + Gilly only | Done |
+| May 28, 2026 | First gentle direct-sun exposure for zinnias (late afternoon, 1–2 hr, watch for wilt) | Done |
+| May 29, 2026 | Transplant Tray 1 into four 52L bins (evening cool, 10–12cm spacing, sunny terrace edges) | Done |
+| June 1, 2026 | Phyllis biweekly drink — fruit coloring, pups healthy, soil soak only (rosette cup dry) | Done |
+| June 1, 2026 | Cosmos + zinnias settling into the 52L bins post-pinch — stems thickening, branching out | Done |
+| June 2, 2026 | OBI haul — Dahlia (T13, pink, bud-loaded), Celosia, Coleus, 4× Campanula (2 purple, 1 white, 1 light blue); Lantana Stämmchen vetoed | Done |
+| June 2, 2026 | Stuttgart tropical storm — every plant moved to shelter, zinnias towel-dried ("just the crazy patio lady") | Done |
+| June 4, 2026 | Potting day — railing summer lineup planted across three grey hanging pots | Done |
+| June 4, 2026 | White Campanula division aborted — single fused root discovered, paired with light blue in left pot instead | Done (decision) |
+| June 4, 2026 | Celosia + Coleus pot cracked while drilling drainage — resting in nursery pots, replacement sourced for June 5 | Done |
+| June 4, 2026 | Fertilizer schedule locked — new plants first feed July 23 after Compo Sana 7-week buffer | Done (decision) |
+| June 10, 2026 | Full plant-by-plant tour — feed brought forward a day ahead of the rain | Done (milestone) |
+| June 10, 2026 | Brought-forward half-strength feed — Pinky + Gilly, cosmos, zinnias, white/blue Campanula (post-pinch rebound) | Done |
+| June 10, 2026 | Zinnia old-leaf scorch diagnosed as finished one-time indoor-cuticle event — new growth clean, leave the old leaves | Done (decision) |
+| June 10, 2026 | Dianthus "empty flowers" re-diagnosed — rain batter + bloom lag from earlier heat, not current cool weather | Done (decision) |
+| June 10, 2026 | Sun-lovers rule set — lavender + Dianthus stay in the sun, pulled back only for genuine extremes | Done (decision) |
+| June 10, 2026 | 3D-printed honeycomb risers — demo passed 2-day outdoor load test; plan for 8 matching (4 cosmos, 4 zinnia), UV-stable PETG/ASA | In Progress |
+| June 10, 2026 | Goldy + Frosty light tip-pinch (yesterday) for branching; white/blue Campanula hard-pinched after first flush | Done |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
 | July–August 2026 | Plan fall/winter sowing | Upcoming |
@@ -1821,6 +1836,161 @@ Both trays are taking the outdoor transition well.
 
 ---
 
+### Session 22 — June 1, 2 & 4, 2026 — "The Big Haul, the Storm, and the Fused Root"
+
+**Stuttgart · post-transplant settling · railing gets its summer colours**
+
+---
+
+#### June 1 — Routine Day, Phyllis Gets Her Drink
+
+After a big transplant week getting the cosmos and zinnias settled into the 52L bins, June 1 was a proper slow-down day. **Phyllis** (Ananas nanus, the mini pineapple) was on the calendar for her biweekly drink — fruit is coloring up beautifully, pups all looking healthy, and Michael's stake is holding her dead straight. Standard protocol: generous soil soak, rosette cup kept dry, saucer drained within 30 minutes.
+
+Machali and Cobra got their routine check-in too. Everyone holding steady post-Scotland.
+
+The cosmos and zinnias in the bins are settling in nicely — no drama, just growing. The pinching work from late May is already paying off: the stems are thickening and the plants are branching out rather than reaching up. That bit of tough love made a real difference. No big tasks, no purchases — just a quiet morning with the plants.
+
+#### June 2 — The Big Haul (and the Tropical Storm 🌧️)
+
+Planned as a straightforward OBI run for railing flowers. It was not straightforward.
+
+A very full shopping bag made it back to the balcony, carried by Michael (officially co-investor and plant bodyguard at this point):
+
+- 🌸 **Dahlia** — compact patio variety, soft pink, T13 nursery pot, absolutely loaded with buds
+- 🔥 **Celosia** — bold and feathery
+- 🍃 **Coleus** — rich foliage, going to be stunning in shade
+- 💜 **2× purple Campanula** — intense color, trailing habit
+- 🤍 **1× white Campanula** — delicate and full
+- 💙 **1× light blue Campanula** — soft and pretty
+
+Six plants in, zero Lantana trees (the Wandelröschen Stämmchen was considered and decisively vetoed — for now 😄).
+
+The plants barely made it through the front door before the sky opened up. A full Stuttgart tropical storm rolled in — and while the neighbors stayed dry inside watching their balcony plants take a battering, one person was out there saving hers. The zinnias got a gentle towel-dry to protect the new leaves. Every single plant was moved to shelter. The neighbors' pots stayed exactly where they were. No judgment.
+
+> "No one cared to move a plant — just the crazy patio lady." 😂
+
+Storm aside, everyone survived. The evening ended with a coleus YouTube deep-dive and a well-earned rest.
+
+![OBI nursery haul — a table of pink Dahlias, feathery Celosia and lavender at the garden centre, the June 2 cast of new arrivals](pictures/87-20260602-obi-nursery-haul-dahlia-celosia.jpg)
+
+#### June 4 — Potting Day (with Plot Twists)
+
+Two days of rest for the new arrivals, then potting day. The railing got its summer lineup — with a few unplanned changes along the way.
+
+- **The Campanula division attempt:** the original plan was to divide the white Campanula into three sections and use them as a trailing skirt around the Dahlia. What actually happened — unpotted the white Campanula, sprayed the roots, and discovered the whole thing is **one single thick fused root**. All those stems, one shared foundation. Dividing it would have been a massacre, so the plan changed on the spot: the white Campanula went into the left pot alongside the light blue one. No forced separations, no casualties. Campanula will tell you what it needs.
+- **The cracked pot:** while drilling extra drainage holes for the Celosia + Coleus pot — *crack*. A clean split right through the side. Those two are resting in their nursery pots overnight and getting properly sorted the next day once a replacement pot is sourced.
+
+**The final railing lineup** — three grey hanging railing pots, all filled and in place:
+
+| Position | Contents |
+|----------|----------|
+| 🤍💙 Left pot | White Campanula + light blue Campanula |
+| 🌸 Middle pot | Dahlia — solo, pink, queen energy |
+| 💜 Right pot | Purple Campanula pair |
+
+The Dahlia has about 4cm of breathing room on each side — she'll fill it within the next few weeks, especially with all those unopened buds still coming. Weather bonus: cloudy skies and light rain forecast for June 4–5, about as perfect as it gets for freshly potted plants settling in.
+
+![The railing trio in place — three grey hanging pots (white + light blue Campanula, solo pink Dahlia, purple Campanula pair) along the railing with the Stuttgart rooftops behind](pictures/88-20260604-railing-trio-stuttgart-rooftops.jpg)
+
+**Fertilizer schedule — all set:**
+- 🌿 **Cosmos + Zinnias + Dianthus** — already running, every 2 weeks on Thursdays (Compo BIO Blumendünger, half-strength)
+- 🌸 **Dahlia + Campanulas + Celosia + Coleus** — first feed July 23, same biweekly Thursday rhythm, after the Compo Sana 7-week nutrient buffer runs out
+
+> Three days, one storm, one fused root, one cracked pot, and a railing that finally has its summer colours. The garden has expanded from seedlings-and-anchors into a full flowering balcony.
+
+---
+
+### Session 23 — June 10, 2026 — "Grey-Sky Full Tour & the Feed Ahead of the Rain"
+
+**Stuttgart · cool, overcast Wednesday · whole-crew plant-by-plant tour**
+
+---
+
+A cool, overcast Wednesday — barely any sun, a few showers, more rain on the way. Despite the grey, today turned into a full plant-by-plant tour of the whole crew, plus a fertilizer feed brought forward a day to get ahead of the coming rain. Lots of small wins, one good diagnosis correction, and a clever upgrade to the pot setup.
+
+#### 1 — Zinnias — the pinch pays off
+
+All four zinnia pots are showing fresh growth that visibly stepped up just yesterday. This is the pinch doing its job: instead of one stem each, the plants are pushing lateral branches from the leaf nodes — those bright lime-green clusters tucked into the leaf joints. Every one of those becomes its own flowering stem. The new growth is pale lime-green, which is normal for young zinnias.
+
+**On the scorched old leaves:** a few older leaves show burn-like marks — but it's *only* the old leaves, and the new growth is clean. Those old leaves formed indoors under the grow lights with thin cuticles and no UV defenses; when they hit real sun they scorched. The new leaves are forming outside and building that protection in from the start. So it's a finished, one-time event, not a spreading disease. Left alone — correct call. Scorched leaves don't heal but still photosynthesize, so there's no reason to pull them. *(Optional: one leggy plant in the first pot could be tip-pinched to even out the canopy.)*
+
+#### 2 — Cosmos — romping ahead
+
+Vigorous and upright, matching the successful outdoor "experiment" cosmo — sturdy stems, feathery foliage, already throwing side shoots from the lower nodes. Some are a touch ahead of others; that unevenness is normal. Reminder logged: **cosmos bloom best on lean soil** — over-feeding gives lush foliage and few flowers, so they stay on half-strength and never get extra.
+
+**Leftover zinnias to relocate:** two leftover zinnias tucked in among the cosmos a while back have stalled — noticeably smaller, shaded and boxed in by the faster cosmos, with poor airflow. To-do: lift them while still small and move them to a sunnier spot (or a zinnia pot) where they'll get light and air to themselves.
+
+![Cosmos pot on a riser — feathery foliage branching from the pinch, big black bin elevated on a recycled filament spool](pictures/90-20260610-cosmos-pot-on-riser-feathery.jpg)
+
+![Cosmos pot with a leftover zinnia (broad leaves) shaded and boxed in among the feathery cosmos — flagged for relocation](pictures/91-20260610-cosmos-pot-leftover-zinnia-shaded.jpg)
+
+![Cosmos branching hard from the pinch — multiple leaders rising from the lower nodes](pictures/92-20260610-cosmos-branching-from-pinch.jpg)
+
+![The cosmos bins on their printed risers — lateral shoots filling out, Stuttgart rooftops behind](pictures/93-20260610-cosmos-pots-on-risers-lateral-shoots.jpg)
+
+#### 3 — Chicks & Side Chick (Sempervivum) — in bloom
+
+The houseleek trough is flowering — pink star-shaped blooms with yellow centers, a treat many growers never see. The mix is healthy: cobweb (arachnoideum) types with their natural white webbing, burgundy sun-stressed rosettes, fresh green ones, all studded with chicks on a clean gravel top-dress. Reminder on record (already well known here): Sempervivum are **monocarpic** — each rosette flowers once, then dies after setting seed, and the surrounding chicks fill the gap. The bolted "towers" are the rosettes that have committed to blooming. Nothing to do but enjoy the show and tidy out spent rosettes once they go papery.
+
+![Sempervivum trough in bloom — pink star flowers on bolting towers above the cobweb rosettes, gravel top-dress](pictures/94-20260610-sempervivum-trough-pink-bloom-towers.jpg)
+
+![Second Sempervivum tray — cobweb webbing, burgundy sun-stressed rosettes and fresh green chicks across the gravel](pictures/95-20260610-sempervivum-cobweb-chicks-burgundy.jpg)
+
+#### 4 — Pinky & Gilly (Dianthus) — rain & lag, not heat
+
+The plant itself is thriving — full, bushy, loaded with blooms and buds. The concern was individual flowers opening already spent or "empty inside." **Diagnosis corrected during the session:** it's not this week's cool, overcast weather. The better fit is two things:
+
+1. **Heavy rain** — sitting fully exposed on the railing, the delicate double blooms get battered, ball up, brown, and rot. Many of the "empty" flowers are simply spent ones that dropped their petals, leaving the green calyx cup.
+2. **A lag effect** — the flowers opening now were formed as buds a week or two ago, so stress from the earlier heat spell shows up in today's blooms. Current conditions don't always match current bloom quality.
+
+The hard pinch a few days ago was the right move and will push a fresh flush. To-do: deadhead the mushy/browned blooms so botrytis doesn't take hold. And avoid over-correcting — Dianthus love full sun in mild temps, so they stay on the railing; the afternoon-shade trick is only for genuine heat-wave days.
+
+![Pinky & Gilly in full bloom on the railing saddle planter — dense pink and pale double flowers](pictures/96-20260610-dianthus-full-bloom-railing.jpg)
+
+![Dianthus close-up — spent blooms balled up and dropped petals scattered on the soil, the rain/lag effect](pictures/97-20260610-dianthus-spent-blooms-dropped-petals.jpg)
+
+![Dianthus detail — an "empty" flower showing the green calyx cup left after the petals dropped](pictures/98-20260610-dianthus-empty-calyx-closeup.jpg)
+
+#### 5 — The Lavender Trio — Lovely, Itchy & Scratchy
+
+A standout group shot today: three lavender troughs on stands with the two Sempervivum trays anchoring the front — matched charcoal pots, gravel mulch, clean and intentional. **Lovely** (the established Lavandula angustifolia) is in full purple glory. **Itchy & Scratchy** (the first-year pair) are green and barely blooming — and that's by design. They've been pinched nonstop to redirect energy into roots and bushy structure, trading this year's blooms for fuller, stronger plants next year.
+
+Care notes: lavender is a tough Mediterranean plant that wants full sun and airflow more than it fears rain — with good drainage, normal rain won't hurt it. Keep it in the open, not tucked under cover (the leaning toward light was the plant voting for more sun). Rotate the pots a quarter-turn every few days to fix the lean and grow evenly. Later: once the flower spikes fade, deadhead and give a light shaping trim to keep it bushy and prevent it going woody.
+
+> Simple rule from today: the sun-lovers (lavender, Dianthus) stay in the sun — only pulled back for genuine extremes. Less shuffling, happier plants.
+
+![Group shot — three lavender troughs on stands (Lovely in full purple bloom in the centre, Itchy & Scratchy green either side) with the two Sempervivum trays anchoring the front](pictures/99-20260610-lavender-trio-group-shot-sempervivum-trays.jpg)
+
+#### 6 — Drainage & the 3D-printed risers
+
+Clarified the "waterlogging" question for good: with extra drainage holes drilled in every pot and everything elevated so the holes are never blocked, waterlogging is effectively impossible here. After rain, the pots soak, drain quickly, and settle to moist-but-not-soggy on their own — the ideal state to feed into.
+
+**The riser upgrade:** Michael is 3D-printing honeycomb pot risers to elevate the pots in style. The setup started with recycled empty filament spools (metal core — the cardboard-only ones collapsed when watered). For visual unity, the plan is now **eight matching printed risers — four for the zinnias, four for the cosmos**. The demo has passed a two-day outdoor load test (it bears the weight; UV/heat aging is the slower thing to watch over a sunny stretch). Tip on record for the final batch: for outdoor longevity, UV-stable filament (**PETG or ASA**) holds up far better than PLA against sun, heat, and moisture.
+
+#### 7 — The Feed — brought forward ahead of the rain
+
+With rain forecast for Thursday into Friday, the feed was pulled forward to today rather than waiting for the usual Thursday slot.
+
+*Why tonight works:* feeding onto already-damp soil is correct (never feed onto bone-dry soil — burn risk, poor uptake); a ~24-hour head start before the rain lets the roots absorb most of the liquid feed before any leaching; and it's a gentle half-strength feed, so even a little leaching from the light rain is no real loss.
+
+**Concentration:** half-strength Compo BIO Blumendünger — 4 mL per litre (= 3 mL in 0.75 L). Same strength for everything; only the volume scales with pot size.
+- Small pots (Dianthus, Campanula): ~0.75 L / 3 mL each.
+- Big cosmos/zinnia bins: ~1.5 L / 6 mL each (soil already damp, so feeding not flushing).
+
+**Fed today:** Pinky & Gilly (Dianthus), cosmos, zinnias, and the white/blue Campanula. The white/blue Campanula was pulled forward off the July 23 plan on purpose — it finished its first flush and was hard-pinched yesterday, so a feed today drives the rebound flush. (White and blue share one fused root, so both are fed together.)
+
+**Not fed** (still on the July 23 Compo Sana buffer plan): Dahlia, purple Campanula pair, and the Gorgeous Couple (Celosia + Coleus) — none were cut back, so they keep riding their soil buffer.
+
+#### 8 — Other care this session
+
+- **Goldy & Frosty (Euonymus):** a light tip-pinch yesterday — just the tallest stems and the first leaf pair — to encourage branching and bushier, even growth. Gentle shaping, not a hard cut.
+- **White/blue Campanula:** hard pinch yesterday after finishing its first flush (the trigger for today's brought-forward feed).
+- **The Gorgeous Couple (Celosia + Coleus):** watered today. Coleus especially likes staying evenly moist.
+
+> Grey skies, a full tour, and the whole crew fed and tucked in before the rain. Lovely shows off, the youngsters build, and the patio keeps getting more considered by the day.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -1927,24 +2097,43 @@ Both trays are taking the outdoor transition well.
 - **Side Chick FIRST BLOOM** — Sempervivum star-shaped pink flower opened, monocarpic death bloom caught on opening day (May 28)
 - Hardening off Day 3 — zinnias upright in shade, cosmos catching direct sun with stems thickening (May 28)
 - Soil arrived early, bamboo stakes pending, four 52L TEDi bins ready for transplant (May 28)
+- Cosmos + zinnias transplanted into the four 52L bins; post-pinch stems thickening and branching out (June 1)
+- Phyllis biweekly drink — fruit coloring, pups healthy, soil-soak only with rosette cup kept dry (June 1)
+- OBI haul — Dahlia (T13 pink, bud-loaded), Celosia, Coleus, 4× Campanula (2 purple, 1 white, 1 light blue); Lantana Stämmchen vetoed (June 2)
+- Stuttgart tropical storm rode out — every plant moved to shelter, zinnias towel-dried ("just the crazy patio lady") (June 2)
+- Railing summer lineup potted across three grey hanging pots — left Campanula pair, middle Dahlia solo, right purple Campanula pair (June 4)
+- White Campanula division aborted — single fused root found, paired with light blue in the left pot (June 4)
+- Fertilizer schedule locked — new plants (Dahlia, Campanulas, Celosia, Coleus) first feed July 23 after Compo Sana buffer (June 4)
+- Full grey-sky plant-by-plant tour — whole crew checked, fed, and tucked in ahead of the rain (June 10)
+- Brought-forward half-strength feed — Pinky + Gilly, cosmos, zinnias, white/blue Campanula (post-pinch rebound) (June 10)
+- Zinnia old-leaf scorch diagnosed as a finished one-time indoor-cuticle event — new growth clean, old leaves left in place (June 10)
+- Dianthus "empty flowers" re-diagnosed as rain batter + bloom lag from the earlier heat spell, not current cool weather (June 10)
+- Sun-lovers rule set — lavender + Dianthus stay in the sun, pulled back only for genuine extremes (June 10)
+- Goldy + Frosty light tip-pinch for branching; white/blue Campanula hard-pinched after first flush (June 10)
+- 3D-printed honeycomb riser demo passed a two-day outdoor load test; recycled metal-core filament spools in use as the starter risers (June 10)
 
 ### In Progress
-- **Hardening off Day 3** — zinnias in shade, cosmos in direct sun; gradual sun increase continuing
-- **Transplant staging** — soil, bins, stakes assembling for May 29 evening transplant into four 52L bins
-- Dianthus feeding cycle: tonight May 28 half-strength feed (6ml/1.5L, 750ml per pot, Pinky + Gilly only)
+- **Cosmos + zinnias** established in the 52L bins on printed risers — branching from the pinch, kept lean; old-leaf scorch is cosmetic
+- **Leftover zinnias (×2)** shaded among the cosmos — to be lifted and relocated to a sunnier spot
+- **Railing trio** settling — Dahlia (middle) filling its ~4cm gap, Campanulas left & right
+- **Celosia + Coleus (Gorgeous Couple)** in nursery pots awaiting the replacement pot after the June 4 crack; watered, Coleus kept evenly moist
+- Dianthus feeding cycle: brought-forward June 10 half-strength feed done; deadhead the rain-spent/browned blooms to head off botrytis
+- White/blue Campanula — hard-pinched, fed June 10 to drive the rebound flush; now on the biweekly rhythm
+- 3D-printed honeycomb risers — demo passed 2-day outdoor load test; printing the full set of 8 (4 cosmos, 4 zinnia) in UV-stable PETG/ASA, watching UV/heat aging
 - Brodiaea both pots active — continue monitoring growth
 - Baboon (Babiana) — continue monitoring growth post-emergence
-- Machali (Aloe variegata) flower spike + 2 pups developing — next water ~June 9
-- Phyllis (mini pineapple) — 5 pups developing, soil-only watering, next water ~June 1
-- Cobra (Sansevieria) — next water ~June 9
-- Side Chick monocarpic bloom cycle — first flower open, more buds queued, expect blooming over coming days
+- Machali (Aloe variegata) flower spike + 2 pups developing
+- Phyllis (mini pineapple) — fruit coloring up, pups healthy, soil-only watering on the biweekly drink
+- Cobra (Sansevieria) — on the ~3-week water cycle
+- Side Chick / Chicks monocarpic bloom cycle — pink star blooms open on bolting towers; tidy spent rosettes as they go papery
 - Frosty solid-green reversion shoot — optional snip to preserve variegation
 
 ### Not Yet Started
-- Transplant Tray 1 into four 52L bins (~May 29, evening cool, 10–12cm staggered spacing)
-- Transplant Tray 2 follows ~1 week after Tray 1
-- Fertilizer first dose for cosmos/zinnia: ~3–4 weeks post-transplant (fresh Compo soil carries nutrient charge)
-- Adjust calendar feed to separate Dianthus and seedling fertilizer schedules post-transplant
+- Repot the Gorgeous Couple (Celosia + Coleus) into the replacement pot after the June 4 drilling crack
+- Relocate the two leftover zinnias out from among the cosmos to a sunnier, airier spot
+- Deadhead the rain-spent Dianthus blooms (botrytis prevention) and rotate the lavender pots a quarter-turn
+- First feed for Dahlia + purple Campanula + Celosia + Coleus — July 23, after the Compo Sana 7-week buffer
+- Finish printing the full set of 8 honeycomb risers in UV-stable PETG/ASA (4 cosmos, 4 zinnia)
 - Possible third tray sowing (~late May–early June)
 - Patio corner tree purchase — switched to a proper Baumschule (autumn / next spring with Michael); olive vs Meyer lemon decision still open
 - Repotting gift arrangement into individual pots
@@ -2043,6 +2232,19 @@ Both trays are taking the outdoor transition well.
 | May 28, 2026 | Side Chick bin top-down — colony with bloom scape, gravel topdress, second pot peeking in | ![sidechicktopdown](pictures/84-20260528-side-chick-bloom-afternoon-topdown.jpg) |
 | May 28, 2026 | Hardening off Day 3 — four pots of seedlings staged along the terrace by the glass-brick wall, evening light | ![hardeningoff](pictures/85-20260528-seedlings-hardening-terrace-evening.jpg) |
 | May 28, 2026 | Same line-up post-water — pavers wet, foliage fresh after the evening top-up | ![hardeningwater](pictures/86-20260528-seedlings-hardening-terrace-watered.jpg) |
+| June 2, 2026 | OBI nursery haul — pink Dahlias, feathery Celosia and lavender at the garden centre | ![haul](pictures/87-20260602-obi-nursery-haul-dahlia-celosia.jpg) |
+| June 4, 2026 | Railing trio in place — Campanula pair, solo pink Dahlia, purple Campanula pair, Stuttgart rooftops behind | ![railingtrio](pictures/88-20260604-railing-trio-stuttgart-rooftops.jpg) |
+| June 9, 2026 | Dahlia in the middle hanging pot — first pink blooms open, buds queued, rooftops behind | ![dahlia](pictures/89-20260609-dahlia-middle-pot-first-blooms.jpg) |
+| June 10, 2026 | Cosmos pot on a riser — feathery foliage branching from the pinch, elevated on a filament spool | ![cosmosriser](pictures/90-20260610-cosmos-pot-on-riser-feathery.jpg) |
+| June 10, 2026 | Cosmos pot with a leftover zinnia (broad leaves) shaded among the cosmos — flagged for relocation | ![leftoverzinnia](pictures/91-20260610-cosmos-pot-leftover-zinnia-shaded.jpg) |
+| June 10, 2026 | Cosmos branching hard from the pinch — multiple leaders from the lower nodes | ![cosmosbranch](pictures/92-20260610-cosmos-branching-from-pinch.jpg) |
+| June 10, 2026 | The cosmos bins on their printed risers — lateral shoots filling out | ![cosmosrisers](pictures/93-20260610-cosmos-pots-on-risers-lateral-shoots.jpg) |
+| June 10, 2026 | Sempervivum trough in bloom — pink star flowers on bolting towers, cobweb rosettes, gravel top-dress | ![semp1](pictures/94-20260610-sempervivum-trough-pink-bloom-towers.jpg) |
+| June 10, 2026 | Second Sempervivum tray — cobweb webbing, burgundy sun-stressed rosettes, fresh green chicks | ![semp2](pictures/95-20260610-sempervivum-cobweb-chicks-burgundy.jpg) |
+| June 10, 2026 | Pinky & Gilly in full bloom on the railing saddle planter — dense pink and pale doubles | ![dianthusfull](pictures/96-20260610-dianthus-full-bloom-railing.jpg) |
+| June 10, 2026 | Dianthus close-up — spent blooms balled up, dropped petals on the soil (rain/lag effect) | ![dianthusspent](pictures/97-20260610-dianthus-spent-blooms-dropped-petals.jpg) |
+| June 10, 2026 | Dianthus detail — an "empty" flower showing the green calyx cup left after petals dropped | ![dianthuscalyx](pictures/98-20260610-dianthus-empty-calyx-closeup.jpg) |
+| June 10, 2026 | Group shot — three lavender troughs on stands (Lovely in bloom) with the two Sempervivum trays anchoring the front | ![lavendergroup](pictures/99-20260610-lavender-trio-group-shot-sempervivum-trays.jpg) |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
