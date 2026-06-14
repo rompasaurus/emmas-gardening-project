@@ -1102,4 +1102,56 @@ The feed itself went onto already-damp soil with a ~24-hour head start before th
 
 ---
 
-*Photos from April 14 – June 10, 2026 — Emma's Garden from first supplies through a full flowering balcony. Sessions 19 (May 4) and 20 (May 12) photo logs are pending upload.*
+## June 11, 2026 — The Joke Route to OBI, and a Late-Night Zinnia Rescue (Session 24)
+
+*An unplanned haul · a cold-and-rain rescue mission*
+
+It started as a joke — pointing at the street that leads to OBI on the morning walk — and Michael just said *"yes, let's go."* Walked in for nothing, walked out with **six plants and five pots.** Two dwarf dahlias (red & white) to make the railing a proper dahlia trio with the existing pink one; two zonal geraniums (salmon & magenta), the neglect-proof German balcony icon with the dark "horseshoe" leaf zones; and — after a self-discipline streak that lasted about ninety seconds — two pansy-faced **Angel pelargoniums** ("Bella Donna"), whose half-shaded sun tag means they go in the part-shade pocket beside the Gorgeous Couple, not the hot railing.
+
+![Zonal geraniums at OBI — salmon and red display, the dark horseshoe leaf zones visible](pictures/100-20260611-obi-zonal-geraniums-salmon-red-display.jpg)
+
+![The two dwarf dahlias on the bench — red in full bloom, white leafier and just opening with a heavy bud load](pictures/101-20260611-obi-dwarf-dahlias-red-white.jpg)
+
+![The final cart — all six new arrivals: two dahlias, two zonal geraniums, two pansy-faced Angel pelargoniums](pictures/102-20260611-obi-final-cart-all-six-new-plants.jpg)
+
+The pots came from TEDi (OBI's wall was picked over) — four grey wavy 37×28 cm pots whose depth suits the dahlias' tuberous roots, plus one woven 25×23 cm pot for the Angel pair. All with moulded drainage, so no drilling and no cracked-pot heartbreak this time. Then the rain came down biblically and potting went on hold — the whole crew resting in nursery pots under cover until a dry day.
+
+But the real story of the night was the **zinnia rescue.** Their new growth had gone wrinkly and faintly crispy with browning leaf edges — and it wasn't the sun (it had been cloudy and wet all week). The culprits were **cold** (9–11 °C June nights — zinnias are warm-season plants and sulk below ~10 °C, pushing pale lime growth because cold roots can't take up nutrients) and **waterlogging** (days of rain left the soil cold and soggy, and zinnias hate wet feet). The fix: move all four pots under the wall overhang — rain off, wind blocked, warmth radiating from the wall — and raise each on a ~4 cm riser. The pots immediately dripped a puddle's worth of trapped water onto the paver: a receipt for how soggy they'd been. *(The risers? Spare plastic bits Michael had thrown in the bin — retrieved, for the zinnias, worth it.)* The cosmos stayed put; they genuinely don't care.
+
+![Zinnia seedling close-up — wrinkly, faintly crispy pale-lime new growth from the cold + wet stress](pictures/103-20260611-zinnia-cold-stress-new-growth-closeup.jpg)
+
+![Zinnia seedlings in the pot — cupped, crispy new growth at the centres, the cold-stress signature](pictures/104-20260611-zinnia-cold-stress-cupped-leaves.jpg)
+
+> An unplanned joke that turned into six plants and five pots — and a tired, cold, trash-diving rescue. Sometimes you have to trust the nagging feeling.
+
+---
+
+## June 13, 2026 — Potting Day, a Sweet Surprise, and a Balcony Full of Life (Session 25)
+
+*The sun comes out, the June 11 haul gets its homes, and a hibiscus named Jemima arrives*
+
+Two days later the sun was out and dry weather was ahead — potting day at last. First, a zinnia check-in: pressing stems, checking leaf undersides, looking for new growth. The verdict was a relief — stems firm and healthy, no rot, new growth already pushing at the centres. The puckered older leaves are just the memory of a cold, wet week. They're staying in the sheltered wall spot, which turns out to be a better long-term home anyway.
+
+Then the haul got their homes. **The dahlia trio** is complete — red and white each in their own railing pot beside the established pink. **The Zola Couple** (salmon & magenta zonals) share a full-sun pot, both already blooming. And **Bella Donna** — the two Angel pelargoniums — came out of their nursery pots under a cascade of hundreds of tiny bicolour flowers, light pink fading to deep magenta, and went into the woven pot in the part-shade pocket beside the Gorgeous Couple.
+
+![The pink patio Dahlia in full bloom on the railing — the anchor of the new dahlia trio](pictures/105-20260613-pink-dahlia-full-bloom-trio-anchor.jpg)
+
+![Bella Donna — the two Angel pelargoniums in the woven pot, a cascade of bicolour pink-to-magenta pansy-faced flowers](pictures/108-20260613-bella-donna-angel-pelargoniums-bicolour-cascade.jpg)
+
+![The part-shade pocket — Gorgeous Couple (Celosia + Coleus) and Bella Donna on their stands side by side](pictures/109-20260613-gorgeous-couple-and-bella-donna-part-shade-stands.jpg)
+
+Halfway through potting — elbow-deep in soil — Michael came home with a plant. He knew the week had been rough, and his solution was a **Hibiscus rosa-sinensis** wrapped in decorative paper, salmon-pink torpedo buds about to burst. He named her **Jemima.** She's gone into the spare wavy pot on the full-sun railing, and there she stays — hibiscus drop their buds when moved.
+
+![Jemima — the surprise Hibiscus rosa-sinensis, still in her gift wrap, salmon-pink buds about to open](pictures/106-20260613-jemima-hibiscus-gift-wrapped.jpg)
+
+![Jemima close-up — salmon-pink torpedo buds and glossy hibiscus foliage](pictures/107-20260613-jemima-hibiscus-salmon-buds-closeup.jpg)
+
+By the time everything was in place, the sun hit the balcony at that low, warm golden-hour angle — the full railing lineup, the stands, the gnomes pleased with themselves in the corner. It's a lot. It grew fast. And every bit of it is loved.
+
+![Golden-hour balcony view — the full railing lineup glowing against the Stuttgart rooftops, bins on risers along the terrace, gnomes in the corner](pictures/110-20260613-golden-hour-balcony-railing-lineup.jpg)
+
+> Some days are planned, some just happen — this one was both. Next up: watching the zinnias and cosmos fill out through the warm week ahead.
+
+---
+
+*Photos from April 14 – June 13, 2026 — Emma's Garden from first supplies through a full flowering balcony. Sessions 19 (May 4) and 20 (May 12) photo logs are pending upload.*

@@ -19,12 +19,15 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 |-------|------|-------------|--------|
 | Brodiaea Queen Fabiola | Bulbs (25-pack) | June - August | Both pots active — continue monitoring growth |
 | Babiana | Bulbs (15-pack) | Late spring - Summer | Post-emergence — continue monitoring growth |
-| Cosmos (Schmuckkörbchen) | Big 52L bins on printed risers | Summer - Fall | Romping ahead — branching hard from the pinch, kept lean (lean soil = more flowers) |
-| Zinnia (Field Mix) | 4× big bins on printed risers | Summer - Fall | Bushing out from the pinch — new lateral growth clean; old-leaf scorch is cosmetic, one-time |
-| 🌸 Dahlia (compact patio, pink) | Middle grey hanging pot | Summer | First blooms open (June 9), buds queued. On the July 23 feed plan |
+| Cosmos (Schmuckkörbchen) | Big 52L bins on printed risers | Summer - Fall | Romping ahead — branching hard from the pinch, kept lean (lean soil = more flowers); unbothered by the cold/wet |
+| Zinnia (Field Mix) | 4× bins under the wall overhang, raised | Summer - Fall | Recovering from cold (9–11°C nights) + wet stress — moved sheltered and raised to drain. New growth at centres; feed on hold until warm |
+| 🌸 Dahlia trio (pink + red + white) | 3× grey pots on the railing | Summer | Pink anchor in full bloom; red + white potted June 13, settling in. On the ~July 23 feed plan |
+| 🌺 Jemima — Hibiscus rosa-sinensis | Spare wavy pot, full-sun railing | Summer | Surprise gift (June 13) — salmon-pink buds opening. Stays put once settled (drops buds when moved) |
+| 🌼 Zola Couple — zonal geraniums (salmon + magenta) | Shared wavy pot, full-sun railing | Summer | Both blooming; heat/drought-tough, neglect-proof — the Verona-trip insurance |
+| 💗 Bella Donna — Angel pelargoniums (light pink + dark magenta) | Woven pot, part-shade pocket | Summer | Cascade of bicolour blooms; part-shade beside the Gorgeous Couple (Coleus is the litmus test) |
 | 🤍💙 Campanula (white + light blue) | Left grey hanging pot | Summer | One fused root — no division; hard-pinched after first flush, fed June 10 to drive rebound |
-| 💜 Campanula (purple pair) | Right grey hanging pot | Summer | Bold trailing colour. On the July 23 feed plan |
-| 🔥 Celosia + 🍃 Coleus (Gorgeous Couple) | Nursery pots → replacement pot | Summer | Awaiting new pot after the June 4 drilling crack; watered, Coleus kept evenly moist |
+| 💜 Campanula (purple pair) | Right grey hanging pot | Summer | Bold trailing colour. On the ~July 23 feed plan |
+| 🔥 Celosia + 🍃 Coleus (Gorgeous Couple) | Potted, on a stand (part-shade) | Summer | Settled on their stand; Coleus kept evenly moist. Angels now share the pocket. On the ~July 23 feed plan |
 | Lavandula angustifolia (Lovely) | Potted plant (Zone B) | June - August | Water only when soil reads dry; lean and infrequent |
 | Lavandula angustifolia 'Essence Purple' (Itchy + Scratchy) | 2 square grey pots (Zone B) | June - August | Water only when soil reads dry; lean and infrequent |
 | Sempervivum — Chicks (Pot 1) | Evergreen succulent (Zone B) | Year-round foliage | **3 mothers × 15–20 chicks** — colony multiplying as designed |
@@ -36,29 +39,27 @@ Emma is transforming a sunny Stuttgart balcony into a vibrant personal flower ga
 | 🍍 Phyllis — Mini Pineapple (Ananas nanus) | Bromeliad (The Nook) | Fruiting | **Fruit coloring up, pups healthy** — biweekly soil drink, no rosette cup pour, Michael's stake holding her straight |
 | Lavender (Duft-Lavendel, Munstead) | Seeds | Summer | Saved for next season |
 
-![The railing trio in place — Campanula pair, solo pink Dahlia, purple Campanula pair, Stuttgart rooftops behind](pictures/88-20260604-railing-trio-stuttgart-rooftops.jpg)
+![Golden-hour balcony view — the full railing lineup glowing against the Stuttgart rooftops, bins on risers along the terrace, gnomes in the corner](pictures/110-20260613-golden-hour-balcony-railing-lineup.jpg)
 
-## Latest Update — June 10, 2026 — Grey-Sky Full Tour & the Feed Ahead of the Rain
+## Latest Update — June 13, 2026 — Potting Day, a Sweet Surprise, and a Balcony Full of Life
 
-> A cool, overcast Wednesday turned into a full plant-by-plant tour of the whole crew, with the Thursday feed **brought forward a day** to get ahead of the coming rain. The **zinnia pinch is paying off** — fresh lateral growth from every leaf node, while the old-leaf scorch turned out to be a finished, one-time event (indoor-grown leaves with thin cuticles meeting real sun), not a disease — leave it. The **cosmos** are romping on their new risers, kept lean. **Pinky & Gilly's** "empty" flowers were re-diagnosed as rain batter plus a bloom-lag from the earlier heat spell, not this week's cool weather — deadhead and keep them in the sun. The **Sempervivum** troughs are flowering, **Lovely** is in full purple while the first-year lavenders build, and the feed (half-strength Compo BIO, onto damp soil with a 24-hour head start before the rain) went to the Dianthus, cosmos, zinnias, and the post-pinch white/blue Campanula. Plus a clever upgrade: Michael's **3D-printed honeycomb risers** to elevate the bins in style.
+> A joke about walking past OBI on June 11 turned into **six new plants and five pots** — two dwarf dahlias (red & white) to complete a railing **dahlia trio**, two neglect-proof **zonal geraniums** (the "Zola Couple"), and two pansy-faced **Angel pelargoniums** ("Bella Donna") for the part-shade pocket. That night also brought a **zinnia rescue**: their wrinkly, pale new growth was re-diagnosed as **cold (9–11 °C June nights) plus waterlogging**, not sun — so the four pots moved under the wall overhang and got raised ~4 cm to drain (the puddle that poured out was the receipt). By **June 13** the sun was back and everything got potted: the dahlia trio on the railing, the Zola Couple sharing a full-sun pot, Bella Donna flowering its heart out in part-shade — and a surprise gift from Michael, a **Hibiscus rosa-sinensis named Jemima**, salmon-pink buds about to open, on the full-sun railing. The zinnias checked out healthy (firm stems, new growth at the centres); the puckered old leaves are just cosmetic. Golden hour over a balcony that's grown fast and is loved every bit.
 
 > **Content is user-generated and unverified.**
 
-The railing finally has its summer colours — and by June 9 the Dahlia in the middle pot had opened her first pink blooms:
+The dahlia trio's pink anchor in full bloom, and Bella Donna — the Angel pelargoniums — under a cascade of bicolour flowers:
 
-![Dahlia in the middle hanging pot — first pink blooms open, buds queued, rooftops behind](pictures/89-20260609-dahlia-middle-pot-first-blooms.jpg)
+![The pink patio Dahlia in full bloom on the railing — the anchor of the new dahlia trio](pictures/105-20260613-pink-dahlia-full-bloom-trio-anchor.jpg)
 
-The group shot of the day — three lavender troughs on stands with the two Sempervivum trays anchoring the front, Lovely in full purple bloom while the first-year pair build for next year:
+![Bella Donna — the two Angel pelargoniums in the woven pot, a cascade of bicolour pink-to-magenta pansy-faced flowers](pictures/108-20260613-bella-donna-angel-pelargoniums-bicolour-cascade.jpg)
 
-![Group shot — three lavender troughs on stands with the two Sempervivum trays anchoring the front, Lovely in full bloom](pictures/99-20260610-lavender-trio-group-shot-sempervivum-trays.jpg)
+Jemima the surprise hibiscus, and the cold-stressed zinnia growth that prompted the June 11 rescue:
 
-The cosmos romping on their printed risers, and Pinky & Gilly full of bloom on the railing:
+![Jemima — the surprise Hibiscus rosa-sinensis, salmon-pink torpedo buds and glossy foliage](pictures/107-20260613-jemima-hibiscus-salmon-buds-closeup.jpg)
 
-![Cosmos bins on their printed risers — lateral shoots filling out from the pinch](pictures/93-20260610-cosmos-pots-on-risers-lateral-shoots.jpg)
+![Zinnia seedling close-up — wrinkly, crispy pale-lime new growth from the cold + wet stress](pictures/103-20260611-zinnia-cold-stress-new-growth-closeup.jpg)
 
-![Pinky & Gilly in full bloom on the railing saddle planter — dense pink and pale doubles](pictures/96-20260610-dianthus-full-bloom-railing.jpg)
-
-*(Earlier in the week: the June 2 OBI haul and the June 4 potting day — see the [Photo Gallery](GALLERY) for the full story, storm and fused root included.)*
+*(Earlier sessions: the June 2 storm/haul, the June 4 fused-root potting day, and the June 10 grey-sky tour — see the [Photo Gallery](GALLERY) for the full story.)*
 
 ## Project Pages
 
@@ -71,10 +72,10 @@ The cosmos romping on their printed risers, and Pinky & Gilly full of bloom on t
 ## Quick Facts
 
 - **Balcony:** Full sun — perfect for all chosen plants
-- **Key date:** New plants' first feed July 23 (after the Compo Sana 7-week buffer)
+- **Key dates:** Verona trip July 2–6 (watering spikes set); new plants' first feed ~July 23 (after the Compo Sana buffer)
 - **Philosophy:** More pots = more flowers!
 
 ---
 
 *Emma's Balcony — Stuttgart 2026 — First-time Gardener*
-*Last updated: June 10, 2026*
+*Last updated: June 13, 2026*

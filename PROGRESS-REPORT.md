@@ -122,6 +122,15 @@ permalink: /PROGRESS-REPORT
 | June 10, 2026 | Sun-lovers rule set — lavender + Dianthus stay in the sun, pulled back only for genuine extremes | Done (decision) |
 | June 10, 2026 | 3D-printed honeycomb risers — demo passed 2-day outdoor load test; plan for 8 matching (4 cosmos, 4 zinnia), UV-stable PETG/ASA | In Progress |
 | June 10, 2026 | Goldy + Frosty light tip-pinch (yesterday) for branching; white/blue Campanula hard-pinched after first flush | Done |
+| June 11, 2026 | "Joke route" OBI haul — 2 dwarf dahlias (red & white), 2 zonal geraniums (salmon & magenta), 2 Angel pelargoniums (Bella Donna) | Done |
+| June 11, 2026 | TEDi pots — 4× grey wavy 37×28cm (€4) + 1× woven 25×23cm (€3); moulded drainage, no drilling | Done |
+| June 11, 2026 | Zinnia stress re-diagnosed — cold (9–11°C nights) + waterlogging, not sun; moved under the wall overhang and raised ~4cm on risers | Done (diagnosis) |
+| June 11, 2026 | Zinnia feed paused while cold-stressed; new six resting in nursery pots under cover until a dry day | Done (decision) |
+| June 13, 2026 | Potting day — dahlia trio completed (red + white join pink), Zola Couple (zonals) shared pot, Bella Donna (Angels) in part-shade | Done (milestone) |
+| June 13, 2026 | Zinnia check-in — stems firm, no rot, new growth at centres; puckering cosmetic, staying in the wall spot long-term | Done |
+| June 13, 2026 | Jemima — surprise Hibiscus rosa-sinensis gift from Michael, salmon-pink buds, into the spare wavy pot on the full-sun railing | Done |
+| July 2–6, 2026 | Verona trip — watering spikes cover the crew, weighted toward dahlias + campanula | Upcoming |
+| ~July 23, 2026 | First feed for the new arrivals (dahlias, zonals, Angels) + Dahlia + Campanula + Celosia + Coleus, after Compo Sana buffer | Upcoming |
 | June 2026 | First brodiaea blooms expected | Upcoming |
 | June–July 2026 | First cosmos and zinnia blooms | Upcoming |
 | July–August 2026 | Plan fall/winter sowing | Upcoming |
@@ -1991,6 +2000,92 @@ With rain forecast for Thursday into Friday, the feed was pulled forward to toda
 
 ---
 
+### Session 24 — June 11, 2026 — "The Joke Route to OBI — and a Late-Night Zinnia Rescue"
+
+**Stuttgart · an unplanned haul · a cold-and-rain rescue mission**
+
+---
+
+Today wasn't supposed to happen. After a cold, grey, mostly-indoors week, the morning walk passed the street that leads to OBI — pointed at half-joking, and Michael just said *"yes, let's go."* Walked in for nothing, walked out with **six plants and five pots**.
+
+#### The Haul
+
+- **Two dwarf dahlias — red & white.** These join the patio Dahlia, so the railing now has a proper little **dahlia trio** (red, white, pink). The white one is leafier and only just opening, but it's loaded with buds — it'll catch up fast.
+- **Two zonal geraniums (Pelargonium zonale) — salmon & magenta.** The classic German balcony icon, with the faint dark "horseshoe" zone on the leaves. Heat- and drought-tough, bloom non-stop, and — crucially for the Verona trip — the most neglect-proof thing on the bench. The salmon sits beautifully with the existing pinks.
+- **Two Angel pelargoniums ("Bella Donna Angel Aroma," P. grandiflorum type) — light pink & dark magenta.** Dainty, pansy-faced, lightly scented cousins of the zonals. The tag's sun icon is half-shaded — Angels scorch in the full Stuttgart afternoon blast, unlike the zonals. The responsible call was to walk away (done, felt very mature), then buy two anyway once it clicked that they could share a **part-shade pocket** beside the Gorgeous Couple (Celosia + Coleus). The Coleus is the litmus test — wherever it stays lush and un-scorched, the Angels will be content too. 🤣
+
+![Zonal geraniums at OBI — salmon and red display, the dark horseshoe leaf zones visible](pictures/100-20260611-obi-zonal-geraniums-salmon-red-display.jpg)
+
+![The two dwarf dahlias on the bench — red in full bloom, white leafier and just opening with a heavy bud load](pictures/101-20260611-obi-dwarf-dahlias-red-white.jpg)
+
+![The final cart — all six new arrivals: two dahlias, two zonal geraniums, two pansy-faced Angel pelargoniums](pictures/102-20260611-obi-final-cart-all-six-new-plants.jpg)
+
+#### The Pots (TEDi to the rescue)
+
+OBI's pot wall was picked over, so pots came from TEDi: **4× grey wavy-rim pots** (37×28 cm, €4, polypropylene — that 28 cm depth is perfect for the dahlias' tuberous roots) and **1× grey woven/rattan-effect pot** (25×23 cm, €3, on-theme with the Gorgeous Couple's pot). Final allocation: each dahlia solo (they hate crowding), the two zonals sharing a wavy pot (~18 cm each), the two Angels sharing the woven pot (one part-shade spot for the pair), with one wavy pot spare. Everything has drainage moulded in — no drilling, no cracked-pot heartbreak this time. Potting itself is on hold; it started raining biblically, so the whole crew rests in nursery pots under cover until a dry day.
+
+#### The Zinnia Rescue
+
+The real story of the evening. The seedlings had been nagging all day — new growth wrinkly and faintly crispy, brown edges on the older leaves. First thought was sun, but it's been cloudy and rainy all week, so that didn't fit. The actual culprits, in order:
+
+1. **Cold.** Nights down to 9–11 °C — blanket-and-layers cold, in June. Zinnias are warm-season plants; below ~10 °C they sulk, cup, and push pale lime new growth because cold roots can't take up nutrients well. So the washed-out look wasn't the feed failing — it was the cold throttling uptake.
+2. **Waterlogging.** Days of heavy rain left the soil cold and soggy, and zinnias hate wet feet.
+3. **Not the sun** — and the old-leaf edge browning is mostly cosmetic, likely a touch of fertilizer salt concentrated at the margins after the recent feed.
+
+The fix: moved the four zinnia pots to a sheltered, warmer spot under the wall overhang — rain off, wind blocked, a little warmth radiating from the wall. The cosmos got left exactly where they are; they genuinely don't care. Then a small mystery — once moved, the *pots* were dripping (not the leaves). In the old spot they'd been sitting flush on rain-soaked ground, drainage holes effectively in a puddle, soil staying waterlogged. Slipping a plastic riser under each pot (~4 cm up) finally let all the trapped water pour out — the puddle on the paver was basically a receipt for how soggy they'd been. *(Full disclosure: those risers were spare plastic bits Michael had thrown in the bin. "I trashed them," he said — so I went in after them. For the zinnias. Worth it.)*
+
+![Zinnia seedling close-up — wrinkly, faintly crispy pale-lime new growth from the cold + wet stress](pictures/103-20260611-zinnia-cold-stress-new-growth-closeup.jpg)
+
+![Zinnia seedlings in the pot — cupped, crispy new growth at the centres, the cold-stress signature](pictures/104-20260611-zinnia-cold-stress-cupped-leaves.jpg)
+
+> An unplanned joke that turned into six plants and five pots, a self-discipline streak that lasted about ninety seconds, and a tired, cold, trash-diving rescue. Sometimes you have to trust the nagging feeling — the zinnias really did need me tonight.
+
+---
+
+### Session 25 — June 13, 2026 — "Potting Day, a Sweet Surprise, and a Balcony Full of Life"
+
+**Stuttgart · sun out at last · the June 11 haul gets its homes**
+
+---
+
+Some gardening days are planned. Some just happen. Today was both.
+
+#### Zinnia Check-In
+
+First proper check since the wall-overhang move: pressed the stems at the base, checked leaf undersides, looked for new growth at the centres. The verdict — **they're absolutely fine.** Stems firm and healthy, no rot, no edema. The puckering and wrinkling on some older leaves is just cosmetic, the memory of a cold, wet week the plants are growing past. New growth is already visible at the centres; with a warm, sunny week ahead they should green up nicely. Feed stays on hold until they've fully settled. They're staying in the wall spot for now — the sheltered position (wall behind, good sun, wind protection) turns out to be a better long-term home through this warm, breezy stretch anyway.
+
+#### The Big Potting Session
+
+With dry weather ahead, the June 11 haul finally got their proper homes — six plants, four wavy grey TEDi pots, one woven pot.
+
+- **The Dahlia Trio** — Red and White Dahlia now each have their own railing pot, joining the existing Pink Dahlia. Three of them together, once the new two settle and bloom.
+- **The Zola Couple** — the two zonal geraniums (salmon & magenta) share a railing pot in full sun, exactly where they want to be. Both already in bloom — the whole warm-colour spectrum covered.
+- **Bella Donna** — the two Angel pelargoniums went into the woven pot, part-shade beside the Gorgeous Couple. They came out of their nursery pots under a cascade of tiny bicolour flowers, light pink fading to deep magenta, hundreds of them. The showstopper of the day.
+
+![The pink patio Dahlia in full bloom on the railing — the anchor of the new dahlia trio](pictures/105-20260613-pink-dahlia-full-bloom-trio-anchor.jpg)
+
+![Bella Donna — the two Angel pelargoniums in the woven pot, a cascade of bicolour pink-to-magenta pansy-faced flowers, part-shade beside the Gorgeous Couple](pictures/108-20260613-bella-donna-angel-pelargoniums-bicolour-cascade.jpg)
+
+![The part-shade pocket — Gorgeous Couple (Celosia + Coleus) and Bella Donna on their stands side by side, Coleus the litmus test for the spot](pictures/109-20260613-gorgeous-couple-and-bella-donna-part-shade-stands.jpg)
+
+#### The Surprise Guest
+
+Halfway through potting — elbow-deep in soil — Michael came home with a plant. He knew the week had been a rough one (unwell, missed the group hike), and decided the solution was a **Hibiscus rosa-sinensis** wrapped in decorative paper. He named her **Jemima.** Salmon-pink torpedo buds just about to open into big, showy flowers. She's gone into the spare wavy pot on the full-sun railing — and a note for future me: hibiscus drops buds when moved, so once she's settled, she stays.
+
+![Jemima — the surprise Hibiscus rosa-sinensis, still in her gift wrap, salmon-pink buds about to open](pictures/106-20260613-jemima-hibiscus-gift-wrapped.jpg)
+
+![Jemima close-up — salmon-pink torpedo buds and glossy hibiscus foliage](pictures/107-20260613-jemima-hibiscus-salmon-buds-closeup.jpg)
+
+#### The View at Golden Hour
+
+By the time everything was in place, the sun was hitting the balcony at that low, warm angle that makes everything glow — the full railing lineup of pots, the Gorgeous Couple and Bella Donna on their stands, the gnomes looking pleased with themselves in the corner. It's a lot. It grew fast. And every bit of it is loved.
+
+![Golden-hour balcony view — the full railing lineup glowing against the Stuttgart rooftops, bins on risers along the terrace, gnomes in the corner](pictures/110-20260613-golden-hour-balcony-railing-lineup.jpg)
+
+> Some days are planned, some just happen — this one was both. Next up: watching the zinnias and cosmos fill out through the warm week ahead. First feed for all the new arrivals is still late July; for now they just get to settle in and enjoy the sun.
+
+---
+
 ## What's Done So Far (Summary)
 
 ### Completed
@@ -2111,12 +2206,22 @@ With rain forecast for Thursday into Friday, the feed was pulled forward to toda
 - Sun-lovers rule set — lavender + Dianthus stay in the sun, pulled back only for genuine extremes (June 10)
 - Goldy + Frosty light tip-pinch for branching; white/blue Campanula hard-pinched after first flush (June 10)
 - 3D-printed honeycomb riser demo passed a two-day outdoor load test; recycled metal-core filament spools in use as the starter risers (June 10)
+- "Joke route" OBI haul — 2 dwarf dahlias (red & white), 2 zonal geraniums (salmon & magenta), 2 Angel pelargoniums (Bella Donna, part-shade) (June 11)
+- TEDi pots — 4× grey wavy 37×28cm (€4) + 1× woven 25×23cm (€3), moulded drainage, no drilling (June 11)
+- Zinnia stress re-diagnosed as cold (9–11°C nights) + waterlogging, not sun; moved under the wall overhang and raised ~4cm on improvised risers to drain (June 11)
+- Zinnia feed paused while cold-stressed; new six resting in nursery pots under cover until a dry day (June 11)
+- Potting day — dahlia trio completed (red + white join pink on the railing), Zola Couple (zonals) shared full-sun pot, Bella Donna (Angels) in part-shade woven pot (June 13)
+- Zinnia check-in — stems firm, no rot, new growth at centres; puckering cosmetic, staying in the wall spot long-term (June 13)
+- Jemima — surprise Hibiscus rosa-sinensis gift from Michael, into the spare wavy pot on the full-sun railing (stays put once settled — hibiscus drops buds when moved) (June 13)
 
 ### In Progress
-- **Cosmos + zinnias** established in the 52L bins on printed risers — branching from the pinch, kept lean; old-leaf scorch is cosmetic
+- **Cosmos** established in the 52L bins on printed risers — branching from the pinch, kept lean; unbothered by the cold/wet
+- **Zinnias (×4)** moved under the wall overhang and raised ~4cm to drain — recovering from cold + wet stress, new growth at centres, feed on hold; likely staying in the wall spot long-term
 - **Leftover zinnias (×2)** shaded among the cosmos — to be lifted and relocated to a sunnier spot
-- **Railing trio** settling — Dahlia (middle) filling its ~4cm gap, Campanulas left & right
-- **Celosia + Coleus (Gorgeous Couple)** in nursery pots awaiting the replacement pot after the June 4 crack; watered, Coleus kept evenly moist
+- **Dahlia trio** on the railing — pink anchor in full bloom, red + white settling in after the June 13 potting
+- **Zola Couple (zonal geraniums)** in a shared full-sun railing pot — both already blooming; the neglect-proof Verona-trip insurance
+- **Bella Donna (Angel pelargoniums)** in the part-shade woven pot beside the Gorgeous Couple — flowering hard; Coleus is the litmus test for the spot
+- **Jemima (Hibiscus)** settling into the spare wavy pot on the full-sun railing — leave her put once settled (drops buds when moved)
 - Dianthus feeding cycle: brought-forward June 10 half-strength feed done; deadhead the rain-spent/browned blooms to head off botrytis
 - White/blue Campanula — hard-pinched, fed June 10 to drive the rebound flush; now on the biweekly rhythm
 - 3D-printed honeycomb risers — demo passed 2-day outdoor load test; printing the full set of 8 (4 cosmos, 4 zinnia) in UV-stable PETG/ASA, watching UV/heat aging
@@ -2129,11 +2234,13 @@ With rain forecast for Thursday into Friday, the feed was pulled forward to toda
 - Frosty solid-green reversion shoot — optional snip to preserve variegation
 
 ### Not Yet Started
-- Repot the Gorgeous Couple (Celosia + Coleus) into the replacement pot after the June 4 drilling crack
+- Resume the zinnia feed once they're warm and growing happily again (cold + fertilizer = edge-burn)
 - Relocate the two leftover zinnias out from among the cosmos to a sunnier, airier spot
 - Deadhead the rain-spent Dianthus blooms (botrytis prevention) and rotate the lavender pots a quarter-turn
-- First feed for Dahlia + purple Campanula + Celosia + Coleus — July 23, after the Compo Sana 7-week buffer
-- Finish printing the full set of 8 honeycomb risers in UV-stable PETG/ASA (4 cosmos, 4 zinnia)
+- First feed for the new arrivals (dahlias, zonals, Angels) + Dahlia + Campanula + Celosia + Coleus — ~July 23, after the Compo Sana buffer
+- Verona trip July 2–6 — set the watering spikes (from the Scotland trip), weighted toward the thirsty dahlias + campanula
+- Name the new arrivals (still unnamed); overwinter the new six frost-free (none are winter-hardy)
+- Finish printing the full set of 8 honeycomb risers in UV-stable PETG/ASA (4 cosmos, 4 zinnia); swap the bin-rescue risers for the printed ones
 - Possible third tray sowing (~late May–early June)
 - Patio corner tree purchase — switched to a proper Baumschule (autumn / next spring with Michael); olive vs Meyer lemon decision still open
 - Repotting gift arrangement into individual pots
@@ -2245,6 +2352,17 @@ With rain forecast for Thursday into Friday, the feed was pulled forward to toda
 | June 10, 2026 | Dianthus close-up — spent blooms balled up, dropped petals on the soil (rain/lag effect) | ![dianthusspent](pictures/97-20260610-dianthus-spent-blooms-dropped-petals.jpg) |
 | June 10, 2026 | Dianthus detail — an "empty" flower showing the green calyx cup left after petals dropped | ![dianthuscalyx](pictures/98-20260610-dianthus-empty-calyx-closeup.jpg) |
 | June 10, 2026 | Group shot — three lavender troughs on stands (Lovely in bloom) with the two Sempervivum trays anchoring the front | ![lavendergroup](pictures/99-20260610-lavender-trio-group-shot-sempervivum-trays.jpg) |
+| June 11, 2026 | Zonal geraniums at OBI — salmon and red display, dark horseshoe leaf zones | ![obizonals](pictures/100-20260611-obi-zonal-geraniums-salmon-red-display.jpg) |
+| June 11, 2026 | The two dwarf dahlias on the bench — red in bloom, white leafier and bud-loaded | ![obidahlias](pictures/101-20260611-obi-dwarf-dahlias-red-white.jpg) |
+| June 11, 2026 | The final cart — all six new arrivals (2 dahlias, 2 zonals, 2 Angel pelargoniums) | ![obicart](pictures/102-20260611-obi-final-cart-all-six-new-plants.jpg) |
+| June 11, 2026 | Zinnia seedling close-up — wrinkly, crispy pale-lime new growth from the cold + wet stress | ![zinniacold1](pictures/103-20260611-zinnia-cold-stress-new-growth-closeup.jpg) |
+| June 11, 2026 | Zinnia seedlings in the pot — cupped, crispy new growth at the centres | ![zinniacold2](pictures/104-20260611-zinnia-cold-stress-cupped-leaves.jpg) |
+| June 13, 2026 | Pink patio Dahlia in full bloom on the railing — the anchor of the new dahlia trio | ![pinkdahlia](pictures/105-20260613-pink-dahlia-full-bloom-trio-anchor.jpg) |
+| June 13, 2026 | Jemima — the surprise Hibiscus rosa-sinensis, still gift-wrapped, salmon-pink buds | ![jemima1](pictures/106-20260613-jemima-hibiscus-gift-wrapped.jpg) |
+| June 13, 2026 | Jemima close-up — salmon-pink torpedo buds and glossy hibiscus foliage | ![jemima2](pictures/107-20260613-jemima-hibiscus-salmon-buds-closeup.jpg) |
+| June 13, 2026 | Bella Donna — the two Angel pelargoniums in the woven pot, bicolour pink-to-magenta cascade | ![belladonna](pictures/108-20260613-bella-donna-angel-pelargoniums-bicolour-cascade.jpg) |
+| June 13, 2026 | The part-shade pocket — Gorgeous Couple (Celosia + Coleus) and Bella Donna on their stands | ![partshade](pictures/109-20260613-gorgeous-couple-and-bella-donna-part-shade-stands.jpg) |
+| June 13, 2026 | Golden-hour balcony view — the full railing lineup glowing against the Stuttgart rooftops | ![goldenhour](pictures/110-20260613-golden-hour-balcony-railing-lineup.jpg) |
 
 > See the full story with descriptions in the [Photo Gallery](GALLERY)!
 
